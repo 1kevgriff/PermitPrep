@@ -205,11 +205,15 @@ const generalTotal = computed(() => content.generalQuestions.length)
 /* ---- Feature tiles ---- */
 .tiles {
   margin-top: 2px;
+  /* equal-height rows so all four tiles are the same size regardless of how
+     their descriptions wrap */
+  grid-auto-rows: 1fr;
 }
 .tile {
   display: flex;
   flex-direction: column;
   gap: 4px;
+  height: 100%;
   text-decoration: none;
   color: var(--ink);
   padding: 16px;
