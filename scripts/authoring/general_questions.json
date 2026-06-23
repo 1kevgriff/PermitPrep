@@ -1,0 +1,650 @@
+[
+  {
+    "topic": "traffic-signals",
+    "section": "signals-signs-and-pavement-markings",
+    "prompt": "What must you do at a steady red traffic light?",
+    "choices": ["Slow down and proceed if clear", "Come to a complete stop", "Stop only if other cars are present", "Yield to traffic on your left"],
+    "answerIndex": 1,
+    "explanation": "At a red light you must come to a complete stop at the stop line, or before the crosswalk or intersection if there is no stop line."
+  },
+  {
+    "topic": "traffic-signals",
+    "section": "signals-signs-and-pavement-markings",
+    "prompt": "A steady yellow traffic light means:",
+    "choices": ["Speed up to clear the intersection", "The light is about to turn red; stop if you can do so safely", "Stop and stay stopped", "Proceed with no caution"],
+    "answerIndex": 1,
+    "explanation": "A yellow light warns that the signal is about to change to red. Stop if you can do so safely; do not speed up to beat the light."
+  },
+  {
+    "topic": "traffic-signals",
+    "section": "signals-signs-and-pavement-markings",
+    "prompt": "When may you turn right on a red light in Virginia?",
+    "choices": ["Never", "After coming to a complete stop and yielding, unless a sign prohibits it", "Only if no sign is posted, without stopping", "Only between 9 a.m. and 5 p.m."],
+    "answerIndex": 1,
+    "explanation": "You may turn right on red after a complete stop and yielding to traffic and pedestrians, unless a 'No Turn on Red' sign is posted."
+  },
+  {
+    "topic": "traffic-signals",
+    "section": "signals-signs-and-pavement-markings",
+    "prompt": "A flashing red traffic signal means:",
+    "choices": ["Slow down and proceed", "Stop, then proceed when safe, as at a stop sign", "The signal is broken; ignore it", "Speed up"],
+    "answerIndex": 1,
+    "explanation": "A flashing red light means the same as a stop sign: come to a complete stop, then proceed when it is safe to do so."
+  },
+  {
+    "topic": "traffic-signals",
+    "section": "signals-signs-and-pavement-markings",
+    "prompt": "A flashing yellow traffic signal means:",
+    "choices": ["Stop completely", "Slow down and proceed with caution", "The road is closed", "Make a U-turn"],
+    "answerIndex": 1,
+    "explanation": "A flashing yellow light means slow down and proceed with caution."
+  },
+  {
+    "topic": "traffic-signals",
+    "section": "signals-signs-and-pavement-markings",
+    "prompt": "When traffic signals are completely dark because of a power outage, you should:",
+    "choices": ["Drive through without stopping", "Treat the intersection as an all-way stop", "Wait for the lights to come back on", "Always yield to the left"],
+    "answerIndex": 1,
+    "explanation": "When signals are not displaying any lights, you must stop and proceed as though the intersection were an all-way stop."
+  },
+  {
+    "topic": "traffic-signals",
+    "section": "signals-signs-and-pavement-markings",
+    "prompt": "A green arrow signal means:",
+    "choices": ["You may go in the direction of the arrow if the way is clear", "Stop and wait", "Yield to all traffic before turning", "Pedestrians have the right of way only"],
+    "answerIndex": 0,
+    "explanation": "A green arrow gives a protected movement: you may proceed in the direction of the arrow if the way is clear."
+  },
+  {
+    "topic": "traffic-signals",
+    "section": "signals-signs-and-pavement-markings",
+    "prompt": "You want to turn left at a green light with no green arrow. You must:",
+    "choices": ["Turn immediately, you have the right of way", "Yield to oncoming traffic and pedestrians, then turn when clear", "Stop and wait for a green arrow", "Honk and proceed"],
+    "answerIndex": 1,
+    "explanation": "On a solid green light, left-turning traffic must yield to oncoming vehicles and pedestrians before completing the turn."
+  },
+  {
+    "topic": "signs-and-markings",
+    "section": "signals-signs-and-pavement-markings",
+    "prompt": "An eight-sided (octagon) sign always means:",
+    "choices": ["Yield", "Stop", "Do not enter", "Warning"],
+    "answerIndex": 1,
+    "explanation": "The octagon shape is reserved exclusively for stop signs and always means come to a complete stop."
+  },
+  {
+    "topic": "signs-and-markings",
+    "section": "signals-signs-and-pavement-markings",
+    "prompt": "A red circle with a slash through a symbol means:",
+    "choices": ["The action shown is required", "NO — the action shown is prohibited", "Caution", "End of restriction"],
+    "answerIndex": 1,
+    "explanation": "A red circle with a slash means NO: the symbol shows an action that is not allowed."
+  },
+  {
+    "topic": "signs-and-markings",
+    "section": "signals-signs-and-pavement-markings",
+    "prompt": "A yellow, diamond-shaped sign is used to:",
+    "choices": ["Give a regulation you must obey", "Warn of conditions or hazards ahead", "Mark a freeway exit", "Show a route number"],
+    "answerIndex": 1,
+    "explanation": "Diamond-shaped warning signs alert you to special conditions or hazards ahead — slow down and be ready to react."
+  },
+  {
+    "topic": "signs-and-markings",
+    "section": "signals-signs-and-pavement-markings",
+    "prompt": "Broken yellow center lines on a two-lane road mean:",
+    "choices": ["Passing is never allowed", "Passing on the left is allowed in either direction when clear", "The road is one way", "You must change lanes"],
+    "answerIndex": 1,
+    "explanation": "Yellow lines separate opposing traffic. A broken yellow center line means passing on the left is allowed in either direction when the way ahead is clear."
+  },
+  {
+    "topic": "signs-and-markings",
+    "section": "signals-signs-and-pavement-markings",
+    "prompt": "A solid yellow line next to a broken yellow line means:",
+    "choices": ["Both directions may pass", "Passing is allowed only from the broken-line side", "Neither direction may pass", "The lane is closed"],
+    "answerIndex": 1,
+    "explanation": "Passing is allowed from the side of the broken line, but not from the side of the solid yellow line."
+  },
+  {
+    "topic": "signs-and-markings",
+    "section": "signals-signs-and-pavement-markings",
+    "prompt": "White lines on the road separate:",
+    "choices": ["Traffic moving in opposite directions", "Lanes of traffic moving in the same direction", "Parking spaces only", "Bike lanes only"],
+    "answerIndex": 1,
+    "explanation": "Broken white lines separate lanes of traffic traveling in the same direction; you may change lanes with caution."
+  },
+  {
+    "topic": "signs-and-markings",
+    "section": "signals-signs-and-pavement-markings",
+    "prompt": "A five-sided (pentagon) sign indicates:",
+    "choices": ["A hospital", "A school zone or school crossing", "A railroad crossing", "A no-passing zone"],
+    "answerIndex": 1,
+    "explanation": "The pentagon shape marks school zones and warns of school crossings."
+  },
+  {
+    "topic": "signs-and-markings",
+    "section": "signals-signs-and-pavement-markings",
+    "prompt": "A round (circular) sign is most often used for:",
+    "choices": ["A railroad crossing warning", "A stop sign", "A speed limit sign", "A construction zone"],
+    "answerIndex": 0,
+    "explanation": "The round shape is used for railroad advance-warning signs."
+  },
+  {
+    "topic": "right-of-way",
+    "section": "safe-driving",
+    "prompt": "At a four-way stop where two vehicles arrive at the same time, who goes first?",
+    "choices": ["The vehicle on the left", "The vehicle on the right", "The larger vehicle", "Whoever honks first"],
+    "answerIndex": 1,
+    "explanation": "When two vehicles reach an intersection at the same time, the driver on the left must yield to the driver on the right."
+  },
+  {
+    "topic": "right-of-way",
+    "section": "safe-driving",
+    "prompt": "When approaching a roundabout, you must:",
+    "choices": ["Stop before entering, always", "Yield to traffic already in the roundabout and enter when there is a gap", "Speed up to merge", "Come to a stop in the circle to let others in"],
+    "answerIndex": 1,
+    "explanation": "Traffic in a roundabout has the right of way. Yield to vehicles already circulating and enter when there is a safe gap."
+  },
+  {
+    "topic": "right-of-way",
+    "section": "safe-driving",
+    "prompt": "You must yield the right-of-way to:",
+    "choices": ["Only vehicles larger than yours", "Pedestrians in a crosswalk and emergency vehicles using lights/sirens", "No one if you have a green light", "Only cars already stopped"],
+    "answerIndex": 1,
+    "explanation": "You must yield to pedestrians in crosswalks and to emergency vehicles displaying flashing lights and/or sirens."
+  },
+  {
+    "topic": "right-of-way",
+    "section": "safe-driving",
+    "prompt": "When you approach an emergency vehicle stopped on the roadside with lights flashing, Virginia law says you should:",
+    "choices": ["Maintain your speed", "Move over to another lane, or slow down if you cannot move over", "Stop in your lane", "Speed up to pass quickly"],
+    "answerIndex": 1,
+    "explanation": "Move over to a non-adjacent lane if you can. If you cannot, slow down to a safe speed (10 mph below the posted limit) and pass with caution."
+  },
+  {
+    "topic": "right-of-way",
+    "section": "safe-driving",
+    "prompt": "A driver entering a road from a driveway or private road must:",
+    "choices": ["Yield to vehicles already on the road", "Has the right of way", "Stop all traffic on the road", "Honk and merge"],
+    "answerIndex": 0,
+    "explanation": "Vehicles entering or crossing a roadway from a driveway or private road must yield to traffic already on the road."
+  },
+  {
+    "topic": "right-of-way",
+    "section": "safe-driving",
+    "prompt": "At an intersection with a yield sign, you should:",
+    "choices": ["Always come to a full stop", "Slow down, be ready to stop, and give the right-of-way to traffic and pedestrians", "Proceed without slowing", "Turn right only"],
+    "answerIndex": 1,
+    "explanation": "A yield sign means slow down, be prepared to stop, and let cross traffic and pedestrians go before you proceed."
+  },
+  {
+    "topic": "speed-and-stopping",
+    "section": "safe-driving",
+    "prompt": "Unless otherwise posted, the speed limit in a Virginia school, business, or residential area is:",
+    "choices": ["15 MPH", "25 MPH", "35 MPH", "45 MPH"],
+    "answerIndex": 1,
+    "explanation": "Unless a sign states otherwise, the maximum speed for passenger vehicles in school, business and residential areas is 25 MPH."
+  },
+  {
+    "topic": "speed-and-stopping",
+    "section": "safe-driving",
+    "prompt": "Unless otherwise posted, the maximum speed limit on most other (non-residential, paved) Virginia roads is:",
+    "choices": ["35 MPH", "45 MPH", "55 MPH", "70 MPH"],
+    "answerIndex": 2,
+    "explanation": "Unless otherwise posted, the maximum speed limit is 55 MPH for all roads other than residential/business/school areas (25) and unpaved roads (35)."
+  },
+  {
+    "topic": "speed-and-stopping",
+    "section": "safe-driving",
+    "prompt": "You can be charged with reckless driving in Virginia if you drive:",
+    "choices": ["5 MPH over the limit", "10 MPH over the limit", "20 or more MPH above the limit, or over 85 MPH", "Only if you cause a crash"],
+    "answerIndex": 2,
+    "explanation": "Driving 20 or more MPH above the speed limit, or faster than 85 MPH, can bring a reckless driving charge regardless of the posted limit."
+  },
+  {
+    "topic": "speed-and-stopping",
+    "section": "safe-driving",
+    "prompt": "A 'speed limit' is best described as:",
+    "choices": ["The slowest you may legally drive", "The maximum legal speed under ideal conditions", "The speed you must drive at all times", "A suggestion only"],
+    "answerIndex": 1,
+    "explanation": "A speed limit is the maximum legal speed under ideal conditions. You may drive slower, and you must drive slower when conditions are poor."
+  },
+  {
+    "topic": "speed-and-stopping",
+    "section": "safe-driving",
+    "prompt": "The safe following distance for speeds under 35 MPH is at least:",
+    "choices": ["1 second", "2 seconds", "5 seconds", "10 seconds"],
+    "answerIndex": 1,
+    "explanation": "Use a 2-second following distance under 35 MPH, 3 seconds at 35-45 MPH, and 4 seconds at 46-70 MPH."
+  },
+  {
+    "topic": "speed-and-stopping",
+    "section": "safe-driving",
+    "prompt": "On wet or slippery roads, you should increase your following distance because:",
+    "choices": ["Your engine runs hotter", "It takes longer to stop", "The speed limit increases", "Your headlights are brighter"],
+    "answerIndex": 1,
+    "explanation": "Wet, icy or slippery surfaces increase stopping distance, so you need a larger space cushion to stop safely."
+  },
+  {
+    "topic": "speed-and-stopping",
+    "section": "safe-driving",
+    "prompt": "The three factors that determine total stopping distance are:",
+    "choices": ["Tire size, fuel, and weather", "Perception time, reaction distance, and braking distance", "Speed, color, and engine size", "Mirrors, brakes, and horn"],
+    "answerIndex": 1,
+    "explanation": "Total stopping distance is the sum of perception time, reaction distance, and braking distance."
+  },
+  {
+    "topic": "speed-and-stopping",
+    "section": "safe-driving",
+    "prompt": "Using a radar detector in Virginia is:",
+    "choices": ["Legal everywhere", "Illegal", "Legal only on interstates", "Legal for new drivers"],
+    "answerIndex": 1,
+    "explanation": "It is illegal to use radar detectors in Virginia."
+  },
+  {
+    "topic": "passing-and-turning",
+    "section": "safe-driving",
+    "prompt": "Before changing lanes, you should:",
+    "choices": ["Rely only on your mirrors", "Signal, check mirrors, and check your blind spot over your shoulder", "Speed up sharply", "Sound your horn"],
+    "answerIndex": 1,
+    "explanation": "Signal your intention, check your mirrors, and glance over your shoulder to check the blind spot before changing lanes."
+  },
+  {
+    "topic": "passing-and-turning",
+    "section": "safe-driving",
+    "prompt": "When passing another vehicle, it is legal to:",
+    "choices": ["Exceed the speed limit to pass quickly", "Pass without signaling", "Complete the pass before a no-passing zone and without exceeding the speed limit", "Pass on a hill or curve"],
+    "answerIndex": 2,
+    "explanation": "You must not exceed the speed limit while passing, and you must complete the pass before reaching a no-passing zone."
+  },
+  {
+    "topic": "passing-and-turning",
+    "section": "safe-driving",
+    "prompt": "In Virginia, a U-turn is treated as:",
+    "choices": ["Always legal", "Two left turns, and is illegal where a 'No Left Turn' sign is posted", "Always illegal", "A right turn"],
+    "answerIndex": 1,
+    "explanation": "U-turns are considered two left turns and are illegal where a No Left Turn sign is posted."
+  },
+  {
+    "topic": "passing-and-turning",
+    "section": "safe-driving",
+    "prompt": "To make a right turn, you should generally be in:",
+    "choices": ["The left lane", "The lane furthest to the right", "The center lane", "Any lane"],
+    "answerIndex": 1,
+    "explanation": "Position your vehicle in the lane furthest to the right before making a right turn."
+  },
+  {
+    "topic": "passing-and-turning",
+    "section": "safe-driving",
+    "prompt": "When should you signal before turning or changing lanes?",
+    "choices": ["After you start the maneuver", "Well in advance, to warn other drivers", "Only at night", "Only if other cars are near"],
+    "answerIndex": 1,
+    "explanation": "Signal in advance so other drivers and pedestrians know your intentions before you begin the maneuver."
+  },
+  {
+    "topic": "passing-and-turning",
+    "section": "safe-driving",
+    "prompt": "If your vehicle begins to skid, you should:",
+    "choices": ["Brake hard", "Steer in the direction you want the vehicle to go and ease off the gas", "Speed up", "Turn the wheel sharply the opposite way"],
+    "answerIndex": 1,
+    "explanation": "Ease off the accelerator and steer in the direction you want the front of the vehicle to go; avoid braking hard, which can worsen a skid."
+  },
+  {
+    "topic": "sharing-the-road",
+    "section": "safe-driving",
+    "prompt": "When you must stop for a stopped school bus with flashing red lights and an extended stop arm, you must remain stopped until:",
+    "choices": ["The bus driver waves", "All children are clear of the road and the bus moves again", "5 seconds have passed", "The lights turn yellow"],
+    "answerIndex": 1,
+    "explanation": "Stay stopped until all children are clear of the roadway and the bus begins to move again."
+  },
+  {
+    "topic": "sharing-the-road",
+    "section": "safe-driving",
+    "prompt": "On an undivided road, when a school bus stops with red lights flashing, which vehicles must stop?",
+    "choices": ["Only vehicles behind the bus", "Vehicles approaching from any direction", "Only vehicles in the same lane", "No one has to stop"],
+    "answerIndex": 1,
+    "explanation": "On an undivided roadway, vehicles approaching from any direction must stop for a stopped school bus with flashing red lights."
+  },
+  {
+    "topic": "sharing-the-road",
+    "section": "safe-driving",
+    "prompt": "When following a motorcycle, you should:",
+    "choices": ["Follow closely so it can see you", "Allow extra following distance", "Share the lane beside it", "Use your high beams"],
+    "answerIndex": 1,
+    "explanation": "Allow extra following distance behind a motorcycle, since motorcycles can stop quickly and are harder to see."
+  },
+  {
+    "topic": "sharing-the-road",
+    "section": "safe-driving",
+    "prompt": "Before turning, changing lanes, or opening your door, you should always check for:",
+    "choices": ["Only other cars", "Bicyclists and motorcyclists", "Nothing if you have a green light", "Only pedestrians"],
+    "answerIndex": 1,
+    "explanation": "Always check for bicyclists and motorcyclists — they are smaller and easy to miss — before pulling out, turning, changing lanes, or opening a door."
+  },
+  {
+    "topic": "sharing-the-road",
+    "section": "safe-driving",
+    "prompt": "Large trucks have big blind spots, so you should:",
+    "choices": ["Drive in their blind spots", "Avoid lingering beside or directly behind them", "Pass on the right only", "Tailgate to stay visible"],
+    "answerIndex": 1,
+    "explanation": "Trucks have large blind spots (No-Zones). Avoid lingering beside or right behind a truck; if you can't see the driver's mirrors, they can't see you."
+  },
+  {
+    "topic": "sharing-the-road",
+    "section": "safe-driving",
+    "prompt": "When you see a pedestrian with a white cane or guide dog at a crossing, you must:",
+    "choices": ["Honk to warn them", "Yield and let them cross safely", "Drive around quickly", "Proceed, they will wait"],
+    "answerIndex": 1,
+    "explanation": "Pedestrians using a white cane or guide dog have the right of way; yield and allow them to cross safely."
+  },
+  {
+    "topic": "visibility-and-lights",
+    "section": "safe-driving",
+    "prompt": "You must use your headlights:",
+    "choices": ["Only after midnight", "From sunset to sunrise and whenever you use your windshield wipers in bad weather", "Only on highways", "Only when other cars are present"],
+    "answerIndex": 1,
+    "explanation": "Use headlights from sunset to sunrise and any time conditions (rain, snow, fog) require your wipers or reduce visibility."
+  },
+  {
+    "topic": "visibility-and-lights",
+    "section": "safe-driving",
+    "prompt": "In heavy fog, you should use:",
+    "choices": ["High-beam headlights", "Low-beam headlights", "Parking lights only", "No lights"],
+    "answerIndex": 1,
+    "explanation": "Use low-beam headlights in fog. High beams reflect off the fog and glare back, reducing your visibility."
+  },
+  {
+    "topic": "visibility-and-lights",
+    "section": "safe-driving",
+    "prompt": "You should dim your high beams to low when an oncoming vehicle is within:",
+    "choices": ["100 feet", "500 feet", "Half a mile", "You never need to dim them"],
+    "answerIndex": 1,
+    "explanation": "Dim your high beams to low beams when within 500 feet of an oncoming vehicle, and when following another vehicle closely, to avoid blinding other drivers."
+  },
+  {
+    "topic": "visibility-and-lights",
+    "section": "safe-driving",
+    "prompt": "To reduce glare from the headlights of an oncoming vehicle at night, you should look:",
+    "choices": ["Directly at the headlights", "Toward the right edge of your lane", "At your dashboard", "Up at the sky"],
+    "answerIndex": 1,
+    "explanation": "Look toward the right edge of the road or your lane to avoid being blinded by oncoming headlights."
+  },
+  {
+    "topic": "visibility-and-lights",
+    "section": "safe-driving",
+    "prompt": "Properly adjusted side mirrors should let you:",
+    "choices": ["See your own back seat", "Barely see the sides of your own vehicle to reduce blind spots", "See only the sky", "See the back window only"],
+    "answerIndex": 1,
+    "explanation": "Adjust side mirrors so you can just barely see the sides of your vehicle; this widens your view and reduces blind spots."
+  },
+  {
+    "topic": "hazardous-conditions",
+    "section": "safe-driving",
+    "prompt": "If your vehicle starts to hydroplane on a wet road, you should:",
+    "choices": ["Brake hard immediately", "Ease off the gas and avoid sudden steering or braking", "Accelerate to regain control", "Turn sharply"],
+    "answerIndex": 1,
+    "explanation": "If you hydroplane, ease off the accelerator and keep the steering steady; sudden braking or steering can cause a skid."
+  },
+  {
+    "topic": "hazardous-conditions",
+    "section": "safe-driving",
+    "prompt": "When driving in rain, snow, or ice, you should:",
+    "choices": ["Drive at the posted limit regardless", "Reduce your speed and increase following distance", "Use cruise control", "Follow closely to see better"],
+    "answerIndex": 1,
+    "explanation": "In poor conditions, slow down below the posted limit if needed and increase your following distance to allow for longer stopping."
+  },
+  {
+    "topic": "hazardous-conditions",
+    "section": "safe-driving",
+    "prompt": "If you see a deer crossing sign and it is dusk, you should:",
+    "choices": ["Speed up to pass the area quickly", "Slow down and stay alert, especially at dawn and dusk", "Use high beams in traffic", "Ignore it unless you see a deer"],
+    "answerIndex": 1,
+    "explanation": "Deer are most active at dawn and dusk. Slow down, stay alert, and be ready to stop where deer crossing signs are posted."
+  },
+  {
+    "topic": "hazardous-conditions",
+    "section": "safe-driving",
+    "prompt": "If a deer or large animal is suddenly in your path and you cannot stop, you should:",
+    "choices": ["Swerve sharply into oncoming traffic", "Brake firmly and stay in your lane rather than swerving", "Speed up", "Close your eyes"],
+    "answerIndex": 1,
+    "explanation": "Brake firmly and try to stay in your lane. Swerving can cause a more serious crash with another vehicle or a fixed object."
+  },
+  {
+    "topic": "hazardous-conditions",
+    "section": "safe-driving",
+    "prompt": "If your vehicle's wheels drift off onto the road shoulder, you should:",
+    "choices": ["Brake hard and jerk the wheel back", "Ease off the gas, slow down, then steer back gently when it's safe", "Accelerate and steer back fast", "Stop immediately in the lane"],
+    "answerIndex": 1,
+    "explanation": "Don't overcorrect. Ease off the accelerator, slow down, and steer gently back onto the roadway when it is safe."
+  },
+  {
+    "topic": "hazardous-conditions",
+    "section": "safe-driving",
+    "prompt": "When driving in heavy rain, your tires can lose contact with the road. This is called:",
+    "choices": ["Oversteer", "Hydroplaning", "Fishtailing", "Drafting"],
+    "answerIndex": 1,
+    "explanation": "Hydroplaning happens when a layer of water gets between your tires and the road, causing a loss of traction."
+  },
+  {
+    "topic": "alcohol-drugs-and-distraction",
+    "section": "safe-driving",
+    "prompt": "For a driver age 21 or older, the blood alcohol concentration (BAC) at which they are considered to be driving under the influence is:",
+    "choices": [".02 percent", ".05 percent", ".08 percent", ".10 percent"],
+    "answerIndex": 2,
+    "explanation": "Drivers 21 and older are considered to be driving under the influence (DUI) at a BAC of .08 percent or higher."
+  },
+  {
+    "topic": "alcohol-drugs-and-distraction",
+    "section": "safe-driving",
+    "prompt": "Under Virginia's zero-tolerance law, a driver under age 21 can be charged with illegal alcohol consumption at a BAC of:",
+    "choices": ["At least .02 but less than .08 percent", "Exactly .08 percent only", ".10 percent or more", "Any amount over .15"],
+    "answerIndex": 0,
+    "explanation": "If you are under 21, a BAC of at least .02 but less than .08 can result in a conviction for illegal consumption of alcohol."
+  },
+  {
+    "topic": "alcohol-drugs-and-distraction",
+    "section": "safe-driving",
+    "prompt": "Drinking alcohol affects your driving by:",
+    "choices": ["Improving reaction time", "Impairing coordination, vision, and judgment", "Having no effect under .08", "Helping you focus"],
+    "answerIndex": 1,
+    "explanation": "Alcohol impairs your coordination, vision, and judgment — all critical to safe driving — even at low levels."
+  },
+  {
+    "topic": "alcohol-drugs-and-distraction",
+    "section": "safe-driving",
+    "prompt": "The only thing that will reliably sober up a person who has been drinking is:",
+    "choices": ["Coffee", "A cold shower", "Time", "Fresh air"],
+    "answerIndex": 2,
+    "explanation": "Only time allows your body to eliminate alcohol. Coffee, showers, and fresh air do not lower your BAC."
+  },
+  {
+    "topic": "alcohol-drugs-and-distraction",
+    "section": "safe-driving",
+    "prompt": "Texting or using a handheld phone while driving is dangerous because it causes:",
+    "choices": ["Only visual distraction", "Visual, manual, and mental distraction at once", "Better awareness", "No real distraction"],
+    "answerIndex": 1,
+    "explanation": "Texting takes your eyes off the road, your hands off the wheel, and your mind off driving — visual, manual, and cognitive distraction together."
+  },
+  {
+    "topic": "alcohol-drugs-and-distraction",
+    "section": "safe-driving",
+    "prompt": "If you become drowsy while driving, the safest action is to:",
+    "choices": ["Open the window and keep going", "Turn up the radio", "Stop and rest, or change drivers", "Drive faster to arrive sooner"],
+    "answerIndex": 2,
+    "explanation": "The only safe cure for drowsiness is to stop driving and rest or let someone else drive. Drowsy driving slows reactions like alcohol does."
+  },
+  {
+    "topic": "alcohol-drugs-and-distraction",
+    "section": "safe-driving",
+    "prompt": "Aggressive driving behaviors such as tailgating and weaving through traffic:",
+    "choices": ["Save significant time and are legal", "Increase the risk of a crash and can bring penalties", "Are fine if you are in a hurry", "Are only a problem at night"],
+    "answerIndex": 1,
+    "explanation": "Aggressive driving greatly raises crash risk and can result in reckless or aggressive driving charges and license suspension."
+  },
+  {
+    "topic": "alcohol-drugs-and-distraction",
+    "section": "penalties",
+    "prompt": "If you refuse a breath test or have a BAC of .08 or higher when charged with DUI, your license is automatically suspended for a first offense for:",
+    "choices": ["24 hours", "7 days", "30 days", "One year"],
+    "answerIndex": 1,
+    "explanation": "An administrative license suspension of 7 days applies to a first DUI offense when you refuse the breath test or register .08 or higher."
+  },
+  {
+    "topic": "crashes-and-stops",
+    "section": "safe-driving",
+    "prompt": "If you are involved in a crash, you must:",
+    "choices": ["Leave if no police are present", "Stop, help the injured, and exchange information", "Drive home and call later", "Move the cars and forget it"],
+    "answerIndex": 1,
+    "explanation": "You must stop at the scene, render aid to anyone injured, and exchange information. Leaving the scene is a serious offense."
+  },
+  {
+    "topic": "crashes-and-stops",
+    "section": "safe-driving",
+    "prompt": "When a law enforcement officer signals you to pull over, you should:",
+    "choices": ["Stop in the travel lane immediately", "Pull over to the right safely, stop, and keep your hands in view", "Speed up to find a police station", "Get out and walk to the officer"],
+    "answerIndex": 1,
+    "explanation": "Pull over safely to the right, stop, stay in the vehicle, and keep your hands in plain view, preferably on the wheel."
+  },
+  {
+    "topic": "crashes-and-stops",
+    "section": "safe-driving",
+    "prompt": "During a traffic stop, you should keep your seat belt fastened and:",
+    "choices": ["Exit the vehicle quickly", "Keep your hands in plain view and follow the officer's instructions", "Reach into the glove box right away", "Argue with the officer"],
+    "answerIndex": 1,
+    "explanation": "Stay buckled, keep your hands visible, and follow the officer's directions. Reach for documents only when asked."
+  },
+  {
+    "topic": "crashes-and-stops",
+    "section": "safe-driving",
+    "prompt": "If your vehicle stalls on railroad tracks and a train is coming, you should:",
+    "choices": ["Stay in the car and try to restart it", "Get everyone out and away from the tracks immediately", "Push the car yourself", "Wait for help in the car"],
+    "answerIndex": 1,
+    "explanation": "Get yourself and all passengers out and far away from the tracks at once; do not try to restart or move the vehicle."
+  },
+  {
+    "topic": "crashes-and-stops",
+    "section": "safe-driving",
+    "prompt": "If you approach a railroad crossing with a gate that is down and lights flashing, you must:",
+    "choices": ["Drive around the gate if no train is visible", "Stop and wait until the gate rises and lights stop", "Proceed slowly", "Honk and cross"],
+    "answerIndex": 1,
+    "explanation": "Never drive around a lowered gate. Stop and wait until the gates are fully raised and the lights stop flashing."
+  },
+  {
+    "topic": "seat-belts-and-child-safety",
+    "section": "seat-belts-airbags-and-child-safety-seats",
+    "prompt": "Under Virginia law, who must wear a safety belt?",
+    "choices": ["Only the driver", "Only front-seat occupants", "The driver and all passengers, front and rear", "Only children"],
+    "answerIndex": 2,
+    "explanation": "Virginia law requires the driver and all passengers, in both front and rear seats, to wear safety belts."
+  },
+  {
+    "topic": "seat-belts-and-child-safety",
+    "section": "seat-belts-airbags-and-child-safety-seats",
+    "prompt": "A driver transporting anyone younger than age 18 must:",
+    "choices": ["Only worry about front-seat children", "Ensure each is secured in a belt, booster, or child seat, wherever seated", "Let them choose whether to buckle", "Secure them only on highways"],
+    "answerIndex": 1,
+    "explanation": "A driver carrying anyone under 18 must make sure each is properly secured in a safety belt, booster, or child safety seat, no matter where they sit."
+  },
+  {
+    "topic": "seat-belts-and-child-safety",
+    "section": "seat-belts-airbags-and-child-safety-seats",
+    "prompt": "In Virginia, children under what age must be secured in a child safety seat or booster seat?",
+    "choices": ["Age 5", "Age 6", "Age 8", "Age 10"],
+    "answerIndex": 2,
+    "explanation": "All children under age 8 must be properly secured in an approved child safety seat or booster seat."
+  },
+  {
+    "topic": "seat-belts-and-child-safety",
+    "section": "seat-belts-airbags-and-child-safety-seats",
+    "prompt": "A rear-facing child safety seat should never be placed:",
+    "choices": ["In the back seat", "In front of an active passenger-side air bag", "In a sedan", "Behind the driver"],
+    "answerIndex": 1,
+    "explanation": "Never put a rear-facing child seat in front of an active passenger air bag; the deploying bag can seriously injure the child."
+  },
+  {
+    "topic": "seat-belts-and-child-safety",
+    "section": "seat-belts-airbags-and-child-safety-seats",
+    "prompt": "Children should ride rear-facing:",
+    "choices": ["Only until 6 months", "From birth to at least age 2, or as long as the seat allows", "Never", "Until age 8 always"],
+    "answerIndex": 1,
+    "explanation": "Children should ride rear-facing from birth to age 2, or as long as the safety-seat manufacturer allows."
+  },
+  {
+    "topic": "seat-belts-and-child-safety",
+    "section": "seat-belts-airbags-and-child-safety-seats",
+    "prompt": "The safest place to install a child safety seat is:",
+    "choices": ["The front passenger seat", "The center of the back seat", "The driver's seat", "The cargo area"],
+    "answerIndex": 1,
+    "explanation": "The center of the back seat is the safest position for a properly installed child safety seat."
+  },
+  {
+    "topic": "seat-belts-and-child-safety",
+    "section": "seat-belts-airbags-and-child-safety-seats",
+    "prompt": "Air bags work best when:",
+    "choices": ["Used instead of seat belts", "Used together with seat belts", "The seat is pushed all the way forward", "You sit very close to the wheel"],
+    "answerIndex": 1,
+    "explanation": "Air bags are designed to work with safety belts, not replace them. Always wear your belt and sit back from the wheel."
+  },
+  {
+    "topic": "seat-belts-and-child-safety",
+    "section": "seat-belts-airbags-and-child-safety-seats",
+    "prompt": "Transporting a child under age 16 in the open bed of a pickup truck in Virginia is:",
+    "choices": ["Legal on local roads", "Illegal", "Legal with a camper shell", "Legal if they wear a belt"],
+    "answerIndex": 1,
+    "explanation": "It is illegal to transport children under age 16 in the bed of a pickup truck, even with a camper shell."
+  },
+  {
+    "topic": "penalties-and-licensing",
+    "section": "license-types",
+    "prompt": "A Virginia learner's permit allows you to drive only when:",
+    "choices": ["You are alone after 6 months", "A licensed driver at least 21 (or qualifying relative 18-20) is in the front passenger seat", "It is daylight", "You are on local roads"],
+    "answerIndex": 1,
+    "explanation": "With a learner's permit you may drive only when a licensed driver age 21+ — or a qualifying relative who is 18-20 — is seated in the front passenger seat."
+  },
+  {
+    "topic": "penalties-and-licensing",
+    "section": "license-types",
+    "prompt": "Whenever you drive, Virginia law requires you to:",
+    "choices": ["Carry only your registration", "Carry a valid driver's license or learner's permit", "Memorize your license number", "Carry proof of insurance only"],
+    "answerIndex": 1,
+    "explanation": "You must carry a valid driver's license or learner's permit whenever you drive; misuse of either is illegal."
+  },
+  {
+    "topic": "penalties-and-licensing",
+    "section": "penalties",
+    "prompt": "DMV assigns demerit points to convictions of:",
+    "choices": ["3, 4, or 6 points depending on the offense", "1 point for everything", "10 points minimum", "No points for moving violations"],
+    "answerIndex": 0,
+    "explanation": "Convictions are assigned three, four, or six demerit points depending on the seriousness of the violation."
+  },
+  {
+    "topic": "penalties-and-licensing",
+    "section": "penalties",
+    "prompt": "For a driver under 18, a first conviction of a demerit-point violation results in:",
+    "choices": ["Immediate license revocation", "A required driver improvement clinic", "A $1,000 fine", "No consequence"],
+    "answerIndex": 1,
+    "explanation": "A first demerit-point (or safety belt/child restraint) conviction committed under age 18 requires completion of a driver improvement clinic."
+  },
+  {
+    "topic": "penalties-and-licensing",
+    "section": "penalties",
+    "prompt": "If your driver's license is suspended, it means your driving privilege is:",
+    "choices": ["Permanently cancelled", "Withdrawn temporarily and can be reinstated", "Unaffected", "Upgraded"],
+    "answerIndex": 1,
+    "explanation": "A suspension withdraws your driving privilege temporarily; you may reinstate it after the suspension period by meeting requirements and paying fees."
+  },
+  {
+    "topic": "penalties-and-licensing",
+    "section": "safe-driving",
+    "prompt": "If you fail the knowledge exam and are under age 18, you must wait before retaking it:",
+    "choices": ["1 day", "A full 15 days", "30 days", "You can retake it immediately"],
+    "answerIndex": 1,
+    "explanation": "By law, applicants under 18 who fail the knowledge exam must wait a full 15 days before retaking it."
+  },
+  {
+    "topic": "penalties-and-licensing",
+    "section": "penalties",
+    "prompt": "An adult driver who accumulates 12 demerit points in 12 months will be required to:",
+    "choices": ["Pay a $5,000 fine", "Complete a driver improvement clinic", "Surrender the vehicle", "Retake the road test"],
+    "answerIndex": 1,
+    "explanation": "Drivers 18 or older who accumulate 12 demerit points in 12 months (or 18 in 24 months) must complete a driver improvement clinic."
+  }
+]
