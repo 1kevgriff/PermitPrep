@@ -26,6 +26,8 @@ const router = createRouter({
     { path: '/practice/run', name: 'practice-run', component: () => import('@/views/PracticeView.vue') },
     { path: '/flashcards', name: 'flashcards', component: () => import('@/views/FlashcardsView.vue') },
     { path: '/review', name: 'review', component: () => import('@/views/ReviewMissedView.vue') },
+    // Hidden QA tool — browse every question in the bank. Not linked in the nav.
+    { path: '/debug', name: 'debug', component: () => import('@/views/DebugView.vue') },
     { path: '/:pathMatch(.*)*', name: 'not-found', component: () => import('@/views/NotFoundView.vue') },
   ],
 })
