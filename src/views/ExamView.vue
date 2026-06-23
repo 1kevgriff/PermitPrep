@@ -112,14 +112,30 @@ function finishExam(): void {
   router.push({ name: 'exam-result', params: { id: result.id } })
 }
 
+// In-app leave confirmation (replaces the blocking native confirm()).
+const hasAnswered = computed(() => Object.keys(exam.value?.answers ?? {}).length > 0)
+const leaveResolve = ref<((ok: boolean) => void) | null>(null)
+const showLeaveModal = computed(() => leaveResolve.value !== null)
+
+function resolveLeave(ok: boolean): void {
+  const resolve = leaveResolve.value
+  leaveResolve.value = null
+  if (ok) session.clearExam()
+  resolve?.(ok)
+}
+
 onBeforeRouteLeave((to) => {
   if (to.name === 'exam-result') return true
-  if (session.hasActiveExam && ui.value === 'quiz') {
-    return window.confirm('Leave the exam? Your progress on this attempt will be lost.')
-      ? (session.clearExam(), true)
-      : false
+  if (!session.hasActiveExam || ui.value !== 'quiz') return true
+  // Nothing answered yet — leave freely and drop the empty attempt.
+  if (!hasAnswered.value) {
+    session.clearExam()
+    return true
   }
-  return true
+  // Otherwise ask with a styled modal; the promise settles on the user's choice.
+  return new Promise<boolean>((resolve) => {
+    leaveResolve.value = resolve
+  })
 })
 </script>
 
@@ -165,6 +181,24 @@ onBeforeRouteLeave((to) => {
       </p>
     </template>
   </div>
+
+  <Teleport to="body">
+    <div
+      v-if="showLeaveModal"
+      class="leave-backdrop"
+      @click.self="resolveLeave(false)"
+      @keydown.esc="resolveLeave(false)"
+    >
+      <div class="leave-modal card" role="dialog" aria-modal="true" aria-labelledby="leave-title">
+        <h2 id="leave-title" class="leave-modal__title">Leave the exam?</h2>
+        <p class="muted">Your progress on this attempt won't be saved.</p>
+        <div class="leave-modal__actions">
+          <button class="btn btn--ghost" autofocus @click="resolveLeave(false)">Keep going</button>
+          <button class="btn btn--green" @click="resolveLeave(true)">Leave exam</button>
+        </div>
+      </div>
+    </div>
+  </Teleport>
 </template>
 
 <style scoped>
@@ -178,5 +212,51 @@ onBeforeRouteLeave((to) => {
 /* primary action gets more weight than Back */
 .exam-nav .btn:last-child {
   flex: 1.6;
+}
+
+.leave-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  display: grid;
+  place-items: center;
+  padding: 20px;
+  background: rgba(15, 27, 45, 0.55);
+  backdrop-filter: blur(2px);
+  animation: leave-fade 0.15s ease;
+}
+.leave-modal {
+  width: min(100%, 380px);
+  text-align: center;
+  animation: leave-pop 0.18s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+.leave-modal__title {
+  font-size: 1.3rem;
+  margin-bottom: 6px;
+}
+.leave-modal__actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 18px;
+}
+.leave-modal__actions .btn {
+  flex: 1;
+}
+@keyframes leave-fade {
+  from {
+    opacity: 0;
+  }
+}
+@keyframes leave-pop {
+  from {
+    opacity: 0;
+    transform: translateY(8px) scale(0.96);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .leave-backdrop,
+  .leave-modal {
+    animation: none;
+  }
 }
 </style>

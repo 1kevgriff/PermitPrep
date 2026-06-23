@@ -38,7 +38,13 @@ beforeEach(() => {
 })
 
 afterEach(async () => {
-  // Unmount so this App's route-leave guards don't fire during later tests.
+  // Drop any active exam so the leave-confirmation modal doesn't block teardown,
+  // then unmount so this App's route-leave guards don't fire during later tests.
+  try {
+    useSessionStore().clearExam()
+  } catch {
+    /* no active pinia — nothing to clear */
+  }
   await router.push('/')
   current?.unmount()
   current = null
@@ -99,6 +105,42 @@ describe('App (full render through the router)', () => {
     expect(progress.missedCount).toBe(0)
     expect(session.exam?.phase).toBe('result')
     expect(session.exam?.resultId).toBeTruthy()
+  })
+
+  it('shows the in-app leave modal mid-exam (no native confirm) and honors the choice', async () => {
+    const wrapper = await mountAppAt('/exam')
+    await wrapper.findAll('.choice')[0].trigger('click') // answer Q1 → progress to lose
+    await flushPromises()
+
+    // Attempt to leave: the guard holds navigation and renders the styled modal.
+    router.push('/')
+    await flushPromises()
+    expect(document.body.textContent).toContain('Leave the exam?')
+
+    const findBtn = (label: string) =>
+      [...document.body.querySelectorAll('button')].find((b) => b.textContent?.includes(label))
+
+    // "Keep going" cancels — we stay on the exam.
+    findBtn('Keep going')!.click()
+    await flushPromises()
+    expect(router.currentRoute.value.name).toBe('exam')
+    expect(useSessionStore().hasActiveExam).toBe(true)
+
+    // Try again and confirm — navigation proceeds and the attempt is dropped.
+    router.push('/')
+    await flushPromises()
+    findBtn('Leave exam')!.click()
+    await flushPromises()
+    expect(router.currentRoute.value.name).toBe('home')
+    expect(useSessionStore().hasActiveExam).toBe(false)
+  })
+
+  it('leaves an unanswered exam without prompting', async () => {
+    await mountAppAt('/exam') // fresh exam, nothing answered
+    await router.push('/')
+    await flushPromises()
+    expect(document.body.textContent).not.toContain('Leave the exam?')
+    expect(router.currentRoute.value.name).toBe('home')
   })
 
   it('restores an in-progress exam after a reload', async () => {
