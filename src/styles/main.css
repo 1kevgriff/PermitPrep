@@ -99,6 +99,11 @@ h1 {
 .card + .card {
   margin-top: 14px;
 }
+/* …but inside a grid the `gap` already spaces cards; the stacking margin would
+   push grid items down within their cells and break row alignment. */
+.grid > .card + .card {
+  margin-top: 0;
+}
 
 /* ---- Buttons ---- */
 .btn {
