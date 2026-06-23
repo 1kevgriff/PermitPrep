@@ -1,0 +1,35 @@
+{
+  "name": "virginia-dmv-exam",
+  "version": "1.0.0",
+  "description": "Virginia learner's permit practice exams and study guide (static SPA).",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "vue-tsc -b",
+    "lint": "eslint .",
+    "authoring": "scripts/authoring/.venv/bin/python scripts/authoring/build_all.py"
+  },
+  "dependencies": {
+    "pinia": "^3.0.1",
+    "vue": "^3.5.13",
+    "vue-router": "^4.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.0",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "@vue/eslint-config-typescript": "^14.1.4",
+    "@vue/test-utils": "^2.4.6",
+    "eslint": "^9.16.0",
+    "eslint-plugin-vue": "^9.32.0",
+    "happy-dom": "^15.11.7",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11",
+    "vitest": "^2.1.8",
+    "vue-tsc": "^2.1.10"
+  }
+}

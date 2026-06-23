@@ -2,4 +2,7 @@ node_modules/
 dist/
 .remember/
 scripts/authoring/.venv/
-scripts/authoring/_extracted/page-*.png
+scripts/authoring/_extracted/
+__pycache__/
+*.pyc
+*.tsbuildinfo
