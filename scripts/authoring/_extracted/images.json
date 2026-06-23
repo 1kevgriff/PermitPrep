@@ -1,0 +1,1714 @@
+[
+  {
+    "id": "sign-7-1",
+    "file": "images/signs/sign-7-1.png",
+    "kind": "sign",
+    "xref": 20,
+    "page": 7,
+    "printedPage": 5,
+    "bbox": [
+      516.6,
+      596.1,
+      572.2,
+      652.4
+    ],
+    "w": 55.6,
+    "h": 56.3
+  },
+  {
+    "id": "sign-7-2",
+    "file": "images/signs/sign-7-2.png",
+    "kind": "sign",
+    "xref": 22,
+    "page": 7,
+    "printedPage": 5,
+    "bbox": [
+      244.8,
+      614.1,
+      300.0,
+      670.4
+    ],
+    "w": 55.2,
+    "h": 56.3
+  },
+  {
+    "id": "sign-7-3",
+    "file": "images/signs/sign-7-3.png",
+    "kind": "sign",
+    "xref": 23,
+    "page": 7,
+    "printedPage": 5,
+    "bbox": [
+      522.0,
+      240.6,
+      577.6,
+      297.0
+    ],
+    "w": 55.6,
+    "h": 56.3
+  },
+  {
+    "id": "sign-7-4",
+    "file": "images/signs/sign-7-4.png",
+    "kind": "sign",
+    "xref": 24,
+    "page": 7,
+    "printedPage": 5,
+    "bbox": [
+      522.0,
+      358.7,
+      577.6,
+      415.0
+    ],
+    "w": 55.6,
+    "h": 56.3
+  },
+  {
+    "id": "sign-7-5",
+    "file": "images/signs/sign-7-5.png",
+    "kind": "sign",
+    "xref": 25,
+    "page": 7,
+    "printedPage": 5,
+    "bbox": [
+      463.3,
+      498.9,
+      518.9,
+      555.2
+    ],
+    "w": 55.6,
+    "h": 56.3
+  },
+  {
+    "id": "sign-7-6",
+    "file": "images/signs/sign-7-6.png",
+    "kind": "sign",
+    "xref": 26,
+    "page": 7,
+    "printedPage": 5,
+    "bbox": [
+      519.6,
+      498.4,
+      575.2,
+      554.7
+    ],
+    "w": 55.6,
+    "h": 56.3
+  },
+  {
+    "id": "sign-8-1",
+    "file": "images/signs/sign-8-1.png",
+    "kind": "sign",
+    "xref": 30,
+    "page": 8,
+    "printedPage": 6,
+    "bbox": [
+      521.7,
+      698.7,
+      576.4,
+      746.8
+    ],
+    "w": 54.7,
+    "h": 48.1
+  },
+  {
+    "id": "sign-8-2",
+    "file": "images/signs/sign-8-2.png",
+    "kind": "sign",
+    "xref": 31,
+    "page": 8,
+    "printedPage": 6,
+    "bbox": [
+      464.6,
+      698.6,
+      519.3,
+      746.7
+    ],
+    "w": 54.7,
+    "h": 48.1
+  },
+  {
+    "id": "sign-8-3",
+    "file": "images/signs/sign-8-3.png",
+    "kind": "sign",
+    "xref": 32,
+    "page": 8,
+    "printedPage": 6,
+    "bbox": [
+      182.7,
+      77.0,
+      238.4,
+      133.3
+    ],
+    "w": 55.6,
+    "h": 56.3
+  },
+  {
+    "id": "sign-8-4",
+    "file": "images/signs/sign-8-4.png",
+    "kind": "sign",
+    "xref": 33,
+    "page": 8,
+    "printedPage": 6,
+    "bbox": [
+      241.5,
+      77.0,
+      297.2,
+      133.3
+    ],
+    "w": 55.6,
+    "h": 56.3
+  },
+  {
+    "id": "sign-8-5",
+    "file": "images/signs/sign-8-5.png",
+    "kind": "sign",
+    "xref": 34,
+    "page": 8,
+    "printedPage": 6,
+    "bbox": [
+      241.8,
+      318.4,
+      297.0,
+      374.7
+    ],
+    "w": 55.2,
+    "h": 56.3
+  },
+  {
+    "id": "sign-8-6",
+    "file": "images/signs/sign-8-6.png",
+    "kind": "sign",
+    "xref": 35,
+    "page": 8,
+    "printedPage": 6,
+    "bbox": [
+      182.9,
+      379.2,
+      238.1,
+      434.6
+    ],
+    "w": 55.2,
+    "h": 55.3
+  },
+  {
+    "id": "sign-8-7",
+    "file": "images/signs/sign-8-7.png",
+    "kind": "sign",
+    "xref": 36,
+    "page": 8,
+    "printedPage": 6,
+    "bbox": [
+      240.7,
+      439.2,
+      296.3,
+      495.6
+    ],
+    "w": 55.6,
+    "h": 56.3
+  },
+  {
+    "id": "sign-8-8",
+    "file": "images/signs/sign-8-8.png",
+    "kind": "sign",
+    "xref": 37,
+    "page": 8,
+    "printedPage": 6,
+    "bbox": [
+      522.3,
+      541.5,
+      577.5,
+      597.3
+    ],
+    "w": 55.1,
+    "h": 55.8
+  },
+  {
+    "id": "sign-8-9",
+    "file": "images/signs/sign-8-9.png",
+    "kind": "sign",
+    "xref": 38,
+    "page": 8,
+    "printedPage": 6,
+    "bbox": [
+      462.0,
+      541.0,
+      517.2,
+      596.7
+    ],
+    "w": 55.2,
+    "h": 55.7
+  },
+  {
+    "id": "sign-8-10",
+    "file": "images/signs/sign-8-10.png",
+    "kind": "sign",
+    "xref": 39,
+    "page": 8,
+    "printedPage": 6,
+    "bbox": [
+      183.3,
+      507.4,
+      239.0,
+      563.7
+    ],
+    "w": 55.6,
+    "h": 56.3
+  },
+  {
+    "id": "sign-8-11",
+    "file": "images/signs/sign-8-11.png",
+    "kind": "sign",
+    "xref": 40,
+    "page": 8,
+    "printedPage": 6,
+    "bbox": [
+      240.9,
+      508.5,
+      296.6,
+      564.8
+    ],
+    "w": 55.6,
+    "h": 56.3
+  },
+  {
+    "id": "sign-8-12",
+    "file": "images/signs/sign-8-12.png",
+    "kind": "sign",
+    "xref": 41,
+    "page": 8,
+    "printedPage": 6,
+    "bbox": [
+      241.1,
+      378.2,
+      296.7,
+      434.5
+    ],
+    "w": 55.6,
+    "h": 56.3
+  },
+  {
+    "id": "sign-8-13",
+    "file": "images/signs/sign-8-13.png",
+    "kind": "sign",
+    "xref": 42,
+    "page": 8,
+    "printedPage": 6,
+    "bbox": [
+      194.3,
+      601.2,
+      295.1,
+      702.0
+    ],
+    "w": 100.8,
+    "h": 100.7
+  },
+  {
+    "id": "sign-9-1",
+    "file": "images/signs/sign-9-1.png",
+    "kind": "sign",
+    "xref": 47,
+    "page": 9,
+    "printedPage": 7,
+    "bbox": [
+      237.1,
+      191.1,
+      292.7,
+      262.5
+    ],
+    "w": 55.6,
+    "h": 71.4
+  },
+  {
+    "id": "sign-9-2",
+    "file": "images/signs/sign-9-2.png",
+    "kind": "sign",
+    "xref": 48,
+    "page": 9,
+    "printedPage": 7,
+    "bbox": [
+      175.4,
+      189.0,
+      240.3,
+      254.6
+    ],
+    "w": 64.8,
+    "h": 65.5
+  },
+  {
+    "id": "sign-9-3",
+    "file": "images/signs/sign-9-3.png",
+    "kind": "sign",
+    "xref": 49,
+    "page": 9,
+    "printedPage": 7,
+    "bbox": [
+      237.1,
+      110.2,
+      292.7,
+      164.1
+    ],
+    "w": 55.6,
+    "h": 53.9
+  },
+  {
+    "id": "sign-9-4",
+    "file": "images/signs/sign-9-4.png",
+    "kind": "sign",
+    "xref": 50,
+    "page": 9,
+    "printedPage": 7,
+    "bbox": [
+      239.4,
+      52.1,
+      295.0,
+      92.1
+    ],
+    "w": 55.6,
+    "h": 40.0
+  },
+  {
+    "id": "sign-9-5",
+    "file": "images/signs/sign-9-5.png",
+    "kind": "sign",
+    "xref": 51,
+    "page": 9,
+    "printedPage": 7,
+    "bbox": [
+      193.3,
+      48.5,
+      233.6,
+      94.8
+    ],
+    "w": 40.3,
+    "h": 46.2
+  },
+  {
+    "id": "sign-9-6",
+    "file": "images/signs/sign-9-6.png",
+    "kind": "sign",
+    "xref": 52,
+    "page": 9,
+    "printedPage": 7,
+    "bbox": [
+      237.1,
+      393.0,
+      292.7,
+      460.2
+    ],
+    "w": 55.6,
+    "h": 67.1
+  },
+  {
+    "id": "sign-9-7",
+    "file": "images/signs/sign-9-7.png",
+    "kind": "sign",
+    "xref": 53,
+    "page": 9,
+    "printedPage": 7,
+    "bbox": [
+      237.1,
+      288.4,
+      292.7,
+      344.2
+    ],
+    "w": 55.6,
+    "h": 55.8
+  },
+  {
+    "id": "sign-9-8",
+    "file": "images/signs/sign-9-8.png",
+    "kind": "sign",
+    "xref": 54,
+    "page": 9,
+    "printedPage": 7,
+    "bbox": [
+      237.1,
+      685.0,
+      292.7,
+      740.8
+    ],
+    "w": 55.6,
+    "h": 55.8
+  },
+  {
+    "id": "sign-9-9",
+    "file": "images/signs/sign-9-9.png",
+    "kind": "sign",
+    "xref": 55,
+    "page": 9,
+    "printedPage": 7,
+    "bbox": [
+      175.2,
+      523.0,
+      229.9,
+      562.4
+    ],
+    "w": 54.7,
+    "h": 39.4
+  },
+  {
+    "id": "sign-9-10",
+    "file": "images/signs/sign-9-10.png",
+    "kind": "sign",
+    "xref": 56,
+    "page": 9,
+    "printedPage": 7,
+    "bbox": [
+      237.1,
+      511.0,
+      290.9,
+      565.2
+    ],
+    "w": 53.8,
+    "h": 54.1
+  },
+  {
+    "id": "sign-9-11",
+    "file": "images/signs/sign-9-11.png",
+    "kind": "sign",
+    "xref": 57,
+    "page": 9,
+    "printedPage": 7,
+    "bbox": [
+      521.0,
+      40.2,
+      576.7,
+      96.1
+    ],
+    "w": 55.6,
+    "h": 55.8
+  },
+  {
+    "id": "sign-9-12",
+    "file": "images/signs/sign-9-12.png",
+    "kind": "sign",
+    "xref": 269,
+    "page": 9,
+    "printedPage": 7,
+    "bbox": [
+      520.7,
+      101.7,
+      576.3,
+      157.5
+    ],
+    "w": 55.6,
+    "h": 55.8
+  },
+  {
+    "id": "sign-9-13",
+    "file": "images/signs/sign-9-13.png",
+    "kind": "sign",
+    "xref": 271,
+    "page": 9,
+    "printedPage": 7,
+    "bbox": [
+      520.7,
+      164.6,
+      576.3,
+      232.6
+    ],
+    "w": 55.6,
+    "h": 68.1
+  },
+  {
+    "id": "sign-9-14",
+    "file": "images/signs/sign-9-14.png",
+    "kind": "sign",
+    "xref": 58,
+    "page": 9,
+    "printedPage": 7,
+    "bbox": [
+      237.1,
+      604.0,
+      289.9,
+      669.4
+    ],
+    "w": 52.8,
+    "h": 65.4
+  },
+  {
+    "id": "sign-9-15",
+    "file": "images/signs/sign-9-15.png",
+    "kind": "sign",
+    "xref": 59,
+    "page": 9,
+    "printedPage": 7,
+    "bbox": [
+      520.7,
+      240.2,
+      576.3,
+      308.2
+    ],
+    "w": 55.6,
+    "h": 68.1
+  },
+  {
+    "id": "sign-9-16",
+    "file": "images/signs/sign-9-16.png",
+    "kind": "sign",
+    "xref": 60,
+    "page": 9,
+    "printedPage": 7,
+    "bbox": [
+      520.7,
+      320.7,
+      576.3,
+      388.8
+    ],
+    "w": 55.6,
+    "h": 68.1
+  },
+  {
+    "id": "sign-9-17",
+    "file": "images/signs/sign-9-17.png",
+    "kind": "sign",
+    "xref": 61,
+    "page": 9,
+    "printedPage": 7,
+    "bbox": [
+      520.7,
+      409.4,
+      576.3,
+      477.4
+    ],
+    "w": 55.6,
+    "h": 68.1
+  },
+  {
+    "id": "sign-9-18",
+    "file": "images/signs/sign-9-18.png",
+    "kind": "sign",
+    "xref": 62,
+    "page": 9,
+    "printedPage": 7,
+    "bbox": [
+      459.9,
+      491.3,
+      515.6,
+      559.4
+    ],
+    "w": 55.6,
+    "h": 68.1
+  },
+  {
+    "id": "sign-9-19",
+    "file": "images/signs/sign-9-19.png",
+    "kind": "sign",
+    "xref": 63,
+    "page": 9,
+    "printedPage": 7,
+    "bbox": [
+      520.7,
+      491.3,
+      576.3,
+      559.4
+    ],
+    "w": 55.6,
+    "h": 68.1
+  },
+  {
+    "id": "sign-9-20",
+    "file": "images/signs/sign-9-20.png",
+    "kind": "sign",
+    "xref": 64,
+    "page": 9,
+    "printedPage": 7,
+    "bbox": [
+      520.7,
+      575.3,
+      576.3,
+      652.0
+    ],
+    "w": 55.6,
+    "h": 76.7
+  },
+  {
+    "id": "sign-9-21",
+    "file": "images/signs/sign-9-21.png",
+    "kind": "sign",
+    "xref": 65,
+    "page": 9,
+    "printedPage": 7,
+    "bbox": [
+      520.7,
+      670.6,
+      576.3,
+      751.4
+    ],
+    "w": 55.6,
+    "h": 80.8
+  },
+  {
+    "id": "sign-10-1",
+    "file": "images/signs/sign-10-1.png",
+    "kind": "sign",
+    "xref": 69,
+    "page": 10,
+    "printedPage": 8,
+    "bbox": [
+      244.5,
+      81.9,
+      297.4,
+      146.8
+    ],
+    "w": 52.8,
+    "h": 64.9
+  },
+  {
+    "id": "sign-10-2",
+    "file": "images/signs/sign-10-2.png",
+    "kind": "sign",
+    "xref": 70,
+    "page": 10,
+    "printedPage": 8,
+    "bbox": [
+      239.0,
+      295.0,
+      297.5,
+      354.4
+    ],
+    "w": 58.5,
+    "h": 59.4
+  },
+  {
+    "id": "sign-10-3",
+    "file": "images/signs/sign-10-3.png",
+    "kind": "sign",
+    "xref": 71,
+    "page": 10,
+    "printedPage": 8,
+    "bbox": [
+      241.5,
+      369.3,
+      297.2,
+      416.7
+    ],
+    "w": 55.6,
+    "h": 47.4
+  },
+  {
+    "id": "sign-10-4",
+    "file": "images/signs/sign-10-4.png",
+    "kind": "sign",
+    "xref": 72,
+    "page": 10,
+    "printedPage": 8,
+    "bbox": [
+      241.5,
+      435.2,
+      297.2,
+      490.3
+    ],
+    "w": 55.6,
+    "h": 55.1
+  },
+  {
+    "id": "sign-10-5",
+    "file": "images/signs/sign-10-5.png",
+    "kind": "sign",
+    "xref": 73,
+    "page": 10,
+    "printedPage": 8,
+    "bbox": [
+      241.5,
+      504.0,
+      297.2,
+      560.4
+    ],
+    "w": 55.6,
+    "h": 56.3
+  },
+  {
+    "id": "sign-10-6",
+    "file": "images/signs/sign-10-6.png",
+    "kind": "sign",
+    "xref": 74,
+    "page": 10,
+    "printedPage": 8,
+    "bbox": [
+      241.5,
+      580.0,
+      297.2,
+      635.1
+    ],
+    "w": 55.6,
+    "h": 55.1
+  },
+  {
+    "id": "sign-10-7",
+    "file": "images/signs/sign-10-7.png",
+    "kind": "sign",
+    "xref": 75,
+    "page": 10,
+    "printedPage": 8,
+    "bbox": [
+      241.5,
+      652.8,
+      297.2,
+      708.0
+    ],
+    "w": 55.6,
+    "h": 55.1
+  },
+  {
+    "id": "sign-10-8",
+    "file": "images/signs/sign-10-8.png",
+    "kind": "sign",
+    "xref": 76,
+    "page": 10,
+    "printedPage": 8,
+    "bbox": [
+      516.9,
+      39.9,
+      571.2,
+      93.3
+    ],
+    "w": 54.3,
+    "h": 53.4
+  },
+  {
+    "id": "sign-10-9",
+    "file": "images/signs/sign-10-9.png",
+    "kind": "sign",
+    "xref": 77,
+    "page": 10,
+    "printedPage": 8,
+    "bbox": [
+      518.4,
+      105.9,
+      572.7,
+      159.9
+    ],
+    "w": 54.3,
+    "h": 54.0
+  },
+  {
+    "id": "sign-10-10",
+    "file": "images/signs/sign-10-10.png",
+    "kind": "sign",
+    "xref": 78,
+    "page": 10,
+    "printedPage": 8,
+    "bbox": [
+      516.9,
+      165.4,
+      571.6,
+      219.4
+    ],
+    "w": 54.7,
+    "h": 54.0
+  },
+  {
+    "id": "sign-10-11",
+    "file": "images/signs/sign-10-11.png",
+    "kind": "sign",
+    "xref": 79,
+    "page": 10,
+    "printedPage": 8,
+    "bbox": [
+      516.9,
+      226.2,
+      571.6,
+      280.3
+    ],
+    "w": 54.7,
+    "h": 54.0
+  },
+  {
+    "id": "sign-10-12",
+    "file": "images/signs/sign-10-12.png",
+    "kind": "sign",
+    "xref": 272,
+    "page": 10,
+    "printedPage": 8,
+    "bbox": [
+      460.4,
+      439.1,
+      518.0,
+      498.4
+    ],
+    "w": 57.6,
+    "h": 59.3
+  },
+  {
+    "id": "sign-10-13",
+    "file": "images/signs/sign-10-13.png",
+    "kind": "sign",
+    "xref": 80,
+    "page": 10,
+    "printedPage": 8,
+    "bbox": [
+      517.2,
+      440.1,
+      572.3,
+      514.6
+    ],
+    "w": 55.2,
+    "h": 74.5
+  },
+  {
+    "id": "sign-10-14",
+    "file": "images/signs/sign-10-14.png",
+    "kind": "sign",
+    "xref": 81,
+    "page": 10,
+    "printedPage": 8,
+    "bbox": [
+      516.9,
+      546.8,
+      573.6,
+      622.9
+    ],
+    "w": 56.7,
+    "h": 76.1
+  },
+  {
+    "id": "sign-10-15",
+    "file": "images/signs/sign-10-15.png",
+    "kind": "sign",
+    "xref": 82,
+    "page": 10,
+    "printedPage": 8,
+    "bbox": [
+      519.9,
+      651.0,
+      572.3,
+      718.3
+    ],
+    "w": 52.3,
+    "h": 67.2
+  },
+  {
+    "id": "sign-10-16",
+    "file": "images/signs/sign-10-16.png",
+    "kind": "sign",
+    "xref": 83,
+    "page": 10,
+    "printedPage": 8,
+    "bbox": [
+      461.1,
+      648.6,
+      519.7,
+      710.5
+    ],
+    "w": 58.5,
+    "h": 61.8
+  },
+  {
+    "id": "sign-10-17",
+    "file": "images/signs/sign-10-17.png",
+    "kind": "sign",
+    "xref": 84,
+    "page": 10,
+    "printedPage": 8,
+    "bbox": [
+      237.1,
+      155.1,
+      300.0,
+      219.0
+    ],
+    "w": 62.9,
+    "h": 63.9
+  },
+  {
+    "id": "sign-10-18",
+    "file": "images/signs/sign-10-18.png",
+    "kind": "sign",
+    "xref": 85,
+    "page": 10,
+    "printedPage": 8,
+    "bbox": [
+      459.7,
+      545.7,
+      516.3,
+      603.2
+    ],
+    "w": 56.5,
+    "h": 57.5
+  },
+  {
+    "id": "sign-10-19",
+    "file": "images/signs/sign-10-19.png",
+    "kind": "sign",
+    "xref": 86,
+    "page": 10,
+    "printedPage": 8,
+    "bbox": [
+      178.4,
+      225.9,
+      237.4,
+      285.6
+    ],
+    "w": 59.0,
+    "h": 59.7
+  },
+  {
+    "id": "sign-10-20",
+    "file": "images/signs/sign-10-20.png",
+    "kind": "sign",
+    "xref": 87,
+    "page": 10,
+    "printedPage": 8,
+    "bbox": [
+      238.4,
+      225.9,
+      297.4,
+      285.6
+    ],
+    "w": 59.0,
+    "h": 59.7
+  },
+  {
+    "id": "sign-10-21",
+    "file": "images/signs/sign-10-21.png",
+    "kind": "sign",
+    "xref": 88,
+    "page": 10,
+    "printedPage": 8,
+    "bbox": [
+      515.3,
+      288.8,
+      570.9,
+      344.1
+    ],
+    "w": 55.6,
+    "h": 55.3
+  },
+  {
+    "id": "sign-10-22",
+    "file": "images/signs/sign-10-22.png",
+    "kind": "sign",
+    "xref": 89,
+    "page": 10,
+    "printedPage": 8,
+    "bbox": [
+      513.0,
+      364.1,
+      568.6,
+      419.5
+    ],
+    "w": 55.6,
+    "h": 55.3
+  },
+  {
+    "id": "sign-11-1",
+    "file": "images/signs/sign-11-1.png",
+    "kind": "sign",
+    "xref": 93,
+    "page": 11,
+    "printedPage": 9,
+    "bbox": [
+      465.7,
+      650.9,
+      577.7,
+      744.2
+    ],
+    "w": 112.0,
+    "h": 93.3
+  },
+  {
+    "id": "sign-11-2",
+    "file": "images/signs/sign-11-2.png",
+    "kind": "sign",
+    "xref": 94,
+    "page": 11,
+    "printedPage": 9,
+    "bbox": [
+      521.6,
+      256.6,
+      577.3,
+      311.7
+    ],
+    "w": 55.6,
+    "h": 55.1
+  },
+  {
+    "id": "sign-11-3",
+    "file": "images/signs/sign-11-3.png",
+    "kind": "sign",
+    "xref": 95,
+    "page": 11,
+    "printedPage": 9,
+    "bbox": [
+      229.2,
+      43.7,
+      291.7,
+      113.1
+    ],
+    "w": 62.5,
+    "h": 69.4
+  },
+  {
+    "id": "sign-11-4",
+    "file": "images/signs/sign-11-4.png",
+    "kind": "sign",
+    "xref": 96,
+    "page": 11,
+    "printedPage": 9,
+    "bbox": [
+      231.0,
+      118.1,
+      291.8,
+      188.5
+    ],
+    "w": 60.9,
+    "h": 70.3
+  },
+  {
+    "id": "sign-11-5",
+    "file": "images/signs/sign-11-5.png",
+    "kind": "sign",
+    "xref": 97,
+    "page": 11,
+    "printedPage": 9,
+    "bbox": [
+      183.3,
+      203.8,
+      238.0,
+      258.9
+    ],
+    "w": 54.7,
+    "h": 55.1
+  },
+  {
+    "id": "sign-11-6",
+    "file": "images/signs/sign-11-6.png",
+    "kind": "sign",
+    "xref": 98,
+    "page": 11,
+    "printedPage": 9,
+    "bbox": [
+      238.8,
+      204.8,
+      293.1,
+      260.0
+    ],
+    "w": 54.3,
+    "h": 55.2
+  },
+  {
+    "id": "sign-11-7",
+    "file": "images/signs/sign-11-7.png",
+    "kind": "sign",
+    "xref": 99,
+    "page": 11,
+    "printedPage": 9,
+    "bbox": [
+      238.8,
+      269.1,
+      293.1,
+      324.3
+    ],
+    "w": 54.3,
+    "h": 55.2
+  },
+  {
+    "id": "sign-11-8",
+    "file": "images/signs/sign-11-8.png",
+    "kind": "sign",
+    "xref": 100,
+    "page": 11,
+    "printedPage": 9,
+    "bbox": [
+      237.7,
+      341.2,
+      293.3,
+      397.5
+    ],
+    "w": 55.6,
+    "h": 56.3
+  },
+  {
+    "id": "sign-11-9",
+    "file": "images/signs/sign-11-9.png",
+    "kind": "sign",
+    "xref": 101,
+    "page": 11,
+    "printedPage": 9,
+    "bbox": [
+      235.1,
+      516.6,
+      290.7,
+      573.0
+    ],
+    "w": 55.6,
+    "h": 56.3
+  },
+  {
+    "id": "sign-11-10",
+    "file": "images/signs/sign-11-10.png",
+    "kind": "sign",
+    "xref": 102,
+    "page": 11,
+    "printedPage": 9,
+    "bbox": [
+      234.6,
+      593.2,
+      290.2,
+      649.5
+    ],
+    "w": 55.6,
+    "h": 56.3
+  },
+  {
+    "id": "sign-11-11",
+    "file": "images/signs/sign-11-11.png",
+    "kind": "sign",
+    "xref": 103,
+    "page": 11,
+    "printedPage": 9,
+    "bbox": [
+      238.1,
+      671.8,
+      293.7,
+      728.1
+    ],
+    "w": 55.6,
+    "h": 56.3
+  },
+  {
+    "id": "sign-11-12",
+    "file": "images/signs/sign-11-12.png",
+    "kind": "sign",
+    "xref": 104,
+    "page": 11,
+    "printedPage": 9,
+    "bbox": [
+      520.7,
+      40.7,
+      576.3,
+      97.0
+    ],
+    "w": 55.6,
+    "h": 56.3
+  },
+  {
+    "id": "sign-11-13",
+    "file": "images/signs/sign-11-13.png",
+    "kind": "sign",
+    "xref": 105,
+    "page": 11,
+    "printedPage": 9,
+    "bbox": [
+      520.7,
+      97.1,
+      576.3,
+      176.2
+    ],
+    "w": 55.6,
+    "h": 79.1
+  },
+  {
+    "id": "sign-11-14",
+    "file": "images/signs/sign-11-14.png",
+    "kind": "sign",
+    "xref": 106,
+    "page": 11,
+    "printedPage": 9,
+    "bbox": [
+      520.3,
+      182.2,
+      575.9,
+      239.5
+    ],
+    "w": 55.6,
+    "h": 57.3
+  },
+  {
+    "id": "sign-11-15",
+    "file": "images/signs/sign-11-15.png",
+    "kind": "sign",
+    "xref": 107,
+    "page": 11,
+    "printedPage": 9,
+    "bbox": [
+      519.8,
+      328.6,
+      575.5,
+      385.9
+    ],
+    "w": 55.6,
+    "h": 57.3
+  },
+  {
+    "id": "sign-11-16",
+    "file": "images/signs/sign-11-16.png",
+    "kind": "sign",
+    "xref": 108,
+    "page": 11,
+    "printedPage": 9,
+    "bbox": [
+      516.8,
+      440.1,
+      572.5,
+      504.6
+    ],
+    "w": 55.6,
+    "h": 64.5
+  },
+  {
+    "id": "sign-11-17",
+    "file": "images/signs/sign-11-17.png",
+    "kind": "sign",
+    "xref": 109,
+    "page": 11,
+    "printedPage": 9,
+    "bbox": [
+      235.4,
+      423.6,
+      293.5,
+      482.6
+    ],
+    "w": 58.0,
+    "h": 58.9
+  },
+  {
+    "id": "sign-11-18",
+    "file": "images/signs/sign-11-18.png",
+    "kind": "sign",
+    "xref": 110,
+    "page": 11,
+    "printedPage": 9,
+    "bbox": [
+      514.9,
+      555.5,
+      570.5,
+      627.9
+    ],
+    "w": 55.6,
+    "h": 72.4
+  },
+  {
+    "id": "sign-12-1",
+    "file": "images/signs/sign-12-1.png",
+    "kind": "sign",
+    "xref": 114,
+    "page": 12,
+    "printedPage": 10,
+    "bbox": [
+      392.3,
+      86.2,
+      578.7,
+      149.5
+    ],
+    "w": 186.4,
+    "h": 63.3
+  },
+  {
+    "id": "sign-12-2",
+    "file": "images/signs/sign-12-2.png",
+    "kind": "sign",
+    "xref": 115,
+    "page": 12,
+    "printedPage": 10,
+    "bbox": [
+      507.2,
+      242.7,
+      571.0,
+      270.6
+    ],
+    "w": 63.8,
+    "h": 27.9
+  },
+  {
+    "id": "sign-12-3",
+    "file": "images/signs/sign-12-3.png",
+    "kind": "sign",
+    "xref": 116,
+    "page": 12,
+    "printedPage": 10,
+    "bbox": [
+      509.9,
+      295.5,
+      569.4,
+      362.1
+    ],
+    "w": 59.6,
+    "h": 66.6
+  },
+  {
+    "id": "sign-12-4",
+    "file": "images/signs/sign-12-4.png",
+    "kind": "sign",
+    "xref": 117,
+    "page": 12,
+    "printedPage": 10,
+    "bbox": [
+      477.8,
+      388.2,
+      574.4,
+      482.2
+    ],
+    "w": 96.6,
+    "h": 94.0
+  },
+  {
+    "id": "sign-12-5",
+    "file": "images/signs/sign-12-5.png",
+    "kind": "sign",
+    "xref": 118,
+    "page": 12,
+    "printedPage": 10,
+    "bbox": [
+      489.1,
+      663.5,
+      533.8,
+      708.9
+    ],
+    "w": 44.7,
+    "h": 45.4
+  },
+  {
+    "id": "sign-12-6",
+    "file": "images/signs/sign-12-6.png",
+    "kind": "sign",
+    "xref": 119,
+    "page": 12,
+    "printedPage": 10,
+    "bbox": [
+      525.3,
+      686.1,
+      570.0,
+      731.5
+    ],
+    "w": 44.7,
+    "h": 45.4
+  },
+  {
+    "id": "sign-12-7",
+    "file": "images/signs/sign-12-7.png",
+    "kind": "sign",
+    "xref": 120,
+    "page": 12,
+    "printedPage": 10,
+    "bbox": [
+      486.2,
+      601.4,
+      571.2,
+      655.9
+    ],
+    "w": 85.0,
+    "h": 54.5
+  },
+  {
+    "id": "sign-12-8",
+    "file": "images/signs/sign-12-8.png",
+    "kind": "sign",
+    "xref": 121,
+    "page": 12,
+    "printedPage": 10,
+    "bbox": [
+      507.8,
+      178.6,
+      571.2,
+      243.0
+    ],
+    "w": 63.4,
+    "h": 64.3
+  },
+  {
+    "id": "sign-12-9",
+    "file": "images/signs/sign-12-9.png",
+    "kind": "sign",
+    "xref": 122,
+    "page": 12,
+    "printedPage": 10,
+    "bbox": [
+      194.9,
+      318.0,
+      295.6,
+      380.0
+    ],
+    "w": 100.7,
+    "h": 61.9
+  },
+  {
+    "id": "sign-12-10",
+    "file": "images/signs/sign-12-10.png",
+    "kind": "sign",
+    "xref": 124,
+    "page": 12,
+    "printedPage": 10,
+    "bbox": [
+      493.5,
+      503.3,
+      572.8,
+      560.8
+    ],
+    "w": 79.2,
+    "h": 57.5
+  },
+  {
+    "id": "sign-12-11",
+    "file": "images/signs/sign-12-11.png",
+    "kind": "sign",
+    "xref": 125,
+    "page": 12,
+    "printedPage": 10,
+    "bbox": [
+      116.1,
+      93.3,
+      294.4,
+      246.1
+    ],
+    "w": 178.2,
+    "h": 152.8
+  },
+  {
+    "id": "marking-13-1",
+    "file": "images/markings/marking-13-1.png",
+    "kind": "marking",
+    "xref": 129,
+    "page": 13,
+    "printedPage": 11,
+    "bbox": [
+      431.3,
+      53.2,
+      577.4,
+      198.6
+    ],
+    "w": 146.1,
+    "h": 145.3
+  },
+  {
+    "id": "marking-13-2",
+    "file": "images/markings/marking-13-2.png",
+    "kind": "marking",
+    "xref": 130,
+    "page": 13,
+    "printedPage": 11,
+    "bbox": [
+      429.0,
+      256.7,
+      575.1,
+      402.9
+    ],
+    "w": 146.1,
+    "h": 146.2
+  },
+  {
+    "id": "marking-13-3",
+    "file": "images/markings/marking-13-3.png",
+    "kind": "marking",
+    "xref": 131,
+    "page": 13,
+    "printedPage": 11,
+    "bbox": [
+      430.4,
+      425.7,
+      576.6,
+      571.9
+    ],
+    "w": 146.2,
+    "h": 146.2
+  },
+  {
+    "id": "marking-13-4",
+    "file": "images/markings/marking-13-4.png",
+    "kind": "marking",
+    "xref": 132,
+    "page": 13,
+    "printedPage": 11,
+    "bbox": [
+      230.4,
+      128.3,
+      293.7,
+      191.8
+    ],
+    "w": 63.3,
+    "h": 63.5
+  },
+  {
+    "id": "marking-13-5",
+    "file": "images/markings/marking-13-5.png",
+    "kind": "marking",
+    "xref": 133,
+    "page": 13,
+    "printedPage": 11,
+    "bbox": [
+      238.8,
+      228.2,
+      296.9,
+      287.2
+    ],
+    "w": 58.2,
+    "h": 59.1
+  },
+  {
+    "id": "marking-13-6",
+    "file": "images/markings/marking-13-6.png",
+    "kind": "marking",
+    "xref": 134,
+    "page": 13,
+    "printedPage": 11,
+    "bbox": [
+      148.2,
+      535.0,
+      294.3,
+      681.2
+    ],
+    "w": 146.1,
+    "h": 146.2
+  },
+  {
+    "id": "marking-14-1",
+    "file": "images/markings/marking-14-1.png",
+    "kind": "marking",
+    "xref": 138,
+    "page": 14,
+    "printedPage": 12,
+    "bbox": [
+      446.0,
+      282.9,
+      572.6,
+      399.0
+    ],
+    "w": 126.6,
+    "h": 116.1
+  },
+  {
+    "id": "marking-14-2",
+    "file": "images/markings/marking-14-2.png",
+    "kind": "marking",
+    "xref": 139,
+    "page": 14,
+    "printedPage": 12,
+    "bbox": [
+      446.1,
+      46.4,
+      572.9,
+      172.8
+    ],
+    "w": 126.7,
+    "h": 126.4
+  },
+  {
+    "id": "marking-14-3",
+    "file": "images/markings/marking-14-3.png",
+    "kind": "marking",
+    "xref": 140,
+    "page": 14,
+    "printedPage": 12,
+    "bbox": [
+      446.0,
+      428.9,
+      572.6,
+      547.4
+    ],
+    "w": 126.6,
+    "h": 118.5
+  },
+  {
+    "id": "marking-14-4",
+    "file": "images/markings/marking-14-4.png",
+    "kind": "marking",
+    "xref": 141,
+    "page": 14,
+    "printedPage": 12,
+    "bbox": [
+      456.8,
+      592.7,
+      572.1,
+      726.8
+    ],
+    "w": 115.3,
+    "h": 134.1
+  },
+  {
+    "id": "marking-14-5",
+    "file": "images/markings/marking-14-5.png",
+    "kind": "marking",
+    "xref": 142,
+    "page": 14,
+    "printedPage": 12,
+    "bbox": [
+      153.5,
+      545.1,
+      292.9,
+      684.1
+    ],
+    "w": 139.4,
+    "h": 139.0
+  },
+  {
+    "id": "marking-14-6",
+    "file": "images/markings/marking-14-6.png",
+    "kind": "marking",
+    "xref": 143,
+    "page": 14,
+    "printedPage": 12,
+    "bbox": [
+      119.6,
+      46.4,
+      296.4,
+      223.2
+    ],
+    "w": 176.8,
+    "h": 176.8
+  },
+  {
+    "id": "marking-14-7",
+    "file": "images/markings/marking-14-7.png",
+    "kind": "marking",
+    "xref": 144,
+    "page": 14,
+    "printedPage": 12,
+    "bbox": [
+      225.8,
+      370.1,
+      290.5,
+      479.2
+    ],
+    "w": 64.7,
+    "h": 109.1
+  },
+  {
+    "id": "marking-15-1",
+    "file": "images/markings/marking-15-1.png",
+    "kind": "marking",
+    "xref": 148,
+    "page": 15,
+    "printedPage": 13,
+    "bbox": [
+      191.6,
+      483.0,
+      299.0,
+      542.2
+    ],
+    "w": 107.4,
+    "h": 59.2
+  },
+  {
+    "id": "marking-15-2",
+    "file": "images/markings/marking-15-2.png",
+    "kind": "marking",
+    "xref": 150,
+    "page": 15,
+    "printedPage": 13,
+    "bbox": [
+      160.5,
+      559.5,
+      293.7,
+      680.8
+    ],
+    "w": 133.1,
+    "h": 121.3
+  },
+  {
+    "id": "marking-15-3",
+    "file": "images/markings/marking-15-3.png",
+    "kind": "marking",
+    "xref": 152,
+    "page": 15,
+    "printedPage": 13,
+    "bbox": [
+      191.0,
+      346.0,
+      293.7,
+      449.2
+    ],
+    "w": 102.6,
+    "h": 103.2
+  }
+]
