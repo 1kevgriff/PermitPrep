@@ -7,6 +7,8 @@ const props = defineProps<{ sectionId: string }>()
 const content = useContentStore()
 
 const section = computed(() => content.sectionBySlug.get(props.sectionId) ?? null)
+// The manual's "sample exam" is replaced by a pointer to the real interactive exam.
+const isSampleExam = computed(() => props.sectionId === 'sample-knowledge-exam')
 const sections = computed(() => content.sections)
 const currentIndex = computed(() =>
   sections.value.findIndex((s) => s.slug === props.sectionId),
@@ -22,6 +24,9 @@ const next = computed(() => sections.value[currentIndex.value + 1] ?? null)
       <span class="pill">Section {{ section.number }}</span>
       <h1 class="title">{{ section.title }}</h1>
       <SectionContent :section="section" />
+      <RouterLink v-if="isSampleExam" to="/exam" class="btn btn--green btn--block exam-cta">
+        Start the practice exam →
+      </RouterLink>
     </div>
 
     <div class="row pager">
@@ -53,6 +58,9 @@ const next = computed(() => sections.value[currentIndex.value + 1] ?? null)
 .title {
   font-size: 1.6rem;
   margin-top: 8px;
+}
+.exam-cta {
+  margin-top: 18px;
 }
 .pager {
   justify-content: space-between;
