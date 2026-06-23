@@ -55,10 +55,10 @@ body {
 
 body {
   line-height: 1.5;
-  /* subtle road-haze gradient behind the soft bg */
+  /* subtle road-haze gradient behind the soft bg (non-fixed to avoid mobile scroll jank) */
   background-image:
     radial-gradient(1200px 460px at 50% -180px, rgba(31, 115, 216, 0.1), transparent 70%);
-  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 a {

@@ -3,7 +3,8 @@ import { computed } from 'vue'
 import { useContentStore } from '@/stores/content'
 
 const props = defineProps<{
-  correct: boolean
+  /** true = Correct, false = Not quite, null = neutral reveal (answer shown without a guess). */
+  correct: boolean | null
   explanation: string
   sectionSlug: string
 }>()
@@ -13,13 +14,13 @@ const section = computed(() => content.sectionBySlug.get(props.sectionSlug))
 </script>
 
 <template>
-  <div class="explain" :class="correct ? 'explain--ok' : 'explain--no'">
+  <div class="explain" :class="correct === false ? 'explain--no' : 'explain--ok'">
     <div class="explain__head">
       <span class="explain__icon" aria-hidden="true">
-        <svg v-if="correct" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 13l4 4L19 7" /></svg>
+        <svg v-if="correct !== false" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 13l4 4L19 7" /></svg>
         <svg v-else viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8v5M12 16.5h.01M10.3 3.9 2.4 18a2 2 0 0 0 1.7 3h15.8a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0Z" /></svg>
       </span>
-      <strong>{{ correct ? 'Correct!' : 'Not quite' }}</strong>
+      <strong>{{ correct === null ? 'Answer' : correct ? 'Correct!' : 'Not quite' }}</strong>
     </div>
     <p>{{ explanation }}</p>
     <RouterLink v-if="section" :to="`/manual/${section.slug}`" class="explain__link">

@@ -2,9 +2,10 @@
 import { computed, ref, reactive, onMounted, onUnmounted, watch } from 'vue'
 import { storeToRefs } from 'pinia'
 import { useContentStore } from '@/stores/content'
+import { topicLabel } from '@/lib/labels'
 import type { Question } from '@/types/question'
-import SignImage from '@/components/question/SignImage.vue'
-import ChoiceList from '@/components/question/ChoiceList.vue'
+import QuestionCard from '@/components/question/QuestionCard.vue'
+import ExplanationPanel from '@/components/question/ExplanationPanel.vue'
 
 const content = useContentStore()
 const { questions } = storeToRefs(content)
@@ -29,11 +30,6 @@ const selected = computed(() =>
 )
 const revealed = computed(() =>
   !!current.value && (selected.value !== null || revealedIds[current.value.id] === true),
-)
-
-const letters = ['A', 'B', 'C', 'D', 'E', 'F']
-const section = computed(() =>
-  current.value ? content.sectionBySlug.get(current.value.manualRef.sectionSlug) : undefined,
 )
 
 // Clamp the cursor whenever the filtered list shrinks under it.
@@ -110,44 +106,31 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
       </div>
     </header>
 
-    <div v-if="current" class="card stack">
+    <div v-if="current" class="stack">
       <div class="row dbg-meta">
         <span class="pill">{{ current.type }}</span>
-        <span class="pill">{{ current.topic }}</span>
+        <span class="pill">{{ topicLabel(current.topic) }}</span>
         <span class="muted mono">{{ current.id }}</span>
         <span class="muted">§ {{ current.manualRef.sectionSlug }}</span>
       </div>
 
-      <SignImage
-        v-if="current.type === 'sign'"
-        :src="current.image"
-        alt="Traffic sign to identify"
-      />
-
-      <h2 class="dbg-prompt">{{ current.prompt }}</h2>
-
-      <ChoiceList
-        :choices="current.choices"
+      <!-- Reuse the real exam/practice card so debug tracks the live UI. -->
+      <QuestionCard
+        :question="current"
         :selected-index="selected"
-        :answer-index="current.answerIndex"
         :revealed="revealed"
         @select="select"
       />
 
-      <div v-if="revealed" class="dbg-answer">
-        <strong>
-          Answer: {{ letters[current.answerIndex] }} — {{ current.choices[current.answerIndex] }}
-        </strong>
-        <p v-if="selected !== null" class="muted">
-          You picked {{ letters[selected] }} —
-          {{ selected === current.answerIndex ? 'correct ✓' : 'wrong ✗' }}
-        </p>
-        <p>{{ current.explanation }}</p>
-        <RouterLink v-if="section" :to="`/manual/${section.slug}`" class="dbg-link">
-          Read more in {{ section.title }} →
-        </RouterLink>
-      </div>
-      <div v-else class="row" style="justify-content: flex-end">
+      <!-- QuestionCard shows the explanation only after a pick; cover the
+           reveal-without-guessing path with a neutral panel. -->
+      <ExplanationPanel
+        v-if="revealed && selected === null"
+        :correct="null"
+        :explanation="current.explanation"
+        :section-slug="current.manualRef.sectionSlug"
+      />
+      <div v-else-if="!revealed" class="row" style="justify-content: flex-end">
         <button class="btn" @click="reveal">Reveal answer (R)</button>
       </div>
     </div>
@@ -186,22 +169,6 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
 .mono {
   font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
   font-size: 0.85rem;
-}
-.dbg-prompt {
-  font-size: 1.2rem;
-}
-.dbg-answer {
-  margin-top: 4px;
-  padding: 14px;
-  border-radius: 12px;
-  border: 1px solid var(--green);
-  background: var(--green-soft);
-}
-.dbg-answer p {
-  margin: 6px 0 8px;
-}
-.dbg-link {
-  font-weight: 650;
 }
 .dbg-nav {
   justify-content: space-between;

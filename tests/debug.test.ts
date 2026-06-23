@@ -26,18 +26,19 @@ describe('DebugView', () => {
 
   it('does not reveal the answer until asked', async () => {
     const w = mountDebug()
-    expect(w.find('.dbg-answer').exists()).toBe(false)
+    expect(w.find('.explain').exists()).toBe(false)
     await w.findAll('button').find((b) => b.text().includes('Reveal'))!.trigger('click')
-    expect(w.find('.dbg-answer').exists()).toBe(true)
-    expect(w.find('.dbg-answer').text()).toContain('Answer:')
+    // Reused ExplanationPanel in its neutral "Answer" mode.
+    expect(w.find('.explain').exists()).toBe(true)
+    expect(w.find('.explain').text()).toContain('Answer')
   })
 
   it('selecting a choice reveals correctness', async () => {
     const w = mountDebug()
     await w.findAll('.choice')[1].trigger('click') // bank answers default to index 0
-    const answer = w.find('.dbg-answer')
+    const answer = w.find('.explain')
     expect(answer.exists()).toBe(true)
-    expect(answer.text()).toContain('wrong')
+    expect(answer.text()).toContain('Not quite') // ExplanationPanel's wrong-answer header
   })
 
   it('Next advances and remembers a prior reveal when navigating back', async () => {
@@ -45,9 +46,9 @@ describe('DebugView', () => {
     await w.findAll('button').find((b) => b.text().includes('Reveal'))!.trigger('click')
     await w.findAll('button').find((b) => b.text().includes('Next'))!.trigger('click')
     expect((w.find('.dbg-jump').element as HTMLInputElement).value).toBe('2')
-    expect(w.find('.dbg-answer').exists()).toBe(false) // fresh question, not revealed
+    expect(w.find('.explain').exists()).toBe(false) // fresh question, not revealed
     await w.findAll('button').find((b) => b.text().includes('Prev'))!.trigger('click')
-    expect(w.find('.dbg-answer').exists()).toBe(true) // remembered
+    expect(w.find('.explain').exists()).toBe(true) // remembered
   })
 
   it('filtering to signs narrows the list and resets to the first', async () => {
