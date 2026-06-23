@@ -57,12 +57,12 @@ function start(): void {
 
       <div class="field">
         <span>How many questions?</span>
-        <div class="row">
+        <div class="row lengths">
           <button
             v-for="n in lengths"
             :key="n"
             class="btn"
-            :class="length === n ? '' : 'btn--ghost'"
+            :class="length === n ? 'btn--green' : 'btn--ghost'"
             @click="length = n"
           >
             {{ n }}
@@ -84,14 +84,29 @@ function start(): void {
   gap: 8px;
 }
 .field > span {
-  font-weight: 650;
+  font-family: var(--font-display);
+  font-weight: 600;
 }
 .select {
   min-height: var(--tap);
-  border: 1.5px solid var(--line);
-  border-radius: 12px;
-  padding: 0 12px;
+  border: 2px solid var(--line);
+  border-radius: 14px;
+  padding: 0 14px;
+  font-family: var(--font-body);
   font-size: 1rem;
+  background: var(--bg);
+  color: var(--ink);
+}
+.select:focus {
+  outline: none;
+  border-color: var(--sky);
   background: #fff;
+}
+.lengths {
+  gap: 10px;
+}
+.lengths .btn {
+  flex: 1;
+  min-width: 0;
 }
 </style>

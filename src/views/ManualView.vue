@@ -54,9 +54,19 @@ const { results } = useManualSearch(query)
   width: 100%;
   min-height: var(--tap);
   padding: 0 14px;
-  border: 1.5px solid var(--line);
-  border-radius: 12px;
+  border: 2px solid var(--line);
+  border-radius: 14px;
+  font-family: var(--font-body);
   font-size: 1rem;
+  background: var(--bg);
+  transition:
+    border-color 0.14s ease,
+    background 0.14s ease;
+}
+.search:focus {
+  outline: none;
+  border-color: var(--sky);
+  background: #fff;
 }
 .sections {
   list-style: none;
@@ -68,28 +78,48 @@ const { results } = useManualSearch(query)
 .sect {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 14px;
   text-decoration: none;
   color: var(--ink);
+  padding: 14px 16px;
+  transition:
+    transform 0.1s ease,
+    border-color 0.18s ease,
+    box-shadow 0.18s ease;
 }
+.sect:active {
+  transform: translateX(2px);
+}
+.sect:hover {
+  border-color: #cfd9e6;
+  box-shadow: 0 6px 18px rgba(16, 32, 56, 0.08);
+}
+/* route-shield styled section number */
 .sect__num {
   display: grid;
   place-items: center;
   flex: none;
-  width: 34px;
-  height: 34px;
-  border-radius: 9px;
-  background: var(--blue);
-  color: #fff;
-  font-weight: 800;
+  width: 40px;
+  height: 40px;
+  border-radius: 11px;
+  background: var(--ink-2);
+  color: var(--amber);
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: 1.05rem;
+  box-shadow: inset 0 0 0 2px rgba(245, 163, 26, 0.3);
 }
 .sect__title {
   flex: 1;
-  font-weight: 650;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 1.25;
 }
 .sect__chev {
-  color: var(--muted);
-  font-size: 1.4rem;
+  color: var(--sky);
+  font-size: 1.5rem;
+  font-weight: 700;
 }
 .hit {
   display: block;

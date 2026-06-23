@@ -48,22 +48,26 @@ const topicRows = computed(() =>
 
 <style scoped>
 .result__badge {
-  width: 110px;
-  height: 110px;
-  margin: 0 auto;
+  width: 116px;
+  height: 116px;
+  margin: 4px auto 0;
   border-radius: 50%;
   display: grid;
   place-items: center;
+  font-family: var(--font-display);
   font-size: 1.5rem;
   font-weight: 900;
   color: #fff;
-  letter-spacing: 1px;
+  letter-spacing: 1.5px;
+  animation: pop-in 0.45s cubic-bezier(0.34, 1.56, 0.64, 1) both;
 }
 .is-pass {
   background: var(--green);
+  box-shadow: 0 0 0 10px var(--green-soft);
 }
 .is-fail {
   background: var(--red);
+  box-shadow: 0 0 0 10px var(--red-soft);
 }
 .topics {
   list-style: none;

@@ -39,8 +39,12 @@ const emit = defineEmits<{ select: [index: number] }>()
 </template>
 
 <style scoped>
+.qcard {
+  animation: rise 0.25s ease both;
+}
 .qcard__prompt {
-  font-size: 1.2rem;
-  margin-bottom: 14px;
+  font-size: 1.28rem;
+  font-weight: 700;
+  margin-bottom: 16px;
 }
 </style>

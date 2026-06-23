@@ -170,8 +170,13 @@ onBeforeRouteLeave((to) => {
 <style scoped>
 .exam-nav {
   justify-content: space-between;
+  gap: 10px;
 }
 .exam-nav .btn {
   flex: 1;
+}
+/* primary action gets more weight than Back */
+.exam-nav .btn:last-child {
+  flex: 1.6;
 }
 </style>

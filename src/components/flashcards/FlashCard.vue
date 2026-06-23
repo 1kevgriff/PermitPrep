@@ -55,16 +55,31 @@ const emit = defineEmits<{ flip: [] }>()
   border-radius: var(--radius);
   box-shadow: var(--shadow);
 }
+.flip__front {
+  background:
+    radial-gradient(120% 90% at 50% 0%, #ffffff 0%, #f4f8fd 100%);
+}
 .flip__back {
   transform: rotateY(180deg);
-  background: var(--blue-soft);
+  background:
+    radial-gradient(120% 90% at 50% 0%, #1c3454 0%, var(--ink-2) 75%);
+  color: #fff;
+  border-color: transparent;
+}
+.flip__back .flip__hint {
+  color: rgba(255, 255, 255, 0.7);
 }
 .flip__text {
-  font-size: 1.15rem;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1.18rem;
+  line-height: 1.35;
   text-align: center;
   margin: 0;
 }
 .flip__hint {
-  font-size: 0.8rem;
+  font-family: var(--font-body);
+  font-size: 0.78rem;
+  letter-spacing: 0.02em;
 }
 </style>

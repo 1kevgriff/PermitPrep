@@ -8,15 +8,16 @@ onMounted(() => content.ensureLoaded())
 </script>
 
 <template>
-  <a class="visually-hidden" href="#main">Skip to content</a>
+  <a class="skip" href="#main">Skip to content</a>
   <header class="appbar">
     <div class="appbar__inner container">
       <RouterLink to="/" class="brand">
-        <span class="brand__mark">VA</span>
-        <span>Permit Prep</span>
+        <span class="brand__mark" aria-hidden="true">VA</span>
+        <span class="brand__name">Permit Prep</span>
       </RouterLink>
-      <span class="pill">Virginia</span>
+      <span class="pill pill--amber">Virginia DMV</span>
     </div>
+    <div class="appbar__road" aria-hidden="true"></div>
   </header>
 
   <main id="main" class="container">
@@ -36,40 +37,58 @@ onMounted(() => content.ensureLoaded())
 .appbar {
   position: sticky;
   top: 0;
-  z-index: 10;
-  background: var(--blue);
+  z-index: 20;
+  background: var(--ink-2);
   color: #fff;
-  box-shadow: 0 2px 10px rgba(8, 64, 111, 0.25);
+  box-shadow: 0 4px 18px rgba(15, 27, 45, 0.25);
 }
 .appbar__inner {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+/* dashed road centre-line under the bar — the signature motif */
+.appbar__road {
+  height: 4px;
+  background: repeating-linear-gradient(
+    90deg,
+    var(--amber) 0 18px,
+    transparent 18px 34px
+  );
+  opacity: 0.85;
 }
 .brand {
   display: inline-flex;
   align-items: center;
   gap: 10px;
   color: #fff;
+  font-family: var(--font-display);
   font-weight: 800;
-  font-size: 1.15rem;
+  font-size: 1.18rem;
   text-decoration: none;
   letter-spacing: 0.2px;
+}
+.brand__name {
+  line-height: 1;
 }
 .brand__mark {
   display: inline-grid;
   place-items: center;
-  width: 32px;
-  height: 32px;
-  border-radius: 9px;
-  background: #fff;
-  color: var(--blue);
-  font-size: 0.85rem;
+  width: 34px;
+  height: 34px;
+  border-radius: 10px;
+  background: var(--amber);
+  color: var(--ink-2);
+  font-size: 0.82rem;
   font-weight: 900;
+  letter-spacing: 0.5px;
+  box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.25);
 }
 main {
-  padding-bottom: 96px;
+  padding-top: 6px;
+  padding-bottom: 104px;
+  animation: rise 0.3s ease both;
 }
 </style>
