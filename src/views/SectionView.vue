@@ -43,18 +43,30 @@ const next = computed(() => sections.value[currentIndex.value + 1] ?? null)
 
 <style scoped>
 .back {
-  display: inline-block;
-  font-weight: 650;
+  display: inline-flex;
+  align-items: center;
+  font-family: var(--font-display);
+  font-weight: 700;
   text-decoration: none;
+  color: var(--sky-dark);
 }
 .title {
-  font-size: 1.5rem;
-  margin-top: 4px;
+  font-size: 1.6rem;
+  margin-top: 8px;
 }
 .pager {
   justify-content: space-between;
+  gap: 10px;
+  align-items: stretch;
 }
 .pager .btn {
-  max-width: 48%;
+  flex: 1;
+  min-width: 0;
+  font-size: 0.85rem;
+  line-height: 1.2;
+  padding: 12px;
+  text-align: center;
+  white-space: normal;
+  word-break: break-word;
 }
 </style>

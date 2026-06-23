@@ -32,21 +32,28 @@ const passed = computed(() => props.total > 0 && props.correct === props.total)
 </template>
 
 <style scoped>
+.gate {
+  padding: 26px 20px;
+}
 .gate__badge {
-  width: 88px;
-  height: 88px;
+  width: 96px;
+  height: 96px;
   margin: 0 auto;
   border-radius: 50%;
   display: grid;
   place-items: center;
-  font-size: 1.6rem;
+  font-family: var(--font-display);
+  font-size: 1.7rem;
   font-weight: 900;
   color: #fff;
+  animation: pop-in 0.4s cubic-bezier(0.34, 1.56, 0.64, 1) both;
 }
 .gate__badge--ok {
   background: var(--green);
+  box-shadow: 0 0 0 8px var(--green-soft);
 }
 .gate__badge--no {
   background: var(--red);
+  box-shadow: 0 0 0 8px var(--red-soft);
 }
 </style>

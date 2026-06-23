@@ -1,22 +1,43 @@
 :root {
-  --blue: #0b5cab;
-  --blue-dark: #08406f;
-  --blue-soft: #e8f1fb;
-  --green: #1f9d57;
-  --green-soft: #e4f6ec;
-  --red: #d23b3b;
-  --red-soft: #fbe8e8;
-  --amber: #e8a317;
-  --ink: #1c2530;
-  --muted: #5d6b7a;
-  --line: #dde4ec;
-  --bg: #f4f7fb;
+  /* ---- Road Trip palette ---- */
+  --ink: #16202e; /* deep navy text */
+  --ink-2: #0f1b2d; /* darkest — app chrome */
+  --muted: #5a6b7e;
+
+  --green: #11a14a; /* GO — primary forward action */
+  --green-dark: #0c7d3a;
+  --green-soft: #e3f7ea;
+
+  --sky: #1f73d8; /* friendly support blue */
+  --sky-dark: #135bb0;
+  --sky-soft: #e6f0fc;
+
+  --amber: #f5a31a; /* sign-yellow accent / the road */
+  --amber-soft: #fff3da;
+
+  --red: #e23b4e;
+  --red-soft: #fde7ea;
+
+  --line: #e4e9f0;
+  --bg: #f6f8fb;
   --card: #ffffff;
-  --radius: 14px;
-  --shadow: 0 1px 2px rgba(16, 36, 64, 0.06), 0 6px 20px rgba(16, 36, 64, 0.07);
+
+  /* legacy aliases kept so nothing breaks */
+  --blue: var(--sky);
+  --blue-dark: var(--sky-dark);
+  --blue-soft: var(--sky-soft);
+
+  --radius: 18px;
+  --radius-sm: 12px;
+  --shadow-sm: 0 1px 2px rgba(16, 32, 56, 0.06);
+  --shadow: 0 2px 6px rgba(16, 32, 56, 0.06), 0 12px 28px rgba(16, 32, 56, 0.08);
+  --shadow-pop: 0 8px 24px rgba(17, 161, 74, 0.28);
   --tap: 48px;
   --maxw: 760px;
-  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+
+  --font-display: 'Poppins', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-body: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  font-family: var(--font-body);
 }
 
 * {
@@ -34,17 +55,26 @@ body {
 
 body {
   line-height: 1.5;
+  /* subtle road-haze gradient behind the soft bg */
+  background-image:
+    radial-gradient(1200px 460px at 50% -180px, rgba(31, 115, 216, 0.1), transparent 70%);
+  background-attachment: fixed;
 }
 
 a {
-  color: var(--blue);
+  color: var(--sky-dark);
 }
 
 h1,
 h2,
 h3 {
-  line-height: 1.2;
+  font-family: var(--font-display);
+  line-height: 1.12;
+  letter-spacing: -0.01em;
   margin: 0 0 0.4em;
+}
+h1 {
+  font-weight: 800;
 }
 
 #app {
@@ -77,38 +107,60 @@ h3 {
   justify-content: center;
   gap: 8px;
   min-height: var(--tap);
-  padding: 12px 20px;
-  border-radius: 12px;
-  border: 1px solid transparent;
-  background: var(--blue);
+  padding: 13px 22px;
+  border-radius: 14px;
+  border: 1.5px solid transparent;
+  background: var(--ink-2);
   color: #fff;
+  font-family: var(--font-display);
   font-size: 1rem;
-  font-weight: 650;
+  font-weight: 700;
+  letter-spacing: 0.01em;
   cursor: pointer;
   text-decoration: none;
+  box-shadow: 0 6px 16px rgba(15, 27, 45, 0.18);
   transition:
-    transform 0.04s ease,
+    transform 0.08s ease,
     background 0.15s ease,
-    box-shadow 0.15s ease;
+    box-shadow 0.18s ease,
+    filter 0.15s ease;
+}
+
+.btn:hover {
+  filter: brightness(1.04);
 }
 
 .btn:active {
-  transform: translateY(1px);
+  transform: translateY(2px);
+  box-shadow: 0 2px 8px rgba(15, 27, 45, 0.18);
+}
+
+.btn:focus-visible {
+  outline: 3px solid var(--amber);
+  outline-offset: 2px;
 }
 
 .btn:disabled {
-  opacity: 0.5;
+  opacity: 0.45;
   cursor: not-allowed;
+  box-shadow: none;
+  transform: none;
 }
 
 .btn--ghost {
   background: #fff;
-  color: var(--blue);
+  color: var(--ink);
   border-color: var(--line);
+  box-shadow: var(--shadow-sm);
+}
+.btn--ghost:hover {
+  border-color: var(--sky);
+  filter: none;
 }
 
 .btn--green {
   background: var(--green);
+  box-shadow: var(--shadow-pop);
 }
 
 .btn--block {
@@ -116,8 +168,9 @@ h3 {
 }
 
 .btn--lg {
-  font-size: 1.1rem;
-  min-height: 56px;
+  font-size: 1.12rem;
+  min-height: 58px;
+  border-radius: 16px;
 }
 
 /* ---- Misc ---- */
@@ -126,23 +179,32 @@ h3 {
 }
 
 .pill {
-  display: inline-block;
-  padding: 3px 10px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 12px;
   border-radius: 999px;
-  font-size: 0.8rem;
-  font-weight: 600;
-  background: var(--blue-soft);
-  color: var(--blue-dark);
+  font-family: var(--font-display);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  background: var(--sky-soft);
+  color: var(--sky-dark);
 }
 
 .pill--green {
   background: var(--green-soft);
-  color: var(--green);
+  color: var(--green-dark);
 }
 
 .pill--red {
   background: var(--red-soft);
   color: var(--red);
+}
+
+.pill--amber {
+  background: var(--amber-soft);
+  color: #9a6708;
 }
 
 .row {
@@ -157,10 +219,9 @@ h3 {
   gap: 12px;
 }
 
-@media (min-width: 560px) {
-  .grid--2 {
-    grid-template-columns: 1fr 1fr;
-  }
+/* Mobile-first: feature/deck pairs sit two-up even on phones */
+.grid--2 {
+  grid-template-columns: 1fr 1fr;
 }
 
 .center {
@@ -168,7 +229,7 @@ h3 {
 }
 
 .stack > * + * {
-  margin-top: 12px;
+  margin-top: 14px;
 }
 
 .visually-hidden {
@@ -177,4 +238,77 @@ h3 {
   height: 1px;
   overflow: hidden;
   clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* Skip link becomes visible on focus */
+.skip {
+  position: fixed;
+  top: 8px;
+  left: 8px;
+  z-index: 100;
+  transform: translateY(-150%);
+  background: var(--ink-2);
+  color: #fff;
+  padding: 10px 16px;
+  border-radius: 10px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: transform 0.18s ease;
+}
+.skip:focus {
+  transform: translateY(0);
+}
+
+/* ---- Motion primitives (shared feedback) ---- */
+@keyframes pop-in {
+  0% {
+    transform: scale(0.7);
+    opacity: 0;
+  }
+  60% {
+    transform: scale(1.12);
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+@keyframes shake {
+  10%,
+  90% {
+    transform: translateX(-2px);
+  }
+  20%,
+  80% {
+    transform: translateX(4px);
+  }
+  30%,
+  50%,
+  70% {
+    transform: translateX(-7px);
+  }
+  40%,
+  60% {
+    transform: translateX(7px);
+  }
+}
+@keyframes rise {
+  from {
+    transform: translateY(10px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
 }

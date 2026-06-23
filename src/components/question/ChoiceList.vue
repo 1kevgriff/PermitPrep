@@ -18,7 +18,14 @@ function classFor(index: number): string {
   }
   if (index === props.answerIndex) return 'choice--correct'
   if (index === props.selectedIndex) return 'choice--wrong'
-  return ''
+  return 'choice--muted'
+}
+
+function showMark(index: number): 'ok' | 'no' | null {
+  if (!props.revealed) return null
+  if (index === props.answerIndex) return 'ok'
+  if (index === props.selectedIndex) return 'no'
+  return null
 }
 </script>
 
@@ -35,6 +42,10 @@ function classFor(index: number): string {
       >
         <span class="choice__letter">{{ letters[index] }}</span>
         <span class="choice__text">{{ choice }}</span>
+        <span v-if="showMark(index)" class="choice__mark" :class="`choice__mark--${showMark(index)}`" aria-hidden="true">
+          <svg v-if="showMark(index) === 'ok'" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 13l4 4L19 7" /></svg>
+          <svg v-else viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M6 6l12 12M18 6 6 18" /></svg>
+        </span>
       </button>
     </li>
   </ul>
@@ -54,14 +65,32 @@ function classFor(index: number): string {
   align-items: center;
   gap: 12px;
   text-align: left;
-  min-height: var(--tap);
+  min-height: 56px;
   padding: 12px 14px;
-  border: 1.5px solid var(--line);
-  border-radius: 12px;
+  border: 2px solid var(--line);
+  border-radius: 14px;
   background: #fff;
   color: var(--ink);
+  font-family: var(--font-body);
   font-size: 1rem;
+  font-weight: 500;
   cursor: pointer;
+  box-shadow: var(--shadow-sm);
+  transition:
+    border-color 0.14s ease,
+    background 0.14s ease,
+    transform 0.08s ease,
+    box-shadow 0.14s ease;
+}
+.choice:not(:disabled):hover {
+  border-color: #c4d2e4;
+}
+.choice:not(:disabled):active {
+  transform: scale(0.99);
+}
+.choice:focus-visible {
+  outline: 3px solid var(--amber);
+  outline-offset: 2px;
 }
 .choice:disabled {
   cursor: default;
@@ -70,21 +99,51 @@ function classFor(index: number): string {
   display: grid;
   place-items: center;
   flex: none;
-  width: 30px;
-  height: 30px;
-  border-radius: 8px;
-  background: var(--blue-soft);
-  color: var(--blue-dark);
+  width: 32px;
+  height: 32px;
+  border-radius: 10px;
+  background: var(--sky-soft);
+  color: var(--sky-dark);
+  font-family: var(--font-display);
   font-weight: 800;
-  font-size: 0.9rem;
+  font-size: 0.92rem;
+  transition:
+    background 0.14s ease,
+    color 0.14s ease;
 }
+.choice__text {
+  flex: 1;
+}
+.choice__mark {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 26px;
+  height: 26px;
+  border-radius: 999px;
+  color: #fff;
+  animation: pop-in 0.32s cubic-bezier(0.34, 1.56, 0.64, 1) both;
+}
+.choice__mark--ok {
+  background: var(--green);
+}
+.choice__mark--no {
+  background: var(--red);
+}
+
 .choice--selected {
-  border-color: var(--blue);
-  background: var(--blue-soft);
+  border-color: var(--sky);
+  background: var(--sky-soft);
 }
+.choice--selected .choice__letter {
+  background: var(--sky);
+  color: #fff;
+}
+
 .choice--correct {
   border-color: var(--green);
   background: var(--green-soft);
+  animation: pop-in 0.34s cubic-bezier(0.34, 1.56, 0.64, 1) both;
 }
 .choice--correct .choice__letter {
   background: var(--green);
@@ -93,9 +152,13 @@ function classFor(index: number): string {
 .choice--wrong {
   border-color: var(--red);
   background: var(--red-soft);
+  animation: shake 0.4s ease both;
 }
 .choice--wrong .choice__letter {
   background: var(--red);
   color: #fff;
+}
+.choice--muted {
+  opacity: 0.55;
 }
 </style>
