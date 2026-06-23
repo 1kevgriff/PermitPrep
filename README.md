@@ -23,7 +23,7 @@ manual PDF (`assets/dmv39.pdf`, 40 pages, 8 sections) — **64 signs** and
 
 ```bash
 npm install
-npm run dev        # http://localhost:5173/VirginiaDMVExam/
+npm run dev        # http://localhost:5173/PermitPrep/
 npm run test       # unit + component + integration tests (Vitest)
 npm run typecheck  # vue-tsc
 npm run lint       # eslint
@@ -66,10 +66,11 @@ against the rendered PDF.
 Pushing to `main`/`master` runs `.github/workflows/deploy.yml`, which type-checks,
 tests, builds, and publishes `dist/` to GitHub Pages.
 
-The app uses **hash routing** and Vite `base: '/VirginiaDMVExam/'`, so it expects
-to be served from a repo named **`VirginiaDMVExam`**
-(`https://<user>.github.io/VirginiaDMVExam/`). If you use a different repo name,
-update `base` in `vite.config.ts` and `createWebHashHistory`'s base accordingly.
+The app uses **hash routing** and Vite `base: '/PermitPrep/'`, so it expects
+to be served from a repo named **`PermitPrep`**
+(`https://<user>.github.io/PermitPrep/`). If you use a different repo name,
+update `base` in `vite.config.ts` — the router derives its base from
+`import.meta.env.BASE_URL`, so no other change is needed.
 
 ## Disclaimer
 

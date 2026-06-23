@@ -2,9 +2,9 @@ import { fileURLToPath, URL } from 'node:url'
 import { defineConfig } from 'vitest/config'
 import vue from '@vitejs/plugin-vue'
 
-// Static SPA served from GitHub Pages at /VirginiaDMVExam/.
+// Static SPA served from GitHub Pages at /PermitPrep/.
 export default defineConfig({
-  base: '/VirginiaDMVExam/',
+  base: '/PermitPrep/',
   plugins: [vue()],
   resolve: {
     alias: { '@': fileURLToPath(new URL('./src', import.meta.url)) },
