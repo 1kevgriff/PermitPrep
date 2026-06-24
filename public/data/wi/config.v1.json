@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "wi",
+  "name": "Wisconsin",
+  "abbr": "WI",
+  "agency": "Wisconsin DMV",
+  "brand": {
+    "mark": "WI",
+    "appName": "Permit Prep",
+    "agencyPill": "Wisconsin DMV"
+  },
+  "home": {
+    "eyebrow": "Wisconsin learner's permit",
+    "heading": "Pass your Wisconsin permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 50,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Wisconsin Motorists' Handbook",
+    "sourceUrl": "https://wisconsindot.gov/documents/dmv/shared/bds126-motorists-handbook.pdf"
+  },
+  "data": {
+    "manual": "wi/manual.v1.json",
+    "questions": "wi/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}

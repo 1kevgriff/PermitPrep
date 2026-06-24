@@ -7,6 +7,12 @@
       "name": "Virginia",
       "abbr": "VA",
       "config": "va/config.v1.json"
+    },
+    {
+      "id": "wi",
+      "name": "Wisconsin",
+      "abbr": "WI",
+      "config": "wi/config.v1.json"
     }
   ]
 }
