@@ -3,6 +3,12 @@
   "default": "va",
   "states": [
     {
+      "id": "or",
+      "name": "Oregon",
+      "abbr": "OR",
+      "config": "or/config.v1.json"
+    },
+    {
       "id": "va",
       "name": "Virginia",
       "abbr": "VA",

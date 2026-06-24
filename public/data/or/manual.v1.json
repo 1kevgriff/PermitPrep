@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Oregon Driver Manual: 2024-2025",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs use shape and color to communicate meaning. A red octagon always means stop, a downward-pointing triangle means yield, yellow diamonds are warning signs, orange signs mark construction and work zones, and a yellow pentagon marks a school zone or crossing. Learning these shapes and colors lets you react even before you can read the words."
+        },
+        {
+          "type": "paragraph",
+          "text": "A steady red light means stop and remain stopped, while a steady yellow warns that the light is about to turn red and you should stop if you can do so safely. A flashing red light means stop and proceed only when it is safe, like a stop sign, and a flashing yellow light means slow down and proceed with caution. A green arrow gives you a protected turn in the direction of the arrow."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and separate traffic. A solid yellow line separates traffic moving in opposite directions, and you may not cross a solid yellow line on your side to pass. A broken line may be crossed when it is safe. White lines separate traffic moving in the same direction, and a single solid white line discourages lane changes."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who goes first, but the law really tells you who must yield, never who may force their way through. At a four-way stop, the first vehicle to arrive goes first, and when two vehicles arrive at the same time, the driver on the left yields to the driver on the right. When turning left, you must yield to oncoming traffic and to pedestrians in the crosswalk."
+        },
+        {
+          "type": "paragraph",
+          "text": "You must always yield to pedestrians in marked and unmarked crosswalks and stop for blind pedestrians using a white cane or guide dog. When entering a road from a driveway, alley, or parking lot, yield to traffic already on the road and to people on the sidewalk you are crossing. Emergency vehicles with lights and sirens always have the right-of-way, so pull to the right and stop until they pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "In Oregon you may turn right on a red light after coming to a complete stop and yielding to pedestrians and cross traffic, unless a sign prohibits it. You may also turn left on red from a one-way street onto another one-way street after stopping. Always signal your turns and complete your braking before you begin the turn."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Oregon's basic speed rule requires you to drive at a speed that is reasonable and safe for current conditions, which may be slower than the posted limit in rain, fog, heavy traffic, or darkness. Statutory speeds where no sign is posted include 25 mph in residential districts, 20 mph in business districts and most school zones, and a 55 mph basic rule on many rural roads."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep a safe following distance using the three-second rule: pick a fixed point the vehicle ahead passes, then count three seconds before you reach it. Increase your following distance to four seconds or more in rain, snow, fog, or when following motorcycles, large trucks, or being tailgated. More space gives you time to see, react, and stop."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed affects both your stopping distance and the force of a crash. Your total stopping distance is your perception and reaction distance plus your braking distance, and braking distance grows much faster than speed. Slow down before curves and intersections rather than braking in them, and never overdrive your headlights at night."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe, and only on the left except in specific situations such as a vehicle turning left. Never pass when a solid yellow line is on your side, when approaching a hill or curve where you cannot see far enough ahead, within an intersection, or at a railroad crossing. After passing, signal and return to your lane only when you can see the passed vehicle in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "Slower traffic should keep right so faster traffic can pass on the left. On a multilane road, choose your lane based on your speed and planned turns, and signal every lane change. Always check your mirrors and look over your shoulder to clear your blind spot before changing lanes, because mirrors alone do not show everything."
+        },
+        {
+          "type": "paragraph",
+          "text": "You must never cross the centerline to pass when oncoming traffic is close enough to be a hazard. Do not increase your speed when another driver is passing you. On two-lane roads, be patient, and remember that the few seconds you save by an unsafe pass are not worth the risk of a head-on collision."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roads are shared with pedestrians, bicyclists, motorcyclists, large trucks, and transit vehicles, and many crashes happen because drivers fail to look for them. Bicyclists have the same rights and duties as drivers and may use a full lane when needed; give them room and check for them before turning or opening a door. Motorcycles are small and easy to miss, so look twice and allow them a full lane."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have big blind spots, need much more room to stop, and swing wide on turns, so do not cut in front of them or linger alongside them. When you cannot see the truck driver's mirrors, the driver cannot see you. Oregon's Move Over law requires you to change lanes away from a stopped emergency, tow, or other vehicle with flashing lights, or, if you cannot move over, to slow to at least 5 mph below the posted speed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always stop for a school bus with flashing red lights and an extended stop arm, in both directions, unless you are on the other side of a divided highway. Watch for children near schools, parks, and bus stops, and be especially alert in neighborhoods where people may step into the street."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Oregon it is illegal to drive with a blood alcohol concentration of 0.08 percent or more if you are 21 or older. Drivers under 21 are held to a zero-tolerance standard, meaning any measurable amount of alcohol is illegal. Alcohol, marijuana, prescription drugs, and over-the-counter medicines can all impair your judgment, vision, and reaction time, and there is no way to sober up quickly."
+        },
+        {
+          "type": "paragraph",
+          "text": "By driving in Oregon you agree to the Implied Consent law, so refusing a breath, blood, or urine test after a lawful DUII arrest leads to an automatic license suspension. A DUII conviction brings fines, possible jail, and a license suspension, and the consequences are even more severe for drivers under 21."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is a leading cause of crashes. Oregon drivers 18 and older may only use a mobile electronic device with a hands-free accessory, and drivers under 18 may not use any mobile device, even hands-free, while driving. The safest choice is to put the phone away, set your route before you start, and keep your full attention on driving."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, fog, snow, and ice reduce traction and visibility, so slow down, increase your following distance, and use low-beam headlights. Oregon law requires headlights from sunset to sunrise and any time you cannot see clearly at least 1,000 feet ahead. A good practice is to turn on your headlights whenever your windshield wipers are running."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you start to skid, ease off the gas, avoid slamming the brakes, and steer gently in the direction you want the front of the car to go. Bridges and overpasses freeze before other roads, so approach them with caution in cold weather. If your vehicle hydroplanes on water, ease off the accelerator and keep the steering wheel straight until the tires regain grip."
+        },
+        {
+          "type": "paragraph",
+          "text": "In dense fog, use low beams rather than high beams, because high beams reflect off the fog and reduce visibility. If conditions become too dangerous to continue, pull completely off the road, turn on your hazard lights, and wait for conditions to improve. Always carry good wiper blades and properly inflated tires for the wet Oregon climate."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking, choose a legal, safe spot and do not block traffic, crosswalks, driveways, fire hydrants, or wheelchair ramps. You may not park within a marked no-parking zone, on a sidewalk, or in a space reserved for people with disabilities unless you have a valid permit. Set your parking brake and leave the wheels turned appropriately, especially when parking on a hill."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the vehicle will not roll into traffic if the brakes fail. Facing downhill, turn the front wheels toward the curb; facing uphill with a curb, turn the wheels away from the curb so the tire rests against it; with no curb, always turn the wheels toward the edge of the road."
+        },
+        {
+          "type": "paragraph",
+          "text": "Everyone in the vehicle must be properly restrained. Oregon requires a safety belt in every seating position, children must ride in a child seat until they reach 40 pounds, infants must ride rear-facing until at least age two, and children must use a booster until they are 4 feet 9 inches tall or age eight and the adult belt fits correctly. Buckling up is the single most effective thing you can do to survive a crash."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "To get an Oregon instruction permit you must be at least 15 years old and pass the knowledge and vision tests. The knowledge test has 35 questions, and you must answer at least 28 correctly to pass, which is 80 percent. With a permit, you must always drive with a licensed driver who is 21 or older seated next to you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Drivers under 18 follow Oregon's provisional (graduated) licensing program. You must be at least 16, hold your permit for at least six months, and complete either 50 hours of supervised driving plus an approved traffic safety education course or 100 hours of supervised driving without the course. The supervising driver must have been licensed for at least three years for those hours to count."
+        },
+        {
+          "type": "paragraph",
+          "text": "Once you receive a provisional license, restrictions apply for the first year or until you turn 18, whichever comes first. During the first six months you may not carry passengers under 20 who are not immediate family, and during the second six months no more than three such passengers. You also may not drive between midnight and 5 a.m. except for limited reasons such as travel to and from work or a school event."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic laws are enforced through citations, fines, and points-style records that can lead to license suspension. Serious or repeated violations, such as DUII, reckless driving, or driving while suspended, carry heavy penalties including fines, suspension, and possible jail. Violating provisional license restrictions can extend the restriction period and delay full licensing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Refusing a breath or blood test after a DUII arrest triggers an automatic suspension under the Implied Consent law, separate from any criminal penalty. If you are stopped by police, pull over safely to the right, stay in your vehicle, and keep your hands visible. You must carry and show your license, registration, and proof of insurance when asked."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oregon requires every driver to carry liability insurance, and driving without it can result in fines and suspension. If you are involved in a crash that causes injury, death, or significant property damage, you must stop, exchange information, render aid, and report the crash as required by law. Leaving the scene of such a crash is a serious crime."
+        }
+      ]
+    }
+  ]
+}
