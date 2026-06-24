@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Kansas Driving Handbook (Non-Commercial Driver's Manual)",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs are grouped by shape and color so you can recognize them quickly. Red and white signs such as the octagonal STOP and the triangular YIELD give commands you must obey, yellow signs warn you of conditions ahead, orange signs mark construction and work zones, and green signs give directions and distances. A red circle with a slash always means an action is prohibited."
+        },
+        {
+          "type": "paragraph",
+          "text": "At a traffic signal, a steady red light means stop and remain stopped until the light turns green. A steady yellow light warns that the signal is about to turn red, so you should stop if you can do so safely. A flashing red light means stop, then proceed when it is safe, while a flashing yellow light means slow down and proceed with caution. A green arrow gives you a protected turn in the direction of the arrow."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and separate traffic. A solid yellow line marks the center of a two-way road, and you may not cross a solid yellow line on your side to pass. Broken yellow or white lines may be crossed when it is safe. Where two solid yellow lines appear, passing is prohibited in both directions. White lines separate lanes of traffic moving in the same direction."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who should go first, but the law never gives you the right-of-way; it only states who must yield. At a four-way stop, the first vehicle to arrive goes first, and when two vehicles arrive at the same time, the driver on the left yields to the driver on the right. Always yield to pedestrians in crosswalks and to emergency vehicles using lights or sirens."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning, signal at least 100 feet before the turn and move into the proper lane in advance. For a left turn at an intersection, yield to oncoming traffic and pedestrians before proceeding. For a right turn, keep close to the right edge and watch for bicyclists and pedestrians. In Kansas you may turn right on a red light after coming to a complete stop, unless a sign prohibits it, once you have yielded to cross traffic and pedestrians."
+        },
+        {
+          "type": "paragraph",
+          "text": "Drivers entering a road from a driveway, alley, or private property must yield to traffic already on the roadway. At an uncontrolled intersection, slow down, look both ways, and yield to any vehicle that reaches the intersection first or is already crossing."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kansas sets default speed limits that apply unless signs say otherwise. In an urban district and on residential streets the limit is 30 mph, on county and township roads it is 55 mph, on two-lane state highways it is 65 mph, on divided highways it is 70 mph, and on rural interstate highways it is 75 mph. You must always drive at a speed that is reasonable and safe for current conditions, which may be slower than the posted limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Manage the space around your vehicle by keeping a safe following distance. The three-second rule gives you a simple way to measure: pick a fixed point, and if you pass it less than three seconds after the vehicle ahead, you are following too closely. Increase your following distance to four or more seconds in rain, fog, snow, or other poor conditions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speeding reduces the time you have to react and increases your stopping distance. The faster you travel, the longer it takes to stop, because total stopping distance includes both your reaction distance and your braking distance. Slow down before curves and intersections, and never drive so fast that you cannot stop within the distance you can see ahead."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe. Do not pass when a solid yellow line is on your side of the road, when approaching a hill or curve where you cannot see far enough ahead, within 100 feet of an intersection or railroad crossing, or when a school bus is loading or unloading children. Before passing, check mirrors and blind spots, signal, and complete the pass quickly without exceeding the speed limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "On multi-lane roads, keep right except to pass. Slower traffic should stay in the right lane, and the left lane is intended for passing. Signal every lane change, check your blind spot by glancing over your shoulder, and make sure there is enough room before moving over."
+        },
+        {
+          "type": "paragraph",
+          "text": "When another driver is passing you, do not speed up; maintain or slightly reduce your speed so the pass can be completed safely. Use turn signals for every lane change and turn, and cancel your signal once the maneuver is complete."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "You share the road with pedestrians, bicyclists, motorcyclists, large trucks, and farm equipment. Bicyclists have the same rights and duties as drivers, so give them room and pass with a safe distance. Watch for motorcycles, which are smaller and easier to miss, and always check your blind spots before changing lanes or turning."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks need more room to stop and turn and have large blind spots, often called no-zones, on all four sides. Avoid lingering beside a truck, and never cut in front of one closely because trucks cannot stop as quickly as cars. When you cannot see the truck driver's mirrors, the driver cannot see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kansas law requires you to slow down and, when possible, move over a lane for stopped emergency vehicles, tow trucks, road maintenance vehicles, and any disabled vehicle displaying flashing hazard lights. When you hear a siren or see flashing emergency lights, pull to the right edge of the road and stop until the emergency vehicle passes."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Kansas it is illegal for a driver age 21 or older to operate a vehicle with a blood alcohol concentration (BAC) of 0.08% or higher. Drivers under 21 are subject to a zero-tolerance law and may be charged with a violation at a BAC of 0.02% or greater. Alcohol slows reaction time, impairs judgment, and reduces coordination, and there is no quick way to sober up; only time removes alcohol from your body."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distracted driving is anything that takes your eyes, hands, or mind off driving. Texting while driving is illegal for all drivers in Kansas, and drivers with an instruction permit or restricted (intermediate) license may not use a wireless device while driving at all. Put your phone away before you start driving so you can keep your full attention on the road."
+        },
+        {
+          "type": "paragraph",
+          "text": "Many prescription and over-the-counter medications can impair driving, as can illegal drugs and fatigue. If a medicine warns against operating machinery, do not drive after taking it. Driving drowsy is also dangerous, so get rest before long trips and pull over if you feel sleepy."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kansas law requires you to turn on your headlights from a half-hour after sunset to a half-hour before sunrise, and any time you cannot clearly see persons or vehicles 1,000 feet ahead. You must also use your headlights whenever your windshield wipers are in continuous use because of rain, sleet, or snow. Use low beams in fog, rain, and snow, because high beams reflect off precipitation and reduce visibility."
+        },
+        {
+          "type": "paragraph",
+          "text": "Slow down in rain, snow, ice, and fog, and increase your following distance to allow for longer stopping distances. The first rain after a dry spell makes roads especially slippery as oil rises to the surface. Bridges and overpasses freeze before other road surfaces, so approach them with extra caution in cold weather."
+        },
+        {
+          "type": "paragraph",
+          "text": "If your vehicle begins to skid, ease off the accelerator and steer gently in the direction you want the front of the car to go; do not slam on the brakes. If your wheels drift off the pavement, do not jerk the wheel; ease off the gas, slow down, and steer back onto the road when it is safe."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park only where it is legal and safe. Do not park within an intersection, on a crosswalk, on a sidewalk, within 15 feet of a fire hydrant, in front of a driveway, or where a sign prohibits parking. Never stop or park in a way that blocks traffic or a marked accessible parking space without a valid permit."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the vehicle will roll away from traffic if it moves. Facing downhill, turn the wheels toward the curb; facing uphill with a curb, turn the wheels away from the curb so the tire rests against it. Always set the parking brake and leave the vehicle in park or in gear."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kansas requires all front-seat occupants and all drivers and passengers under 18 to wear a seat belt. Children under age 4 must ride in a child safety seat, children ages 4 through 7 must use a booster seat unless they weigh more than 80 pounds or are taller than 4 feet 9 inches, and children ages 8 through 13 must be secured in a safety belt."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kansas uses a graduated driver licensing (GDL) program for teen drivers. You may apply for an instruction permit at age 14 after passing the vision and written knowledge tests. With an instruction permit you may drive only when a licensed adult who is at least 21 years old is seated in the front seat beside you."
+        },
+        {
+          "type": "paragraph",
+          "text": "To move from a permit to a restricted license, you must have held the instruction permit for the required time and complete at least 50 hours of supervised driving practice, including at least 10 hours at night, certified by a parent or guardian. The written knowledge exam has 25 questions, and you must answer at least 80 percent correctly to pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "Drivers under 16 may not carry nonsibling minor passengers, and for the first six months after turning 16 a driver may carry no more than one passenger under 18 who is not an immediate family member. Restricted drivers also may not drive between 9 p.m. and 5 a.m. except when driving to or from work or a school activity. Drivers with a permit or restricted license may not use a cell phone while driving."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kansas has an implied consent law: by driving on Kansas roads, you have agreed to submit to testing for alcohol or drugs if a law enforcement officer lawfully requests it. Refusing the test results in an automatic driver's license suspension, separate from any penalty for driving under the influence."
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic violations add points and consequences to your record. Texting while driving can bring fines, and a first offense may result in a license suspension. A DUI conviction carries fines, possible jail time, license suspension, and may require an ignition interlock device. For drivers under 21, even a low BAC can trigger suspension under the zero-tolerance law."
+        },
+        {
+          "type": "paragraph",
+          "text": "You must obey all lawful orders from law enforcement officers and stop when directed. If you are involved in a crash, you must stop, exchange information, and report the crash as required by law. Driving without a valid license or insurance can result in fines and additional penalties."
+        }
+      ]
+    }
+  ]
+}
