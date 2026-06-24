@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "ky",
+  "name": "Kentucky",
+  "abbr": "KY",
+  "agency": "Kentucky Transportation Cabinet, Division of Driver Licensing",
+  "brand": {
+    "mark": "KY",
+    "appName": "Permit Prep",
+    "agencyPill": "Kentucky Transportation Cabinet, Division of Driver Licensing"
+  },
+  "home": {
+    "eyebrow": "Kentucky learner's permit",
+    "heading": "Pass your Kentucky permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 40,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Kentucky Driver Manual",
+    "sourceUrl": "https://drive.ky.gov/Drivers/Documents/Kentucky-Driver-Manual.pdf"
+  },
+  "data": {
+    "manual": "ky/manual.v1.json",
+    "questions": "ky/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}

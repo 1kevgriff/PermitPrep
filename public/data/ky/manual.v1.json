@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Kentucky Driver Manual",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs are grouped by shape and color so you can recognize them quickly. Regulatory signs, such as STOP and YIELD, tell you what you must or must not do; a red octagon always means stop. Warning signs are usually yellow diamonds that alert you to hazards ahead, while orange signs warn of construction or maintenance zones."
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals control the order of movement at intersections. A steady red light means stop and remain stopped until the light turns green; a steady yellow light warns that the signal is about to turn red, so you should stop if you can do so safely. A flashing red light is treated like a stop sign, and a flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings give direction without words. A solid yellow line separates traffic moving in opposite directions, and you may not cross it to pass when it is solid on your side; broken yellow or white lines may be crossed when it is safe. White lines separate lanes of traffic going the same direction, and a solid white line discourages lane changes."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who should go first to prevent collisions, but the law never gives anyone the right-of-way; it only says who must yield. At an intersection without signs or signals, yield to the vehicle on your right when you arrive at about the same time. When turning left, you must yield to oncoming traffic and to pedestrians crossing the road you are entering."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pedestrians in a crosswalk always have the right-of-way, and you must yield to them. You must also yield to emergency vehicles using sirens or flashing lights by pulling to the right edge of the road and stopping until they pass. At a four-way stop, the first vehicle to stop is the first to go."
+        },
+        {
+          "type": "paragraph",
+          "text": "In Kentucky you may turn right on a red light after coming to a complete stop, unless a sign prohibits it, but you must first yield to pedestrians and cross traffic. Always signal your intention to turn at least 100 feet before the turn, and position your vehicle in the correct lane well in advance."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "You must always drive at a speed that is reasonable and prudent for conditions, regardless of the posted limit. In Kentucky, unless otherwise posted, the default speed limit is 35 mph in business or residential districts, 55 mph on most state highways, and 65 mph on interstates and parkways, with some rural interstate segments posted at 70 mph."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maintaining a safe following distance gives you time to react. A common rule is to keep at least a three-second gap behind the vehicle ahead, increasing it in rain, fog, or heavy traffic. Tailgating is a leading cause of rear-end crashes, so leave more space at higher speeds and when conditions are poor."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed should be reduced near schools, in work zones, and in poor weather. Driving too fast for conditions can cause you to lose control or be unable to stop in time. Remember that posted limits are maximums for ideal conditions, not targets to reach in rain, snow, or fog."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass other vehicles only when it is legal and safe. Never pass when a solid yellow line is on your side of the center, when approaching a hill or curve where you cannot see far enough ahead, or within 100 feet of an intersection or railroad crossing. Signal, check your mirrors and blind spots, and return to your lane only when you can see the passed vehicle in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "On multilane roads, keep right except to pass. Slower traffic should stay in the right lane, leaving left lanes open for passing. Use your turn signal before every lane change and check your blind spots by glancing over your shoulder, because mirrors alone do not show everything."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is illegal to pass on the right except in limited situations, such as when a vehicle ahead is turning left and there is room to pass safely. Never exceed the speed limit to complete a pass, and do not pass a stopped school bus that is loading or unloading children when its red lights are flashing."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Motorcycles, bicycles, and pedestrians have the same rights to the road as other drivers, but they are more vulnerable. Give motorcycles a full lane and increase your following distance, because they can stop quickly and are harder to see. Check carefully for motorcycles and bicycles before changing lanes or turning."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have big blind spots and need more room to stop and turn. Avoid lingering beside a truck, and never cut in front of one closely, since it cannot stop as quickly as a car. When a truck is turning right, it may swing wide to the left first, so do not try to squeeze past on the right."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kentucky's Slow Down, Move Over law requires you to move over a lane when possible, or slow down if you cannot, when approaching any stopped vehicle displaying flashing or warning lights, including emergency vehicles, tow trucks, and disabled cars. This protects workers and stranded motorists on the roadside."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving under the influence of alcohol or drugs is dangerous and illegal. In Kentucky, a driver age 21 or older is legally impaired at a blood alcohol concentration (BAC) of 0.08 percent or higher. For drivers under 21, a zero-tolerance law makes it illegal to drive with a BAC of 0.02 percent or more."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcohol slows reaction time, impairs judgment, and reduces coordination, and there is no quick way to sober up; only time removes alcohol from your body. Many prescription and over-the-counter medications can also impair driving, so read warning labels before getting behind the wheel."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distracted driving takes your attention off the road. Kentucky bans texting while driving for all drivers, and drivers under 18 may not use any personal communication device while the vehicle is in motion, except in an emergency. The safest choice is to put the phone away before you start driving."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, snow, fog, and ice make roads slippery and reduce visibility, so slow down and increase your following distance. Roads are most slippery during the first few minutes of rain when water mixes with oil on the pavement. In Kentucky you must turn on your headlights whenever weather conditions require the use of windshield wipers."
+        },
+        {
+          "type": "paragraph",
+          "text": "If your vehicle begins to skid, ease off the accelerator and steer in the direction you want the front of the car to go; do not slam on the brakes. In fog, use low-beam headlights rather than high beams, because high beams reflect off the fog and reduce your vision."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hydroplaning happens when tires ride up on a film of water and lose contact with the road. To reduce the risk, slow down, keep your tires properly inflated, and avoid standing water. At night, dim your high beams to low when you are within 500 feet of an oncoming vehicle or following another vehicle."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the vehicle will roll away from traffic if the brakes fail. Facing downhill, turn the wheels toward the curb; facing uphill with a curb, turn them away from the curb. Always set the parking brake and shift to park, or to a low gear with a manual transmission."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is illegal to park in front of a fire hydrant, in a crosswalk, on a sidewalk, within an intersection, or in a space reserved for people with disabilities unless you have a permit. Do not park where you would block traffic or where signs prohibit parking."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use your turn signals to communicate with other drivers, and always obey lane markings and traffic control devices. When entering a roadway from a parked position, yield to moving traffic and signal before pulling out. Keep your headlights on from a half hour after sunset to a half hour before sunrise."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kentucky uses a graduated driver licensing system for new drivers. You may apply for an instruction (learner's) permit at age 16 after passing a vision screening and a written knowledge test. While holding the permit, a licensed driver who is at least 21 years old must sit in the front passenger seat at all times."
+        },
+        {
+          "type": "paragraph",
+          "text": "Permit holders must complete at least 60 hours of supervised driving practice, including at least 10 hours at night, before moving to the next stage. The permit must be held for at least 180 days, conviction-free, before you can take the road skills test for an intermediate license."
+        },
+        {
+          "type": "paragraph",
+          "text": "Permit and intermediate license holders may not drive between midnight and 6 a.m. except for work, school, or an emergency, and may carry no more than one passenger under age 20 who is not an immediate family member. The written knowledge test has 40 questions, and you must answer at least 80 percent correctly to pass."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kentucky's implied consent law means that by driving on public roads you agree to submit to testing for alcohol or drugs if a law enforcement officer has reasonable grounds. Refusing the test can result in suspension of your driver's license and may be used against you in court."
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic violations add up. Convictions can lead to fines, points on your driving record, higher insurance costs, and license suspension. A DUI conviction carries serious penalties, including possible jail time, fines, and loss of driving privileges, with stricter consequences for repeat offenses."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seat belts are required for the driver and all passengers in vehicles, and a child 40 inches or shorter must ride in a child safety seat. Children under age 8 who are between 40 and 57 inches tall must use a booster seat. Following traffic laws and buckling up are the simplest ways to avoid penalties and stay safe."
+        }
+      ]
+    }
+  ]
+}
