@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "la",
+  "name": "Louisiana",
+  "abbr": "LA",
+  "agency": "Louisiana Office of Motor Vehicles (OMV)",
+  "brand": {
+    "mark": "LA",
+    "appName": "Permit Prep",
+    "agencyPill": "Louisiana Office of Motor Vehicles (OMV)"
+  },
+  "home": {
+    "eyebrow": "Louisiana learner's permit",
+    "heading": "Pass your Louisiana permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 40,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Louisiana Class D & E Driver's Guide (DPSMV2052)",
+    "sourceUrl": "https://expresslane.la.gov/omv/resources/driver-manuals/"
+  },
+  "data": {
+    "manual": "la/manual.v1.json",
+    "questions": "la/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}

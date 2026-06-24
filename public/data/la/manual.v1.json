@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Louisiana Class D & E Driver's Guide (DPSMV2052)",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals tell drivers when to stop, go, and use caution. A steady red light means come to a complete stop behind the stop line or crosswalk and wait. A steady yellow light warns that the signal is about to turn red, so you should stop if you can do so safely. A green light means you may proceed if the intersection is clear, but you must still yield to pedestrians and vehicles already in the intersection."
+        },
+        {
+          "type": "paragraph",
+          "text": "A flashing red light is treated like a stop sign: stop completely, yield, then proceed when safe. A flashing yellow light means slow down and proceed with caution. A red arrow means you may not turn in that direction, while a green arrow gives you a protected turn. In Louisiana you may turn right on a steady red light after coming to a full stop and yielding, unless a sign prohibits it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings and sign colors carry meaning too. A solid yellow line marks the center of a two-way road and must not be crossed to pass. Red signs (stop, yield, do not enter, wrong way) and red markings warn of serious hazards, yellow signs give general warnings, and orange signs mark construction and work zones. White regulatory signs state the law, such as posted speed limits."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules decide who goes first when paths cross; the law says who must yield, not who has an automatic right to go. At a four-way stop, the first vehicle to stop proceeds first, and when two arrive at the same time, the driver on the left yields to the driver on the right. You must always yield to pedestrians in a crosswalk and to vehicles already lawfully in an intersection."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning left, you must yield to oncoming traffic that is close enough to be a hazard and to pedestrians crossing your path. Vehicles entering a roadway from a driveway, alley, or private road must yield to traffic already on the road. Emergency vehicles using lights or sirens always have the right-of-way, and you must pull over to the right and stop until they pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "Make turns from the proper lane: right turns from the rightmost lane close to the curb, and left turns from the lane nearest the center line. Signal your intent well before the turn so other drivers can react. At roundabouts, yield to traffic already circulating and enter only when there is a safe gap."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed limits set the maximum legal speed under ideal conditions, but you must always drive at a speed that is reasonable for current traffic, weather, and road conditions. In Louisiana, unless otherwise posted, the speed limit is generally 25 mph in residential and urban districts, 55 mph on rural two-lane highways, and up to 70 mph on interstate highways. School zones are commonly 20 mph when children are present or lights are flashing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Following too closely is a leading cause of rear-end crashes. Use the three-second rule: pick a fixed point the vehicle ahead passes, then count three seconds before you reach the same point. Increase your following distance to four or more seconds in rain, fog, or at night, and leave even more room behind large trucks and motorcycles."
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving too slowly can be as dangerous as speeding because it blocks traffic flow. Keep up with the normal speed of traffic when conditions allow, and use the right lane for slower travel. Slow down before entering curves and adjust your speed for hills, intersections, and heavy traffic."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass other vehicles only when it is legal and safe. Never pass on a hill, curve, or any place where you cannot see far enough ahead, and never cross a solid yellow line on your side of the road to pass. Before passing, check your mirrors, signal, and look over your shoulder to check your blind spot, then return to your lane only after you can see the passed vehicle in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "On multi-lane roads, keep right except to pass. The left lane is intended for passing and faster-moving traffic, and lingering in it can obstruct other drivers. Always signal before changing lanes and never weave between lanes or cut off other vehicles."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some passing situations are prohibited. You may not pass a stopped school bus that is loading or unloading children when its red lights are flashing and its stop arm is extended, unless you are on the opposite side of a divided highway. You also must not exceed the speed limit while passing."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "The road is shared with pedestrians, bicyclists, motorcyclists, and large trucks, and each needs extra care. When passing a bicyclist, Louisiana law requires you to leave a safe distance of at least three feet. Motorcycles are smaller and harder to see, so check your blind spots carefully and give them a full lane."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks have big blind spots, need more room to turn, and take longer to stop. Do not cut in front of a truck and then brake suddenly, and avoid lingering alongside one. Under Louisiana's Move Over law, when you approach a stopped emergency, police, tow, or utility vehicle displaying flashing lights, you must move over a lane if you can do so safely, or slow down well below the speed limit if you cannot."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always yield to pedestrians in crosswalks and at intersections, and watch for children, older adults, and people with disabilities who may move slowly or unpredictably. Be especially alert in school zones, parking lots, and residential neighborhoods where people may step into the road."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving under the influence of alcohol or drugs is illegal and dangerous. In Louisiana it is illegal for a driver age 21 or older to operate a vehicle with a blood alcohol concentration (BAC) of 0.08 percent or higher. For drivers under 21, a zero-tolerance law applies, and a BAC of just 0.02 percent or higher is a violation. Even legal prescription and over-the-counter medications can impair your ability to drive."
+        },
+        {
+          "type": "paragraph",
+          "text": "By driving in Louisiana, you give implied consent to chemical testing if a law enforcement officer suspects impairment, and refusing the test results in an automatic license suspension. There is no safe way to 'sober up' quickly; only time can remove alcohol from your body. The best choice is to plan ahead with a designated driver, a ride service, or a taxi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distracted driving takes your attention off the road. Louisiana law prohibits texting and accessing social media while driving for all drivers, and using a handheld phone is banned in school zones and highway construction zones. Drivers holding a learner's permit or under 18 are prohibited from using any cell phone, including hands-free, while driving."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, fog, and darkness reduce your ability to see and to be seen. In Louisiana you must turn on your headlights from sunset to sunrise and any time visibility is poor; the law also requires headlights to be on whenever your windshield wipers are in continuous use because of rain, fog, or mist. Use low beams in fog and rain because high beams reflect off moisture and make it harder to see."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wet roads reduce traction and increase stopping distance, so slow down and increase your following distance. If your tires lose contact with the road and start to hydroplane, ease off the gas, keep the steering wheel steady, and do not brake hard. The first rain after a dry spell is especially slick because oil and dirt rise to the surface."
+        },
+        {
+          "type": "paragraph",
+          "text": "If your vehicle begins to skid, steer gently in the direction you want the front of the car to go and avoid slamming the brakes. Reduce speed before entering curves and on bridges, which freeze and grow slick before other surfaces. In heavy rain or flooding, never drive through standing water, since just a few inches can cause you to lose control or stall."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park only where it is legal and safe. Do not park within an intersection, on a crosswalk, on a sidewalk, in front of a driveway, or within 15 feet of a fire hydrant. You may not park in spaces reserved for people with disabilities unless you display a valid disability placard or license plate."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the vehicle will not roll into traffic if the brakes fail. Facing downhill, turn your front wheels toward the curb; facing uphill with a curb, turn them away from the curb; and with no curb, always turn the wheels toward the edge of the road. Set the parking brake and leave the vehicle in park, or in gear for a manual transmission."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always use your turn signals, obey lane markings, and keep to the right except when passing. Seat belts are required for the driver and all passengers in Louisiana, and children must be properly secured in an age- and size-appropriate child restraint, with children under 13 riding in the back seat when possible."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Louisiana uses a graduated licensing program for new drivers. You may apply for a Class E learner's permit at age 15, and applicants ages 15 through 17 must complete an approved driver education course that includes 30 hours of classroom instruction and 8 hours of behind-the-wheel training. The written knowledge test consists of 40 questions, and you must answer at least 80 percent correctly to pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "A learner's permit holder under 18 must always be supervised by a licensed driver who is at least 21 (or a licensed sibling at least 18) seated in the front passenger seat. After holding the permit for at least 180 days and reaching age 16, a driver may apply for an intermediate license, with a parent or guardian certifying at least 50 hours of supervised driving, including 15 hours at night."
+        },
+        {
+          "type": "paragraph",
+          "text": "An intermediate license carries restrictions until age 17. The holder may not drive between 11:00 p.m. and 5:00 a.m. unless accompanied by a licensed adult, and may not carry more than one passenger under 21 who is not an immediate family member between 6:00 p.m. and 5:00 a.m. without a licensed adult present."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic laws are enforced through fines, license points, suspensions, and in serious cases arrest. Driving while intoxicated (DWI) can lead to license suspension, fines, mandatory education, and jail, with harsher penalties for repeat offenses or a high BAC. Refusing a chemical test triggers an automatic license suspension under the implied consent law."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some violations carry especially serious consequences. Passing a stopped school bus with flashing red lights, reckless operation, and excessive speeding can bring heavy fines and possible suspension. Failing to move over for stopped emergency vehicles violates the Move Over law and carries fines that increase for repeat offenses."
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving without a valid license, without insurance, or after a suspension can result in additional fines, vehicle impoundment, and longer suspensions. Always carry your license, registration, and proof of insurance, and present them when a law enforcement officer requests them."
+        }
+      ]
+    }
+  ]
+}
