@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "State of New Hampshire Driver's Manual",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs, signals, and pavement markings tell you what to do, warn you of hazards, and guide you to your destination. The shape and color of a sign give clues to its meaning even before you read the words: red means stop or prohibition, yellow warns of conditions ahead, orange marks work zones, and green gives directions or distances. A red octagon always means stop, and a downward-pointing triangle always means yield."
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic lights control the order of movement at intersections. A steady red light means stop and remain stopped; a steady yellow light warns that the signal is about to turn red, so you should stop if you can do so safely. In New Hampshire you may turn right on a steady red light after coming to a complete stop and yielding to pedestrians and cross traffic, unless a posted sign prohibits the turn. A flashing red signal is treated like a stop sign, while a flashing yellow signal means proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings reinforce the rules of the road. A solid yellow line on your side of the center means do not pass; a broken yellow line means passing is allowed when it is safe. White lines separate lanes of traffic moving in the same direction, and a solid white line discourages lane changes. Always obey the most restrictive marking that applies to your lane."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules decide who goes first when paths cross, but the law never truly gives you the right of way; it only tells you who must yield. At an uncontrolled intersection or a four-way stop where two vehicles arrive at the same time, the driver on the left yields to the driver on the right. When turning left, you must yield to oncoming traffic and to pedestrians crossing the road you are entering."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pedestrians in a marked or unmarked crosswalk have the right of way, and you must stop and stay stopped for them. You must also yield to emergency vehicles using lights or sirens by pulling to the right edge of the road and stopping until they pass. Vehicles already in a roundabout or traffic circle have the right of way over vehicles entering."
+        },
+        {
+          "type": "paragraph",
+          "text": "Turn from and into the proper lane, signal at least 100 feet before the turn, and check your mirrors and blind spots. On a green light without a green arrow, a left turn must yield to oncoming traffic. Never assume another driver will give you the right of way; be ready to yield to avoid a crash."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed limits set the maximum lawful speed under ideal conditions, and you must always drive at a speed that is reasonable and prudent for the actual conditions. In New Hampshire the default limit is 30 mph in business and urban residence districts and 35 mph in rural residence districts; on most other roads the limit is 55 mph unless posted higher on certain highways. Slow down in rain, fog, snow, heavy traffic, or near schools and work zones even if your speed is below the posted limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Following too closely is a leading cause of rear-end crashes. Use the three-second following rule: pick a fixed point, and if you reach it before counting three seconds after the vehicle ahead passes it, you are too close. Increase your following distance to four seconds or more in rain, snow, ice, fog, or when being tailgated."
+        },
+        {
+          "type": "paragraph",
+          "text": "Manage the space all around your vehicle, not just ahead. Leave room to the sides and keep an escape path open so you can react to sudden stops or hazards. Smooth, gradual speed changes give the drivers behind you time to respond and help you keep control."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe, and only on roads where you have a clear view of oncoming traffic. Pass on the left, signal your intention, check your mirrors and blind spot, and return to your lane only after you can see the vehicle you passed in your rearview mirror. Never pass when a solid yellow line is on your side, near intersections, on hills or curves, or where signs prohibit passing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep right except when passing. On multi-lane roads, slower traffic should stay in the right lane and use the left lane mainly for passing. Signal every lane change, and never weave between lanes or cut sharply in front of another vehicle."
+        },
+        {
+          "type": "paragraph",
+          "text": "You may not pass a stopped school bus with its red lights flashing in either direction on an undivided road; you must remain stopped until the lights stop flashing and the bus moves. Be patient when stuck behind a slow vehicle; wait for a legal and safe opportunity rather than forcing a pass."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roads are shared with pedestrians, bicyclists, motorcyclists, large trucks, farm equipment, and emergency responders. Bicyclists and motorcycles have the same rights and duties as drivers; give them a full lane width when needed and check carefully for them at intersections and when turning, because they are smaller and easy to miss."
+        },
+        {
+          "type": "paragraph",
+          "text": "New Hampshire's Move Over law requires you to slow down and, when possible, move over a lane for stopped emergency, police, and highway maintenance vehicles displaying flashing lights. If you cannot safely change lanes, reduce your speed and pass with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have big blind spots, take longer to stop, and make wide turns. Do not cut in front of a truck and then brake, and never linger alongside one. When sharing the road with any vulnerable user, slow down, give extra space, and expect the unexpected."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "In New Hampshire it is illegal to drive with a blood alcohol concentration (BAC) of 0.08 percent or higher if you are 21 or older. Drivers under 21 are held to a zero-tolerance standard, and a BAC of 0.02 percent or more is a violation that can lead to license loss. Alcohol and many drugs, including legal prescriptions and marijuana, impair judgment, reaction time, and coordination, so the safest choice is never to drive after using them."
+        },
+        {
+          "type": "paragraph",
+          "text": "New Hampshire's hands-free law makes it illegal to use a handheld cell phone or mobile electronic device while driving, including texting, dialing, or holding the phone. Drivers under 18 may not use any cell phone or mobile device while driving, even hands-free. Violations carry a fine of $100 for a first offense and more for repeat offenses."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is anything that takes your eyes off the road, your hands off the wheel, or your mind off driving. Texting is especially dangerous because it involves all three. Set up navigation before you start, pull over to handle a phone or other task, and keep your full attention on the driving task."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, snow, ice, and fog reduce traction and visibility, so slow down and increase your following distance. In New Hampshire you must turn on your headlights when visibility is poor and whenever your windshield wipers are in continuous use; headlights are also required from a half hour after sunset to a half hour before sunrise. The first rain after a dry spell makes roads especially slick as oil rises to the surface."
+        },
+        {
+          "type": "paragraph",
+          "text": "Black ice often forms on bridges, overpasses, and shaded areas because they freeze first. If you begin to skid, ease off the gas, steer gently in the direction you want the front of the car to go, and avoid slamming the brakes. Smooth, gentle inputs help you keep control on slippery surfaces."
+        },
+        {
+          "type": "paragraph",
+          "text": "In fog, use low-beam headlights rather than high beams, because high beams reflect back and reduce visibility. If conditions become too dangerous to continue, pull completely off the road, turn on your hazard lights, and wait for conditions to improve."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park only where it is legal and where your vehicle will not block traffic, crosswalks, or access. Do not park within a marked no-parking zone, in front of a fire hydrant, on a crosswalk, or in a space reserved for persons with disabilities unless you have the proper placard or plate. Always set the parking brake and, on a hill, turn your wheels so the vehicle will roll away from traffic if the brakes fail."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking facing downhill or uphill near a curb, turn your front wheels so the vehicle would roll toward the curb if it moved. When there is no curb, always turn the wheels so the vehicle would roll away from the travel lane. Use your turn signal before pulling out of a parking space and yield to passing traffic."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obey lane-use and one-way street rules at all times. Drive on the right half of the roadway, keep to the right of oncoming traffic, and never back up on a highway or limited-access road. Following these basic rules keeps traffic flowing safely and predictably."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "New Hampshire does not issue a separate learner's permit. A person at least 15 1/2 years old may practice driving as long as a licensed adult who is at least 25 years old is seated beside them in the front passenger seat. To earn a youth operator license, a driver under 18 must complete an approved driver education course and record at least 40 hours of supervised driving, including 10 hours at night."
+        },
+        {
+          "type": "paragraph",
+          "text": "Drivers age 16 to under 21 who qualify are issued a Youth Operator License. During the first six months, a youth operator under 18 may not drive with more than one passenger under age 25 who is not a family member, unless a licensed adult at least 25 years old is also in the vehicle. Youth operators also may not carry more passengers than there are seat belts."
+        },
+        {
+          "type": "paragraph",
+          "text": "A youth operator under 18 may not drive between 1:00 a.m. and 4:00 a.m. The written knowledge test for a New Hampshire license has 40 questions, and you must answer at least 80 percent correctly to pass. Carry your license whenever you drive and present it when asked by law enforcement."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving is a privilege that can be suspended or revoked for unsafe behavior. New Hampshire uses a point system; accumulating too many points or committing serious offenses such as DWI, reckless driving, or leaving the scene of a crash can lead to suspension. A first DWI typically results in license loss, fines, and required programs."
+        },
+        {
+          "type": "paragraph",
+          "text": "By driving on New Hampshire roads, you give implied consent to chemical testing for alcohol or drugs if lawfully arrested. Refusing the test results in an automatic license suspension that is separate from any penalty for the underlying offense."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seat belts save lives, and New Hampshire law requires every driver and passenger under 18 to be properly restrained. Children must ride in an approved child restraint until they reach the required age and size. Always buckle up, drive within the law, and cooperate with law enforcement to keep yourself and others safe."
+        }
+      ]
+    }
+  ]
+}
