@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "sd",
+  "name": "South Dakota",
+  "abbr": "SD",
+  "agency": "South Dakota Department of Public Safety (DPS), Driver Licensing Program",
+  "brand": {
+    "mark": "SD",
+    "appName": "Permit Prep",
+    "agencyPill": "South Dakota Department of Public Safety (DPS), Driver Licensing Program"
+  },
+  "home": {
+    "eyebrow": "South Dakota learner's permit",
+    "heading": "Pass your South Dakota permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 25,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "South Dakota Driver License Manual",
+    "sourceUrl": "https://dps.sd.gov/driver-licensing/south-dakota-licensing-information/driving-manuals"
+  },
+  "data": {
+    "manual": "sd/manual.v1.json",
+    "questions": "sd/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
