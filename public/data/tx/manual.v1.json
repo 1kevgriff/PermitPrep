@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Texas Driver Handbook (DL-7)",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals and signs are color- and shape-coded so you can recognize them quickly. A steady red light means stop and remain stopped; a steady yellow light warns that the signal is about to turn red and you should stop if you can do so safely. A green light means you may proceed if the intersection is clear, and a flashing red light is treated the same as a stop sign. Octagonal signs always mean stop, triangular signs mean yield, and yellow diamond signs warn of hazards ahead."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and separate traffic. A solid yellow line on your side of the road means do not pass; a broken yellow line means passing is allowed when it is safe. White lines separate traffic moving in the same direction, and a solid white line discourages lane changes. Always obey the most restrictive marking present."
+        },
+        {
+          "type": "paragraph",
+          "text": "When a traffic signal is dark or out of operation, treat the intersection as an all-way stop: come to a complete stop, yield to vehicles that arrived first, and proceed with caution. Never assume other drivers will yield, even when you have the right of way."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who should go first, but the law really tells you who must yield. At a four-way stop, the driver who stops first proceeds first; if two vehicles arrive at the same time, the driver on the left yields to the driver on the right. When turning left, you must yield to oncoming traffic and to pedestrians in the crosswalk."
+        },
+        {
+          "type": "paragraph",
+          "text": "In Texas you may turn right on a red light after coming to a complete stop, unless a sign prohibits it, and only after yielding to pedestrians and cross traffic. A left turn on red is permitted only from a one-way street onto another one-way street. Always signal your intentions at least 100 feet before turning."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pedestrians in a crosswalk, emergency vehicles using lights or sirens, and vehicles already in a roundabout or intersection have the right of way. When in doubt, yield; being legally right does not prevent a crash."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Texas uses prima facie speed limits where no sign is posted: 30 mph in an urban or residential district and 70 mph on numbered highways in rural areas. Regardless of the posted limit, the basic speed law requires you to drive at a speed that is reasonable and prudent for the existing conditions, such as rain, fog, or heavy traffic."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maintaining proper following distance gives you time to react. A common guideline is the three-second rule: pick a fixed point, and if you reach it before counting three seconds after the vehicle ahead passes it, you are following too closely. Increase your following distance in poor weather, at higher speeds, and when following large trucks or motorcycles."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed should be reduced near schools, construction zones, and any place where pedestrians or workers may be present. Fines for speeding in work zones and school zones are often doubled."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe. Do not pass when a solid yellow line is on your side, on hills or curves where you cannot see oncoming traffic, at intersections or railroad crossings, or when a school bus is loading or unloading with its red lights flashing. Complete your pass and return to your lane only when you can see the passed vehicle in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "On multi-lane roads, keep right except to pass. Slower traffic should move to the right so faster vehicles can pass on the left. Signal every lane change, check your mirrors, and look over your shoulder to clear your blind spot before moving over."
+        },
+        {
+          "type": "paragraph",
+          "text": "When you meet a stopped emergency vehicle, tow truck, or TxDOT vehicle with flashing lights, Texas's Move Over or Slow Down law requires you to move out of the lane nearest it if possible, or slow to at least 20 mph below the posted speed limit (5 mph if the limit is 25 mph or less)."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roads are shared with pedestrians, bicyclists, motorcyclists, and large trucks, each of whom you must respect. Always yield to pedestrians in crosswalks and to anyone who is blind, deaf, or otherwise disabled. Watch for children near schools, parks, and residential areas where they may dart into the street."
+        },
+        {
+          "type": "paragraph",
+          "text": "Motorcycles and bicycles are smaller and harder to see, so check your blind spots carefully and give them a full lane width when passing. Large trucks have wide blind spots and need much more room to stop; never cut in front of a truck or linger alongside it."
+        },
+        {
+          "type": "paragraph",
+          "text": "When you encounter a stopped school bus with its red lights flashing and stop arm extended, you must stop whether you are behind it or meeting it, unless you are separated by a physical barrier or median. Remain stopped until the lights stop flashing and the bus moves."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Texas it is illegal to drive with a blood alcohol concentration (BAC) of 0.08 percent or more if you are 21 or older. Drivers under 21 are subject to a zero-tolerance law: any detectable amount of alcohol is illegal and can lead to license suspension. Alcohol slows reaction time, impairs judgment, and reduces coordination, and there is no quick way to sober up except time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distracted driving is a leading cause of crashes. Texas law bans sending or reading text messages while driving for all drivers. Drivers with a learner license and all drivers under 18 are prohibited from using any wireless communication device, including hands-free, except in an emergency."
+        },
+        {
+          "type": "paragraph",
+          "text": "Drugs, including prescription and over-the-counter medications, can impair driving just like alcohol. By driving in Texas you give implied consent to chemical testing; refusing a breath or blood test results in an automatic license suspension."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, fog, ice, and darkness all reduce traction and visibility, so slow down and increase your following distance. Texas law requires you to turn on your headlights from 30 minutes after sunset to 30 minutes before sunrise, and whenever conditions limit visibility. Many drivers also turn on headlights whenever the wipers are in use."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first rain after a dry spell makes roads especially slick as oil rises to the surface. If your vehicle begins to hydroplane, ease off the accelerator, keep the steering wheel straight, and do not brake hard. In fog, use low-beam headlights, because high beams reflect off the fog and reduce visibility."
+        },
+        {
+          "type": "paragraph",
+          "text": "If your vehicle starts to skid, steer gently in the direction you want the front of the car to go and avoid slamming the brakes. Carry an emergency kit and keep your fuel tank at least half full in case you become stranded in bad weather."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park only where it is legal and safe. It is illegal to park within 15 feet of a fire hydrant, in a crosswalk, on a sidewalk, within an intersection, or in a space reserved for people with disabilities unless you have the proper placard. Never park where a sign or curb marking prohibits stopping or standing."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the vehicle will roll away from traffic if the brakes fail. Facing downhill, turn the wheels toward the curb; facing uphill with a curb, turn them away from the curb; with no curb, always turn the wheels toward the edge of the road. Set the parking brake and leave the vehicle in park or in gear."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always signal before pulling away from a curb, and yield to traffic already in the lane. When leaving your vehicle, turn off the engine, remove the key, and lock the doors."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Texas uses a Graduated Driver License (GDL) program for new drivers. You may apply for a learner license at age 15 after enrolling in a driver education course. While holding a learner license, a licensed driver who is at least 21 years old must ride in the front passenger seat at all times."
+        },
+        {
+          "type": "paragraph",
+          "text": "Teen applicants must complete 30 hours of supervised behind-the-wheel practice, including at least 10 hours at night, certified by a parent or guardian. After holding a learner license for at least six months and turning 16, a driver may apply for a provisional license."
+        },
+        {
+          "type": "paragraph",
+          "text": "Provisional license holders under 18 may not drive between midnight and 5:00 a.m. except for work, school, or an emergency, and may not carry more than one passenger under 21 who is not a family member. These restrictions end once the license has been held for 12 months, while the cell phone ban continues until age 18."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic laws are enforced through fines, points, and license suspension. Texas requires every occupant of a vehicle to wear a seat belt, regardless of where they are seated, and the driver is responsible for all passengers under 17 being properly restrained. Children under 8 years old must ride in a child safety seat unless they are taller than 4 feet 9 inches."
+        },
+        {
+          "type": "paragraph",
+          "text": "Failure to stop and provide information after a crash, driving while intoxicated, and driving without a valid license carry serious penalties including heavy fines, jail time, and loss of driving privileges. Accumulating too many convictions can lead to higher insurance costs and license suspension."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are stopped by law enforcement, pull over safely to the right, stay in your vehicle, and keep your hands visible. You must show your driver license and proof of insurance on request; failing to maintain financial responsibility (insurance) is itself a violation."
+        }
+      ]
+    }
+  ]
+}

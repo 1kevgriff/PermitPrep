@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "tx",
+  "name": "Texas",
+  "abbr": "TX",
+  "agency": "Texas Department of Public Safety (DPS)",
+  "brand": {
+    "mark": "TX",
+    "appName": "Permit Prep",
+    "agencyPill": "Texas Department of Public Safety (DPS)"
+  },
+  "home": {
+    "eyebrow": "Texas learner's permit",
+    "heading": "Pass your Texas permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 20,
+    "generalPassPct": 70
+  },
+  "manual": {
+    "source": "Texas Driver Handbook (DL-7)",
+    "sourceUrl": "https://www.dps.texas.gov/internetforms/forms/dl-7.pdf"
+  },
+  "data": {
+    "manual": "tx/manual.v1.json",
+    "questions": "tx/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}

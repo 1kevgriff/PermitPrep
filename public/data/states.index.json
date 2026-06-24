@@ -3,6 +3,12 @@
   "default": "va",
   "states": [
     {
+      "id": "tx",
+      "name": "Texas",
+      "abbr": "TX",
+      "config": "tx/config.v1.json"
+    },
+    {
       "id": "va",
       "name": "Virginia",
       "abbr": "VA",
