@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "az",
+  "name": "Arizona",
+  "abbr": "AZ",
+  "agency": "Arizona MVD",
+  "brand": {
+    "mark": "AZ",
+    "appName": "Permit Prep",
+    "agencyPill": "Arizona MVD"
+  },
+  "home": {
+    "eyebrow": "Arizona learner's permit",
+    "heading": "Pass your Arizona permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 30,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Arizona Driver License Manual and Customer Service Guide",
+    "sourceUrl": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117.pdf"
+  },
+  "data": {
+    "manual": "az/manual.v1.json",
+    "questions": "az/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}

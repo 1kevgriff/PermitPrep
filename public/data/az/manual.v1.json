@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Arizona Driver License Manual and Customer Service Guide",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals control the right of way at intersections. A steady red light means stop and remain stopped until the light turns green; a steady yellow light warns that the signal is about to turn red, so you should stop if you can do so safely. A flashing red light means stop, yield, and proceed only when it is safe, just like a stop sign, while a flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs are grouped by shape and color so you can recognize them quickly. Regulatory signs such as the red octagonal STOP sign and white rectangular speed limit signs tell you what you must or must not do, yellow diamond warning signs alert you to hazards ahead, and orange signs mark construction and maintenance zones. A red and white triangular YIELD sign means you must let other traffic go first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and separate traffic. A solid yellow line marks the center of a two-way road and means you may not cross it to pass, while a broken yellow line means passing is allowed when it is safe. White lines separate lanes of traffic moving in the same direction, and a solid white line discourages lane changes."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who goes first, but the law actually says who must yield rather than who has an automatic right to proceed. At a four-way stop, the first vehicle to arrive goes first, and when two vehicles arrive at the same time, the driver on the left yields to the driver on the right. When turning left, you must yield to oncoming traffic and to pedestrians in the crosswalk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pedestrians in a crosswalk always have the right of way, and you must stop for them. You must also yield to emergency vehicles using lights or sirens by pulling to the right edge of the road and stopping until they pass. When entering a roundabout, yield to traffic already circulating."
+        },
+        {
+          "type": "paragraph",
+          "text": "In Arizona you may turn right on a red light after coming to a complete stop, unless a sign prohibits it, and only when the way is clear of pedestrians and cross traffic. A left turn on red is permitted only from a one-way street onto another one-way street. Always signal your intention to turn well in advance."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Arizona sets prima facie speed limits that apply unless signs say otherwise. The limit is 15 mph in a school crossing zone, 25 mph in a residential or business district, 65 mph on an urban-area highway, and 75 mph on a rural interstate or highway. Regardless of the posted limit, you must always drive at a speed that is reasonable and prudent for current conditions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Managing space around your vehicle gives you time to react. A common rule is to keep at least a three-second following distance behind the vehicle ahead, and to increase that gap in rain, fog, or heavy traffic. Pick a fixed point on the road and count the seconds between when the car ahead passes it and when you reach it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed affects both your stopping distance and the severity of a crash. The faster you go, the longer it takes to stop and the less time you have to perceive and react to hazards. Slow down before entering curves and intersections rather than braking while in them."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass other vehicles only when it is legal and safe to do so. Pass on the left, make sure the lane is clear of oncoming traffic for a sufficient distance, signal, and return to your lane only when you can see the passed vehicle in your rear-view mirror. Never pass when a solid yellow line is on your side of the center, near a curve or hilltop where you cannot see far ahead, or within an intersection or railroad crossing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep to the right except when passing. On multilane roads, slower traffic should stay in the right lanes and the left lane is generally used for passing. Use your turn signal before every lane change and check your mirrors and blind spots by glancing over your shoulder."
+        },
+        {
+          "type": "paragraph",
+          "text": "You may not exceed the speed limit to complete a pass. If another driver is passing you, do not speed up; maintain or slightly reduce your speed to let them complete the maneuver safely."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roads are shared with motorcyclists, bicyclists, pedestrians, large trucks, and other vulnerable users. Motorcycles are smaller and harder to see, so check carefully before changing lanes or turning, and give motorcycles a full lane width. When following a motorcycle, allow extra following distance because motorcycles can stop quickly."
+        },
+        {
+          "type": "paragraph",
+          "text": "Give bicyclists room when passing and watch for them at intersections and driveways. Large trucks and buses have deep blind spots on all four sides and need much longer distances to stop; avoid lingering beside them and never cut in front of a truck and brake suddenly."
+        },
+        {
+          "type": "paragraph",
+          "text": "Arizona's Move Over law requires you to move over one lane away from any stopped vehicle displaying flashing lights, including police, fire, tow trucks, and other vehicles, when on a road with multiple lanes in your direction. If you cannot move over safely, you must slow down and proceed with caution."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Arizona it is illegal to drive with a blood alcohol concentration (BAC) of 0.08 percent or higher if you are 21 or older, and 0.04 percent or higher if you are operating a commercial vehicle. Arizona has a zero-tolerance law for drivers under 21, meaning it is unlawful to drive with any amount of alcohol in your body. You can still be charged with DUI below these limits if you are impaired to the slightest degree."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcohol and many drugs, including prescription and over-the-counter medications, slow your reaction time and impair judgment, vision, and coordination. There is no quick way to sober up; only time removes alcohol from your body. The safest choice is to not drive after drinking and to plan a sober ride."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distracted driving is dangerous and against the law in Arizona. It is illegal to hold or support a cell phone while driving, and texting, typing, or reading on a handheld device is prohibited as a primary offense, meaning an officer can stop you for that alone. Hands-free use is allowed, but the safest practice is to put the phone away while driving."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, fog, dust, and darkness reduce your ability to see and to be seen. In Arizona, you must turn on your headlights from sunset to sunrise and whenever conditions like rain or dust limit visibility; use low beams in fog and dust because high beams reflect back and make seeing harder. Slow down and increase your following distance in poor conditions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dust storms (haboobs) are a serious hazard in Arizona. If you encounter a dust storm, the recommended action is to 'Pull Aside, Stay Alive': pull completely off the roadway, stop, turn off your lights and take your foot off the brake so others are not led into your vehicle, and wait until the storm passes."
+        },
+        {
+          "type": "paragraph",
+          "text": "When roads are wet, your tires can lose traction and hydroplane. Reduce speed, avoid sudden steering or braking, and if your vehicle begins to skid, ease off the accelerator and steer gently in the direction you want the front of the car to go."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park legally and consider how your parked vehicle affects traffic and safety. Never park in front of a fire hydrant, in a crosswalk, on a sidewalk, in an intersection, or in a space reserved for people with disabilities unless you have a valid permit. When parking on a hill, turn your wheels so the vehicle will roll away from traffic, and always set the parking brake."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use your turn signals and headlights as required, keep right except to pass, and obey lane markings. When parallel parking, signal, pull alongside the space, and back in slowly while checking for traffic and pedestrians."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seat belts save lives, and Arizona law requires the driver and front-seat passengers to wear them. Children must be properly secured in a child restraint system appropriate for their age and size, and young children must ride in a car seat or booster as required by law. Make sure everyone is buckled before you start moving."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Arizona uses a Graduated Driver License (GDL) program for teens. You may apply for a graduated instruction (learner's) permit at age 15 years and 6 months after passing the written knowledge test and a vision screening. While holding the permit, you must always drive with a licensed driver who is at least 21 years old seated in the front passenger seat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before applying for a Class G graduated driver license at age 16, you must hold your instruction permit for at least 6 months and complete at least 30 hours of supervised driving practice, including at least 10 hours at night. These requirements are designed to give new drivers real experience before driving on their own."
+        },
+        {
+          "type": "paragraph",
+          "text": "The written knowledge test contains 30 questions, and you must answer at least 80 percent correctly to pass. The test covers traffic laws, signs, and safe-driving practices drawn from the Arizona Driver License Manual, so study the manual thoroughly before your appointment."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "For the first 6 months after receiving a Class G graduated driver license, a teen driver may not drive between midnight and 5 a.m. unless driving to or from work, school, or a religious activity, or when accompanied by a parent or guardian. During the same period the teen may not carry more than one passenger under 18 who is not a family member."
+        },
+        {
+          "type": "paragraph",
+          "text": "Arizona's implied consent law means that by driving, you agree to submit to testing for alcohol or drugs if lawfully arrested for DUI. Refusing the test results in suspension of your driving privilege, and DUI convictions carry fines, license suspension, mandatory jail time, and an ignition interlock requirement."
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic violations can add points to your driving record, and accumulating too many points can lead to required traffic survival school or license suspension. For drivers under 18, certain violations can extend the GDL restrictions, so safe and lawful driving protects both your safety and your license."
+        }
+      ]
+    }
+  ]
+}
