@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "id",
+  "name": "Idaho",
+  "abbr": "ID",
+  "agency": "Idaho Transportation Department (ITD) Division of Motor Vehicles",
+  "brand": {
+    "mark": "ID",
+    "appName": "Permit Prep",
+    "agencyPill": "Idaho Transportation Department (ITD) Division of Motor Vehicles"
+  },
+  "home": {
+    "eyebrow": "Idaho learner's permit",
+    "heading": "Pass your Idaho permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 40,
+    "generalPassPct": 85
+  },
+  "manual": {
+    "source": "Idaho Driver's Handbook (July 2025)",
+    "sourceUrl": "https://itd.idaho.gov/wp-content/uploads/2025/10/driver_manual.pdf"
+  },
+  "data": {
+    "manual": "id/manual.v1.json",
+    "questions": "id/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
