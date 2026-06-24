@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "in",
+  "name": "Indiana",
+  "abbr": "IN",
+  "agency": "Indiana BMV",
+  "brand": {
+    "mark": "IN",
+    "appName": "Permit Prep",
+    "agencyPill": "Indiana BMV"
+  },
+  "home": {
+    "eyebrow": "Indiana learner's permit",
+    "heading": "Pass your Indiana permit test"
+  },
+  "exam": {
+    "signCount": 16,
+    "generalCount": 34,
+    "generalPassPct": 84
+  },
+  "manual": {
+    "source": "Indiana Driver's Manual",
+    "sourceUrl": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf"
+  },
+  "data": {
+    "manual": "in/manual.v1.json",
+    "questions": "in/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
