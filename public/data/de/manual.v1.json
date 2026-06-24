@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Delaware Driver Manual",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs are grouped by shape and color so you can recognize them quickly. Regulatory signs such as STOP and YIELD tell you what you must do, warning signs (usually yellow and diamond-shaped) alert you to hazards ahead, and guide signs give directions and distances. A red eight-sided sign always means stop, while a yellow triangle pointing down always means yield."
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals control the order of movement at intersections. A steady red light means stop, a steady yellow means the light is about to turn red and you should stop if you can do so safely, and a steady green means go if the way is clear. A flashing red is treated like a stop sign, and a flashing yellow means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings reinforce the rules of the road. A solid yellow line marks the center of a two-way road and may not be crossed to pass, a broken yellow line allows passing when it is safe, and white lines separate lanes of traffic moving in the same direction. Always obey markings together with signs and signals, and follow an officer's directions even when they conflict with a signal."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules decide who goes first when paths cross, but the law never actually gives you the right-of-way; it only states who must yield it. At a four-way stop, the first vehicle to arrive goes first, and when two arrive at the same time the driver on the left yields to the driver on the right. Always yield to pedestrians in a crosswalk and to emergency vehicles using lights or sirens."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning left, you must yield to oncoming traffic and to pedestrians before crossing their path. In Delaware you may turn right on a red light after coming to a complete stop, unless a sign prohibits it, and only after yielding to pedestrians and cross traffic. A left turn on red is generally not permitted except from a one-way street onto another one-way street where allowed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Position yourself correctly before turning: move into the lane closest to your intended direction, signal at least 100 feet before the turn, and check your mirrors and blind spots. Yield to traffic already in a roundabout or traffic circle, and never assume another driver will give up the right-of-way even when it is yours."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed limits set the maximum legal speed for ideal conditions, and you must drive slower when weather, traffic, or road conditions require it. In Delaware the default limit is 25 mph in residential and business districts, 20 mph in school zones, and where no limit is posted on open two-lane roads the maximum is generally 50 mph; many four-lane roads are 55 mph and limited-access highways such as I-95 and Route 1 are typically 65 mph."
+        },
+        {
+          "type": "paragraph",
+          "text": "Managing the space around your vehicle gives you time to react. Use the three-second following rule by picking a fixed point and counting the gap between the car ahead passing it and your front bumper reaching it, then add more time in rain, fog, or heavy traffic. Tailgating is a leading cause of rear-end crashes and gives you no room to stop."
+        },
+        {
+          "type": "paragraph",
+          "text": "Adjust your speed for the situation, not just the sign. Slow down before curves, at intersections, and in work zones, and remember that driving too slowly can be as dangerous as speeding because it disrupts traffic flow. Leave extra stopping distance whenever the road surface is wet, icy, or covered with leaves or gravel."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe. You may pass on the left when the lane markings allow it, there is enough clear distance ahead, and you can return to your lane without cutting off the vehicle you passed. Never pass when a solid yellow line is on your side, near intersections or railroad crossings, on hills or curves where you cannot see ahead, or when a school bus is loading or unloading."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep right except to pass. Slower traffic should stay in the right lane on multilane roads, and the left lane is intended for passing and faster-moving traffic. Signal every lane change, check your mirrors and blind spots, and move over one lane at a time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Be especially careful around large vehicles, which have wide blind spots and need much longer to stop. After passing a truck or bus, do not pull back in front until you can see the whole front of the vehicle in your rearview mirror, and never linger alongside a large vehicle where the driver cannot see you."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roads are shared with pedestrians, bicyclists, motorcyclists, and large commercial vehicles, all of whom have a legal right to use them. Always yield to pedestrians in marked and unmarked crosswalks, and give cyclists room when passing. In Delaware drivers must leave at least a safe distance, typically three feet, when passing a bicycle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Motorcycles are smaller and harder to see, so check carefully before changing lanes or turning, and allow a motorcycle the full width of a lane. Give motorcyclists extra following distance because they can stop quickly and may be hidden in your blind spots."
+        },
+        {
+          "type": "paragraph",
+          "text": "When you see a stopped emergency vehicle, tow truck, or maintenance vehicle with flashing lights on the side of the road, Delaware's Move Over law requires you to change lanes away from it if you safely can, or slow down well below the speed limit if you cannot. Pull to the right and stop for approaching emergency vehicles using lights or sirens until they have passed."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving under the influence of alcohol or drugs is one of the most serious traffic offenses. In Delaware it is illegal for a driver age 21 or older to operate a vehicle with a blood alcohol concentration of 0.08 percent or higher. Alcohol impairs judgment, reaction time, and vision long before a driver feels drunk, and there is no way to sober up quickly other than time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Delaware enforces a zero-tolerance law for drivers under 21: any measurable alcohol of 0.02 percent or more can lead to license revocation, even on a first offense. Driving is a privilege, and choosing a designated driver or another safe ride is the only way to avoid the legal and physical risks of impaired driving."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is also deadly. Delaware bans holding or using a hand-held cell phone or other electronic device while driving, including texting; a first offense carries a $100 fine. Keep your eyes on the road, your hands on the wheel, and your attention on driving, and pull over safely if you must use a phone."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bad weather demands slower speeds and greater following distance. Rain, snow, fog, and ice all reduce traction and visibility, so reduce your speed and double your following distance. Delaware law requires you to turn on your headlights whenever you use your windshield wipers in poor weather, which also makes you more visible to others."
+        },
+        {
+          "type": "paragraph",
+          "text": "If your vehicle begins to skid, ease off the accelerator and steer gently in the direction you want the front of the car to go, and avoid slamming on the brakes. In heavy rain, slow down to avoid hydroplaning, and if your tires lose contact with the road, take your foot off the gas and hold the wheel steady until traction returns."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use low-beam headlights in fog, rain, and snow because high beams reflect off the moisture and reduce your vision. At night, dim your high beams when you are within 500 feet of an oncoming vehicle or when following another vehicle, and slow down so you can stop within the distance your headlights show."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park only where it is legal and safe. Do not park within an intersection, on a crosswalk, on a sidewalk, in front of a driveway, within 15 feet of a fire hydrant, or where signs prohibit parking. When parking on a hill, turn your wheels so the vehicle will roll away from traffic if it moves, and set the parking brake."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking facing downhill, turn your front wheels toward the curb so the car rolls into the curb if it slips; when facing uphill with a curb, turn the wheels away from the curb so it rolls back into the curb. Always shift to park or, with a manual transmission, leave it in gear, and check for traffic and cyclists before opening your door."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obey one-way street signs, lane-use arrows, and turn restrictions, and never make a U-turn where it is prohibited or where you cannot see clearly in both directions. Keep to the right on two-way roads and stay within your lane unless you are passing or turning."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Delaware uses a Graduated Driver License (GDL) program for new drivers under 18. You may apply for a Level 1 Learner's Permit at age 16, and you must hold the permit for at least six months of supervised driving before advancing. While holding a permit you must always be accompanied by a licensed driver who is at least 25 years old seated beside you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before earning a full Class D license, a teen driver must complete at least 50 hours of supervised driving, including at least 10 hours at night, certified by a parent or guardian. New GDL drivers also face restrictions, including limits on the number of passengers and a nighttime driving curfew during the early months of licensure."
+        },
+        {
+          "type": "paragraph",
+          "text": "To get a permit you must pass a vision screening and a knowledge (written) test based on the Delaware Driver Manual. The Class D knowledge test has 32 questions, and you must answer at least 26 correctly to pass. Carry your license whenever you drive and keep your address current with the DMV."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic laws are enforced through fines, points, and license actions. Delaware uses a point system in which violations add points to your driving record, and accumulating too many points can lead to suspension of your driving privilege. Serious offenses such as DUI, reckless driving, and leaving the scene of a crash carry the heaviest penalties."
+        },
+        {
+          "type": "paragraph",
+          "text": "By driving in Delaware you give implied consent to chemical testing for alcohol or drugs if a police officer has reasonable grounds to suspect impaired driving. Refusing to take the test results in an automatic license revocation that is separate from any DUI conviction."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wearing a seat belt is required by law for the driver and front-seat passengers, and children must ride in an appropriate child restraint or booster seat based on their age and size. Penalties such as the $100 fine for hand-held phone use and license revocation under the zero-tolerance law exist to keep all road users safe."
+        }
+      ]
+    }
+  ]
+}
