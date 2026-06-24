@@ -3,6 +3,12 @@
   "default": "va",
   "states": [
     {
+      "id": "ms",
+      "name": "Mississippi",
+      "abbr": "MS",
+      "config": "ms/config.v1.json"
+    },
+    {
       "id": "va",
       "name": "Virginia",
       "abbr": "VA",

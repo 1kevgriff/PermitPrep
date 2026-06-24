@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Mississippi Driver's License Manual",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs are grouped by shape and color so you can recognize them quickly. A red octagon always means stop, a downward-pointing triangle means yield, and a yellow diamond warns of hazards or changing conditions ahead. Regulatory signs such as speed limits are usually white with black lettering, while orange signs mark construction and work zones."
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals control the right of way at intersections. A steady red light means stop and remain stopped; a steady green means go if the way is clear; and a steady yellow warns that the light is about to turn red, so you should stop if you can do so safely. A flashing red works like a stop sign, and a flashing yellow means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings reinforce the rules of the road. A solid yellow line on your side of the center means do not pass, while a broken yellow line means passing is allowed when it is safe. Solid white lines separate lanes of traffic moving in the same direction and should not be crossed, and a single solid white stop line shows where to stop for a signal or sign."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who should go first, but the law really tells you when you must yield. At a four-way stop, the driver who arrives first goes first; if two arrive at the same time, the driver on the left yields to the driver on the right. When turning left, you must yield to oncoming traffic and to pedestrians in the crosswalk."
+        },
+        {
+          "type": "paragraph",
+          "text": "In Mississippi you may turn right on a red light after coming to a complete stop, unless a sign prohibits it, and only after yielding to pedestrians and cross traffic. Always signal your intention to turn at least 100 feet before the turn so other drivers know what you plan to do."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pedestrians in a crosswalk and emergency vehicles using lights and sirens always have the right of way. Yielding does not give you the right to force your way through; it means giving up your turn to prevent a crash even when you technically had the right to proceed."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mississippi sets a maximum of 70 mph on rural interstates and freeways, 65 mph on many divided highways, 55 mph on rural undivided roads, and 25 mph in residential areas unless otherwise posted. These are limits for ideal conditions, and the basic speed law requires you to drive slower when rain, fog, traffic, or darkness make higher speeds unsafe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Managing space around your vehicle gives you time to react. Use the three-second following rule on dry roads: when the vehicle ahead passes a fixed point, you should not reach that same point for at least three seconds. Increase your following distance to four seconds or more in rain, fog, or heavy traffic."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed affects both stopping distance and the force of a crash. Doubling your speed more than doubles the distance needed to stop and greatly increases impact energy, so slowing down is one of the most effective ways to stay safe and keep control of your vehicle."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe. Never pass when a solid yellow line is on your side of the road, when approaching a hill or curve where you cannot see far enough ahead, within 100 feet of an intersection or railroad crossing, or when a school bus is loading or unloading. After passing, return to your lane only when you can see the vehicle you passed in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "On multilane highways, keep right except to pass. Slower traffic should stay in the right lane, and the left lane is intended for passing and faster-moving traffic. Always check your mirrors and blind spots and signal before changing lanes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lane discipline reduces conflicts. Choose the correct lane well before a turn, avoid weaving between lanes, and never drive in a way that blocks the normal flow of traffic. When two lanes merge, take turns with other drivers using a smooth zipper merge."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "You share the road with motorcycles, bicycles, pedestrians, large trucks, and farm equipment. Motorcycles are smaller and harder to see, so check carefully before changing lanes or turning, and give them a full lane of space. Large trucks have big blind spots and need much more distance to stop, so never cut in front of one and avoid lingering beside it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bicyclists have the same right to use the road as drivers. Give cyclists plenty of room when passing and watch for them at intersections and driveways. Be especially alert in residential and school areas where pedestrians, including children, may step into the street."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mississippi's Move Over law requires you to move at least one lane away from stopped emergency, law enforcement, tow, and highway maintenance vehicles displaying flashing lights. If you cannot change lanes safely, you must slow down and be prepared to stop."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Mississippi it is illegal to drive with a blood alcohol concentration (BAC) of 0.08 percent or higher if you are 21 or older. Drivers under 21 are held to a zero-tolerance standard, with a limit of 0.02 percent, and commercial drivers are limited to 0.04 percent. Alcohol slows reaction time, impairs judgment, and reduces coordination long before you feel drunk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Drugs, including many prescription and over-the-counter medicines, can impair driving just as alcohol does. By getting a Mississippi license you give implied consent to chemical testing, and refusing a lawful test results in an automatic license suspension."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is a major cause of crashes. Mississippi law prohibits writing, sending, or reading text messages and using social media while driving. The safest choice is to put the phone away, set your route before you start, and keep your full attention on the road."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, fog, and reduced visibility call for slower speeds and more following distance. In Mississippi you must turn on your headlights when visibility is poor and whenever your windshield wipers are in continuous use because of rain, fog, or other weather. Headlights help you see and, just as importantly, help others see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wet roads reduce traction and can cause hydroplaning, where your tires ride on a film of water and lose grip. If you begin to hydroplane, ease off the gas, keep the steering wheel straight, and avoid braking hard. The first few minutes of rain are often the most slippery as water mixes with road oil."
+        },
+        {
+          "type": "paragraph",
+          "text": "At night, reduce speed because you cannot see as far as your headlights let you stop. Dim your high beams for oncoming traffic and when following another vehicle, and if an oncoming driver fails to dim their lights, look toward the right edge of the road to avoid being blinded."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park only where it is legal and safe. Do not park within an intersection or crosswalk, on a sidewalk, in front of a driveway, within 15 feet of a fire hydrant, or in a space reserved for people with disabilities unless you are authorized. Always set your parking brake and shift to park, or into gear for a manual transmission."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the vehicle will roll away from traffic if the brakes fail. Facing downhill, turn the wheels toward the curb; facing uphill with a curb, turn them away from the curb; and with no curb, always turn the wheels toward the edge of the road."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before leaving a parked position, signal, check your mirrors and blind spots, and yield to passing traffic. When you open your door into traffic, watch for approaching vehicles and bicycles so you do not create a hazard."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mississippi uses a graduated driver licensing system for new drivers. You may apply for a learner's permit at age 15, and the permit is valid for two years. While holding the permit you may drive only when accompanied by a licensed driver at least 21 years old who is seated beside you."
+        },
+        {
+          "type": "paragraph",
+          "text": "After holding the learner's permit for at least 6 months and passing the driving test, a 15- or 16-year-old can receive an intermediate license. Under the intermediate license, driving is restricted between 10:00 p.m. and 6:00 a.m. Sunday through Thursday and between 11:30 p.m. and 6:00 a.m. on Friday and Saturday, except when traveling to or from work or when supervised by a licensed adult at least 21 years old."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Mississippi written knowledge exam covers road signs and rules of the road. Applicants must answer at least 80 percent of the questions correctly to pass, and must also pass a vision screening before being licensed."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mississippi enforces a primary seat belt law, meaning an officer can stop and ticket you solely for not wearing a seat belt. Seat belts are required for the driver and all passengers, and a child under age 4 must ride in an approved child safety seat. Children ages 4 through 6 who are under 4 feet 9 inches tall or under 65 pounds must use a booster seat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Violating the texting-while-driving law and the Move Over law carries fines, and repeat impaired-driving offenses lead to escalating penalties including license suspension. Refusing a lawful breath or blood test under the implied consent law results in an automatic suspension of your driving privileges."
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic convictions add points and can lead to higher insurance costs and license suspension. Driving responsibly, obeying posted limits, and keeping your license and insurance current are the best ways to avoid these penalties."
+        }
+      ]
+    }
+  ]
+}

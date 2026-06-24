@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "ms",
+  "name": "Mississippi",
+  "abbr": "MS",
+  "agency": "Mississippi Department of Public Safety (DPS) Driver Service Bureau",
+  "brand": {
+    "mark": "MS",
+    "appName": "Permit Prep",
+    "agencyPill": "Mississippi Department of Public Safety (DPS) Driver Service Bureau"
+  },
+  "home": {
+    "eyebrow": "Mississippi learner's permit",
+    "heading": "Pass your Mississippi permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 30,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Mississippi Driver's License Manual",
+    "sourceUrl": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver's%20Manual.pdf"
+  },
+  "data": {
+    "manual": "ms/manual.v1.json",
+    "questions": "ms/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
