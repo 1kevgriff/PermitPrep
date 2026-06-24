@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "State of Connecticut Driver's Manual",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals and signs guide every trip. A steady red light means stop completely behind the stop line or crosswalk; a steady yellow light warns that the signal is about to turn red, so prepare to stop. A flashing red light means treat the intersection like a stop sign, while a flashing yellow light means slow down and proceed with caution. In Connecticut you may turn right on a steady red light after coming to a full stop and yielding to pedestrians and cross traffic, unless a sign prohibits the turn."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sign shapes and colors carry meaning even before you read the words. Octagonal red signs always mean stop, triangular signs mean yield, and yellow diamond signs warn of hazards ahead such as curves, merges, or pedestrian crossings. Orange signs indicate construction and work zones, and white regulatory signs state laws you must obey such as speed limits."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings work with signs and signals. A solid yellow line means do not cross to pass, while a broken yellow line means passing is allowed when it is safe. White lines separate lanes traveling in the same direction, and a solid white line discourages lane changes. Always obey the most restrictive control present at an intersection."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules exist to prevent crashes, and you should always be prepared to yield even when you legally have the right-of-way. At a four-way stop, the first vehicle to arrive proceeds first; when two vehicles arrive at the same time, the driver on the left yields to the driver on the right. When turning left, you must yield to oncoming traffic and to pedestrians in the crosswalk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pedestrians in a crosswalk always have the right-of-way, and Connecticut law requires drivers to grant the right-of-way to a pedestrian crossing in a marked or unmarked crosswalk. You must also yield to emergency vehicles using lights or sirens by pulling to the right edge of the road and stopping until they pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "When entering a roadway from a driveway, alley, or private road, you must stop and yield to all traffic and pedestrians. At roundabouts, yield to traffic already circulating and enter only when there is a safe gap."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed limits set the maximum legal speed under ideal conditions, but you must reduce speed for traffic, weather, and road conditions. In Connecticut the default speed limit in cities and towns is 25 mph unless otherwise posted, rural roads without a posted limit default to about 50 mph, and the maximum on most rural interstates and freeways is 65 mph. Driving too fast for conditions is illegal even when you are below the posted limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maintaining space around your vehicle gives you time to react. Use a following distance of at least three seconds behind the vehicle ahead, and increase it to four seconds or more in rain, fog, or at higher speeds. Tailgating is a leading cause of rear-end collisions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Manage your speed on curves and hills by slowing before you enter, not while you are in them. Always leave yourself an escape path and avoid driving in another vehicle's blind spot."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass other vehicles only when it is legal and safe. Never pass when a solid yellow line is on your side of the road, on a curve or hilltop where you cannot see oncoming traffic, or near intersections and railroad crossings. Complete your pass and return to your lane only when you can see the passed vehicle in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep to the right except when passing. On multilane highways the left lane is intended for passing, and Connecticut promotes a \"Pass Left, Drive Right\" practice to keep traffic flowing safely. Signal every lane change and check your mirrors and blind spot before moving over."
+        },
+        {
+          "type": "paragraph",
+          "text": "Never pass a stopped school bus with flashing red lights and an extended stop arm in either direction on an undivided road. You must remain stopped until the lights stop flashing and the bus begins to move."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roads are shared with motorcycles, bicycles, pedestrians, large trucks, and emergency and work crews. Give motorcycles a full lane and extra following distance because they can stop quickly and are easy to overlook. When passing a bicyclist, Connecticut law requires you to allow a safe distance of at least three feet."
+        },
+        {
+          "type": "paragraph",
+          "text": "Connecticut's Move Over law requires you to slow to a reasonable speed below the limit and, when possible, move over one lane when approaching stationary emergency, maintenance, or disabled vehicles with flashing lights on the shoulder. This protects first responders, tow operators, and stranded drivers."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks have large blind spots, called \"No-Zones,\" and need much more room to stop and turn. Avoid lingering beside trucks and never cut in front of one closely, since they cannot stop as quickly as cars."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Connecticut it is illegal to drive with a blood alcohol concentration (BAC) of 0.08 percent or higher if you are 21 or older. Drivers under 21 are subject to a zero-tolerance limit of 0.02 percent, and any measurable amount can result in license suspension. Alcohol, marijuana, and many prescription and over-the-counter drugs slow your reaction time and impair judgment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distracted driving is a major crash cause. Connecticut bans the use of hand-held cell phones and texting while driving for all drivers. Drivers under 18 may not use any cell phone, even a hands-free device, while operating a vehicle."
+        },
+        {
+          "type": "paragraph",
+          "text": "The safest choice is to never drive after drinking or using drugs and to put your phone away before you start driving. Connecticut's implied consent law means that by driving you have agreed to chemical testing, and refusing a test results in an automatic license suspension."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, snow, fog, and darkness all require extra caution. In Connecticut, whenever you use your windshield wipers because of rain, snow, or fog, you must also turn on your headlights so other drivers can see you. Headlights are also required from a half-hour after sunset to a half-hour before sunrise."
+        },
+        {
+          "type": "paragraph",
+          "text": "Slow down and increase your following distance in poor conditions, because stopping distances grow on wet or icy roads. The first rain after a dry spell makes roads especially slippery as oil and water mix. If you begin to skid, ease off the gas and steer gently in the direction you want the front of the car to go."
+        },
+        {
+          "type": "paragraph",
+          "text": "In dense fog, use low-beam headlights rather than high beams, which reflect back and reduce visibility. Clear snow and ice from all windows, lights, and the roof before driving."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park legally and safely by avoiding crosswalks, fire hydrants, intersections, and bus stops. When parking on a hill, turn your wheels so the vehicle will roll away from traffic or into the curb if it moves. Always set the parking brake and shift to park before leaving the vehicle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Connecticut requires drivers and front-seat passengers, and many rear-seat passengers, to wear seat belts, and seat belt enforcement is primary, meaning an officer can stop you solely for not buckling up. Child passenger safety laws require children under two or under 30 pounds to ride in a rear-facing car seat, and children must use an appropriate child restraint or booster seat until they are at least eight years old and weigh 60 pounds."
+        },
+        {
+          "type": "paragraph",
+          "text": "Never leave a child or pet alone in a parked vehicle, and use hazard lights only when your vehicle is disabled or stopped in an unusual location. Obey all posted parking signs to avoid fines and towing."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Connecticut you must be at least 16 years old to apply for a learner's permit, and applicants under 18 need parental consent and proof of school enrollment. Connecticut uses a Graduated Driver License (GDL) system that phases in full driving privileges as a new driver gains experience."
+        },
+        {
+          "type": "paragraph",
+          "text": "Teen permit holders who are 16 or 17 must complete at least 40 hours of behind-the-wheel, on-the-road training along with required classroom or instruction hours before being eligible for a license. A licensed instructor or qualified adult must supervise all practice driving while you hold a permit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Newly licensed 16- and 17-year-old drivers face a nighttime curfew that prohibits driving from 11 p.m. to 5 a.m. except for work, school, medical, or religious reasons. For the first six months they may carry no passengers except parents, a legal guardian, or one qualified adult, and during the next six months only immediate family members may ride along."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic violations carry fines, points, and possible license suspension. By driving in Connecticut you give implied consent to chemical testing for alcohol or drugs, and refusing a breath, blood, or urine test leads to an automatic license suspension separate from any criminal penalty."
+        },
+        {
+          "type": "paragraph",
+          "text": "A first-time DUI conviction in Connecticut can bring fines, license suspension, possible jail time, and a requirement to install an ignition interlock device. For drivers under 21, a BAC of 0.02 or higher triggers suspension under the zero-tolerance law."
+        },
+        {
+          "type": "paragraph",
+          "text": "Other penalties apply for offenses such as not wearing a seat belt, using a hand-held phone, speeding, and passing a stopped school bus. Teen drivers in the GDL program who violate passenger or curfew restrictions face license suspension, and accumulating too many points can lead to additional suspension."
+        }
+      ]
+    }
+  ]
+}
