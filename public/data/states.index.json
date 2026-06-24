@@ -3,6 +3,12 @@
   "default": "va",
   "states": [
     {
+      "id": "mi",
+      "name": "Michigan",
+      "abbr": "MI",
+      "config": "mi/config.v1.json"
+    },
+    {
       "id": "va",
       "name": "Virginia",
       "abbr": "VA",
