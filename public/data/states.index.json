@@ -3,6 +3,12 @@
   "default": "va",
   "states": [
     {
+      "id": "ct",
+      "name": "Connecticut",
+      "abbr": "CT",
+      "config": "ct/config.v1.json"
+    },
+    {
       "id": "va",
       "name": "Virginia",
       "abbr": "VA",

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "ct",
+  "name": "Connecticut",
+  "abbr": "CT",
+  "agency": "Connecticut DMV",
+  "brand": {
+    "mark": "CT",
+    "appName": "Permit Prep",
+    "agencyPill": "Connecticut DMV"
+  },
+  "home": {
+    "eyebrow": "Connecticut learner's permit",
+    "heading": "Pass your Connecticut permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 25,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "State of Connecticut Driver's Manual",
+    "sourceUrl": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf"
+  },
+  "data": {
+    "manual": "ct/manual.v1.json",
+    "questions": "ct/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
