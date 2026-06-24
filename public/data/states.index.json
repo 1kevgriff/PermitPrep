@@ -3,6 +3,12 @@
   "default": "va",
   "states": [
     {
+      "id": "tn",
+      "name": "Tennessee",
+      "abbr": "TN",
+      "config": "tn/config.v1.json"
+    },
+    {
       "id": "va",
       "name": "Virginia",
       "abbr": "VA",
