@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "co",
+  "name": "Colorado",
+  "abbr": "CO",
+  "agency": "Colorado DMV",
+  "brand": {
+    "mark": "CO",
+    "appName": "Permit Prep",
+    "agencyPill": "Colorado DMV"
+  },
+  "home": {
+    "eyebrow": "Colorado learner's permit",
+    "heading": "Pass your Colorado permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 25,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Colorado Driver Handbook (DR 2337)",
+    "sourceUrl": "https://dmv.colorado.gov/sites/dmv/files/documents/DR_2337_Jan2025.pdf"
+  },
+  "data": {
+    "manual": "co/manual.v1.json",
+    "questions": "co/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
