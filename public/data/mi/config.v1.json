@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "mi",
+  "name": "Michigan",
+  "abbr": "MI",
+  "agency": "Michigan Secretary of State (SOS)",
+  "brand": {
+    "mark": "MI",
+    "appName": "Permit Prep",
+    "agencyPill": "Michigan Secretary of State (SOS)"
+  },
+  "home": {
+    "eyebrow": "Michigan learner's permit",
+    "heading": "Pass your Michigan permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 50,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "What Every Driver Must Know",
+    "sourceUrl": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Resources/Forms-and-publications/WEDMK/WEDMK.pdf"
+  },
+  "data": {
+    "manual": "mi/manual.v1.json",
+    "questions": "mi/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}

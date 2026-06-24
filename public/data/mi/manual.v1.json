@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "What Every Driver Must Know",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs, signals, and pavement markings tell you what to do and warn you of hazards. A red eight-sided sign always means STOP, a downward triangle means YIELD, and yellow diamond signs warn of conditions ahead such as curves or crossings. Orange signs mark construction and work zones, while green signs give directions and distances."
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals must be obeyed at all times. A steady red light means stop and stay stopped, a steady yellow means the light is about to turn red so stop if you safely can, and a green light means go after yielding to any traffic and pedestrians already in the intersection. A flashing red is treated like a stop sign, and a flashing yellow means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide traffic flow. White lines separate lanes traveling in the same direction or mark the road's edge, while yellow lines separate opposing traffic. A broken yellow line allows passing when safe, but a solid yellow line on your side means no passing. A two-way center left-turn lane is used only for left turns from either direction."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules prevent crashes by establishing who goes first. At a four-way stop, the first vehicle to arrive goes first; if two arrive together, the driver on the right has the right of way. When turning left, you must yield to oncoming traffic and to pedestrians. Always yield to pedestrians in marked or unmarked crosswalks."
+        },
+        {
+          "type": "paragraph",
+          "text": "When entering a road from a driveway, alley, or parking lot, you must yield to traffic and pedestrians already on the road. At a roundabout, yield to traffic already circulating and enter when there is a safe gap. When two vehicles meet on a narrow hill and cannot pass, the vehicle facing downhill should back up."
+        },
+        {
+          "type": "paragraph",
+          "text": "You must always yield to emergency vehicles using lights and sirens by pulling to the right and stopping until they pass. When a school bus stops with red lights flashing on a two-lane road, traffic in both directions must stop until the lights stop flashing and the bus moves, protecting children getting on and off."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Michigan sets default 'prima facie' speed limits that apply when no sign is posted: 25 mph in residential districts, 55 mph on most county and unmarked roads, and 70 mph on most freeways. The basic speed law also requires you to drive at a speed that is reasonable and safe for current road, weather, and traffic conditions, even if that is below the posted limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep a safe following distance, generally at least three seconds behind the vehicle ahead in good conditions, and increase that distance in rain, snow, or fog. Your total stopping distance includes the time to perceive a hazard, react to it, and then physically brake, so slowing down gives you more time to stop safely."
+        },
+        {
+          "type": "paragraph",
+          "text": "Under Michigan's Move Over law, when you approach a stationary emergency or service vehicle with flashing lights you must slow to at least 10 mph below the posted limit and move over a lane when it is safe. Driving far slower than surrounding traffic can also be dangerous, and reduced speed limits in work zones must always be obeyed."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass other vehicles only on the left and only when it is safe and legal. A broken yellow center line allows passing when the way is clear, but a solid yellow line on your side means passing is prohibited. Never pass on a hill or curve where you cannot see oncoming traffic, and do not pass within 100 feet of an intersection or railroad crossing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before changing lanes or passing, signal your intentions, check your mirrors, and look over your shoulder to clear your blind spot. After passing, return to your lane only when you can see the vehicle you passed in your rear-view mirror. If another driver is passing you, maintain or slightly reduce your speed to let them complete the pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "On multilane roads, keep right except to pass so faster traffic can flow on the left. When merging onto a freeway, use the on-ramp to accelerate to the speed of traffic and merge smoothly into an available gap rather than stopping at the end of the ramp."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "You share the road with bicyclists, motorcyclists, pedestrians, large trucks, and others. Michigan law requires drivers to give bicyclists at least 3 feet of space when passing. Motorcycles are entitled to a full lane, and you should give them extra following distance because they can stop more quickly than cars."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks have big blind spots called 'no-zones,' so avoid lingering beside or directly behind them. Trucks need much more room and time to stop, and they often swing wide to the left before making a right turn, so never try to pass a turning truck on the right."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always watch for and yield to pedestrians, especially children, who can be unpredictable. A pedestrian using a white cane or guide dog may be visually impaired and must be given the right of way. Slow down and give wide space to people, animals, and horse-drawn vehicles on or near the road."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "It is illegal in Michigan to drive with a blood alcohol content (BAC) of 0.08 or higher if you are 21 or older. Drivers under 21 are subject to a zero-tolerance limit of 0.02, and a BAC of 0.17 or higher triggers enhanced 'High BAC' penalties. Alcohol slows reaction time and impairs judgment, and the only sure way to drive safely is to not drink before driving."
+        },
+        {
+          "type": "paragraph",
+          "text": "Under Michigan's implied consent law, refusing a lawful breath or blood test after a drunk-driving arrest results in an automatic license suspension. Other drugs, including some prescription and over-the-counter medications, can also impair driving, so always check labels and avoid driving when affected."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is a major cause of crashes. Michigan's hands-free law prohibits holding or manually using a cell phone or other mobile device while driving; you may only use it through voice or a single touch on a mounted or connected system. Texting takes your eyes, hands, and mind off the road, and drowsy driving is similarly dangerous because it slows reactions and can cause you to fall asleep."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Michigan requires headlights from a half hour after sunset to a half hour before sunrise and whenever visibility is poor. The law also requires headlights to be on whenever weather conditions make you use your windshield wipers, so turn them on together in rain, snow, or fog."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reduce your speed and increase following distance on wet, snowy, or icy roads, because traction and stopping ability are reduced. Hydroplaning happens when your tires ride on a film of water and lose contact with the road; if it occurs, ease off the gas and avoid sudden steering or braking until traction returns."
+        },
+        {
+          "type": "paragraph",
+          "text": "In fog, use low-beam headlights and slow down, since high beams reflect back and reduce visibility. If you start to skid, ease off the accelerator and steer in the direction you want to go. If your wheels drop onto the shoulder, hold the wheel firmly, ease off the gas, and steer back onto the pavement gently when it is safe."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park legally and considerately. When parking uphill next to a curb, turn your front wheels away from the curb; when parking downhill, turn them toward the curb so the vehicle rolls into the curb if it moves. Always set the parking brake and shift to park, and check for traffic and bicyclists before opening your door."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not park where you would block traffic or hide a traffic control device, such as within an intersection, on a crosswalk, near a fire hydrant, or too close to a stop sign or signal. Colored or restricted curbs indicate where parking is limited or prohibited. When parallel parking, position your tires within about 12 inches of the curb."
+        },
+        {
+          "type": "paragraph",
+          "text": "Drive only in the proper direction on one-way streets, following posted arrows and signs. Signal your turns at least 100 feet ahead in city driving so other drivers and pedestrians have time to react to your movements."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Michigan, driver's licenses are issued by the Secretary of State (SOS), and the official driver manual is titled 'What Every Driver Must Know.' New teen drivers go through the Graduated Driver Licensing (GDL) program, earning a Level 1 license at 14 years and 9 months after completing Segment 1 of driver education."
+        },
+        {
+          "type": "paragraph",
+          "text": "A Level 1 license holder may drive only while supervised by a licensed parent, guardian, or a designated adult age 21 or older. Before completing Segment 2, a teen must log at least 50 hours of supervised driving, including 10 hours at night. The Level 2 intermediate license adds restrictions, generally barring unsupervised driving from 10 p.m. to 5 a.m. and limiting the driver to one passenger under 21 who is not immediate family."
+        },
+        {
+          "type": "paragraph",
+          "text": "Under Kelsey's Law, Level 1 and Level 2 teen drivers may not use a cell phone while driving except in an emergency. Always carry your valid driver's license, vehicle registration, and proof of insurance, and report any change of address to the Secretary of State within 10 days."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Michigan uses a points system that adds points to your driving record for traffic convictions; accumulating too many points can lead to license suspension and higher insurance costs. Serious offenses such as drunk driving (OWI), leaving the scene of a crash, or driving without a valid license bring fines, license sanctions, and possible jail time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seat belts save lives and are required by law. Drivers and front-seat passengers must wear a properly fastened safety belt, and children must use a car seat or booster seat until they are 8 years old or 4 feet 9 inches tall. Violating the hands-free law carries a $200 fine and/or community service for a first offense, and a Move Over violation is a civil infraction with two points and a fine of about $400."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speeding fines are increased in work zones and school zones to protect the people there. If an officer signals you to pull over, pull to the right safely, stop, stay in your vehicle unless told otherwise, and cooperate."
+        }
+      ]
+    }
+  ]
+}
