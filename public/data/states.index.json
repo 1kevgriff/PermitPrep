@@ -3,6 +3,12 @@
   "default": "va",
   "states": [
     {
+      "id": "hi",
+      "name": "Hawaii",
+      "abbr": "HI",
+      "config": "hi/config.v1.json"
+    },
+    {
       "id": "va",
       "name": "Virginia",
       "abbr": "VA",
