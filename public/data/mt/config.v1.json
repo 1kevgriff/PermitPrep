@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "mt",
+  "name": "Montana",
+  "abbr": "MT",
+  "agency": "Montana Motor Vehicle Division (MVD)",
+  "brand": {
+    "mark": "MT",
+    "appName": "Permit Prep",
+    "agencyPill": "Montana Motor Vehicle Division (MVD)"
+  },
+  "home": {
+    "eyebrow": "Montana learner's permit",
+    "heading": "Pass your Montana permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 33,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Montana Driver Manual",
+    "sourceUrl": "https://mvdmt.gov/wp-content/uploads/2023/09/25-0100M-Montana-Driver-Manual-English.pdf"
+  },
+  "data": {
+    "manual": "mt/manual.v1.json",
+    "questions": "mt/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}

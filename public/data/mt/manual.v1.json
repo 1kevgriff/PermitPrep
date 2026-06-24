@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Montana Driver Manual",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic control devices keep drivers organized and predictable. A steady red light means stop and remain stopped until the light turns green; a steady yellow light warns that the signal is about to turn red, so you should stop if you can do so safely. A flashing red light is treated like a stop sign, while a flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sign colors and shapes carry meaning even before you read the words. Red is used for stop, yield, and prohibitions; yellow warns of conditions ahead; orange marks construction and maintenance zones; and an eight-sided (octagon) sign always means stop. White regulatory signs tell you the law, such as posted speed limits."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide your position. A solid yellow line on your side of the center means passing is not allowed, while a broken yellow line means passing is permitted when it is safe. White lines separate lanes of traffic moving in the same direction, and a solid white line discourages lane changes."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules are about yielding, not taking. At a four-way stop, the first vehicle to arrive goes first; when two vehicles arrive at the same time, the driver on the left yields to the driver on the right. Always yield to pedestrians in a crosswalk and to emergency vehicles using lights or sirens."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning left, you must yield to oncoming traffic that is close enough to be a hazard. In Montana you may turn right on a red light after coming to a complete stop, unless a sign prohibits it, and only after yielding to pedestrians and cross traffic. A left turn on red is generally not allowed except from a one-way street onto another one-way street where permitted."
+        },
+        {
+          "type": "paragraph",
+          "text": "Position your vehicle correctly before turning by moving into the proper lane well in advance and signaling at least 100 feet before the turn. Yield to vehicles already in a roundabout and enter only when there is a safe gap."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Montana sets statutory speed limits that apply unless signs say otherwise. The default limit in an urban district is 25 mph. On interstate highways outside an urbanized area of 50,000 or more, the limit is 80 mph, and within such an urbanized area it is 65 mph. On other public highways the limit is 70 mph during the day and 65 mph at night."
+        },
+        {
+          "type": "paragraph",
+          "text": "The basic speed rule requires you to drive no faster than is reasonable and prudent for conditions, regardless of the posted limit. In rain, snow, fog, or heavy traffic the safe speed may be well below the posted maximum."
+        },
+        {
+          "type": "paragraph",
+          "text": "Manage following distance with the three-second rule: pick a fixed object, and if you reach it before counting three seconds after the vehicle ahead passes it, you are too close. Increase your following distance in poor weather, at higher speeds, and when being tailgated."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe. Do not pass when a solid yellow line is on your side, when approaching a hill or curve where you cannot see far enough ahead, within an intersection, or near a railroad crossing. Complete the pass and return to your lane only when you can see the vehicle you passed in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep to the right except when passing. On multi-lane roads, slower traffic should use the right lane and faster traffic should use the left lane for passing. Signal every lane change and check your mirrors and blind spots before moving over."
+        },
+        {
+          "type": "paragraph",
+          "text": "Never increase your speed when another driver is passing you. If you are being passed, stay in your lane and, if necessary, ease off the accelerator to let the other vehicle complete the pass safely."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roads are shared with motorcycles, bicycles, pedestrians, large trucks, and farm equipment. Give motorcycles a full lane and extra following distance because they can stop quickly and are easy to overlook. When passing a bicyclist, give a safe clearance and wait for an open gap."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks have big blind spots and need much more room to stop and to make wide right turns. Do not cut in front of a truck immediately after passing, and never linger alongside one where the driver cannot see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Montana's Move Over law requires you to slow down and, when possible, move over a lane for stopped emergency, towing, maintenance, and construction vehicles displaying warning lights. Watch for slow-moving farm vehicles on rural roads and for wildlife near roadways, especially at dawn and dusk."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Montana it is illegal to drive with a blood alcohol concentration (BAC) of 0.08 or higher if you are 21 or older. For drivers under 21, a zero-tolerance limit of 0.02 applies, and commercial drivers are limited to 0.04. Alcohol slows reaction time, impairs judgment, and reduces coordination."
+        },
+        {
+          "type": "paragraph",
+          "text": "By driving in Montana you give implied consent to chemical testing of your breath, blood, or other bodily substance. Refusing the test results in an automatic license suspension, and a DUI conviction brings fines, license loss, and possible jail time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is any activity that takes your eyes, hands, or mind off driving. Even where no statewide texting ban exists, many Montana cities prohibit handheld phone use, and distracted driving that causes a crash can lead to serious penalties. Stay focused, set navigation before you drive, and pull over to handle your phone."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Reduce speed and increase following distance whenever conditions are poor. On wet roads, tires can hydroplane and lose grip; on snow and ice, braking and steering take far longer, so slow gradually and avoid sudden moves. Montana winters demand extra caution on bridges and shaded areas that freeze first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use your headlights to see and be seen. In Montana you must turn on your headlights from a half hour after sunset to a half hour before sunrise and whenever weather conditions reduce visibility. Use low beams in fog, rain, and snow because high beams reflect glare back at you."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you skid, ease off the gas and steer gently in the direction you want the front of the vehicle to go. Carry an emergency kit in winter, keep your fuel tank reasonably full, and clear all snow and ice from windows before driving."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park legally and clear of traffic. Do not park within an intersection, on a crosswalk, in front of a driveway, on a sidewalk, or where a sign or curb color prohibits it. Never park within 15 feet of a fire hydrant or in a space reserved for persons with disabilities unless properly permitted."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the vehicle will roll away from traffic if it moves. Facing downhill, turn the wheels toward the curb; facing uphill with a curb, turn the wheels away from the curb. Always set the parking brake and leave the vehicle in park or in gear."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seat belts are required for drivers and passengers in Montana, and children under 6 who weigh less than 60 pounds must be secured in an approved child safety seat. Buckling up before you move is the single most effective way to protect yourself in a crash."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Montana uses a Graduated Driver Licensing (GDL) program for new teen drivers. A learner license is available beginning at age 14 1/2 through an approved traffic education program. With a learner license you must always drive supervised by a licensed adult seated beside you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before moving to the next stage, a teen must hold the learner license for at least 6 months and complete 50 hours of supervised driving practice, including at least 10 hours at night. These hours build the real-world experience that classroom study alone cannot provide."
+        },
+        {
+          "type": "paragraph",
+          "text": "Under the first-year restricted license, teen drivers face time and passenger limits: driving is restricted between 11:00 p.m. and 5:00 a.m. except for certain purposes, and the number of young passengers is limited during the early months. Violating GDL restrictions can delay full licensure."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic laws are enforced through citations, fines, license points and suspensions, and in serious cases arrest. A DUI conviction in Montana carries fines, possible jail, and license suspension, and refusing a chemical test triggers an automatic suspension under the implied consent law."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some violations carry enhanced penalties. Failing to obey Montana's Move Over law for stopped emergency and work vehicles can bring steep fines, and speeding in posted work zones or school zones typically results in higher penalties."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are stopped by law enforcement, pull over safely to the right, stay in your vehicle, and keep your hands visible. Driving without a valid license, without insurance, or while suspended results in additional penalties, so always carry your license, registration, and proof of insurance."
+        }
+      ]
+    }
+  ]
+}
