@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "md",
+  "name": "Maryland",
+  "abbr": "MD",
+  "agency": "MDOT Motor Vehicle Administration (MVA)",
+  "brand": {
+    "mark": "MD",
+    "appName": "Permit Prep",
+    "agencyPill": "MDOT Motor Vehicle Administration (MVA)"
+  },
+  "home": {
+    "eyebrow": "Maryland learner's permit",
+    "heading": "Pass your Maryland permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 25,
+    "generalPassPct": 88
+  },
+  "manual": {
+    "source": "Maryland Driver's Manual (DL-002)",
+    "sourceUrl": "https://mva.maryland.gov/Documents/DL-002.pdf"
+  },
+  "data": {
+    "manual": "md/manual.v1.json",
+    "questions": "md/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
