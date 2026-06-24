@@ -3,6 +3,12 @@
   "default": "va",
   "states": [
     {
+      "id": "ia",
+      "name": "Iowa",
+      "abbr": "IA",
+      "config": "ia/config.v1.json"
+    },
+    {
       "id": "va",
       "name": "Virginia",
       "abbr": "VA",

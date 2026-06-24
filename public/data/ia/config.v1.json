@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "ia",
+  "name": "Iowa",
+  "abbr": "IA",
+  "agency": "Iowa DOT (Motor Vehicle Division)",
+  "brand": {
+    "mark": "IA",
+    "appName": "Permit Prep",
+    "agencyPill": "Iowa DOT (Motor Vehicle Division)"
+  },
+  "home": {
+    "eyebrow": "Iowa learner's permit",
+    "heading": "Pass your Iowa permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 35,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Iowa Driver's License Manual",
+    "sourceUrl": "https://iowadot.gov/media/7308/download?inline="
+  },
+  "data": {
+    "manual": "ia/manual.v1.json",
+    "questions": "ia/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}

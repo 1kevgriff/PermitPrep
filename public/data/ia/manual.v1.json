@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Iowa Driver's License Manual",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs are grouped by shape and color so you can recognize them quickly. Red and white signs such as stop, yield, and do-not-enter give commands; yellow signs warn of conditions ahead; orange signs mark construction and work zones; and green signs give directions and distances. An octagon always means stop, and an upside-down triangle always means yield."
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals control the order of movement at intersections. A steady red light means stop and remain stopped, a steady yellow means the light is about to turn red and you should stop if you can do so safely, and a steady green means go if the intersection is clear. A flashing red light is treated like a stop sign, while a flashing yellow means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings reinforce the rules of the road. A solid yellow line on your side means no passing, broken yellow lines mean passing is allowed when clear, and double solid yellow lines mean neither direction may pass. White lines separate lanes of traffic moving in the same direction, and a solid white line discourages lane changes."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who should go first, but the law really tells you when you must yield, not when you may insist on going. At an intersection without signals, yield to vehicles already in the intersection and to the driver on your right when you arrive at the same time. Always yield to pedestrians in a crosswalk and to vehicles already in a roundabout."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning, signal at least 100 feet before the turn and move into the proper lane in advance. For a left turn, yield to oncoming traffic and to pedestrians crossing the street you are entering. In Iowa you may turn right on red after coming to a complete stop and yielding, unless a sign prohibits it; a left turn on red is allowed only from a one-way street onto another one-way street."
+        },
+        {
+          "type": "paragraph",
+          "text": "Emergency vehicles using lights or sirens always have the right of way. Pull over to the right, stop, and wait for them to pass. Funeral processions and vehicles already lawfully in an intersection also keep the right of way over drivers who are just arriving."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Iowa uses statutory speed limits that apply unless a posted sign says otherwise. Common limits are 20 mph in business districts, 25 mph in residential and school zones, 55 mph on most rural highways, and 70 mph on rural interstates. You must always drive at a speed that is reasonable for traffic, weather, and road conditions, even when that speed is below the posted limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Managing the space around your vehicle prevents most collisions. Keep a following distance of at least three to four seconds behind the vehicle ahead, and increase it in rain, snow, fog, or when being tailgated. Pick a fixed object, watch the vehicle ahead pass it, and count the seconds until you reach the same point."
+        },
+        {
+          "type": "paragraph",
+          "text": "Slow down before curves, intersections, and crests of hills where your sight distance is limited. Speeding reduces the time you have to react and greatly increases stopping distance and crash severity, so adjust your speed to leave yourself room to stop safely."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe. Never pass where a solid yellow line is on your side, on hills or curves where you cannot see far enough ahead, within 100 feet of an intersection or railroad crossing, or when a school bus is loading children with its red lights flashing. Complete your pass and return to your lane only when you can see both headlights of the passed vehicle in your mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "On multilane roads, keep to the right except when passing, and use the left lane for passing slower traffic. Signal every lane change, check your mirrors, and glance over your shoulder to clear your blind spot before moving over."
+        },
+        {
+          "type": "paragraph",
+          "text": "When another driver is passing you, do not speed up. Maintain or slightly reduce your speed so the pass can be completed quickly and the other driver can return to the lane safely."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "You share the road with motorcycles, bicycles, pedestrians, large trucks, and farm equipment, which is especially common on Iowa's rural roads. Give motorcycles a full lane and extra following distance, and always check twice for them before turning or changing lanes because they are small and easy to miss."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks have big blind spots, take longer to stop, and swing wide on turns. Do not cut in front of a truck after passing, and never linger alongside one. When you cannot see a truck driver's mirrors, the driver cannot see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Slow-moving vehicles displaying an orange triangle travel under 25 mph; be ready to slow quickly when you come over a hill or around a curve. Iowa's Move Over or Slow Down law requires you to change lanes away from a stopped emergency, maintenance, or other vehicle with flashing lights, or to slow down well below the limit if you cannot move over safely."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Iowa it is illegal to drive with a blood alcohol concentration of 0.08 or higher if you are 21 or older. Drivers under 21 are held to a zero-tolerance limit of 0.02, and commercial drivers are limited to 0.04. Alcohol and many drugs slow reaction time, impair judgment, and reduce coordination, and there is no way to sober up quickly other than time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Iowa's hands-free law prohibits holding or supporting a phone or other electronic device while driving. You may not text, scroll, type, or make handheld calls; use a hands-free or voice-activated mode, a mount, or speakerphone instead. Enforcement with fines began in 2026, and violations that cause injury or death carry much higher penalties."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is any activity that takes your eyes off the road, your hands off the wheel, or your mind off driving. Plan your route, set up navigation and music before you move, and pull over safely if you must handle a device or attend to passengers."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, snow, ice, and fog reduce traction and visibility, so slow down and increase your following distance to at least four seconds or more. The first few minutes of rain are often the most slippery because water mixes with oil on the pavement. Bridges and overpasses freeze before other roads, so approach them with extra caution in cold weather."
+        },
+        {
+          "type": "paragraph",
+          "text": "Iowa law requires you to turn on your headlights from sunset to sunrise and whenever weather or conditions limit visibility. A good rule is to use your headlights whenever you use your windshield wipers, which keeps you visible to others in rain, snow, or fog."
+        },
+        {
+          "type": "paragraph",
+          "text": "If your vehicle begins to skid, ease off the gas, steer gently in the direction you want the front of the car to go, and avoid slamming the brakes. In fog, use low-beam headlights rather than high beams, because high beams reflect off the fog and reduce what you can see."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park legally and out of the flow of traffic. Do not park within 5 feet of a driveway, within 15 feet of a fire hydrant, within 20 feet of a crosswalk at an intersection, or within 30 feet of a stop sign or traffic signal. Never park in a marked accessible space without a valid permit, and avoid blocking sidewalks or fire lanes."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the vehicle will roll away from traffic if the brakes fail. Facing downhill, or uphill without a curb, turn the wheels toward the edge of the road; facing uphill with a curb, turn them away from the curb so the tire rests against it. Always set the parking brake and shift to park."
+        },
+        {
+          "type": "paragraph",
+          "text": "Iowa's seat belt and child restraint laws require everyone in the vehicle to be properly secured. A child under one year old and under 20 pounds must ride in a rear-facing restraint, children under six must be in an appropriate child restraint system, and children up to age 18 must be secured by a restraint or seat belt."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Iowa uses a graduated driver's license system for new drivers. You may apply for an instruction permit at age 14 after passing the vision and knowledge tests. With the permit you must always drive supervised by a qualified adult, and you must log at least 20 hours of supervised driving, including at least two hours at night, before moving to the next stage."
+        },
+        {
+          "type": "paragraph",
+          "text": "At age 16, after holding the instruction permit for at least 12 months with a clean record and completing approved driver education, you may apply for an intermediate license. The intermediate license restricts unsupervised driving between 12:30 a.m. and 5:00 a.m., and a passenger restriction limits the number of unrelated minor passengers during the first six months."
+        },
+        {
+          "type": "paragraph",
+          "text": "The knowledge test for the instruction permit has 35 questions, and you must answer at least 80 percent correctly to pass. Study the Iowa Driver's License Manual, and bring required proof of identity, residency, and parental consent if you are under 18."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving is a privilege that can be suspended or revoked for unsafe or illegal behavior. Operating while intoxicated, accumulating too many violations, or driving without insurance can all cost you your license. By driving on Iowa roads you give implied consent to chemical testing, and refusing a test results in an automatic license suspension."
+        },
+        {
+          "type": "paragraph",
+          "text": "Many violations carry scheduled fines plus surcharges and court costs. Violating the Move Over or Slow Down law, failing to yield to emergency vehicles, or breaking the hands-free phone law all carry fines, and penalties rise sharply when a violation causes injury or death."
+        },
+        {
+          "type": "paragraph",
+          "text": "Iowa requires drivers to carry proof of financial responsibility and to stop and exchange information after a crash. Leaving the scene of a crash, especially one involving injury, is a serious offense that can lead to criminal charges and loss of driving privileges."
+        }
+      ]
+    }
+  ]
+}
