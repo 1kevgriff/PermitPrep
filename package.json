@@ -1,7 +1,7 @@
 {
   "name": "permitprep",
   "version": "1.0.0",
-  "description": "Virginia learner's permit practice exams and study guide (static SPA).",
+  "description": "Multi-state learner's permit practice exams and study guide (static SPA).",
   "private": true,
   "type": "module",
   "scripts": {

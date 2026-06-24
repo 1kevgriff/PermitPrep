@@ -1,6 +1,10 @@
 import type { Question } from './question'
 
-/** Mirrors the real VA exam. Counts live here so they are trivially adjustable. */
+/**
+ * Exam structure for a state. The concrete values are data-driven — they live
+ * in each state's `config.v1.json` (`exam`) and reach the app via the state
+ * store, so no exam counts are hardcoded here.
+ */
 export interface ExamConfig {
   /** Part 1 — traffic signs. Must be answered ALL correct to advance. */
   signCount: number
@@ -8,12 +12,6 @@ export interface ExamConfig {
   generalCount: number
   /** Pass threshold for Part 2, as a percentage (>= passes). */
   generalPassPct: number
-}
-
-export const VA_EXAM_CONFIG: ExamConfig = {
-  signCount: 10,
-  generalCount: 25,
-  generalPassPct: 80,
 }
 
 export interface PracticeConfig {

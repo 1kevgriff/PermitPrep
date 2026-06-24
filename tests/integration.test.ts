@@ -8,7 +8,8 @@ import { useProgressStore } from '@/stores/progress'
 import { selectExamQuestions, selectPracticeQuestions } from '@/lib/selection'
 import { gradeExam } from '@/lib/scoring'
 import { rngFromSeed } from '@/lib/shuffle'
-import { VA_EXAM_CONFIG, type AnswerMap } from '@/types/exam'
+import { VA_EXAM_CONFIG } from './examConfig'
+import type { AnswerMap } from '@/types/exam'
 
 const root = process.cwd() + '/'
 function fixture(file: string): string {

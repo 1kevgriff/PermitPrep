@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "va",
+  "name": "Virginia",
+  "abbr": "VA",
+  "agency": "Virginia DMV",
+  "brand": {
+    "mark": "VA",
+    "appName": "Permit Prep",
+    "agencyPill": "Virginia DMV"
+  },
+  "home": {
+    "eyebrow": "Virginia learner's permit",
+    "heading": "Pass your Virginia permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 25,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Virginia Driver's Manual (DMV39)",
+    "sourceUrl": "https://www.dmv.virginia.gov/licenses-ids/manuals"
+  },
+  "data": {
+    "manual": "va/manual.v1.json",
+    "questions": "va/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}

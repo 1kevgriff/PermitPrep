@@ -22,7 +22,9 @@ import fitz
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 PDF = ROOT / "assets" / "dmv39.pdf"
 EXTRACTED = ROOT / "scripts" / "authoring" / "_extracted"
-OUT = ROOT / "public" / "data" / "manual.v1.json"
+# Virginia is state #1; its content is namespaced under public/data/va/.
+STATE = "va"
+OUT = ROOT / "public" / "data" / STATE / "manual.v1.json"
 COLUMN_SPLIT = 306.0
 
 SECTIONS = [

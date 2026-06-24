@@ -1,31 +1,50 @@
 import type { QuestionBank } from '@/types/question'
 import type { Manual, Sign } from '@/types/manual'
+import type { StateConfig, StateSummary, StatesIndex } from '@/types/state'
 
-/** Base-aware URL for a file shipped in /public (works in dev and on Pages). */
-function dataUrl(file: string): string {
-  return `${import.meta.env.BASE_URL}data/${file}`
+/** Base-aware URL for a file shipped in /public/data (works in dev and on Pages). */
+function dataUrl(path: string): string {
+  return `${import.meta.env.BASE_URL}data/${path}`
 }
 
-async function fetchJson<T>(file: string): Promise<T> {
-  const res = await fetch(dataUrl(file))
-  if (!res.ok) throw new Error(`Failed to load ${file}: ${res.status}`)
-  return (await res.json()) as T
+/** Fetch + cache a JSON file, keyed by its data-relative path. */
+const jsonCache = new Map<string, Promise<unknown>>()
+function fetchJson<T>(path: string): Promise<T> {
+  let cached = jsonCache.get(path)
+  if (!cached) {
+    cached = fetch(dataUrl(path)).then((res) => {
+      if (!res.ok) throw new Error(`Failed to load ${path}: ${res.status}`)
+      return res.json()
+    })
+    jsonCache.set(path, cached)
+  }
+  return cached as Promise<T>
 }
 
-let bankCache: Promise<QuestionBank> | null = null
-let manualCache: Promise<Manual> | null = null
-let signsCache: Promise<Sign[]> | null = null
+// ---- states -----------------------------------------------------------------
 
-export function loadQuestionBank(): Promise<QuestionBank> {
-  return (bankCache ??= fetchJson<QuestionBank>('questions.v1.json'))
+/** The index of available states (`data/states.index.json`). */
+export function loadStatesIndex(): Promise<StatesIndex> {
+  return fetchJson<StatesIndex>('states.index.json')
 }
 
-export function loadManual(): Promise<Manual> {
-  return (manualCache ??= fetchJson<Manual>('manual.v1.json'))
+/** A single state's config, located via its index entry. */
+export function loadStateConfig(summary: StateSummary): Promise<StateConfig> {
+  return fetchJson<StateConfig>(summary.config)
 }
 
-export function loadSigns(): Promise<Sign[]> {
-  return (signsCache ??= fetchJson<Sign[]>('signs.v1.json'))
+// ---- per-state content ------------------------------------------------------
+
+export function loadQuestionBank(config: StateConfig): Promise<QuestionBank> {
+  return fetchJson<QuestionBank>(config.data.questions)
+}
+
+export function loadManual(config: StateConfig): Promise<Manual> {
+  return fetchJson<Manual>(config.data.manual)
+}
+
+export function loadSigns(config: StateConfig): Promise<Sign[]> {
+  return fetchJson<Sign[]>(config.data.signs)
 }
 
 /** Base-aware URL for an image shipped in /public/images. */

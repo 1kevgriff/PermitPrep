@@ -2,22 +2,26 @@
 import { computed, onMounted, ref } from 'vue'
 import { onBeforeRouteLeave, useRouter } from 'vue-router'
 import { useContentStore } from '@/stores/content'
+import { useStatesStore } from '@/stores/states'
 import { useSessionStore } from '@/stores/session'
 import { useProgressStore, type Attempt } from '@/stores/progress'
 import { selectExamQuestions } from '@/lib/selection'
 import { gradeSignPart, gradeExam } from '@/lib/scoring'
 import { rngFromSeed } from '@/lib/shuffle'
 import { uid } from '@/lib/id'
-import { VA_EXAM_CONFIG } from '@/types/exam'
 import type { PreparedQuestion } from '@/types/exam'
 import QuestionCard from '@/components/question/QuestionCard.vue'
 import ExamProgress from '@/components/exam/ExamProgress.vue'
 import Part1Gate from '@/components/exam/Part1Gate.vue'
 
 const content = useContentStore()
+const states = useStatesStore()
 const session = useSessionStore()
 const progress = useProgressStore()
 const router = useRouter()
+
+/** Active state's exam rules — content is loaded before this view renders. */
+const examConfig = computed(() => states.config!.exam)
 
 type UiState = 'quiz' | 'gate'
 const ui = ref<UiState>('quiz')
@@ -25,7 +29,7 @@ const index = ref(0)
 
 function startNewExam(): void {
   const rng = rngFromSeed(`exam-${Date.now()}`)
-  const prepared = selectExamQuestions(content.questions, VA_EXAM_CONFIG, rng)
+  const prepared = selectExamQuestions(content.questions, examConfig.value, rng)
   session.startExam(uid(), prepared.sign, prepared.general)
   ui.value = 'quiz'
   index.value = 0
@@ -103,7 +107,7 @@ function finishExam(): void {
     exam.value.sign,
     exam.value.phase === 'part2' ? exam.value.general : [],
     exam.value.answers,
-    VA_EXAM_CONFIG,
+    examConfig.value,
     Date.now(),
     exam.value.id,
   )

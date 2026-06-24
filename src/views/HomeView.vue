@@ -2,10 +2,16 @@
 import { computed } from 'vue'
 import { useProgressStore } from '@/stores/progress'
 import { useContentStore } from '@/stores/content'
+import { useStatesStore } from '@/stores/states'
 import { topicLabel } from '@/lib/labels'
 
 const progress = useProgressStore()
 const content = useContentStore()
+const states = useStatesStore()
+
+// Hero copy is data-driven — content (and the state config) is loaded before
+// this view renders.
+const hero = computed(() => states.config?.home)
 
 const tiles = [
   { to: '/exam', title: 'Take the Exam', desc: 'Full mock test, like the DMV', icon: 'exam', tone: 'green' },
@@ -25,8 +31,8 @@ const generalTotal = computed(() => content.generalQuestions.length)
     <section class="hero">
       <div class="hero__lane" aria-hidden="true"></div>
       <div class="hero__body">
-        <span class="hero__eyebrow">Virginia learner's permit</span>
-        <h1>Pass your Virginia permit test</h1>
+        <span class="hero__eyebrow">{{ hero?.eyebrow }}</span>
+        <h1>{{ hero?.heading }}</h1>
         <p class="hero__sub">
           {{ signTotal }} traffic signs and {{ generalTotal }} knowledge questions, straight from the
           official manual. Free, and it works offline.
