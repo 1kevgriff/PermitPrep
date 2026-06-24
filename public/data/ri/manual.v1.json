@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Rhode Island Driver's Manual",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs are grouped by shape and color so you can recognize them quickly. Red means stop or prohibition, yellow warns of hazards ahead, green guides you, orange marks construction or maintenance zones, and blue signs point to services. An eight-sided red sign always means stop, while a downward-pointing triangle means yield. A steady red light means stop and remain stopped until the light turns green; a steady yellow light warns that the signal is about to turn red."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings direct and separate traffic. A solid yellow line marks the center of a two-way road and means passing is not allowed on your side, while a broken yellow line means passing is permitted when it is safe. White lines separate lanes of traffic moving in the same direction. A flashing red light means stop, then proceed when safe, and a flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "When a traffic signal is dark or not working, treat the intersection as a four-way stop: every driver must stop and yield to vehicles that arrived first. Always obey directions from a police officer even when they conflict with a signal or sign."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way is something you give, not something you take. At a four-way stop, the driver who arrives first goes first; when two arrive together, the driver on the left yields to the driver on the right. Always yield to pedestrians in marked or unmarked crosswalks, and never enter an intersection unless you can clear it completely."
+        },
+        {
+          "type": "paragraph",
+          "text": "In Rhode Island you may turn right on a red light after coming to a full stop, unless a sign prohibits it, and only after yielding to pedestrians and cross traffic. When turning left, yield to oncoming traffic and to pedestrians before proceeding. Vehicles already in a roundabout or traffic circle have the right-of-way over those entering."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always yield to emergency vehicles using lights or sirens by pulling to the right edge of the road and stopping until they pass. Signal your intentions early so other drivers and pedestrians know what you plan to do."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed limits set the maximum safe speed under ideal conditions. In Rhode Island the default speed limit is 25 mph in residential and urban districts and 20 mph in school zones when children are present; many highways are posted at 50 to 55 mph. You must always reduce speed when conditions such as rain, fog, traffic, or curves make the posted limit unsafe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep a safe following distance using the three-second rule: pick a fixed point, and if you reach it before counting to three, you are following too closely. Increase that gap in rain, snow, ice, or fog because stopping distances grow longer. Speeding reduces the time you have to react and lengthens the distance needed to stop."
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving too slowly can be as dangerous as speeding because it disrupts traffic flow and frustrates other drivers. Move with the flow of traffic within the legal limit and keep right except when passing."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe. Never pass when a solid yellow line is on your side, when approaching a hill or curve where you cannot see far enough ahead, or within an intersection or railroad crossing. Signal, check your mirrors and blind spots, and return to your lane only when you can see the passed vehicle in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "On multi-lane roads, keep to the right and use left lanes for passing. You must never pass a school bus that is stopped with its red lights flashing, in either direction on an undivided road. It is illegal to exceed the speed limit while passing another vehicle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Move into the proper lane well before a turn, and do not weave between lanes. Use your signals every time you change lanes so other drivers can anticipate your movement."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roads are shared with pedestrians, bicyclists, motorcyclists, and large trucks. Give bicyclists room when passing and treat them as you would any slow-moving vehicle. Motorcycles are smaller and harder to see, so check your blind spots carefully and allow them a full lane."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have wide blind spots and need much longer distances to stop. Do not cut in front of a truck immediately after passing, and never linger alongside one. Rhode Island's Move Over law requires you to slow down and, when possible, move over a lane for stopped emergency, tow, utility, and maintenance vehicles displaying flashing lights."
+        },
+        {
+          "type": "paragraph",
+          "text": "Watch for pedestrians at all times, especially near crosswalks, schools, and bus stops. Always yield to a person using a white cane or guide dog, and be patient with slower road users."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcohol and drugs impair judgment, reaction time, and coordination. In Rhode Island it is illegal to drive with a blood alcohol concentration of 0.08 percent or higher if you are 21 or older. Drivers under 21 are held to a zero-tolerance standard, and a BAC of 0.02 percent or more results in penalties."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rhode Island is a hands-free state: holding a phone or other wireless device while driving is illegal, and texting while driving is prohibited. The safest choice is to put the phone away entirely. Driving under a Rhode Island license means you have given implied consent to chemical testing, and refusing a test brings its own penalties."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction comes in many forms, including eating, adjusting controls, and talking with passengers. Keep your eyes on the road and your hands on the wheel, and never drive when you are drowsy, since fatigue affects you much like alcohol."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, snow, ice, and fog all reduce traction and visibility. In Rhode Island you must turn on your headlights whenever you use your windshield wipers and whenever visibility is reduced. Slow down, increase your following distance, and avoid sudden braking or steering."
+        },
+        {
+          "type": "paragraph",
+          "text": "If your vehicle begins to skid, ease off the gas and steer gently in the direction you want the front of the car to go; do not slam on the brakes. The first rain after a dry spell makes roads especially slippery as oil and water mix on the surface."
+        },
+        {
+          "type": "paragraph",
+          "text": "In fog, use low-beam headlights rather than high beams, because high beams reflect off the fog and make seeing harder. If conditions become too dangerous, pull completely off the road in a safe spot and wait for them to improve."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park legally and clear of traffic. Never park within an intersection, on a crosswalk, on a sidewalk, in front of a driveway, or within 15 feet of a fire hydrant. Do not park where a sign prohibits it or where your vehicle would block the normal flow of traffic."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the vehicle will not roll into traffic if the brakes fail. Facing downhill, turn the wheels toward the curb; facing uphill with a curb, turn them away from the curb. Always set the parking brake and leave the vehicle in park or in gear."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seat belts are required for the driver and passengers in Rhode Island, and children must be properly secured in child safety or booster seats according to their age, height, and weight. Buckling up before you move is the single most effective way to protect yourself in a crash."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rhode Island uses a Graduated Driver Licensing (GDL) system for new drivers under 18. You may apply for a limited instructional permit at age 16 after completing an approved driver education course and passing the vision screening and written knowledge test. A permit holder must always drive with a licensed adult at least 21 years old, who has been licensed for at least five years, seated in the front passenger seat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before advancing to a limited provisional license, a permit holder must hold the permit for at least six months and complete at least 50 hours of supervised driving practice, including at least 10 hours at night. These requirements help new drivers build experience gradually under supervision."
+        },
+        {
+          "type": "paragraph",
+          "text": "During the first year of a limited provisional license, a young driver may not drive between 1:00 a.m. and 5:00 a.m. except for work, school, or religious activities, and may carry only one passenger under 21 unless they are immediate family members. The written knowledge test has 25 questions, and you must answer at least 20 correctly to pass."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic laws are enforced through fines, points, and license suspension. Serious violations such as driving under the influence, reckless driving, and refusing a chemical test can lead to suspension or revocation of your driving privilege. Accumulating violations adds up quickly and can raise your insurance costs."
+        },
+        {
+          "type": "paragraph",
+          "text": "By driving in Rhode Island you accept implied consent, meaning you agree to submit to a breath or blood test when lawfully requested. Refusing the test results in an automatic license suspension separate from any DUI penalty. Always carry your license, registration, and proof of insurance, and provide them when asked by an officer."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are involved in a crash, stop immediately, help anyone who is injured, and exchange information. Leaving the scene of an accident is a serious crime. Obeying traffic laws and driving courteously is the best way to avoid penalties altogether."
+        }
+      ]
+    }
+  ]
+}
