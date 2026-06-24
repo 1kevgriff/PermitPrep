@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Pennsylvania Driver's Manual (PUB 95)",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs are grouped by shape and color so you can recognize them quickly. Red and white signs give a command, such as STOP (the only octagonal sign) and YIELD (a downward-pointing triangle). Yellow diamond signs warn of conditions ahead, orange signs mark construction or work zones, and green signs give directions and distances."
+        },
+        {
+          "type": "paragraph",
+          "text": "A steady red light means stop and remain stopped until the light turns green. After stopping, you may turn right on red in Pennsylvania unless a sign prohibits it, but only after yielding to pedestrians and cross traffic. A steady yellow light warns that the signal is about to turn red, and a flashing red light is treated the same as a stop sign."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and separate traffic. A solid yellow line on your side of the center means do not pass, while a broken yellow line means passing is allowed when it is safe. White lines separate lanes traveling in the same direction, and you must never cross a double solid line except to turn."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who goes first, but the law is really about who must yield. At a four-way stop, the first vehicle to stop goes first; if two arrive at the same time, the driver on the left yields to the driver on the right. When turning left, you must yield to oncoming traffic and to pedestrians in the crosswalk."
+        },
+        {
+          "type": "paragraph",
+          "text": "You must always yield to pedestrians in marked and unmarked crosswalks, to emergency vehicles using lights or sirens, and to vehicles already in a roundabout or intersection. When entering a road from a driveway, alley, or private road, yield to all traffic and pedestrians on the roadway you are entering."
+        },
+        {
+          "type": "paragraph",
+          "text": "Signal every turn and lane change at least 100 feet in advance using your turn signals. Position yourself in the correct lane before the turn, slow down smoothly, and watch for pedestrians and cyclists who may be crossing the path of your turn."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Unless a sign posts otherwise, Pennsylvania's default speed limits are 25 mph in residential and business districts, 35 mph in an urban district, and 55 mph on rural roads and most highways. You must always drive at a speed that is safe for current conditions, which may be slower than the posted limit in rain, snow, fog, or heavy traffic."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep a safe following distance by using the four-second rule: pick a fixed point, and when the vehicle ahead passes it, count the seconds until you reach the same point. Increase your following distance in bad weather, at night, when being tailgated, and when following motorcycles or large trucks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed too fast for conditions is a leading cause of crashes. Slow down before entering curves, and remember that stopping distance grows dramatically as speed increases because both your reaction distance and braking distance get longer."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only where it is legal and safe. Never pass when a solid yellow line is on your side, when approaching a hill or curve where you cannot see far enough ahead, within 100 feet of an intersection or railroad crossing, or when a school bus has its red lights flashing. Complete the pass and return to your lane only when you can see the passed vehicle in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "On a multilane road, keep right except to pass. The left lane is for passing and faster-moving traffic; slower drivers should stay in the right lanes. Always check your mirrors and your blind spot by glancing over your shoulder before changing lanes."
+        },
+        {
+          "type": "paragraph",
+          "text": "When a school bus stops with its red lights flashing and stop arm extended, all traffic in both directions must stop at least 10 feet away and stay stopped until the lights stop flashing and the arm is withdrawn. The only exception is when a clearly defined median or barrier separates the lanes of travel."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Motorcycles, bicycles, and pedestrians are harder to see and far more vulnerable in a crash, so give them extra space and attention. In Pennsylvania you must give a bicycle at least four feet of clearance when passing, and you may cross the centerline to do so when it is safe. Treat a motorcycle as a full-size vehicle entitled to its own lane."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have large blind spots, called 'No-Zones,' on all four sides. If you cannot see the driver's mirrors, the driver cannot see you. Never cut in front of a large truck too closely, because trucks need much greater stopping distance than cars."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pennsylvania's Move Over Law requires you to move into a lane farther from any stopped emergency vehicle, tow truck, or disabled vehicle showing flashing or warning lights. If you cannot safely move over, you must slow to at least 20 mph below the posted speed limit as you pass."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving under the influence is illegal and dangerous. In Pennsylvania the blood alcohol concentration (BAC) limit is 0.08 percent for drivers 21 and older. Drivers under 21 are held to a zero-tolerance limit of 0.02 percent, so even one drink can lead to a DUI for a young driver and the loss of driving privileges."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcohol and many drugs, including prescription and over-the-counter medications, slow your reactions, impair judgment, and reduce coordination. There is no way to sober up quickly; only time removes alcohol from the body. The safest choice is to plan a sober ride before you drink."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distracted driving is a leading cause of crashes. Under Pennsylvania's Paul Miller's Law, which took effect in 2025, it is a primary offense to use a handheld interactive mobile device, including texting, while driving. Keep your eyes on the road, your hands on the wheel, and your mind on the task of driving."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "In rain, snow, fog, or other low-visibility conditions, Pennsylvania law requires you to turn on your headlights whenever your wipers are in continuous use. Low-beam headlights also improve your visibility in fog, rain, and snow; high beams reflect off precipitation and can make it harder to see."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reduce your speed and increase your following distance when the road is wet, icy, or snow-covered. If your vehicle begins to skid, ease off the gas, avoid slamming the brakes, and steer gently in the direction you want the front of the car to go. Bridges and overpasses freeze before the rest of the road."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hydroplaning happens when tires ride on a film of water and lose contact with the road. To reduce the risk, slow down in heavy rain, keep your tires properly inflated, and avoid driving through standing water. If you hydroplane, ease off the accelerator and keep the steering wheel straight until you regain traction."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park legally and safely. Do not park within 15 feet of a fire hydrant, in front of a driveway, on a crosswalk, in an intersection, or where signs prohibit it. When parking on a hill, turn your wheels so the vehicle will roll away from traffic, and always set your parking brake."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking facing downhill, turn your front wheels toward the curb so the vehicle rolls into the curb if it moves. When facing uphill with a curb, turn the wheels away from the curb so the rear of a tire rests against it. Without a curb, always turn the wheels toward the edge of the road."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obey the basic rules of the road at all times: keep right, use signals, yield where required, and never block intersections or crosswalks. Knowing and following these everyday rules keeps traffic flowing smoothly and prevents collisions."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pennsylvania uses a Graduated Driver Licensing (GDL) system. You may apply for a learner's permit at age 16 after passing the knowledge test, a vision screening, and a physical exam form. With a learner's permit you must always be accompanied by a licensed driver who is at least 21 years old (or a spouse or parent 18 or older) seated in the front seat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before taking the road test, permit holders under 18 must complete at least 65 hours of adult-supervised practice driving, including 10 hours at night and 5 hours in bad weather, certified by a parent or guardian. The permit must be held for at least six months before the road test."
+        },
+        {
+          "type": "paragraph",
+          "text": "Drivers under 18 who pass the road test receive a junior license. Junior license holders may not drive between 11 p.m. and 5 a.m. except for work, volunteer, or emergency reasons, and for the first six months may carry no more than one passenger under 18 who is not an immediate family member, unless a parent or guardian is in the vehicle."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pennsylvania uses a point system to track unsafe driving. Points are added to your record for moving violations, and accumulating 6 or more points triggers consequences such as a special written exam or a license suspension. Points are reduced over time by driving without further violations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Serious offenses carry heavy penalties. A DUI conviction can mean license suspension, fines, mandatory alcohol treatment, and jail time. For drivers under 18, a single conviction for certain offenses, or accumulating 6 or more points, can lead to a 90-day license suspension."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pennsylvania's seat belt law requires drivers and front-seat passengers to be buckled, and it is a primary offense for anyone under 18 in any seating position. Children under 4 must ride in an approved child safety seat, and children under 2 must be in a rear-facing car seat. If you are stopped by police, pull over safely to the right, stay in your vehicle, and keep your hands visible."
+        }
+      ]
+    }
+  ]
+}

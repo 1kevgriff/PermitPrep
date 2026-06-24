@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "pa",
+  "name": "Pennsylvania",
+  "abbr": "PA",
+  "agency": "PennDOT (Pennsylvania Department of Transportation, Bureau of Driver Licensing)",
+  "brand": {
+    "mark": "PA",
+    "appName": "Permit Prep",
+    "agencyPill": "PennDOT (Pennsylvania Department of Transportation, Bureau of Driver Licensing)"
+  },
+  "home": {
+    "eyebrow": "Pennsylvania learner's permit",
+    "heading": "Pass your Pennsylvania permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 18,
+    "generalPassPct": 83
+  },
+  "manual": {
+    "source": "Pennsylvania Driver's Manual (PUB 95)",
+    "sourceUrl": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf"
+  },
+  "data": {
+    "manual": "pa/manual.v1.json",
+    "questions": "pa/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
