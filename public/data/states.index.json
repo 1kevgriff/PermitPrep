@@ -3,6 +3,12 @@
   "default": "va",
   "states": [
     {
+      "id": "vt",
+      "name": "Vermont",
+      "abbr": "VT",
+      "config": "vt/config.v1.json"
+    },
+    {
       "id": "va",
       "name": "Virginia",
       "abbr": "VA",
