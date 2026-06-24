@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "ks",
+  "name": "Kansas",
+  "abbr": "KS",
+  "agency": "Kansas Department of Revenue, Division of Vehicles",
+  "brand": {
+    "mark": "KS",
+    "appName": "Permit Prep",
+    "agencyPill": "Kansas Department of Revenue, Division of Vehicles"
+  },
+  "home": {
+    "eyebrow": "Kansas learner's permit",
+    "heading": "Pass your Kansas permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 25,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Kansas Driving Handbook (Non-Commercial Driver's Manual)",
+    "sourceUrl": "https://www.ksrevenue.gov/pdf/dlhb.pdf"
+  },
+  "data": {
+    "manual": "ks/manual.v1.json",
+    "questions": "ks/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
