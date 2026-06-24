@@ -3,6 +3,12 @@
   "default": "va",
   "states": [
     {
+      "id": "ky",
+      "name": "Kentucky",
+      "abbr": "KY",
+      "config": "ky/config.v1.json"
+    },
+    {
       "id": "va",
       "name": "Virginia",
       "abbr": "VA",
