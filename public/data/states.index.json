@@ -3,6 +3,12 @@
   "default": "va",
   "states": [
     {
+      "id": "nc",
+      "name": "North Carolina",
+      "abbr": "NC",
+      "config": "nc/config.v1.json"
+    },
+    {
       "id": "va",
       "name": "Virginia",
       "abbr": "VA",

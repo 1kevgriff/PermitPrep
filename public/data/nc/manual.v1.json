@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "North Carolina Driver Handbook",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals, signs, and pavement markings tell drivers what to do and warn them of conditions ahead. A steady red light means stop and remain stopped until the light turns green; a steady yellow light warns that the signal is about to turn red, so prepare to stop. A flashing red light means come to a full stop and proceed only when it is safe, exactly like a stop sign, while a flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sign shapes and colors carry meaning even before you read the words. An eight-sided red sign always means stop, a downward triangle means yield, yellow signs warn of hazards ahead, and orange signs mark construction or work zones. Regulatory signs such as speed limits are usually white with black lettering and must be obeyed at all times."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and separate traffic. A solid yellow line on your side of the center means no passing, while broken yellow lines allow passing when it is safe. White lines separate lanes of traffic moving in the same direction, and a solid white line discourages lane changes."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules exist to prevent crashes, and the law says who must yield, never who automatically has the right to go. At a four-way stop, the first vehicle to arrive goes first; when two vehicles arrive at the same time, the driver on the left yields to the driver on the right. Always yield to pedestrians in crosswalks and to vehicles already in an intersection."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning left, you must yield to oncoming traffic and to pedestrians crossing the road you are entering. In North Carolina, you may turn right on a red light after coming to a complete stop, unless a sign prohibits it, but you must first yield to pedestrians and cross traffic. A left turn on red is permitted only from a one-way street onto another one-way street."
+        },
+        {
+          "type": "paragraph",
+          "text": "You must yield to emergency vehicles using sirens or flashing lights by pulling over to the right edge of the road and stopping. School buses also require special care: when a bus stops with its red lights flashing and its stop arm extended, traffic in both directions must stop unless separated by a median or physical barrier."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Unless otherwise posted, the speed limit inside North Carolina cities and towns is 35 mph, and outside of municipalities it is 55 mph. These are maximum limits for ideal conditions; drivers must slow down for rain, fog, traffic, curves, and other hazards. The basic speed law requires you to drive at a speed that is reasonable and prudent for current conditions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Following too closely is a common cause of rear-end collisions. A safe practice is the three-second rule: pick a fixed object the vehicle ahead passes, then count the seconds until you reach it, keeping at least three seconds of space. Increase your following distance in bad weather, at higher speeds, and when being tailgated."
+        },
+        {
+          "type": "paragraph",
+          "text": "Managing space means looking well ahead, keeping a cushion of space on all sides of your vehicle when possible, and adjusting your speed early rather than braking suddenly. Slowing down smoothly and leaving room gives you time to react safely to the unexpected."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe, and never when a solid yellow line is on your side of the center, near intersections, on hills, or around curves where you cannot see oncoming traffic. Before passing, signal, check your mirrors and blind spots, and return to your lane only when you can see the passed vehicle in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "On multi-lane roads, slower traffic should keep right and use the left lane mainly for passing. Always signal before changing lanes and check over your shoulder to make sure no vehicle is hidden in your blind spot. Avoid weaving between lanes, and never pass on the shoulder."
+        },
+        {
+          "type": "paragraph",
+          "text": "When being passed, maintain your speed or slow slightly to let the other driver complete the pass quickly and safely. Lane discipline and clear signaling help all drivers anticipate one another's movements and reduce the chance of side-swipe crashes."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roads are shared with motorcycles, bicycles, pedestrians, large trucks, and farm and emergency vehicles. Motorcycles are smaller and harder to see, so check carefully before turning or changing lanes and give riders a full lane. Always look twice for motorcycles at intersections, where many car-motorcycle crashes occur."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have big blind spots and need much more distance to stop. Do not cut in front of a truck right after passing, and never linger alongside one. North Carolina's Move Over Law requires you to move over a lane or slow down significantly when approaching stopped emergency, law enforcement, or roadside utility and DOT vehicles with flashing lights."
+        },
+        {
+          "type": "paragraph",
+          "text": "Give bicyclists room when passing and treat them as legitimate road users with the same rights and duties as drivers. Watch for pedestrians, especially in crosswalks and near schools, and always be prepared to stop for people walking who have the right-of-way."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "In North Carolina it is illegal to drive with a blood alcohol concentration (BAC) of 0.08 percent or higher. For drivers under 21, the state has a zero-tolerance law, meaning any detectable amount of alcohol can result in a charge. Alcohol slows reaction time, impairs judgment, and reduces coordination, and there is no way to sober up quickly other than time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Drugs, including many prescription and over-the-counter medicines, can impair driving just as alcohol does. Driving while impaired by any substance is illegal. The safest choice is to never drive after drinking or using impairing drugs, and to plan a sober ride in advance."
+        },
+        {
+          "type": "paragraph",
+          "text": "Texting while driving is illegal for all drivers in North Carolina, and drivers under 18 may not use a cell phone at all while driving except in an emergency. Distraction of any kind, including eating, adjusting controls, or reaching for objects, takes your attention off the road and dramatically increases crash risk."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, fog, snow, and darkness all reduce visibility and traction, so slow down and increase your following distance. In North Carolina, the law requires you to turn on your headlights whenever your windshield wipers are in use because of rain, snow, or fog, and whenever you cannot clearly see persons or vehicles 500 feet ahead."
+        },
+        {
+          "type": "paragraph",
+          "text": "If your vehicle begins to skid, ease off the accelerator and steer gently in the direction you want the front of the car to go, without slamming the brakes. The first rain after a dry spell is especially slippery, and roads can hydroplane at higher speeds when water builds up under the tires."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use low-beam headlights in fog, rain, and snow because high beams reflect off the moisture and reduce visibility. Watch for ice on bridges and overpasses, which freeze before the rest of the road, and reduce speed well before curves or stops in poor conditions."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park only where it is legal and safe. Do not park within an intersection, on a crosswalk, on a sidewalk, in front of a fire hydrant, or in spaces marked for people with disabilities unless you are authorized. When parking on a hill, turn your wheels so the vehicle will roll away from traffic if the brakes fail."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking facing downhill, turn your front wheels toward the curb so the car rolls into the curb if it moves. When facing uphill with a curb, turn the wheels away from the curb and let the vehicle roll back gently against it; without a curb, always turn the wheels toward the edge of the road."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always set the parking brake, shift to park (or into gear for a manual transmission), and check for traffic and bicyclists before opening your door. Use your signals when leaving a parking space and yield to traffic already in the lane."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "North Carolina uses a Graduated Driver Licensing system for new drivers. A teen may apply for a Level 1 Limited Learner Permit at age 15 after completing a driver education course. The permit holder must always be accompanied by a supervising driver who has held a license for at least five years and who sits in the front passenger seat."
+        },
+        {
+          "type": "paragraph",
+          "text": "For the first six months with a Level 1 permit, driving is allowed only between 5 a.m. and 9 p.m.; after six months the permit holder may drive at any time with the supervising driver. To move up to a Level 2 Limited Provisional License, the driver must hold the permit for the required period and complete a log of at least 60 hours of supervised driving, including a minimum of 10 hours at night."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use of cell phones and other mobile devices is prohibited for permit and provisional license holders while driving. All occupants must wear seat belts, and these graduated requirements are designed to give new drivers supervised experience before they earn a full license."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic laws in North Carolina are enforced through fines, license points, suspensions, and in serious cases criminal charges. Driving while impaired carries heavy penalties including fines, possible jail time, and license revocation, and refusing a chemical test results in an automatic license revocation under the implied-consent law."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seat belt use is a primary law in North Carolina, meaning an officer may stop and ticket a driver for a belt violation alone; all occupants of the vehicle must be buckled. Children under age 8 and under 80 pounds must be secured in an appropriate child restraint system."
+        },
+        {
+          "type": "paragraph",
+          "text": "Violating the Move Over Law can result in a fine of about $250 and more serious charges if someone is injured. Accumulating too many points or committing serious offenses such as reckless driving or speeding excessively can lead to higher insurance costs and suspension of driving privileges."
+        }
+      ]
+    }
+  ]
+}

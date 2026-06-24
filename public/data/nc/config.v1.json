@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "nc",
+  "name": "North Carolina",
+  "abbr": "NC",
+  "agency": "North Carolina DMV",
+  "brand": {
+    "mark": "NC",
+    "appName": "Permit Prep",
+    "agencyPill": "North Carolina DMV"
+  },
+  "home": {
+    "eyebrow": "North Carolina learner's permit",
+    "heading": "Pass your North Carolina permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 25,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "North Carolina Driver Handbook",
+    "sourceUrl": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/driver-handbook.pdf"
+  },
+  "data": {
+    "manual": "nc/manual.v1.json",
+    "questions": "nc/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
