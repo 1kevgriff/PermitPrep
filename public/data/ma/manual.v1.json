@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Massachusetts Driver's Manual (Class D)",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals and signs guide, warn, and regulate traffic. A steady red light means stop and remain stopped until the light turns green; a steady yellow light warns that the signal is about to turn red, so you should stop if you can do so safely. A flashing red light means the same as a stop sign, and a flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sign shapes and colors carry meaning even before you read the words. Red is used for stop, yield, and prohibition; yellow and yellow-green warn of hazards or pedestrian and school zones; orange marks construction and work zones; and green gives guidance and directions. An eight-sided red sign always means stop, and a downward triangle always means yield."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings work with signs and signals. A solid yellow line separates traffic moving in opposite directions and must not be crossed to pass; a broken line may be crossed when it is safe. White lines separate lanes of traffic moving in the same direction. You must always come to a complete stop behind a marked stop line, crosswalk, or stop sign."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who should go first, but the law never gives anyone the right-of-way; it only states who must yield. At an intersection without signals where two vehicles arrive at about the same time, yield to the vehicle on your right. When turning left, you must yield to oncoming traffic and to pedestrians crossing the road you are entering."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pedestrians in a crosswalk always have the right-of-way, and Massachusetts law requires drivers to stop for pedestrians in a marked crosswalk. You must also yield to a blind pedestrian carrying a white cane or using a guide dog. Always yield to emergency vehicles using their lights or sirens by pulling to the right and stopping."
+        },
+        {
+          "type": "paragraph",
+          "text": "In Massachusetts you may turn right on a red light after coming to a complete stop, unless a sign prohibits it, and only after yielding to pedestrians and cross traffic. At rotaries (traffic circles), vehicles already in the rotary generally have the right-of-way, and entering traffic must yield."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Massachusetts sets default speed limits where no sign is posted. In a thickly settled or business district the default limit is 30 miles per hour, in a school zone it may be set as low as 20 miles per hour, and the maximum limit on divided highways is generally 65 miles per hour. You must always drive at a speed that is reasonable and proper for current conditions, which may be slower than the posted limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed greatly affects stopping distance, which combines the distance traveled during your reaction time and the distance needed to brake. The faster you drive, the longer it takes to stop and the more severe a crash becomes. Always reduce speed in rain, fog, snow, heavy traffic, and on curves."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep a safe following distance using the three-second rule: pick a fixed point ahead, and if you reach it before counting to three, you are following too closely. Increase your following distance to four seconds or more in bad weather, at higher speeds, or when being tailgated."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe. Never pass when a solid yellow line is on your side of the center, on hills or curves where you cannot see far enough ahead, at intersections or railroad crossings, or when a school bus has its red lights flashing. Signal before changing lanes, check your mirrors, and look over your shoulder to check your blind spot."
+        },
+        {
+          "type": "paragraph",
+          "text": "On multi-lane roads, slower traffic should keep to the right and the left lane should be used for passing. Once you complete a pass, return to the right lane when you can see the vehicle you passed in your rearview mirror. Never exceed the speed limit to complete a pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "You must stop for a school bus with flashing red lights whether it is ahead of you or coming toward you on an undivided road, and remain stopped until the lights stop flashing and the bus moves again. Move over or slow down for stopped emergency, police, tow, and maintenance vehicles displaying flashing lights, as required by the Move Over Law."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Drivers share the road with bicyclists, motorcyclists, pedestrians, and large trucks. Bicyclists and motorcyclists have the same rights and responsibilities as other drivers; give them a full lane and at least a safe passing distance. Watch carefully for motorcycles, which are smaller and harder to see, especially at intersections and when turning left."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have big blind spots and need much more room to stop and turn. Avoid lingering beside a truck, never cut in front of one closely, and remember that if you cannot see the driver's mirrors, the driver cannot see you. Give trucks extra space when they make wide right turns."
+        },
+        {
+          "type": "paragraph",
+          "text": "Be especially alert for pedestrians, including children and older adults, and for people with disabilities. You must yield to a blind pedestrian using a white cane or guide dog, and stop for pedestrians in crosswalks. Watch for bicyclists when opening your car door and when turning across a bike lane."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Massachusetts it is illegal to drive with a blood alcohol concentration (BAC) of 0.08 percent or higher if you are 21 or older. Drivers under 21 are held to a zero-tolerance standard: a BAC of 0.02 percent or higher is a violation and can lead to license suspension. There is no safe amount of alcohol to drink before driving, and only time can sober you up."
+        },
+        {
+          "type": "paragraph",
+          "text": "By signing for a license or permit you give implied consent to chemical testing. Refusing a breath or blood test results in an automatic license suspension. Driving under the influence of any drug, including legal prescription and over-the-counter medications or marijuana, is also illegal."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distracted driving is dangerous and illegal. Massachusetts has a hands-free law: drivers may not hold or use a phone or other electronic device while driving, and any texting while driving is banned. Junior operators under 18 may not use any mobile phone or device at all while driving, even hands-free."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Reduce speed and increase following distance in rain, snow, ice, and fog. Massachusetts law requires you to turn on your headlights whenever your windshield wipers are in use, when visibility is poor, and from a half hour after sunset to a half hour before sunrise. In fog, use low beams rather than high beams, because high beams reflect off the fog and reduce visibility."
+        },
+        {
+          "type": "paragraph",
+          "text": "The most slippery conditions occur when rain first begins, as water mixes with oil on the road, and when temperatures hover near freezing, creating black ice on bridges and shaded areas. If your vehicle begins to skid, ease off the gas, avoid braking hard, and steer gently in the direction you want the front of the car to go."
+        },
+        {
+          "type": "paragraph",
+          "text": "If your vehicle hydroplanes on water, ease off the accelerator and keep the steering wheel steady until you regain traction. When driving at night, dim your high beams for oncoming traffic and when following another vehicle, and slow down so you can stop within the distance lit by your headlights."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park legally and safely. Do not park within a marked crosswalk, on a sidewalk, in front of a driveway, within an intersection, or in a space reserved for people with disabilities unless you have a proper placard or plate. Never park where you block a fire hydrant or a fire lane, and obey all posted parking signs."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the vehicle will not roll into traffic if the brakes fail. When facing downhill or uphill without a curb, turn your wheels toward the edge of the road. When facing uphill with a curb, turn the wheels away from the curb. Always set the parking brake and leave the vehicle in park or in gear."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always signal your intentions, obey all signs and signals, and yield when required. Keep to the right except when passing, and move into the proper lane well before turning. Wearing a seat belt is required for the driver and all passengers, and it is one of the most effective ways to prevent injury in a crash."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Massachusetts you must be at least 16 years old to apply for a Class D learner's permit, and you must pass a written knowledge test of 25 questions, answering at least 18 correctly (72 percent) to pass. A learner's permit holder may only drive when accompanied by a licensed driver who is at least 21 years old, has at least one year of driving experience, and is seated beside the driver."
+        },
+        {
+          "type": "paragraph",
+          "text": "Permit holders under 18 may not drive between midnight and 5:00 a.m. unless accompanied by a parent or legal guardian. Before taking the road test for a Junior Operator License (JOL), drivers under 18 must hold the permit for at least six months, complete an approved driver education program, and log at least 40 hours of supervised behind-the-wheel practice certified by a parent or guardian."
+        },
+        {
+          "type": "paragraph",
+          "text": "After getting a Junior Operator License, for the first six months the driver may not carry passengers under 18 (other than immediate family) unless a licensed driver at least 21 years old with one year of experience is in the front seat. Junior operators are also subject to the midnight-to-5:00 a.m. night driving restriction."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic laws are enforced through fines, points (surcharges), and license suspensions. A first offense of operating under the influence (OUI) can lead to license suspension, fines, and possible jail time. Refusing a chemical breath test results in an automatic suspension under the implied consent law."
+        },
+        {
+          "type": "paragraph",
+          "text": "Junior operators face stricter penalties than adults. Violating the JOL passenger or night restriction leads to a license suspension of 60 days for a first offense, 180 days for a second, and one year for later offenses, along with a fee and a required driver attitudinal course before reinstatement. Speeding as a junior operator can result in license suspension."
+        },
+        {
+          "type": "paragraph",
+          "text": "Massachusetts has a primary seat belt and hands-free enforcement framework, and the Move Over Law requires drivers to slow down or change lanes for stopped emergency and service vehicles. Violations can result in fines, insurance surcharges, and accumulation of points that may lead to license suspension."
+        }
+      ]
+    }
+  ]
+}

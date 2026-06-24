@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "ma",
+  "name": "Massachusetts",
+  "abbr": "MA",
+  "agency": "Massachusetts Registry of Motor Vehicles (RMV)",
+  "brand": {
+    "mark": "MA",
+    "appName": "Permit Prep",
+    "agencyPill": "Massachusetts Registry of Motor Vehicles (RMV)"
+  },
+  "home": {
+    "eyebrow": "Massachusetts learner's permit",
+    "heading": "Pass your Massachusetts permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 25,
+    "generalPassPct": 72
+  },
+  "manual": {
+    "source": "Massachusetts Driver's Manual (Class D)",
+    "sourceUrl": "https://www.mass.gov/doc/english-drivers-manual/download"
+  },
+  "data": {
+    "manual": "ma/manual.v1.json",
+    "questions": "ma/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
