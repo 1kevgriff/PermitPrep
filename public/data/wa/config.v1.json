@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "wa",
+  "name": "Washington",
+  "abbr": "WA",
+  "agency": "Washington State Department of Licensing (DOL)",
+  "brand": {
+    "mark": "WA",
+    "appName": "Permit Prep",
+    "agencyPill": "Washington State Department of Licensing (DOL)"
+  },
+  "home": {
+    "eyebrow": "Washington learner's permit",
+    "heading": "Pass your Washington permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 40,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Washington State Driver Guide",
+    "sourceUrl": "https://dol.wa.gov/driver-licenses-and-permits/driver-training-and-testing/driver-guides"
+  },
+  "data": {
+    "manual": "wa/manual.v1.json",
+    "questions": "wa/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
