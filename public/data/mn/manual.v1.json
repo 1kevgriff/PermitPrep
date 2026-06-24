@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Minnesota Driver's Manual",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals and signs are organized by color and shape so you can recognize them even before reading the words. A red octagon always means STOP, a downward triangle means YIELD, and a yellow diamond warns of a hazard or change in road conditions ahead. A solid red light means come to a complete stop behind the stop line or crosswalk and remain stopped until the light turns green."
+        },
+        {
+          "type": "paragraph",
+          "text": "In Minnesota you may turn right on a red light after coming to a complete stop and yielding to pedestrians and cross traffic, unless a sign prohibits the turn. A flashing red light means the same as a stop sign, while a flashing yellow light means slow down and proceed with caution. A steady yellow light warns that the signal is about to turn red, so prepare to stop if you can do so safely."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and warn drivers. A solid yellow line on your side of the center means do not pass; broken yellow lines mean passing is allowed when it is safe. White lines separate lanes of traffic moving in the same direction, and a solid white line discourages lane changes."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who should go first, but the law never gives anyone the right-of-way; it only states who must yield. At an intersection without signs or signals, yield to the vehicle on your right when you arrive at about the same time. When turning left, you must yield to oncoming traffic and to pedestrians in the crosswalk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Drivers must always yield to pedestrians in marked or unmarked crosswalks and must stop for pedestrians who are crossing the roadway. At a four-way stop, the first vehicle to stop is the first to proceed; if two vehicles stop at the same time, the one on the left yields to the one on the right."
+        },
+        {
+          "type": "paragraph",
+          "text": "Emergency vehicles using lights or sirens always have the right-of-way. When one approaches, pull to the right edge of the road and stop until it has passed. You must also yield to buses re-entering traffic and to vehicles already in a roundabout."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Minnesota uses statutory speed limits where signs are not posted. The limit is 30 mph in an urban district, 55 mph on most other roads, and 65 or 70 mph on interstate highways depending on the area. The speed limit may be lowered to 10 mph in alleys, mobile home parks, and campgrounds. You must always drive at a speed that is reasonable for traffic, weather, and road conditions, even if it is below the posted limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "The basic speed law requires you to slow down in rain, snow, fog, heavy traffic, or near pedestrians. Speed limits are maximums for ideal conditions, not targets to reach in poor conditions. Driving too slowly can also be dangerous and illegal when it blocks the normal flow of traffic."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep a safe following distance by using the three-second rule: pick a fixed point and make sure at least three seconds pass between the time the vehicle ahead passes it and the time you reach it. Increase your following distance in bad weather, at higher speeds, and when being tailgated."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only where it is legal and safe. Never pass when a solid yellow line is on your side, on hills or curves where you cannot see far enough ahead, at intersections or railroad crossings, or when a school bus is loading or unloading children. Signal before changing lanes and check your mirrors and blind spots."
+        },
+        {
+          "type": "paragraph",
+          "text": "On a road with more than one lane in the same direction, Minnesota's law requires you to keep right and move out of the left lane to let faster traffic pass when it is practical to do so. The left lane is generally for passing, not for cruising."
+        },
+        {
+          "type": "paragraph",
+          "text": "When passing, complete the maneuver promptly and return to your lane only after you can see the passed vehicle in your rearview mirror. Do not exceed the speed limit to pass, and never drive on the shoulder to pass on the right."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "You share the road with pedestrians, bicyclists, motorcyclists, large trucks, and farm equipment. Give bicyclists at least three feet of clearance when passing, and watch for them at intersections and in bike lanes. Treat motorcycles as full-size vehicles and allow them a full lane."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have big blind spots, take longer to stop, and make wide turns. Do not cut in front of a truck, and avoid lingering alongside one. If you cannot see the truck driver's mirrors, the driver cannot see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Minnesota's Move Over law requires drivers to move over a lane or slow down when approaching stopped emergency vehicles, tow trucks, road maintenance vehicles, and other vehicles with flashing lights. Watch for school buses, and stop when their red lights flash and the stop arm extends."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Minnesota it is illegal to drive with a blood alcohol concentration (BAC) of 0.08 percent or more. Drivers under 21 are held to a zero-tolerance standard: any measurable amount of alcohol is illegal. Alcohol slows reaction time, impairs judgment, and reduces coordination, and there is no quick way to sober up."
+        },
+        {
+          "type": "paragraph",
+          "text": "Minnesota's Hands-Free law makes it illegal to hold a phone while driving. Adults may use a phone only in voice-activated or hands-free mode. Drivers under 18 and those with an instruction or provisional license may not use a cell phone at all while driving, even hands-free."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is anything that takes your eyes off the road, your hands off the wheel, or your mind off driving. Texting, eating, and adjusting controls all increase crash risk. Many prescription and over-the-counter drugs, as well as cannabis, can impair driving just like alcohol."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Minnesota law requires headlights from sunset to sunrise and any time weather or low light limits your visibility to less than 500 feet. A good practice is to turn on your headlights whenever you use your windshield wipers in rain, snow, or fog so other drivers can see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "In rain, snow, and ice, slow down, increase your following distance, and avoid sudden steering, braking, or acceleration. If your vehicle begins to skid, ease off the gas and steer gently in the direction you want the front of the car to go. Bridges and overpasses freeze first."
+        },
+        {
+          "type": "paragraph",
+          "text": "In fog, use low-beam headlights rather than high beams, because high beams reflect off the fog and reduce visibility. If conditions become too dangerous, pull completely off the road, turn on your hazard lights, and wait for conditions to improve."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the vehicle will roll away from traffic if your brakes fail. Facing downhill, turn your wheels toward the curb; facing uphill with a curb, turn them away from the curb. Always set the parking brake and leave the vehicle in park or in gear."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not park within an intersection, on a crosswalk, on a sidewalk, within 10 feet of a fire hydrant, or in a space reserved for people with disabilities unless you have a permit. Never stop or park where you block traffic or a clear view of the roadway."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obey all signs and pavement markings that control stopping, standing, and parking. Use your turn signals, headlights, and hazard lights appropriately, and always check for traffic and pedestrians before opening a door or pulling away from the curb."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Minnesota uses a Graduated Driver Licensing (GDL) system. You may apply for an instruction permit at age 15 after completing the required classroom portion of driver education and passing the knowledge and vision tests. A permit holder must always be supervised by a licensed driver age 21 or older who sits in the front passenger seat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before a provisional license, drivers under 18 must hold the permit for at least six months and complete at least 50 hours of supervised driving, including 15 hours at night. The supervised-driving requirement drops to 40 hours if a parent or guardian completes the supplemental parent awareness class."
+        },
+        {
+          "type": "paragraph",
+          "text": "The provisional license has restrictions during the first months of licensure. For the first six months, no driving between midnight and 5 a.m. (with limited exceptions) and only one passenger under age 20 is allowed; for the next six months no more than three passengers under 20 are allowed unless a parent or guardian is present."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Minnesota has an implied consent law: by driving, you agree to chemical testing if lawfully arrested for impaired driving. Refusing a test results in license revocation and can be a separate crime. A first DWI conviction can bring license revocation, fines, and possible jail time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Minnesota's seat belt law is a primary law, meaning officers can stop and ticket you just for an unbelted driver or passenger. Drivers are responsible for ensuring passengers age 14 and under are properly buckled or in the correct child restraint, and children must use a booster seat until they are at least 9 years old or properly fit by a seat belt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic violations add up. Repeated or serious offenses can lead to license suspension or revocation, higher insurance costs, and for GDL drivers, an extended restriction period. Always carry your license, registration, and proof of insurance and present them when asked by law enforcement."
+        }
+      ]
+    }
+  ]
+}
