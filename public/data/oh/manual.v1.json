@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Digest of Ohio Motor Vehicle Laws",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs are grouped by shape and color so you can react even before reading the words. Red and white regulatory signs (such as STOP, YIELD, and DO NOT ENTER) tell you what you must do, yellow diamond warning signs alert you to hazards ahead, orange signs mark construction and maintenance zones, and green signs give directions and distances."
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals control the order of movement at intersections. A steady red light means stop behind the stop line or crosswalk; in Ohio you may turn right on red after a complete stop unless a sign prohibits it, and you must yield to pedestrians and cross traffic first. A steady yellow light warns that red is coming, and a flashing red is treated like a stop sign while a flashing yellow means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings reinforce the rules of the road. A solid yellow line on your side means no passing, broken yellow lines allow passing when clear, and white lines separate lanes of traffic moving in the same direction. Always obey the most restrictive guidance among signs, signals, and markings when they appear together."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way laws decide who goes first, but the law never gives you the right-of-way; it only says who must yield. At an intersection without signs or signals, yield to the vehicle on your right when you arrive at the same time, and at a four-way stop the first vehicle to stop proceeds first."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning left, you must yield to oncoming traffic and to pedestrians in the crosswalk. Drivers entering a roadway from a driveway, alley, or private road must yield to traffic already on the road, and all drivers must yield to pedestrians, emergency vehicles using lights or sirens, and to buses and other traffic when required."
+        },
+        {
+          "type": "paragraph",
+          "text": "Signal your intentions early and complete turns from the proper lane. Turn right from the lane closest to the right curb and turn left into the nearest legal lane going your direction. Yielding is also required when entering a roundabout, where you give way to traffic already circulating to your left."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ohio uses the assured clear distance ahead rule: you must always be able to stop within the distance you can see ahead. Posted speed limits are maximums for ideal conditions; common Ohio limits are 25 mph in residential or business districts, 55 mph on most rural two-lane roads, 65 mph on many divided highways and urban freeways, and up to 70 mph on rural interstates."
+        },
+        {
+          "type": "paragraph",
+          "text": "Managing space around your vehicle prevents crashes. Keep a following distance of at least three to four seconds behind the vehicle ahead, and add more time in rain, fog, snow, or heavy traffic. The faster you drive, the longer it takes to stop, so slow down before curves, hills, and intersections."
+        },
+        {
+          "type": "paragraph",
+          "text": "Drive at a speed that is reasonable for traffic, weather, and road conditions even if it is below the posted limit. Driving too slowly can be as dangerous as speeding, so keep up with the normal flow of traffic where it is safe and legal to do so."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe. Never pass where a solid yellow line is on your side, on hills or curves where you cannot see far enough ahead, within an intersection, or at a railroad crossing. Signal, check your mirrors and blind spot, and return to your lane only when you can see the passed vehicle in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "Slower traffic should keep right, and the left lane on multi-lane highways is intended for passing. Move out of the left lane after passing so faster traffic can flow. Use your turn signals for every lane change and never weave between lanes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not pass on the right except in limited situations, such as when a vehicle ahead is turning left and there is room on a road wide enough for two lanes. When another driver is passing you, maintain your speed or slow slightly to let them complete the pass safely."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "You share the road with pedestrians, bicyclists, motorcyclists, large trucks, and buses. Always yield to pedestrians in crosswalks, and watch for cyclists who have the same rights and duties as drivers. When passing a bicyclist, give a safe distance of at least three feet."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have big blind spots and need much more room to stop and turn. Avoid lingering beside them, do not cut in front of them closely, and expect wide turns. Motorcycles are small and easy to miss, so look twice before changing lanes or turning."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ohio's Move Over law requires you to move over one lane when safe, or slow down and proceed with caution, when approaching any stopped vehicle displaying flashing lights, including police, emergency, tow, utility, and road maintenance vehicles. Always stop for a school bus with flashing red lights and an extended stop arm."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcohol and drugs slow your reactions, impair judgment, and reduce coordination. In Ohio it is illegal to drive with a blood alcohol concentration (BAC) of 0.08 percent or higher if you are 21 or older. Drivers under 21 are held to a zero-tolerance limit of 0.02 percent, and any impairing drug, including some prescriptions, can lead to an OVI charge."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ohio is a hands-free state. Drivers may not hold, use, or support a cell phone or other electronic device while driving. Texting, dialing, scrolling, and watching video are prohibited, and adult drivers may only use phones through hands-free technology such as Bluetooth."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is anything that takes your eyes off the road, hands off the wheel, or mind off driving. Set up navigation and music before you start, keep your attention on driving, and pull over safely if you must handle a device. Never drink and drive, and plan for a sober ride in advance."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, snow, fog, and ice reduce traction and visibility. Ohio law requires you to turn on your headlights whenever your windshield wipers are in use because of weather. Headlights also help other drivers see you in fog, dusk, and heavy rain, so use low beams rather than high beams in fog."
+        },
+        {
+          "type": "paragraph",
+          "text": "Slow down and increase your following distance on wet or icy roads, because stopping distances grow dramatically. The first rain after a dry spell makes roads especially slick. If you begin to skid, ease off the gas and steer gently in the direction you want the front of the car to go without slamming the brakes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Watch for bridges and overpasses, which freeze before other surfaces. In a sudden downpour or whiteout, reduce speed, turn on your lights, and if visibility is too poor, pull completely off the road and turn on your hazard flashers until conditions improve."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park legally and safely. Do not park within an intersection, on a crosswalk, on a sidewalk, in front of a driveway, or within 15 feet of a fire hydrant. Never block traffic, and avoid parking where signs or curb colors prohibit it."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the vehicle will not roll into traffic if the brakes fail. Facing downhill, turn the wheels toward the curb; facing uphill with a curb, turn them away from the curb; with no curb, always turn the wheels toward the edge of the road. Set the parking brake and leave the vehicle in park or in gear."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always wear your seat belt; Ohio law requires the driver and front-seat passengers to be buckled. Children under 4 years old or under 40 pounds must ride in a child safety seat, and children under 8 who are shorter than 4 feet 9 inches must use a booster seat. Signal before pulling away from a curb and yield to passing traffic."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ohio uses a graduated driver licensing system for new drivers under 18. You may apply for a temporary instruction permit (TIPIC) at age 15 years and 6 months after passing a knowledge test and vision screening. With a permit you may drive only when accompanied by a licensed driver who is at least 21 years old, or a parent, guardian, or driving instructor, seated in the front passenger seat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before getting a probationary license, drivers under 18 must complete an approved driver education course and log 50 hours of supervised practice driving, including at least 10 hours at night. The permit must be held for at least six months before taking the road test."
+        },
+        {
+          "type": "paragraph",
+          "text": "New probationary license holders under 18 face restrictions. For the first 12 months they generally may not drive between midnight and 6 a.m. except for specific reasons such as work, school, or with a parent, and they may not carry more than one passenger who is not a family member unless a parent or guardian is present."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving is a privilege that can be suspended or revoked. Ohio operates a points system, and accumulating 12 or more points in two years results in a license suspension. Serious offenses such as OVI, reckless operation, and leaving the scene of a crash carry heavy points, fines, and possible jail time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ohio's implied consent law means that by driving you agree to chemical testing if a police officer has reasonable cause to suspect impaired driving. Refusing the test results in an automatic administrative license suspension, separate from any criminal penalty."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obey all traffic laws and respond properly to law enforcement. Move over for stopped emergency and service vehicles, stop fully for school buses, and carry proof of insurance, which Ohio requires. Following the rules protects your driving record and keeps everyone on the road safer."
+        }
+      ]
+    }
+  ]
+}
