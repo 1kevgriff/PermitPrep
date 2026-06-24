@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "nh",
+  "name": "New Hampshire",
+  "abbr": "NH",
+  "agency": "New Hampshire DMV",
+  "brand": {
+    "mark": "NH",
+    "appName": "Permit Prep",
+    "agencyPill": "New Hampshire DMV"
+  },
+  "home": {
+    "eyebrow": "New Hampshire learner's permit",
+    "heading": "Pass your New Hampshire permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 40,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "State of New Hampshire Driver's Manual",
+    "sourceUrl": "https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/nhdm.pdf"
+  },
+  "data": {
+    "manual": "nh/manual.v1.json",
+    "questions": "nh/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
