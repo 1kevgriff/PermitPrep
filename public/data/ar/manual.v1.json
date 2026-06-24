@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Arkansas Driver License Study Guide",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals tell you when to stop and go. A steady red light means stop completely behind the stop line or crosswalk; in Arkansas you may turn right on red after stopping unless a sign prohibits it, and only when the way is clear. A steady yellow light warns that the signal is about to turn red, so you should stop if you can do so safely. A flashing red light means stop and proceed only when safe, like a stop sign, while a flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sign shapes and colors carry meaning even before you read the words. An octagon always means stop, an upside-down triangle means yield, and a pennant shape warns of a no-passing zone. Yellow diamond signs warn of hazards ahead, orange signs mark construction and work zones, and green signs give directions and distances."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and separate traffic. A solid yellow line on your side means do not pass, while a broken yellow line means passing is allowed when safe. White lines separate lanes of traffic moving in the same direction, and a solid white line discourages lane changes. Always obey markings at crosswalks, stop lines, and railroad crossings."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules prevent crashes by establishing who goes first, but the law really describes who must yield. At a four-way stop, the first vehicle to arrive goes first; when two vehicles arrive at the same time, the driver on the left yields to the driver on the right. Always yield to pedestrians in crosswalks and to emergency vehicles using lights or sirens."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning left, you must yield to oncoming traffic and to pedestrians crossing the road you are entering. At an uncontrolled intersection or when entering a road from a driveway or alley, yield to traffic already on the through road. Vehicles already in a roundabout have the right-of-way over vehicles waiting to enter."
+        },
+        {
+          "type": "paragraph",
+          "text": "Signal your intentions at least 100 feet before turning so other drivers can react. Position your vehicle in the correct lane well ahead of the turn, and never change lanes inside an intersection. Yield to bicyclists and motorcyclists just as you would to any other vehicle when turning across their path."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Arkansas sets default speed limits by road type. The limit in an urban district is generally 30 mph, rural divided highways are typically posted higher, and many rural interstates and freeways are posted at 70 mph (up to 75 mph on certain designated rural freeways). Regardless of the posted limit, the basic speed law requires you to drive at a speed that is reasonable and prudent for current conditions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed must always match conditions. In rain, fog, snow, heavy traffic, or near pedestrians, a safe speed may be far below the posted limit. Slow down in school zones and work zones, where reduced limits and increased fines apply when workers or children are present."
+        },
+        {
+          "type": "paragraph",
+          "text": "Manage the space around your vehicle to give yourself time to react. Use the three-second following-distance rule on dry roads and increase it to four or more seconds in poor conditions. Keeping a space cushion ahead, behind, and to the sides lets you brake, steer, or stop without colliding."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe. Never pass where a solid yellow line is on your side, on hills or curves where you cannot see far enough ahead, at intersections, or within a no-passing zone. After passing, return to your lane only when you can see the passed vehicle in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep right except when passing. On multi-lane roads, slower traffic should stay in the right lanes and use left lanes for passing. Always signal before changing lanes and check your mirrors and blind spots by glancing over your shoulder."
+        },
+        {
+          "type": "paragraph",
+          "text": "You may not exceed the speed limit to complete a pass. When being passed, maintain your speed or slow slightly and stay in your lane to let the other driver complete the maneuver safely. Do not pass on the shoulder."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roads are shared with pedestrians, bicyclists, motorcyclists, large trucks, and farm equipment. Give bicyclists room when passing and treat them as legitimate road users. Watch for pedestrians at crosswalks and intersections, and always yield to them."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have big blind spots and need much longer distances to stop. Avoid lingering beside them, never cut in closely in front of a truck, and remember that a truck turning right may swing wide. Motorcycles are small and easy to miss, so look twice before turning or changing lanes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Arkansas's Move Over law requires you to change lanes away from, or slow to a safe and cautious speed for, any stopped vehicle displaying flashing blue, red, amber, white, or green lights. This protects police, firefighters, tow operators, highway crews, and utility workers. Always stop for a school bus with flashing red lights and an extended stop arm."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving while impaired by alcohol or drugs is illegal and deadly. In Arkansas, a driver age 21 or older is considered legally intoxicated at a blood alcohol concentration (BAC) of 0.08 percent or higher. Drugs, including legal prescription and over-the-counter medicines, can also impair driving and lead to a DWI."
+        },
+        {
+          "type": "paragraph",
+          "text": "Arkansas enforces zero tolerance for underage drinking and driving. Drivers under 21 can be charged for driving with a BAC of just 0.02 percent. The only sure way to lower your BAC is time; coffee, food, and fresh air do not speed it up."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is a leading cause of crashes. Texting while driving is banned for all Arkansas drivers, and drivers under 18 may not use a cell phone at all while driving. All drivers must use hands-free technology in school zones and active work zones. Keep your eyes on the road, your hands on the wheel, and your mind on driving."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, fog, snow, and ice reduce traction and visibility, so slow down and increase your following distance. The first rain after a dry spell makes roads especially slippery as oil rises to the surface. In Arkansas you must turn on your headlights when visibility is poor and any time you use your windshield wipers."
+        },
+        {
+          "type": "paragraph",
+          "text": "Drive carefully through standing water to avoid hydroplaning, where your tires ride on a film of water and lose contact with the road. If you begin to hydroplane, ease off the gas and steer straight rather than braking hard. Bridges and overpasses freeze before other roads."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use low-beam headlights in fog, rain, and snow because high beams reflect back and reduce your vision. Reduce speed at night and never overdrive your headlights, meaning you should be able to stop within the distance you can see ahead. If your vehicle skids, steer gently in the direction you want the front of the car to go."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park legally and safely. Do not park within 15 feet of a fire hydrant, in a crosswalk, on a sidewalk, in front of a driveway, or where signs prohibit parking. Never stop or park where you block traffic or a clear view of the road."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels to keep the vehicle from rolling into traffic. Facing downhill, turn the front wheels toward the curb; facing uphill with a curb, turn them away from the curb. Always set the parking brake and leave the vehicle in park or in gear."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before opening a door into traffic, check for passing vehicles and bicyclists. Use your turn signal when pulling away from a curb and yield to traffic. Obey all posted signs that restrict stopping, standing, or parking."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Arkansas uses a Graduated Driver License (GDL) system that introduces driving privileges in stages. A learner's license is available at ages 14 to 15; while holding it, you may drive only when accompanied by a licensed driver who is at least 21 years old. To get a license, applicants under 18 must also show proof of school enrollment and have a parent or guardian provide signed consent."
+        },
+        {
+          "type": "paragraph",
+          "text": "At ages 16 to 17, drivers can earn an intermediate license if they have had no serious traffic violations or at-fault crashes in the previous six months. The written knowledge test has 25 questions, and you must answer at least 80 percent (20 questions) correctly to pass, in addition to passing a vision screening."
+        },
+        {
+          "type": "paragraph",
+          "text": "Intermediate license restrictions include not driving between 11:00 p.m. and 4:00 a.m. unless accompanied by an adult 21 or older or traveling to or from school, church, or work, or because of an emergency. Intermediate drivers may carry no more than one unrelated minor passenger unless an adult 21 or older is present, and all occupants must wear seat belts."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Arkansas uses an implied-consent law: by driving on Arkansas roads, you agree to submit to a chemical test of your breath, blood, or urine if lawfully arrested for impaired driving. Refusing the test results in an automatic license suspension, separate from any criminal charge."
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic violations can lead to fines, license suspension, and points-related action against your driving record. A DWI conviction carries fines, possible jail time, and license suspension, with harsher penalties for repeat offenses or a high BAC."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seat belts are required and enforced; all front-seat occupants must be buckled, and young children must be secured in an appropriate child restraint or booster seat. Driving without a valid license or insurance, fleeing a crash, or violating the Move Over law all carry penalties, so always carry your license, registration, and proof of insurance."
+        }
+      ]
+    }
+  ]
+}
