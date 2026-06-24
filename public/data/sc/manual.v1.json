@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "South Carolina Driver's Manual",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals and signs tell you what to do at intersections and along the roadway. A steady red light means stop and remain stopped until the light turns green; a steady yellow light warns you that the signal is about to turn red and you should stop if you can do so safely. A flashing red light means treat the intersection like a stop sign, while a flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sign shapes and colors carry meaning even before you read the words. An eight-sided red sign always means stop, a downward-pointing triangle means yield, yellow signs warn of hazards ahead, and orange signs mark construction or work zones. Regulatory signs such as speed limits and one-way arrows are usually white with black or red lettering and must be obeyed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide traffic flow. A solid yellow line separates traffic moving in opposite directions and a broken yellow line means passing is allowed when it is safe; white lines separate lanes of traffic moving in the same direction. You may not cross a solid yellow line on your side of the road to pass, and you should never cross double solid yellow lines."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules prevent collisions when paths cross. At a four-way stop, the vehicle that arrives first goes first; when two vehicles arrive at the same time, the driver on the left yields to the driver on the right. When turning left, you must yield to oncoming traffic and to pedestrians crossing the road you are entering."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always yield to pedestrians in marked and unmarked crosswalks, and to emergency vehicles using their lights or sirens by pulling over to the right and stopping. When entering a roadway from a driveway, alley, or private road, you must yield to all traffic already on the road."
+        },
+        {
+          "type": "paragraph",
+          "text": "In South Carolina you may turn right on a red light after coming to a complete stop, unless a sign prohibits it, and only after yielding to pedestrians and cross traffic. Left turns on red are permitted only from a one-way street onto another one-way street after stopping and yielding."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "South Carolina sets default speed limits where no sign is posted: 25 mph in business and residential districts, 55 mph on most rural highways, 60 mph on multilane divided primary highways, 70 mph on interstate highways, and 40 mph on unpaved roads. Always drive at a speed that is reasonable and safe for current road, traffic, and weather conditions, which may be slower than the posted limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Following too closely is a leading cause of rear-end crashes. Use the three-second rule by picking a fixed object the vehicle ahead passes and counting three seconds before you reach it; increase your following distance in rain, fog, or heavy traffic. Leaving enough space gives you time to see, react, and brake safely."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed affects both stopping distance and the force of a crash. At higher speeds it takes much longer to stop and a collision releases far more energy, so slow down before curves, intersections, and hills rather than braking in them."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe. Do not pass when a solid yellow line is on your side of the center line, when approaching a hill or curve where you cannot see far enough ahead, within 100 feet of an intersection or railroad crossing, or when a sign prohibits passing. Always signal, check your mirrors and blind spots, and return to your lane only after you can see the passed vehicle in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "On multilane roads, keep right except when passing. Slower traffic should stay in the right lane, and the left lane is intended for passing and faster-moving traffic. Signal every lane change and never weave between lanes."
+        },
+        {
+          "type": "paragraph",
+          "text": "When being passed, do not speed up; maintain your speed or slow slightly to let the other driver complete the pass safely. Use turn signals well before changing lanes or turning so other drivers know your intentions."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "You share the road with motorcycles, bicycles, pedestrians, large trucks, and farm equipment. Motorcycles are smaller and harder to see, so check carefully before changing lanes or turning, and give motorcyclists a full lane width. Allow bicyclists at least three feet of space when passing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have large blind spots and need more room and time to stop and turn. Do not cut in front of a large truck, and never linger alongside one. South Carolina's Move Over law requires you to change lanes away from a stopped emergency, law enforcement, utility, or tow vehicle displaying flashing lights, or to slow down if you cannot change lanes safely."
+        },
+        {
+          "type": "paragraph",
+          "text": "Watch for pedestrians, especially in school zones and near crosswalks, and stop for school buses when their red lights are flashing and the stop arm is extended. Be alert for farm vehicles and slow-moving vehicles displaying an orange triangle on rural roads."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "It is illegal to drive in South Carolina with a blood alcohol concentration (BAC) of 0.08 percent or higher. Drivers under 21 are subject to a zero-tolerance law and can lose their license for a BAC of 0.02 percent or higher. Alcohol and many drugs slow your reaction time, impair judgment, and reduce coordination, so the safest choice is never to drive after drinking or using impairing substances."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is anything that takes your eyes off the road, your hands off the wheel, or your mind off driving. South Carolina law prohibits texting while driving and restricts holding a mobile device, so put your phone away and use hands-free features only when necessary. Even a few seconds of looking away can lead to a crash."
+        },
+        {
+          "type": "paragraph",
+          "text": "South Carolina has an open container law that prohibits open containers of alcohol in the passenger area of a moving vehicle. Fatigue also impairs driving much like alcohol, so pull over and rest if you feel drowsy."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, fog, and reduced visibility require extra caution. South Carolina law requires you to turn on your headlights from a half hour after sunset to a half hour before sunrise, and any time your windshield wipers are in use because of rain, sleet, or snow. Use low beams in fog and rain because high beams reflect off the moisture and make it harder to see."
+        },
+        {
+          "type": "paragraph",
+          "text": "Slow down on wet roads, where tires can lose grip and hydroplane. If your vehicle begins to skid, ease off the gas, steer in the direction you want the front of the car to go, and avoid slamming the brakes. The first few minutes of rain are especially slippery as water mixes with road oil."
+        },
+        {
+          "type": "paragraph",
+          "text": "Increase your following distance in poor conditions and brake gently and early. Keep your windshield, mirrors, and lights clean so you can see and be seen clearly."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park legally and considerately. Do not park within 15 feet of a fire hydrant, in front of a driveway, on a crosswalk, in a space reserved for disabled drivers without a permit, or where signs prohibit parking. When parking on a hill, turn your wheels so the vehicle will roll away from traffic if the brakes fail."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parallel parking, signal, pull alongside the space, and back in slowly while watching for traffic and pedestrians. Always set your parking brake and shift to park before leaving the vehicle, and check for traffic and cyclists before opening your door."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obey lane markings and use the correct lane for your direction of travel. Stay in your lane through intersections and curves, and never make a U-turn where it is prohibited or where you cannot see oncoming traffic."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "South Carolina uses a Graduated Driver License program for new drivers. You may apply for a beginner's permit at age 15 after passing a vision test and a written knowledge test on South Carolina traffic signs and laws. The beginner's permit is valid for one year."
+        },
+        {
+          "type": "paragraph",
+          "text": "A beginner's permit holder may drive only when supervised by a licensed driver who is at least 21 years old and has at least one year of driving experience, seated in the front passenger seat. From midnight to 6 a.m., the supervising driver must be the permit holder's parent or guardian."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before moving up to a conditional or special restricted license, a teen driver must complete at least 40 hours of supervised driving practice, including at least 10 hours at night. Everyone in the vehicle must wear a seat belt, and children under 8 years old or under 57 inches tall must be in an appropriate child restraint."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "South Carolina uses a point system to track traffic violations. Accumulating too many points can lead to a license suspension, and points stay on your record for a period of time before being reduced. Serious offenses such as DUI carry license suspension, fines, and possible jail time."
+        },
+        {
+          "type": "paragraph",
+          "text": "South Carolina has a primary seat belt law, meaning an officer can stop and ticket you solely for not wearing a seat belt. Refusing a breath or blood test when lawfully arrested for DUI results in an automatic license suspension under the implied consent law."
+        },
+        {
+          "type": "paragraph",
+          "text": "Violating the Move Over law is a misdemeanor that carries a fine, and texting while driving and other traffic offenses carry fines that increase with repeat violations. Driving without a valid license or insurance can lead to additional fines and suspension."
+        }
+      ]
+    }
+  ]
+}
