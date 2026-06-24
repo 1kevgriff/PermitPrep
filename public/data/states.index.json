@@ -3,6 +3,12 @@
   "default": "va",
   "states": [
     {
+      "id": "sc",
+      "name": "South Carolina",
+      "abbr": "SC",
+      "config": "sc/config.v1.json"
+    },
+    {
       "id": "va",
       "name": "Virginia",
       "abbr": "VA",
