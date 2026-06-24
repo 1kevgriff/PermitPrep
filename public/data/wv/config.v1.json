@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "wv",
+  "name": "West Virginia",
+  "abbr": "WV",
+  "agency": "West Virginia DMV",
+  "brand": {
+    "mark": "WV",
+    "appName": "Permit Prep",
+    "agencyPill": "West Virginia DMV"
+  },
+  "home": {
+    "eyebrow": "West Virginia learner's permit",
+    "heading": "Pass your West Virginia permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 25,
+    "generalPassPct": 76
+  },
+  "manual": {
+    "source": "West Virginia Driver's Licensing Handbook",
+    "sourceUrl": "https://transportation.wv.gov/DMV/DMVFormSearch/Drivers_Licensing_Handbook_web.pdf"
+  },
+  "data": {
+    "manual": "wv/manual.v1.json",
+    "questions": "wv/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
