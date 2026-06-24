@@ -3,6 +3,12 @@
   "default": "va",
   "states": [
     {
+      "id": "md",
+      "name": "Maryland",
+      "abbr": "MD",
+      "config": "md/config.v1.json"
+    },
+    {
       "id": "va",
       "name": "Virginia",
       "abbr": "VA",

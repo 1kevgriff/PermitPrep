@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Maryland Driver's Manual (DL-002)",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs use standard shapes and colors so drivers can recognize them quickly. An eight-sided red sign always means stop, a downward-pointing triangle means yield, and a three-sided sign that points down tells you to yield the right-of-way. Yellow signs warn of hazards or changing conditions ahead, orange signs mark construction and work zones, and red or white regulatory signs tell you what you must or must not do."
+        },
+        {
+          "type": "paragraph",
+          "text": "A traffic signal that turns from green to a steady yellow is warning you that the light is about to turn red, so you should stop if you can do so safely rather than speed up. A steady red light means stop, and in Maryland you may turn right on red after coming to a complete stop unless a sign prohibits it, provided the way is clear. A flashing red light means stop and proceed when safe, while a flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and separate traffic. A solid yellow line on your side of the road means passing is not allowed, while a broken yellow line means you may pass when it is safe. White lines separate traffic moving in the same direction, and a solid white line discourages lane changes. Always obey markings together with signs and signals."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules exist to prevent crashes by deciding who goes first, but the law never gives anyone the right-of-way; it only says who must yield. At a four-way stop, the first vehicle to arrive goes first, and when two vehicles arrive at the same time, the driver on the left yields to the driver on the right. When turning left, you must yield to oncoming traffic and to pedestrians in the crosswalk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Drivers must yield to pedestrians in marked and unmarked crosswalks and must stop for pedestrians who are crossing. When entering a roundabout, yield to traffic already circulating and enter only when there is a safe gap. Emergency vehicles using lights or sirens always have the right-of-way; pull over to the right edge of the road and stop until they pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "Signal your intention to turn at least 100 feet before the turn, and check mirrors and blind spots before changing direction. Turn from the proper lane into the proper lane, and watch for cyclists and pedestrians who may be in your path."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed limits are set for ideal conditions, and you must reduce your speed when roads are wet, icy, foggy, or crowded. In Maryland, the speed limit on highways within a business district and on undivided highways in a residential district is generally 30 mph unless otherwise posted. Always drive at a speed that is reasonable and prudent for the conditions, even if that is slower than the posted limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keeping a safe following distance gives you time to react. A good rule is to stay at least three to four seconds behind the vehicle ahead, and to add more time in rain, snow, or fog or when following large vehicles. Tailgating is a leading cause of rear-end collisions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maintain space on all sides of your vehicle so you have room to maneuver in an emergency. Slow down before curves and intersections, and never drive so fast that you cannot stop within the distance you can see ahead."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe to do so. Never pass on a hill, curve, or anywhere you cannot see far enough ahead, and never cross a solid yellow line on your side of the road to pass. On multi-lane roads, slower traffic should keep to the right and use the left lane mainly for passing."
+        },
+        {
+          "type": "paragraph",
+          "text": "When passing, signal, check your mirrors and blind spot, move into the passing lane smoothly, and return only after you can see the passed vehicle in your rear-view mirror. Do not exceed the speed limit to complete a pass. You may not pass a stopped school bus that has its red lights flashing and stop arm extended in either direction unless you are on a divided highway and traveling the opposite way on the other side of a median."
+        },
+        {
+          "type": "paragraph",
+          "text": "Change lanes one at a time and only after signaling and confirming the lane is clear. Avoid weaving between lanes, and stay out of other drivers' blind spots, especially around trucks and buses."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roads are shared with pedestrians, bicyclists, motorcyclists, and large trucks, each of which needs extra care. When passing a bicyclist, Maryland law requires you to give at least three feet of clearance. Treat bicyclists as you would any other vehicle, and check for them before opening a car door or turning across a bike lane."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have big blind spots, take longer to stop, and make wide turns, so give them extra room and never cut in front of them sharply. Motorcycles are small and can be hard to see; always look twice for them, especially at intersections and when changing lanes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maryland's Move Over Law requires drivers approaching any stopped emergency, service, or other vehicle displaying warning signals to move over a lane if it is safe, or to slow to a safe speed if moving over is not possible. This protects police, tow operators, and stranded motorists working at the roadside."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving under the influence of alcohol or drugs is dangerous and illegal. In Maryland, a driver age 21 or older is over the legal limit at a blood alcohol concentration (BAC) of 0.08 or higher, and may be charged with the lesser offense of driving while impaired at 0.07. Alcohol affects judgment, reaction time, and vision, and there is no quick way to sober up other than time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maryland enforces zero tolerance for drivers under 21: a driver under 21 with a BAC of 0.02 or more can be charged and face license penalties. Permit and provisional license holders are held to this same alcohol restriction, and any alcohol in their system can end their driving privileges."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is a major crash cause. Maryland law bans holding a cell phone while driving and makes texting while driving a primary offense, meaning an officer can stop and cite you for it alone. Drivers with a learner's permit or provisional license may not use any handheld or hands-free wireless device except to call 911 in an emergency."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, snow, ice, and fog reduce traction and visibility, so slow down and increase your following distance. In Maryland, you must turn on your headlights when visibility is poor and whenever your windshield wipers are in continuous use because of rain, snow, or fog. Daytime running lights are not a substitute for headlights in these conditions."
+        },
+        {
+          "type": "paragraph",
+          "text": "On wet roads, hydroplaning can occur at higher speeds; if your tires lose contact with the road, ease off the gas and steer straight until you regain control. On ice and snow, brake gently, avoid sudden steering, and leave extra room because stopping distances grow dramatically."
+        },
+        {
+          "type": "paragraph",
+          "text": "In fog, use low-beam headlights rather than high beams, which reflect back and reduce visibility. If conditions become too dangerous, pull completely off the road, turn on your hazard lights, and wait for the weather to improve."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park only where it is legal and safe. Do not park within an intersection, on a crosswalk, on a sidewalk, in front of a fire hydrant, or where signs prohibit it. When parking on a hill, turn your wheels so the vehicle will roll away from traffic if it moves, and set the parking brake."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seat belts save lives, and Maryland requires the driver and all passengers to be properly buckled. Children under age 8 must ride in an appropriate child safety seat or booster unless they are at least 4 feet 9 inches tall, and children under age 2 must ride in a rear-facing seat unless they exceed the seat's height or weight limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use turn signals for every turn and lane change, keep right except to pass, and yield as required by law. Always make sure your vehicle is in safe operating condition before driving."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maryland uses a graduated licensing system for new drivers, often called the Rookie Driver program. You may apply for a learner's permit at 15 years and 9 months of age after passing the knowledge and vision tests. The learner's permit must be held for at least 9 months before you can take the skills test for a provisional license."
+        },
+        {
+          "type": "paragraph",
+          "text": "While holding a learner's permit, you must complete at least 60 hours of supervised driving practice, including at least 10 hours at night, certified by a parent, guardian, or qualified mentor. A licensed supervising driver who is at least 21 years old and has held a license for at least 3 years must be seated next to you whenever you drive."
+        },
+        {
+          "type": "paragraph",
+          "text": "Provisional license holders under 18 face additional limits. For the first 151 days they may not carry passengers under 18 who are not immediate family members, and they may not drive between midnight and 5 a.m. without a qualified supervising driver. These restrictions help new drivers gain experience safely."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maryland tracks driving violations through a points system. Points are added to your record for moving violations, and accumulating too many can lead to required driver improvement programs, license suspension, or revocation. More serious offenses carry more points and stiffer penalties."
+        },
+        {
+          "type": "paragraph",
+          "text": "By driving in Maryland, you give implied consent to chemical testing for alcohol or drugs if you are lawfully stopped. Refusing a test results in an automatic license suspension, and a refusal or a high test result can require an ignition interlock device."
+        },
+        {
+          "type": "paragraph",
+          "text": "Violating the Move Over Law, speeding in work or school zones, or driving without a seat belt all carry fines and may add points. For new drivers, any conviction during the provisional period can extend restrictions and delay a full license, so safe, lawful driving is essential."
+        }
+      ]
+    }
+  ]
+}
