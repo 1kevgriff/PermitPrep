@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "nd",
+  "name": "North Dakota",
+  "abbr": "ND",
+  "agency": "North Dakota Department of Transportation (NDDOT)",
+  "brand": {
+    "mark": "ND",
+    "appName": "Permit Prep",
+    "agencyPill": "North Dakota Department of Transportation (NDDOT)"
+  },
+  "home": {
+    "eyebrow": "North Dakota learner's permit",
+    "heading": "Pass your North Dakota permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 25,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "North Dakota Noncommercial Driver License Manual",
+    "sourceUrl": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf"
+  },
+  "data": {
+    "manual": "nd/manual.v1.json",
+    "questions": "nd/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}

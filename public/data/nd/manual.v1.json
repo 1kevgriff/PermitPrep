@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "North Dakota Noncommercial Driver License Manual",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs are grouped by shape and color so you can recognize them quickly. Red and white regulatory signs such as STOP and YIELD tell you what you must do, yellow diamond-shaped signs warn of hazards ahead, orange signs mark construction and work zones, and green guide signs give directions and distances. An eight-sided red sign always means stop, while a three-sided downward-pointing triangle means yield to other traffic."
+        },
+        {
+          "type": "paragraph",
+          "text": "A steady red traffic light means stop and remain stopped until the light turns green. In North Dakota you may turn right on a steady red light after coming to a complete stop and yielding to pedestrians and cross traffic, unless a sign prohibits the turn. A steady yellow light warns that the signal is about to turn red, and a flashing red light is treated like a stop sign while a flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and separate traffic. A solid yellow line on your side of the center means do not pass, while a broken yellow line means passing is allowed when it is safe. White lines separate lanes of traffic moving in the same direction, and a solid white line discourages lane changes. Always obey the most restrictive marking or sign that applies."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who should yield, not who automatically has the right to go. At a four-way stop, the first vehicle to stop proceeds first; when two vehicles arrive at the same time, the driver on the left yields to the driver on the right. Always yield to pedestrians in crosswalks and to vehicles already in an intersection."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning left, you must yield to oncoming traffic that is close enough to be a hazard. Drivers entering a roadway from a driveway, alley, or private road must yield to traffic and pedestrians already on the road. Emergency vehicles using lights or sirens always have the right-of-way, and you must pull to the right edge of the road and stop until they pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "Signal your intention to turn or change lanes at least 100 feet before you act so other drivers can react. Position your vehicle in the correct lane well ahead of the turn, slow down smoothly, and complete the turn into the nearest legal lane traveling in your direction."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "North Dakota uses several default speed limits. The limit is 25 mph in business, residential, and public-park areas, 55 mph on gravel and most paved two-lane county and township roads, and 65 or 70 mph on higher-class highways depending on posting. The interstate speed limit outside city limits is 80 mph. You must always drive at a speed that is reasonable and prudent for conditions, which may be slower than the posted limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Posted limits are maximums for ideal conditions. In rain, snow, fog, or heavy traffic you are legally required to reduce your speed. Driving too fast for conditions is a violation even if you are below the posted limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep a safe following distance using the three-second rule: pick a fixed object the vehicle ahead passes, then count the seconds until you reach it. Increase your following distance to four seconds or more in bad weather, on slick roads, or when being tailgated, because more space gives you more time to react and stop safely."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe. Never pass when a solid yellow line is on your side, when approaching a hill or curve where you cannot see far enough ahead, within 100 feet of an intersection or railroad crossing, or when a school bus is loading or unloading children. Complete your pass and return to your lane only when you can see the passed vehicle in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "Slower traffic should keep to the right, and the left lane on a multi-lane highway is intended for passing. Signal before changing lanes, check your mirrors, and look over your shoulder to clear your blind spots before moving over."
+        },
+        {
+          "type": "paragraph",
+          "text": "When another driver is passing you, do not speed up. Maintain or slightly reduce your speed and stay in your lane to let the pass be completed quickly and safely."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "You share the road with motorcycles, bicycles, pedestrians, large trucks, farm equipment, and emergency vehicles. Motorcycles are smaller and harder to see, so check carefully before changing lanes or turning and give them a full lane width. Large trucks have wide blind spots and need much longer distances to stop, so avoid lingering beside them and never cut in front of one closely."
+        },
+        {
+          "type": "paragraph",
+          "text": "North Dakota's Move Over Law requires drivers to slow down and, when safe, move to a lane not next to a stopped emergency vehicle, tow truck, or any vehicle displaying flashing hazard lights on the interstate or a multi-lane highway outside city limits. Violating the Move Over Law carries a fine and points on your license."
+        },
+        {
+          "type": "paragraph",
+          "text": "Watch for farm equipment and slow-moving vehicles on rural roads, identified by the orange triangle emblem, and be prepared to slow well in advance. Always yield to pedestrians in crosswalks and give bicyclists a safe distance when passing."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "In North Dakota it is illegal to drive with a blood alcohol concentration (BAC) of 0.08 percent or higher. Drivers under age 21 are held to a zero-tolerance standard and may not drive with a BAC of 0.02 percent or higher. Alcohol slows reaction time, impairs judgment, and reduces coordination, and these effects begin well before the legal limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "By driving on North Dakota roads you give implied consent to chemical testing for alcohol or drugs. Refusing a lawful test results in license suspension and other penalties, just as a failed test would."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distracted driving is dangerous and illegal. Text messaging while driving is prohibited for all drivers in North Dakota. Keep your attention on the road, put your phone away, and never let conversations, food, or other passengers pull your focus from driving."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Reduce your speed and increase your following distance whenever weather or road conditions are poor. Rain, snow, ice, and fog reduce traction and visibility, so smooth, gentle steering, braking, and acceleration help you keep control. Bridges and overpasses freeze before other surfaces, so approach them with extra caution in cold weather."
+        },
+        {
+          "type": "paragraph",
+          "text": "North Dakota law requires you to turn on your headlights from sunset to sunrise and any time you cannot clearly see persons or vehicles 1,000 feet ahead. Use your low beams in fog, rain, or snow because high beams reflect off the moisture and reduce your visibility."
+        },
+        {
+          "type": "paragraph",
+          "text": "Winter driving demands extra preparation. Carry a survival kit, keep your fuel tank full, and let others know your route in severe weather. If you skid, ease off the accelerator and steer in the direction you want the front of the vehicle to go without slamming on the brakes."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park legally and considerately. Do not park within an intersection, on a crosswalk or sidewalk, within 15 feet of a fire hydrant, in front of a driveway, or where signs prohibit parking. When parking parallel, set your wheels close to and parallel with the curb."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the vehicle will roll away from traffic if it moves. Facing downhill, or uphill without a curb, turn your front wheels toward the edge of the road; facing uphill with a curb, turn them away from the curb. Always set the parking brake and leave the vehicle in park or in gear."
+        },
+        {
+          "type": "paragraph",
+          "text": "All occupants of a vehicle must wear a properly fastened seat belt, and seat-belt use is enforced as a primary offense in North Dakota. Children under age 8 who are under 57 inches tall must be secured in an appropriate child safety or booster seat."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "North Dakota uses a graduated driver licensing system for new drivers. You may apply for an instruction permit at age 14 after passing the vision and knowledge tests. The permit allows you to drive only while supervised by a licensed adult who is at least 18 years old and has held a license for at least three years."
+        },
+        {
+          "type": "paragraph",
+          "text": "A 14-year-old must hold the instruction permit for at least 12 months and complete the required supervised driving practice, including 50 hours that cover a variety of conditions such as night and winter driving, before advancing. When eligible, the next step is a restricted license."
+        },
+        {
+          "type": "paragraph",
+          "text": "Under the restricted license, you may generally drive unsupervised only between 5 a.m. and 9 p.m., except when supervised or driving for school, work, or religious purposes. Following these graduated steps and the conditions printed on your license is required until you qualify for an unrestricted license."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "North Dakota uses a point system to track traffic violations. Accumulating too many points can lead to suspension of your driving privileges, and serious offenses such as driving under the influence carry heavy fines, possible jail time, and license suspension. Points are reduced over time when you drive without further violations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Specific violations carry set penalties. Texting while driving and violating the Move Over Law each result in fines and points, and failing to obey traffic signals, speed limits, or right-of-way rules can also add points to your record."
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving is a privilege, not a right. Obeying traffic laws, carrying valid insurance, and cooperating with law enforcement protect that privilege. Driving without a valid license or insurance, or refusing a lawful chemical test, results in additional penalties including suspension."
+        }
+      ]
+    }
+  ]
+}
