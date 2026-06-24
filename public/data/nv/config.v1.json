@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "nv",
+  "name": "Nevada",
+  "abbr": "NV",
+  "agency": "Nevada DMV",
+  "brand": {
+    "mark": "NV",
+    "appName": "Permit Prep",
+    "agencyPill": "Nevada DMV"
+  },
+  "home": {
+    "eyebrow": "Nevada learner's permit",
+    "heading": "Pass your Nevada permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 25,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Nevada Driver Handbook (DMV 700)",
+    "sourceUrl": "https://dmv.nv.gov/pdfforms/dlbook.pdf"
+  },
+  "data": {
+    "manual": "nv/manual.v1.json",
+    "questions": "nv/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
