@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "hi",
+  "name": "Hawaii",
+  "abbr": "HI",
+  "agency": "Hawaii Department of Transportation (county driver licensing)",
+  "brand": {
+    "mark": "HI",
+    "appName": "Permit Prep",
+    "agencyPill": "Hawaii Department of Transportation (county driver licensing)"
+  },
+  "home": {
+    "eyebrow": "Hawaii learner's permit",
+    "heading": "Pass your Hawaii permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 30,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Hawaii State Driver's Manual",
+    "sourceUrl": "https://hidot.hawaii.gov/highways/library/motor-vehicle-safety-office/"
+  },
+  "data": {
+    "manual": "hi/manual.v1.json",
+    "questions": "hi/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
