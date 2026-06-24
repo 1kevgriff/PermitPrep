@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Washington State Driver Guide",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs are organized by shape and color so you can recognize them quickly. Red means stop or prohibition, yellow warns of conditions ahead, orange marks construction zones, green gives guidance and directions, and blue points to motorist services. An eight-sided red sign always means stop, a downward triangle means yield, and a diamond is a warning sign."
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signal lights move from green to yellow to red. A steady yellow light means the signal is about to turn red and you should stop if you can do so safely. A flashing red light means stop and then proceed when it is safe, just like a stop sign, while a flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and separate traffic. A solid yellow line on your side of the center means do not pass, while a broken yellow line means passing is allowed when safe. White lines separate lanes of traffic moving in the same direction, and a solid white line discourages lane changes."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who should go first, but the law never gives you the right-of-way; it only states who must yield. At a four-way stop, the driver who arrives first goes first, and when two drivers arrive at the same time, the driver on the left yields to the driver on the right. Always yield to pedestrians in marked or unmarked crosswalks."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning left, yield to oncoming traffic and to pedestrians crossing the road you are entering. In Washington you may turn right on a red light after coming to a complete stop, unless a sign prohibits it, and you must yield to pedestrians and cross traffic before proceeding. A left turn on red is permitted only from a one-way street onto another one-way street."
+        },
+        {
+          "type": "paragraph",
+          "text": "You must yield to emergency vehicles using lights or sirens by pulling to the right edge of the road and stopping. Washington's Move Over Law requires you to change lanes away from a stopped emergency, tow, or utility vehicle showing warning lights, or, if you cannot move over, slow to at least 10 mph below the posted speed limit."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed limits set the maximum legal speed under ideal conditions, and you must drive slower when weather, traffic, or road conditions require it. Unless otherwise posted, Washington's default limits are 25 mph on city and town streets, 50 mph on county roads, and 60 mph on state highways, with rural interstates posted as high as 70 mph and many urban freeways at 60 mph."
+        },
+        {
+          "type": "paragraph",
+          "text": "Following too closely is a leading cause of rear-end collisions. Use the three-second rule on dry roads: pick a fixed point, and if you reach it before counting to three after the vehicle ahead passes it, you are too close. Increase your following distance in rain, fog, snow, or when being tailgated."
+        },
+        {
+          "type": "paragraph",
+          "text": "Manage your space by looking far ahead, keeping a cushion on all sides, and adjusting speed early. Slowing down gradually and signaling your intentions gives the drivers around you time to react and reduces the chance of a crash."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe, and never when a solid yellow line is on your side, on a hill or curve where you cannot see far enough ahead, or near an intersection or railroad crossing. Signal before changing lanes, check your mirrors, and look over your shoulder to clear your blind spot before moving over."
+        },
+        {
+          "type": "paragraph",
+          "text": "On multi-lane roads, slower traffic should keep right and use the left lane only for passing. After passing, return to the right lane when you can see the vehicle you passed in your rearview mirror. Never exceed the speed limit to complete a pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "You may not pass a school bus stopped with its red lights flashing and stop arm extended, in either direction, unless you are on the opposite side of a divided highway with a physical barrier. Always be ready for children crossing the road."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "You share the road with pedestrians, bicyclists, motorcyclists, and large trucks, each of which deserves extra care. Bicyclists may use a full lane, and Washington law requires drivers to give cyclists a safe passing distance, generally at least three feet. Watch for motorcycles, which are smaller and harder to see, especially at intersections and in your blind spots."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have big blind spots, take longer to stop, and make wide turns. Avoid lingering beside a truck, never cut in front of one and brake suddenly, and remember that if you cannot see the driver's mirrors, the driver cannot see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always yield to pedestrians at crosswalks, and stop for any pedestrian using a white cane or guide dog. Be especially alert in school zones and near parks, where children may enter the road unexpectedly."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving under the influence is illegal and dangerous. In Washington it is unlawful to drive with a blood alcohol concentration (BAC) of 0.08 percent or higher, and 0.04 percent or higher for commercial drivers. There is no safe amount of alcohol before driving, because even small amounts impair judgment, reaction time, and coordination."
+        },
+        {
+          "type": "paragraph",
+          "text": "Washington has a zero-tolerance law for drivers under 21: a BAC of 0.02 percent or higher can lead to a DUI charge and license suspension. By having a license, you give implied consent to breath or blood testing, and refusing the test results in an automatic license suspension."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distracted driving is also treated like impairment. Washington's E-DUI law makes it illegal to hold or use a personal electronic device, including a cell phone, while driving, even when stopped at a red light, with a first-offense fine of at least $136. Keep your hands on the wheel and your attention on the road."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, fog, snow, and ice all reduce traction and visibility, so slow down and increase your following distance. In Washington you must turn on your headlights whenever conditions require your windshield wipers to run continuously, and headlights are required from a half hour after sunset to a half hour before sunrise."
+        },
+        {
+          "type": "paragraph",
+          "text": "In fog or heavy rain, use your low-beam headlights, not high beams, because high beams reflect off moisture and reduce your visibility. If your vehicle begins to skid, ease off the gas, steer in the direction you want the front of the car to go, and do not brake hard."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you must stop because of poor visibility, pull completely off the road, turn on your hazard lights, and wait for conditions to improve. Bridges and overpasses freeze before other surfaces, so approach them with extra caution in cold weather."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park legally and safely by setting your parking brake and, on a hill, turning your wheels appropriately. When facing downhill or facing uphill without a curb, turn your front wheels toward the edge of the road; when facing uphill with a curb, turn your wheels away from the curb so the car rolls back into it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not park where you block traffic, a crosswalk, a sidewalk, a driveway, or a fire hydrant. Parking is also prohibited within intersections, on bridges, in front of public driveways, and in spaces reserved for people with disabilities unless you display a valid permit."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parallel parking, signal, pull alongside the space, and back in slowly while checking for traffic and pedestrians. Always check for passing cars and bicyclists before opening your door into the roadway."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Washington teens may apply for an instruction permit at age 15 if enrolled in an approved driver education course, or at 15 and a half if not enrolled. You must pass the knowledge test, and you may only drive when a licensed driver who has had a license for at least five years is in the front seat with you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before getting an intermediate license, applicants under 18 must hold the instruction permit for at least six months and complete 50 hours of supervised driving, including 10 hours at night. The supervising driver must be licensed and have held a license for at least three years."
+        },
+        {
+          "type": "paragraph",
+          "text": "The intermediate license carries restrictions for new drivers under 18. For the first six months you may not carry passengers under age 20 who are not immediate family, and you may not drive between 1 a.m. and 5 a.m. unless supervised by a licensed driver 25 or older. These restrictions ease after one year of safe driving."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic laws are enforced through tickets, fines, license points, and suspensions. By driving in Washington you accept implied consent, meaning you agree to chemical testing if lawfully arrested for DUI; refusing the test leads to an automatic license suspension separate from any criminal charge."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seat belt use is a primary offense in Washington, so an officer can stop and ticket you for not buckling up. Everyone in the vehicle must be properly restrained, and children must use an approved car seat or booster until they are 4 feet 9 inches tall."
+        },
+        {
+          "type": "paragraph",
+          "text": "More serious violations, such as DUI, reckless driving, or excessive speeding, can result in heavy fines, license suspension, and even jail. For teen drivers, traffic violations can extend the intermediate-license restrictions and delay full driving privileges."
+        }
+      ]
+    }
+  ]
+}
