@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "mn",
+  "name": "Minnesota",
+  "abbr": "MN",
+  "agency": "Minnesota DPS Driver and Vehicle Services (DVS)",
+  "brand": {
+    "mark": "MN",
+    "appName": "Permit Prep",
+    "agencyPill": "Minnesota DPS Driver and Vehicle Services (DVS)"
+  },
+  "home": {
+    "eyebrow": "Minnesota learner's permit",
+    "heading": "Pass your Minnesota permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 40,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Minnesota Driver's Manual",
+    "sourceUrl": "https://assets.dps.mn.gov/files/dvs/dvs-class-d-drivers-manual-english.pdf"
+  },
+  "data": {
+    "manual": "mn/manual.v1.json",
+    "questions": "mn/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
