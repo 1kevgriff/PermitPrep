@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "il",
+  "name": "Illinois",
+  "abbr": "IL",
+  "agency": "Illinois Secretary of State (SOS)",
+  "brand": {
+    "mark": "IL",
+    "appName": "Permit Prep",
+    "agencyPill": "Illinois Secretary of State (SOS)"
+  },
+  "home": {
+    "eyebrow": "Illinois learner's permit",
+    "heading": "Pass your Illinois permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 35,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Illinois Rules of the Road",
+    "sourceUrl": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf"
+  },
+  "data": {
+    "manual": "il/manual.v1.json",
+    "questions": "il/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
