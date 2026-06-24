@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "South Dakota Driver License Manual",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs are grouped by shape and color so you can recognize them quickly. Red and white signs, such as STOP and YIELD, tell you to stop or give way; yellow signs warn of hazards or changes ahead; orange signs mark construction and work zones; and green signs give directions and distances. A red octagon always means a full stop, while an upside-down triangle always means yield."
+        },
+        {
+          "type": "paragraph",
+          "text": "A steady red traffic signal means stop and remain stopped until the light turns green. A steady yellow light warns that the signal is about to turn red, so you should stop if you can do so safely. A flashing red light is treated like a stop sign, and a flashing yellow light means slow down and proceed with caution. Unless a sign prohibits it, you may turn right on a steady red light after coming to a complete stop and yielding to pedestrians and cross traffic."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and separate traffic. A solid yellow line on your side of the center means do not pass, while a broken yellow line means passing is permitted when it is safe. White lines separate lanes of traffic moving in the same direction, and a solid white line discourages lane changes. Always obey signs, signals, and markings together with the directions of any police officer."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who should go first, but the law never gives you the right-of-way; it only states who must yield. At an intersection without signs or signals, yield to the vehicle on your right when two vehicles arrive at about the same time. When turning left, yield to oncoming traffic and to pedestrians crossing the road you are entering."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always yield to pedestrians in marked or unmarked crosswalks, and stop for pedestrians who are crossing with the WALK signal. You must also yield to emergency vehicles using lights or sirens by pulling to the right edge of the road and stopping until they pass. At a four-way stop, the first vehicle to arrive goes first, and drivers yield to the right when arriving together."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before turning, signal early, move into the proper lane, and check mirrors and blind spots. Turn from the lane closest to your intended direction and into the corresponding lane. Never assume another driver will yield to you even when you have the right-of-way."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "You must always drive at a speed that is reasonable and safe for current conditions, even when it is below the posted limit. In South Dakota the speed limit in an urban district is 25 mph unless otherwise posted, most other highways are posted between 55 and 70 mph, and the maximum on rural interstate highways is 80 mph. Lower limits apply in school zones and work zones."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep a safe following distance using the three-second rule: pick a fixed point the vehicle ahead passes, then count the seconds until you reach it. Increase your following distance in rain, snow, fog, or heavy traffic, and when following large trucks or motorcycles. More space gives you time to see and react to hazards."
+        },
+        {
+          "type": "paragraph",
+          "text": "Manage your space on all sides of your vehicle, not just ahead. Avoid driving in another vehicle's blind spot, leave room to escape if traffic suddenly stops, and slow down before curves and hills rather than braking in them. Smooth, gradual speed changes keep you in control."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe, and only on the left except in limited situations such as a vehicle turning left. A solid yellow line on your side means passing is prohibited, while a broken yellow line means you may pass when the way is clear. Never pass on a hill, curve, at an intersection, or where you cannot see far enough ahead."
+        },
+        {
+          "type": "paragraph",
+          "text": "On multi-lane roads, drive in the right lane and use the left lane mainly for passing. Signal every lane change, check your mirrors and blind spots, and return to your lane only when you can see the vehicle you passed in your rearview mirror. Do not exceed the speed limit while passing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Be patient when you cannot pass safely; tailgating and forcing a pass are dangerous. When another driver is passing you, maintain your speed or slow slightly so they can complete the pass. Keep right except to pass so faster traffic can flow."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "You share the road with motorcycles, bicycles, pedestrians, farm equipment, and large trucks. Motorcycles are smaller and harder to see, so look twice before turning or changing lanes and give them a full lane. Allow extra following distance behind motorcycles because they can stop quickly."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have big blind spots and need more room to stop and turn. Do not cut in front of a truck and then brake, and never linger alongside one. When a truck makes a wide right turn, do not try to squeeze between the truck and the curb."
+        },
+        {
+          "type": "paragraph",
+          "text": "South Dakota's Move Over law requires you to give room to stopped emergency, law enforcement, and maintenance vehicles displaying flashing lights. On an interstate, move into the lane farthest from the stopped vehicle when you can do so safely; on a two-lane highway, slow to at least 20 mph below the posted speed limit. Also watch for slow-moving farm vehicles marked with an orange triangle."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "It is illegal to drive in South Dakota with a blood alcohol concentration (BAC) of 0.08 percent or higher if you are 21 or older. Alcohol slows reaction time, impairs judgment, and reduces coordination, and there is no quick way to sober up other than time. Many prescription and over-the-counter drugs can also impair driving."
+        },
+        {
+          "type": "paragraph",
+          "text": "Drivers under 21 are held to a zero-tolerance standard, and it is illegal for them to drive with a BAC of 0.02 percent or more. Because the legal drinking age is 21, any measurable alcohol can lead to penalties for a young driver, including loss of driving privileges."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is a leading cause of crashes. Texting while driving is prohibited statewide in South Dakota, and instruction permit holders may not use any wireless communication device while driving. Keep your eyes on the road, your hands on the wheel, and set up navigation and music before you start driving."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, snow, ice, and fog reduce traction and visibility, so slow down, increase your following distance, and use extra caution. South Dakota law requires you to turn on your headlights when conditions reduce visibility and any time you use your windshield wipers because of rain, snow, or fog. Headlights also help other drivers see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "On slippery roads, brake gently and steer smoothly to avoid skids. If you begin to skid, ease off the accelerator and steer in the direction you want the front of the car to go. Bridges and overpasses freeze before other road surfaces, so approach them with care in cold weather."
+        },
+        {
+          "type": "paragraph",
+          "text": "In fog or heavy snow, use low-beam headlights because high beams reflect glare back at you. If visibility becomes too poor to continue safely, pull completely off the road, turn on your hazard lights, and wait for conditions to improve. Keep your windshield, mirrors, and lights clear of snow and ice before driving."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park only where it is legal and where your vehicle will not block traffic, driveways, crosswalks, or fire hydrants. When parking on a hill, turn your wheels so the vehicle will roll away from traffic if it moves: toward the curb when facing downhill, and away from the curb when facing uphill with a curb. Always set the parking brake and leave the vehicle in park or in gear."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not stop or park on the traveled part of a highway when it is possible to park off the road. If you must stop because of an emergency, move as far onto the shoulder as you can and turn on your hazard lights. Never park within an intersection or on a railroad crossing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obey all parking signs and curb markings, and do not park in spaces reserved for persons with disabilities unless you have the proper permit. When leaving a parked position, signal, check for traffic and bicyclists, and merge only when it is safe."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "In South Dakota you may apply for an instruction permit at age 14. To get the permit you must pass a vision screening and a written knowledge test, unless you have completed an approved driver education course. The knowledge test has 25 questions, and you must answer at least 80 percent (20 of 25) correctly to pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "While holding an instruction permit, you must be accompanied by a licensed driver at least 18 years old with one year of driving experience seated next to you. Between 10:00 p.m. and 6:00 a.m., a parent or guardian must ride in the front passenger seat. Permit holders may not use any wireless communication device while driving."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before moving up to a restricted minor's permit, you must hold the instruction permit for the required period and complete behind-the-wheel practice, including 50 hours of supervised driving with 10 hours at night and 10 hours in inclement weather. The graduated licensing steps phase in driving privileges as you gain experience."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving is a privilege that can be suspended or revoked for unsafe or illegal driving. Convictions for offenses such as driving under the influence, reckless driving, or repeated violations can lead to fines, license suspension, and higher insurance costs. Accumulating too many violations can also cost you your driving privileges."
+        },
+        {
+          "type": "paragraph",
+          "text": "By driving in South Dakota you give implied consent to chemical testing for alcohol or drugs if a law enforcement officer has reason to believe you are impaired. Refusing the test can result in a license revocation separate from any DUI penalty. Penalties are stricter for drivers under 21 because of the state's zero-tolerance standard."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always carry your driver license, registration, and proof of insurance, and show them when an officer requests them. If you are involved in a crash, stop, help the injured, exchange information, and report the crash as required. Seat belts are required for the driver and front-seat passengers, and children under 5 must be secured in an approved child restraint."
+        }
+      ]
+    }
+  ]
+}

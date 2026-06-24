@@ -3,6 +3,12 @@
   "default": "va",
   "states": [
     {
+      "id": "sd",
+      "name": "South Dakota",
+      "abbr": "SD",
+      "config": "sd/config.v1.json"
+    },
+    {
       "id": "va",
       "name": "Virginia",
       "abbr": "VA",
