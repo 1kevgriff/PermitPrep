@@ -16,7 +16,9 @@ import random
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 AUTHOR = ROOT / "scripts" / "authoring"
-OUT = ROOT / "public" / "data" / "questions.v1.json"
+# Virginia is state #1; its content is namespaced under public/data/va/.
+STATE = "va"
+OUT = ROOT / "public" / "data" / STATE / "questions.v1.json"
 SIGNS_SECTION = "signals-signs-and-pavement-markings"
 
 

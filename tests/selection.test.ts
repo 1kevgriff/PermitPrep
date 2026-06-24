@@ -1,7 +1,7 @@
 import { describe, it, expect } from 'vitest'
 import { selectExamQuestions, selectPracticeQuestions, permuteChoices } from '@/lib/selection'
 import { mulberry32, rngFromSeed } from '@/lib/shuffle'
-import { VA_EXAM_CONFIG } from '@/types/exam'
+import { VA_EXAM_CONFIG } from './examConfig'
 import { makeBank, makeSign } from './helpers'
 
 const TOPICS = ['signals', 'right-of-way', 'speed', 'passing', 'sharing', 'hazards']

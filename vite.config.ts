@@ -12,10 +12,10 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['icons/apple-touch-icon-180.png'],
       manifest: {
-        name: 'PermitPrep: Virginia Permit Test',
+        name: 'PermitPrep: Learner Permit Practice',
         short_name: 'PermitPrep',
         description:
-          "Free Virginia learner's permit practice exams, flashcards, and the driver's manual. Works offline.",
+          "Free learner's permit practice exams, flashcards, and the driver's manual for your state. Works offline.",
         theme_color: '#16202e',
         background_color: '#f4f6fa',
         display: 'standalone',
@@ -35,12 +35,31 @@ export default defineConfig({
         ],
       },
       workbox: {
-        // Precache the shell, question data, and sign images so the exam works
-        // fully offline (the home hero promises it).
-        globPatterns: ['**/*.{js,css,html,json,png,svg}'],
+        // Precache the shell, the shared (federal MUTCD) sign bank + images, and
+        // the states index so the app installs lean. Per-state content lives in
+        // data/{state}/ and is runtime-cached on first visit (below), so adding
+        // states doesn't bloat every install — only the state you actually use
+        // is stored for offline.
+        globPatterns: ['**/*.{js,css,html,svg,png,json}'],
+        // Skip per-state content (data/{state}/*) — it's runtime-cached below.
+        // The shared signs bank + states index live at data/ root and stay
+        // precached. (Pattern needs the extra segment so it doesn't also match
+        // the root-level data/*.json files.)
+        globIgnores: ['data/*/*'],
         maximumFileSizeToCacheInBytes: 6 * 1024 * 1024,
         navigateFallback: 'index.html',
         runtimeCaching: [
+          {
+            // Per-state manual / questions / config: cache the active state for
+            // offline use, revalidate in the background when online.
+            urlPattern: ({ url }) => /\/data\/[^/]+\/.*\.json$/.test(url.pathname),
+            handler: 'StaleWhileRevalidate',
+            options: {
+              cacheName: 'permitprep-state-data',
+              expiration: { maxEntries: 60, maxAgeSeconds: 60 * 60 * 24 * 30 },
+              cacheableResponse: { statuses: [0, 200] },
+            },
+          },
           {
             urlPattern: ({ url }) => url.origin === 'https://fonts.googleapis.com',
             handler: 'StaleWhileRevalidate',

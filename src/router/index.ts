@@ -8,6 +8,7 @@ const router = createRouter({
   },
   routes: [
     { path: '/', name: 'home', component: () => import('@/views/HomeView.vue') },
+    { path: '/states', name: 'states', component: () => import('@/views/StatePickerView.vue') },
     { path: '/manual', name: 'manual', component: () => import('@/views/ManualView.vue') },
     {
       path: '/manual/:sectionId',

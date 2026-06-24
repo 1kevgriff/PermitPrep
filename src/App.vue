@@ -1,10 +1,23 @@
 <script setup lang="ts">
-import { onMounted } from 'vue'
+import { computed, onMounted, watchEffect } from 'vue'
 import { useContentStore } from '@/stores/content'
+import { useStatesStore } from '@/stores/states'
 import NavBar from '@/components/common/NavBar.vue'
 
 const content = useContentStore()
+const states = useStatesStore()
 onMounted(() => content.ensureLoaded())
+
+const brand = computed(() => states.config?.brand)
+const mark = computed(() => brand.value?.mark ?? 'Permit')
+const appName = computed(() => brand.value?.appName ?? 'Permit Prep')
+const agencyPill = computed(() => brand.value?.agencyPill ?? '')
+
+// Keep the document title in sync with the active state.
+watchEffect(() => {
+  const name = states.config?.name
+  document.title = name ? `${name} Permit Prep` : 'Permit Prep'
+})
 </script>
 
 <template>
@@ -12,10 +25,18 @@ onMounted(() => content.ensureLoaded())
   <header class="appbar">
     <div class="appbar__inner container">
       <RouterLink to="/" class="brand">
-        <span class="brand__mark" aria-hidden="true">VA</span>
-        <span class="brand__name">Permit Prep</span>
+        <span class="brand__mark" aria-hidden="true">{{ mark }}</span>
+        <span class="brand__name">{{ appName }}</span>
       </RouterLink>
-      <span class="pill pill--amber">Virginia DMV</span>
+      <RouterLink
+        v-if="agencyPill"
+        to="/states"
+        class="pill pill--amber state-pill"
+        :aria-label="`Change state — currently ${agencyPill}`"
+      >
+        {{ agencyPill }}
+        <svg viewBox="0 0 24 24" width="12" height="12" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6" /></svg>
+      </RouterLink>
     </div>
     <div class="appbar__road" aria-hidden="true"></div>
   </header>
@@ -72,6 +93,13 @@ onMounted(() => content.ensureLoaded())
 }
 .brand__name {
   line-height: 1;
+}
+/* The agency pill doubles as the state switcher. */
+.state-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  text-decoration: none;
 }
 .brand__mark {
   display: inline-grid;

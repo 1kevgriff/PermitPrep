@@ -4,8 +4,10 @@ import type { Question, SignQuestion, GeneralQuestion } from '@/types/question'
 import type { Manual, ManualSection, Sign } from '@/types/manual'
 import type { FlashCard } from '@/types/flashcard'
 import { loadQuestionBank, loadManual, loadSigns } from '@/data/loaders'
+import { useStatesStore } from './states'
 
-/** Loads and indexes the static content (manual, signs, question bank). */
+/** Loads and indexes the static content (manual, signs, question bank) for the
+ * active state. */
 export const useContentStore = defineStore('content', () => {
   const loaded = ref(false)
   const loading = ref(false)
@@ -20,10 +22,13 @@ export const useContentStore = defineStore('content', () => {
     loading.value = true
     error.value = null
     try {
+      const states = useStatesStore()
+      await states.ensureReady()
+      const config = states.config!
       const [bank, man, sg] = await Promise.all([
-        loadQuestionBank(),
-        loadManual(),
-        loadSigns(),
+        loadQuestionBank(config),
+        loadManual(config),
+        loadSigns(config),
       ])
       questions.value = bank.questions
       manual.value = man
@@ -34,6 +39,15 @@ export const useContentStore = defineStore('content', () => {
     } finally {
       loading.value = false
     }
+  }
+
+  /** Drop the current state's content and reload (used when the state changes). */
+  async function reload(): Promise<void> {
+    loaded.value = false
+    questions.value = []
+    manual.value = null
+    signs.value = []
+    await ensureLoaded()
   }
 
   const signQuestions = computed(
@@ -105,6 +119,7 @@ export const useContentStore = defineStore('content', () => {
     manual,
     signs,
     ensureLoaded,
+    reload,
     signQuestions,
     generalQuestions,
     questionById,

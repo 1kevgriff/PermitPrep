@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "default": "va",
+  "states": [
+    {
+      "id": "va",
+      "name": "Virginia",
+      "abbr": "VA",
+      "config": "va/config.v1.json"
+    }
+  ]
+}

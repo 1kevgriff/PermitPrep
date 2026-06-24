@@ -1,6 +1,7 @@
 import { describe, it, expect } from 'vitest'
 import { gradeSignPart, gradeGeneralPart, gradeExam } from '@/lib/scoring'
-import { VA_EXAM_CONFIG, type AnswerMap } from '@/types/exam'
+import { VA_EXAM_CONFIG } from './examConfig'
+import type { AnswerMap } from '@/types/exam'
 import { makeGeneral, makeSign } from './helpers'
 
 function answersAllCorrect(qs: { id: string; answerIndex: number }[]): AnswerMap {

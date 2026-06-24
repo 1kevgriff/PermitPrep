@@ -6,8 +6,8 @@ import type { Manual, Sign } from '@/types/manual'
 const root = process.cwd() + '/'
 const read = (p: string) => JSON.parse(readFileSync(root + p, 'utf8'))
 
-const bank: QuestionBank = read('public/data/questions.v1.json')
-const manual: Manual = read('public/data/manual.v1.json')
+const bank: QuestionBank = read('public/data/va/questions.v1.json')
+const manual: Manual = read('public/data/va/manual.v1.json')
 const signs: Sign[] = read('public/data/signs.v1.json')
 
 const sectionSlugs = new Set(manual.sections.map((s) => s.slug))

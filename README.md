@@ -1,18 +1,24 @@
-# Virginia Permit Prep
+# Permit Prep
 
-A free, offline-capable study app for the **Virginia learner's permit knowledge
-exam**. It ships the official driver's manual content and a large, curated
-question bank as static JSON — no backend, no accounts, no API costs.
+A free, offline-capable study app for the **learner's permit knowledge exam**.
+It ships official driver's-manual content and large, curated question banks as
+static JSON — no backend, no accounts, no API costs.
 
-- **Real Exam** — mirrors the VA test: Part 1 is 10 traffic-sign questions (must
-  get **all 10** correct to advance), Part 2 is 25 general-knowledge questions
-  (pass at **≥ 80%**).
+It's **multi-state**: every piece of state-specific content and copy is
+data-driven, so adding a state is "drop a `public/data/{state}/` folder + a
+`states.index.json` entry" — no code changes. **Virginia** ships as state #1.
+
+- **Real Exam** — mirrors each state's test. For Virginia: Part 1 is 10
+  traffic-sign questions (must get **all 10** correct to advance), Part 2 is 25
+  general-knowledge questions (pass at **≥ 80%**). Counts/thresholds live in each
+  state's config.
 - **Practice** — pick a topic and length, with instant feedback + explanations
   that link back to the manual.
 - **Flash Cards** — Signs and Rules/Facts decks with spaced-repetition-lite
   (Leitner boxes).
 - **Review Missed** — replays the exact questions you've gotten wrong.
-- **Manual** — all 8 sections, searchable, with the sign images inline.
+- **Manual** — all sections, searchable, with the sign images inline.
+- **State picker** — switch states from the app bar; the choice is remembered.
 - **Progress** — exam history, pass rate, and weak topics saved in `localStorage`.
 
 Built with **Vue 3 + TypeScript + Vite**. Content is extracted from the official
@@ -35,14 +41,28 @@ npm run preview    # serve the built dist/
 
 ```
 assets/dmv39.pdf          Source: Virginia Driver's Manual (DMV39)
-public/data/*.v1.json     Shipped content: signs, manual, question bank (versioned)
+public/data/states.index.json     Index of available states (id, name, abbr, config)
+public/data/signs.v1.json         Shared federal (MUTCD) sign bank
+public/data/{state}/              Per-state content: config + manual + questions (versioned)
 public/images/{signs,markings}/   Sign + marking images cropped from the PDF
 src/lib/                  Pure, fully-tested logic (selection, scoring, srs, shuffle)
-src/stores/               Pinia stores (content, progress, session) + persist plugin
+src/stores/               Pinia stores (states, content, progress, session) + persist plugin
+src/types/state.ts        Multi-state config types (StatesIndex, StateConfig)
 src/views/  src/components/   UI
 scripts/authoring/        One-off PDF extraction + question authoring (NOT bundled)
 tests/                    Vitest suites
 ```
+
+### Adding a state
+
+1. Create `public/data/{id}/` with `config.v1.json`, `manual.v1.json`, and
+   `questions.v1.json` (signs default to the shared federal bank; override via
+   the config's `data.signs` if needed).
+2. Add an entry to `public/data/states.index.json`.
+
+`config.v1.json` carries everything the UI shows for a state — name/abbr,
+branding + hero copy, exam counts/pass %, manual source, and the data file
+paths. No code changes are required.
 
 ## Regenerating the content (authoring)
 
@@ -74,6 +94,6 @@ update `base` in `vite.config.ts` — the router derives its base from
 
 ## Disclaimer
 
-A study aid only. It does not supersede the Code of Virginia or official DMV
-materials. Question counts for Part 2 follow the standard VA format (25 questions)
-and are configurable in `src/types/exam.ts` (`VA_EXAM_CONFIG`).
+A study aid only. It does not supersede any state's code or official DMV
+materials. Exam counts and pass thresholds are configurable per state in that
+state's `public/data/{state}/config.v1.json` (`exam`).
