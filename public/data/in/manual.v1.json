@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Indiana Driver's Manual",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals control the order in which vehicles and pedestrians move. A steady red light means stop completely behind the stop line or crosswalk; a steady yellow light warns that the signal is about to turn red and you should stop if you can do so safely. A green light means you may proceed if the intersection is clear, but you must still yield to pedestrians and vehicles already in the intersection."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sign colors and shapes carry meaning even before you read the words. Red signs and octagons mean stop or prohibition, yellow and diamond shapes warn of hazards ahead, orange marks construction and work zones, and green guide signs give directions and distances. A flashing red light is treated like a stop sign, while a flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and separate traffic. A solid yellow line on your side of the road means passing is prohibited, while a broken yellow line means passing is allowed when it is safe. White lines separate lanes of traffic moving in the same direction, and a solid white line discourages lane changes. Always obey the stop line and crosswalk markings at intersections."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell drivers who should go first, but the law never gives anyone the right-of-way; it only states who must yield. At an intersection without signals, yield to any vehicle that arrives first, and when two vehicles arrive at the same time, the driver on the left yields to the driver on the right. Always yield to pedestrians in a crosswalk and to emergency vehicles using lights or sirens."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning left, you must yield to oncoming traffic and to pedestrians crossing the road you are entering. In Indiana you may turn right on a red light after coming to a complete stop, unless a sign prohibits it, and only after yielding to pedestrians and cross traffic. A left turn on red is permitted only from a one-way street onto another one-way street where allowed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roundabouts are common in Indiana. As you approach, slow down, yield to traffic already circulating in the roundabout, and enter when there is a safe gap. Stay in your lane, do not stop inside the circle, and signal before you exit."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Unless posted otherwise, Indiana's default speed limits are 30 mph in an urban or residential district, 55 mph on most rural state highways, and 70 mph on rural interstate highways. In an alley the limit is 15 mph. The basic speed law requires you to drive no faster than is reasonable and safe for current conditions, which may mean driving well below the posted limit in rain, fog, snow, or heavy traffic."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep a safe following distance so you have time to react. A common guide is the three-second rule: pick a fixed object the vehicle ahead passes, and you should not reach it for at least three seconds. Increase your following distance to four seconds or more in bad weather, on slippery roads, or when being tailgated."
+        },
+        {
+          "type": "paragraph",
+          "text": "Manage your space on all sides of the vehicle, not just the front. Leave room to escape if traffic suddenly stops, avoid driving in another vehicle's blind spot, and slow down before curves and intersections where you may need to stop or yield."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe. Never pass where a solid yellow line is on your side of the center, on hills or curves where you cannot see far enough ahead, at intersections, or within marked no-passing zones. Before passing, check your mirrors and blind spot, signal, and return to your lane only after you can see the passed vehicle in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "On multilane roads, slower traffic should keep to the right and use the left lane mainly for passing. Signal every lane change and check your blind spots, because mirrors alone do not show vehicles directly beside you. Do not weave between lanes or make sudden lane changes near other vehicles."
+        },
+        {
+          "type": "paragraph",
+          "text": "When another driver is passing you, maintain your speed or slow down slightly to let them complete the pass safely. Be especially careful passing large trucks and buses, which have large blind spots and need more room to stop."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roads are shared by motorcycles, bicycles, pedestrians, large trucks, and farm equipment, and each requires extra awareness. Motorcycles are small and easy to miss, so check carefully before changing lanes or turning, and give riders a full lane. Bicyclists have the right to use the road, and you must pass them at a safe distance and watch for them at intersections and driveways."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have wide blind spots, called no-zones, on all four sides and need much longer distances to stop. Do not cut in front of a truck and then brake, and avoid lingering alongside one. If you cannot see the driver's mirrors, the driver cannot see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always yield to pedestrians in crosswalks and at intersections, and slow down near schools, parks, and neighborhoods where children may be present. Indiana's Move Over law requires you to slow down and, when possible, change lanes to give room to stopped emergency, police, utility, and other vehicles displaying flashing or warning lights."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Indiana it is illegal for a driver age 21 or older to operate a vehicle with a blood alcohol concentration (BAC) of 0.08 percent or more, and a BAC of 0.15 percent or more carries enhanced penalties. Drivers under 21 are subject to a zero-tolerance law and can be cited with a BAC as low as 0.02 percent. Alcohol and many drugs, including some prescription and over-the-counter medicines, slow reaction time and impair judgment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Since July 2020, Indiana's hands-free law makes it illegal to hold or use a phone or other telecommunications device in your hand while driving. You may only use a device through hands-free or voice-activated technology, such as a mounted phone or Bluetooth. A violation is a Class C infraction and adds points to your driving record."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is anything that takes your eyes off the road, your hands off the wheel, or your mind off driving. Texting, eating, adjusting controls, and reaching for objects all increase crash risk. The safest choice is to put the phone away and pull over safely if you must handle a distraction."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Reduce your speed and increase your following distance whenever weather or visibility is poor. Rain, snow, ice, and fog all lengthen the distance needed to stop. The first rain after a dry spell is especially slippery because oil and dirt rise to the surface. In Indiana you must turn on your headlights when visibility is low and whenever your windshield wipers are in continuous use."
+        },
+        {
+          "type": "paragraph",
+          "text": "If your vehicle begins to skid, ease off the accelerator, avoid slamming the brakes, and steer gently in the direction you want the front of the car to go. Hydroplaning happens when tires ride on a film of water; if it occurs, take your foot off the gas and steer straight until you regain traction."
+        },
+        {
+          "type": "paragraph",
+          "text": "At night, dim your high beams when within 500 feet of an oncoming vehicle or when following another vehicle within 200 feet so you do not blind other drivers. Use low beams in fog, and slow down because you can see only as far as your headlights reach."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park legally and safely. Do not park within an intersection, on a crosswalk, in front of a fire hydrant, in a marked fire lane, or where signs prohibit parking. Always set your parking brake, and when parking on a hill turn your wheels so the vehicle will not roll into traffic if it moves."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking facing downhill or uphill next to a curb, turn your front wheels so they will stop the car against the curb if it rolls. When there is no curb, turn the wheels toward the edge of the road so the vehicle would roll away from traffic."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obey all rules of the road that keep traffic orderly, including staying in your lane, signaling your intentions, and yielding when required. Watch for one-way streets, do-not-enter signs, and lane-use signs that tell you which movements are allowed."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Indiana you may apply for a learner's permit at age 15 if you are enrolled in an approved driver education course, or at 16 without driver education. While holding a learner's permit, you must be supervised by a licensed driver who meets the age requirements and is seated in the front passenger seat. Indiana requires at least 50 hours of supervised driving practice, including at least 10 hours at night, before getting a probationary license."
+        },
+        {
+          "type": "paragraph",
+          "text": "A new driver under 21 receives a probationary driver's license with restrictions to help build experience safely. For the first 180 days you generally may not drive with passengers who are not immediate family unless a qualifying licensed adult is with you, and you may not drive between 10 p.m. and 5 a.m. except for work, school, or religious activities or when accompanied by a qualifying adult."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always carry your license or permit when driving and present it to law enforcement when asked. Keep your address current with the BMV, and remember that a permit or probationary license can be suspended for violations of its restrictions or for serious traffic offenses."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Indiana uses a point system, and accumulating points for traffic violations can lead to license suspension. Serious offenses such as operating while intoxicated, reckless driving, or refusing a chemical test carry heavy penalties including fines, suspension, and possible jail. Under Indiana's implied consent law, by driving you agree to submit to a chemical test for alcohol or drugs, and refusing results in an automatic license suspension."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seat belt use is required and is a primary offense, meaning an officer can stop and ticket you solely for not buckling up. All front-seat occupants must wear seat belts, children under age 8 must be properly secured in a child restraint system based on their size, and a booster seat must be used with a lap-and-shoulder belt until the child outgrows it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always stop for school buses with flashing red lights and extended stop arms, move over for stopped emergency and service vehicles, and obey officers directing traffic. Following the law and driving courteously is the best way to avoid fines, points, and the loss of your driving privileges."
+        }
+      ]
+    }
+  ]
+}
