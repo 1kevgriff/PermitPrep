@@ -3,6 +3,12 @@
   "default": "va",
   "states": [
     {
+      "id": "ak",
+      "name": "Alaska",
+      "abbr": "AK",
+      "config": "ak/config.v1.json"
+    },
+    {
       "id": "va",
       "name": "Virginia",
       "abbr": "VA",
