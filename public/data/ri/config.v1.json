@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "ri",
+  "name": "Rhode Island",
+  "abbr": "RI",
+  "agency": "Rhode Island DMV",
+  "brand": {
+    "mark": "RI",
+    "appName": "Permit Prep",
+    "agencyPill": "Rhode Island DMV"
+  },
+  "home": {
+    "eyebrow": "Rhode Island learner's permit",
+    "heading": "Pass your Rhode Island permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 25,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Rhode Island Driver's Manual",
+    "sourceUrl": "https://dmv.ri.gov/licenses-permits-ids/permits-tests/operator-manuals"
+  },
+  "data": {
+    "manual": "ri/manual.v1.json",
+    "questions": "ri/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}

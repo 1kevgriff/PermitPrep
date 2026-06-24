@@ -3,6 +3,12 @@
   "default": "va",
   "states": [
     {
+      "id": "ri",
+      "name": "Rhode Island",
+      "abbr": "RI",
+      "config": "ri/config.v1.json"
+    },
+    {
       "id": "va",
       "name": "Virginia",
       "abbr": "VA",
