@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "ga",
+  "name": "Georgia",
+  "abbr": "GA",
+  "agency": "Georgia Department of Driver Services (DDS)",
+  "brand": {
+    "mark": "GA",
+    "appName": "Permit Prep",
+    "agencyPill": "Georgia Department of Driver Services (DDS)"
+  },
+  "home": {
+    "eyebrow": "Georgia learner's permit",
+    "heading": "Pass your Georgia permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 20,
+    "generalPassPct": 75
+  },
+  "manual": {
+    "source": "Georgia Driver's Manual",
+    "sourceUrl": "https://dds.georgia.gov/document/publication/ga-drivers-manual/download"
+  },
+  "data": {
+    "manual": "ga/manual.v1.json",
+    "questions": "ga/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}

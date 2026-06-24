@@ -3,6 +3,12 @@
   "default": "va",
   "states": [
     {
+      "id": "ga",
+      "name": "Georgia",
+      "abbr": "GA",
+      "config": "ga/config.v1.json"
+    },
+    {
       "id": "va",
       "name": "Virginia",
       "abbr": "VA",
