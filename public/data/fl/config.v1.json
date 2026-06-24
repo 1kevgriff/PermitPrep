@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "fl",
+  "name": "Florida",
+  "abbr": "FL",
+  "agency": "Florida Department of Highway Safety and Motor Vehicles (FLHSMV)",
+  "brand": {
+    "mark": "FL",
+    "appName": "Permit Prep",
+    "agencyPill": "Florida Department of Highway Safety and Motor Vehicles (FLHSMV)"
+  },
+  "home": {
+    "eyebrow": "Florida learner's permit",
+    "heading": "Pass your Florida permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 40,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Official Florida Class E Driver License Handbook",
+    "sourceUrl": "https://www.flhsmv.gov/pdf/handbooks/englishdriverhandbook.pdf"
+  },
+  "data": {
+    "manual": "fl/manual.v1.json",
+    "questions": "fl/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
