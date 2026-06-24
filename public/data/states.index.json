@@ -3,6 +3,12 @@
   "default": "va",
   "states": [
     {
+      "id": "pa",
+      "name": "Pennsylvania",
+      "abbr": "PA",
+      "config": "pa/config.v1.json"
+    },
+    {
       "id": "va",
       "name": "Virginia",
       "abbr": "VA",
