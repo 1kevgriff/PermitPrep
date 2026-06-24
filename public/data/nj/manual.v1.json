@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "The New Jersey Driver Manual",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs are grouped by shape and color so you can identify them quickly. Red signs such as STOP and YIELD, and white regulatory signs, tell you what you must or must not do. Yellow and orange signs warn of conditions ahead, while green signs give directions and distances. A red octagon always means stop completely behind the stop line or crosswalk, and an upside-down triangle always means yield."
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals control the order in which vehicles and pedestrians may proceed. A steady red light means stop, a steady yellow light warns that the light is about to turn red, and a steady green light means you may go if the way is clear. A flashing red light is treated like a stop sign, and a flashing yellow light means slow down and proceed with caution. A green arrow means you may turn in that direction while protected from conflicting traffic."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings reinforce the rules of the road. A solid yellow line on your side of the center means do not pass, while a broken yellow line means passing is allowed when it is safe. White lines separate lanes of traffic moving in the same direction. Always obey the most restrictive signal or marking present when signs, signals, and markings appear together."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules decide who goes first when paths cross, but the law never gives anyone the right-of-way; it only states who must yield. At a four-way stop, the vehicle that arrives first proceeds first, and when two arrive together the driver on the left yields to the driver on the right. Drivers must always yield to pedestrians in a crosswalk and to emergency vehicles using lights or sirens."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning left, yield to oncoming traffic and to pedestrians before crossing their path. In New Jersey you may turn right on a red light after coming to a full stop, unless a sign prohibits it, and only when the way is clear of pedestrians and cross traffic. Vehicles already in a roundabout or traffic circle generally have the right-of-way over those entering."
+        },
+        {
+          "type": "paragraph",
+          "text": "Signal your intention to turn at least 100 feet before the turn so other drivers and pedestrians know your plans. Position your vehicle in the correct lane well ahead of the intersection, and never make a turn from the wrong lane. Yield to traffic and pedestrians whenever you cross or enter a roadway, including when leaving a driveway or alley."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "New Jersey sets statutory speed limits that apply unless signs say otherwise. The limit is 25 mph in school zones, business districts, and residential districts, 35 mph in certain suburban business and residential districts, and 50 mph on most other roadways. Higher limits of 55 mph or 65 mph apply on certain state highways and interstates only where posted. You must always drive at a speed that is reasonable and safe for current conditions, even if that is below the posted limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Managing the space around your vehicle prevents collisions. Keep a following distance of at least three to four seconds behind the vehicle ahead, and increase it in rain, snow, fog, or heavy traffic. The faster you travel, the longer the distance your vehicle needs to stop, because stopping distance grows much faster than speed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Adjust your speed for the situation rather than driving on autopilot. Slow down before entering curves, intersections, work zones, and areas with pedestrians. Leaving extra space ahead, behind, and to the sides gives you time to react and an escape path if another driver makes a mistake."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass other vehicles only when it is legal and safe. A broken yellow center line means you may pass when the lane ahead is clear, while a solid yellow line on your side means passing is prohibited. Never pass on a hill or curve where you cannot see far enough ahead, near an intersection or railroad crossing, or when a sign forbids it. On a multilane road you may pass on the right only when there is more than one lane in your direction."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep to the right except when passing, and return to the right lane once you have safely cleared the vehicle you passed. Signal before changing lanes, check your mirrors, and look over your shoulder to check your blind spot before moving over. Never weave between lanes or follow so closely that you cannot see the road ahead."
+        },
+        {
+          "type": "paragraph",
+          "text": "When another driver is passing you, maintain your speed or slow slightly to let them complete the pass safely. Be especially cautious passing large trucks and buses, which have large blind spots and need more room. Complete every pass without exceeding the speed limit."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roads are shared by cars, trucks, motorcycles, bicycles, and pedestrians, and drivers must look out for all of them. Large trucks have wide blind spots, called no-zones, on both sides, directly behind, and in front; if you cannot see the driver's mirrors, the driver cannot see you. Give trucks and buses extra room and never cut in front of them, because they need much longer distances to stop."
+        },
+        {
+          "type": "paragraph",
+          "text": "Motorcycles and bicycles are smaller and harder to see, so check carefully before changing lanes or turning. Treat a motorcycle as you would any other vehicle and give it a full lane. New Jersey's Move Over law requires you to change lanes away from stopped emergency vehicles, tow trucks, and highway maintenance vehicles displaying flashing lights, or slow down if you cannot safely move over."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always yield to pedestrians in marked and unmarked crosswalks, and stop for them when required. Watch for children, older adults, and people with disabilities who may move slowly or unpredictably. When you see a school bus stopped with its red lights flashing, you must stop, regardless of which direction you are traveling on an undivided road."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcohol and drugs slow your reactions, blur your vision, and impair your judgment, making driving dangerous. In New Jersey it is illegal for a driver 21 or older to operate a vehicle with a blood alcohol concentration (BAC) of 0.08 percent or more. Drivers under 21 are subject to a zero-tolerance law, meaning a BAC of 0.01 percent or higher is a violation. There is no quick way to sober up; only time removes alcohol from your body."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distracted driving takes your eyes, hands, or mind off the task of driving. New Jersey law prohibits texting and the use of handheld cell phones while driving, and violations carry escalating fines. The safest choice is to put your phone away, set your navigation before you start, and pull over if you must make a call or send a message."
+        },
+        {
+          "type": "paragraph",
+          "text": "Many prescription and over-the-counter medications can cause drowsiness or impair driving as much as alcohol, so read labels and ask your doctor or pharmacist. Fatigue is also a serious impairment; if you feel drowsy, the only real remedy is to stop and rest. Never drive under the combined influence of alcohol, drugs, or medications."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, snow, fog, and ice all reduce traction and visibility, so slow down and increase your following distance. New Jersey law requires you to turn on your headlights whenever you use your windshield wipers because of rain, snow, sleet, or fog. Roads are most slippery during the first few minutes of rain, when water mixes with oil and dust on the pavement."
+        },
+        {
+          "type": "paragraph",
+          "text": "If your vehicle begins to skid, ease off the gas, avoid slamming the brakes, and steer gently in the direction you want the front of the car to go. In heavy fog, slow down, use low-beam headlights rather than high beams, and use the right edge of the road or pavement markings as a guide. Bridges and overpasses freeze before other surfaces, so approach them with extra caution in cold weather."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use your headlights from a half hour after sunset to a half hour before sunrise and whenever visibility is poor. Dim your high beams when you are within 500 feet of an oncoming vehicle or 300 feet behind another vehicle. If a storm makes driving unsafe, pull completely off the road, turn on your hazard lights, and wait for conditions to improve."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park only where it is legal and safe, and never block traffic, crosswalks, fire hydrants, or driveways. New Jersey law prohibits parking within 25 feet of a crosswalk at an intersection, within 10 feet of a fire hydrant, and in front of a public or private driveway. Always set your parking brake and shift to park, or into gear for a manual transmission, before leaving your vehicle."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the vehicle will not roll into traffic if the brakes fail. Facing downhill, turn your wheels toward the curb; facing uphill with a curb, turn your wheels away from the curb. Use your turn signal when pulling out of a parking space and check for traffic and bicyclists before moving."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obey all parking signs and colored curb markings, and never park in spaces reserved for people with disabilities unless you have a valid permit. Pull as close to the curb as possible and leave room for other vehicles to pass. Watch for and yield to traffic when reentering the roadway from a parked position."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "New Jersey uses a Graduated Driver License (GDL) program that introduces driving privileges in stages. A teenager may apply for a student learner's permit at age 16 if enrolled in an approved driver education program. Permit holders under 21 who received their permit on or after February 1, 2025 must complete at least 50 hours of supervised driving, including 10 hours at night, before moving to the next stage."
+        },
+        {
+          "type": "paragraph",
+          "text": "Permit and probationary drivers under 21 face several restrictions designed to keep new drivers safe. They may not drive between 11:01 p.m. and 5:00 a.m., are limited in the number of passengers they may carry, and may not use any handheld or hands-free electronic device while driving. They must also display two red reflective decals on the front and rear license plates so the vehicle is identifiable."
+        },
+        {
+          "type": "paragraph",
+          "text": "After holding a permit for the required period and passing the road test, a driver under 21 receives a probationary license, which still carries the GDL restrictions. A driver must hold the probationary license for at least one year before becoming eligible for a basic, unrestricted New Jersey driver license. The written knowledge test consists of 50 questions, and you must answer at least 80 percent correctly to pass."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "New Jersey enforces its traffic laws with fines, motor vehicle points, license suspensions, and, for serious offenses, jail. Points are added to your driving record for moving violations, and accumulating too many can lead to surcharges and suspension. Keeping a clean record over time allows points to be reduced."
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving while intoxicated carries severe consequences, including heavy fines, license suspension, mandatory alcohol education through an Intoxicated Driver Resource Center, and possible jail time. Refusing to take a breath test when lawfully requested is itself a violation that results in penalties, because by driving you have given implied consent to such testing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seat belt and child restraint laws are enforced as primary offenses, meaning an officer can stop you for a belt violation alone. All front-seat occupants and passengers at least 8 years old or 57 inches tall must wear a seat belt, and younger or smaller children must be secured in an appropriate child safety or booster seat. GDL violations such as breaking the curfew, passenger, decal, or device rules carry their own fines for new drivers."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "nj",
+  "name": "New Jersey",
+  "abbr": "NJ",
+  "agency": "New Jersey Motor Vehicle Commission (NJ MVC)",
+  "brand": {
+    "mark": "NJ",
+    "appName": "Permit Prep",
+    "agencyPill": "New Jersey Motor Vehicle Commission (NJ MVC)"
+  },
+  "home": {
+    "eyebrow": "New Jersey learner's permit",
+    "heading": "Pass your New Jersey permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 50,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "The New Jersey Driver Manual",
+    "sourceUrl": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf"
+  },
+  "data": {
+    "manual": "nj/manual.v1.json",
+    "questions": "nj/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
