@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "ny",
+  "name": "New York",
+  "abbr": "NY",
+  "agency": "New York DMV",
+  "brand": {
+    "mark": "NY",
+    "appName": "Permit Prep",
+    "agencyPill": "New York DMV"
+  },
+  "home": {
+    "eyebrow": "New York learner's permit",
+    "heading": "Pass your New York permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 20,
+    "generalPassPct": 70
+  },
+  "manual": {
+    "source": "New York State Driver's Manual (MV-21)",
+    "sourceUrl": "https://dmv.ny.gov/brochure/mv21.pdf"
+  },
+  "data": {
+    "manual": "ny/manual.v1.json",
+    "questions": "ny/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}

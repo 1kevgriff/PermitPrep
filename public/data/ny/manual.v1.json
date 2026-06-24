@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "New York State Driver's Manual (MV-21)",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals and signs tell you when to stop, when to go, and what to expect on the road ahead. A steady red light means stop and remain stopped until the light turns green. A steady yellow light warns that the light is about to turn red, so you should stop if you can do so safely. A flashing red light means the same thing as a stop sign: come to a full stop, yield to other traffic, and proceed only when it is safe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sign colors and shapes carry meaning even before you read the words. Red signs and octagons mean stop or prohibition, yellow diamonds warn of hazards ahead, orange signs mark construction and work zones, and green signs give directions and distances. A white rectangular sign is a regulatory sign that tells you a law, such as a speed limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and separate traffic. A solid yellow line marks the center of a two-way road, and you may not cross it to pass. Broken yellow or white lines may be crossed when it is safe. A solid white line marks the edge of the road or separates lanes going the same direction that you should not cross."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who should go first, but the law really tells you who must yield. At an intersection with no signals or signs, yield to the vehicle that arrives first, and when two vehicles arrive at the same time, yield to the vehicle on your right. Always yield to pedestrians in a crosswalk and to emergency vehicles using lights or sirens."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning left, you must yield to oncoming traffic and to pedestrians crossing the road you are entering. In New York, you may turn right on a red light after a complete stop unless a sign prohibits it, but you must first yield to pedestrians and cross traffic. Note that right turns on red are illegal in New York City unless a sign permits it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Move into the proper lane well before your turn and signal your intention. Turn from the lane closest to your direction of travel into the matching lane, and complete the turn without swinging wide or cutting the corner."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed limits set the maximum safe speed under ideal conditions; you must slow down when conditions are poor. In New York, unless another limit is posted, the speed limit in a city, town, or village is 30 mph, and the statewide maximum limit where none is posted is 55 mph. Some highways are posted higher, but you may never exceed the posted limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Following too closely is a leading cause of rear-end crashes. Use the three-second rule: pick a fixed object the vehicle ahead passes, then count; if you reach the object before three seconds, you are too close. Increase your following distance in rain, snow, fog, or heavy traffic."
+        },
+        {
+          "type": "paragraph",
+          "text": "Managing space means leaving room on all sides of your vehicle so you have time to react. Adjust your speed so you can always stop within the distance you can see to be clear, and never drive so fast that you cannot stop for a hazard ahead."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe, and never when a solid yellow line is on your side of the center. Before passing, check your mirrors and blind spot, signal, and make sure there is enough clear distance ahead to return to your lane without cutting off the vehicle you passed."
+        },
+        {
+          "type": "paragraph",
+          "text": "On multi-lane roads, keep right except to pass. Slower traffic should stay in the right lane, and the left lane is generally for passing and faster-moving traffic. Always signal before changing lanes and check your blind spots, because mirrors alone do not show every vehicle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not pass on the right except in limited situations, such as when a vehicle ahead is turning left and there is room to pass safely on a road wide enough for two lanes. Never pass on the shoulder, and never exceed the speed limit to complete a pass."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "You share the road with pedestrians, bicyclists, motorcyclists, and large trucks, all of whom are more vulnerable or harder to see. Always yield to pedestrians in crosswalks, and watch for bicyclists who have the same rights and duties as drivers. Give bicyclists plenty of room when passing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have big blind spots, take longer to stop, and swing wide on turns. Do not cut in front of a truck, and avoid lingering alongside one where the driver cannot see you. If you cannot see the truck driver's mirrors, the driver cannot see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "New York's Move Over Law requires you to use due care and, when possible, change lanes away from any vehicle stopped on the side of the road, including police, emergency, tow, and disabled vehicles. If you cannot move over safely, slow down as you pass."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcohol and drugs slow your reactions, blur your vision, and impair your judgment. In New York, a driver 21 or older with a blood alcohol content (BAC) of 0.08% or higher is guilty of Driving While Intoxicated (DWI). Even amounts below that can lead to charges if your ability to drive is impaired."
+        },
+        {
+          "type": "paragraph",
+          "text": "New York has a Zero Tolerance Law for drivers under 21: it is a violation to drive with a BAC of 0.02% to 0.07%, and a first finding leads to a six-month license suspension. There is no safe amount of alcohol for an underage driver."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distracted driving is just as dangerous as impaired driving. New York bans holding a phone or portable electronic device while driving, including texting, and a conviction adds 5 points to your record with fines from $50 to $450. Keep your eyes on the road, your hands on the wheel, and your mind on driving."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, snow, ice, and fog reduce traction and visibility, so you must slow down and increase your following distance. The most slippery time is often the first few minutes of rain, when water mixes with oil on the road. In a skid, ease off the gas and steer gently in the direction you want the front of the car to go."
+        },
+        {
+          "type": "paragraph",
+          "text": "New York law requires you to turn on your headlights from one-half hour after sunset to one-half hour before sunrise, whenever visibility is less than 1,000 feet, and any time you are using your windshield wipers for rain, snow, or sleet. Use low beams in fog, rain, and snow because high beams reflect back and reduce visibility."
+        },
+        {
+          "type": "paragraph",
+          "text": "In winter, clear all snow and ice from your windows, lights, and roof before driving. Drive smoothly and brake gently on slick roads, and remember that bridges and overpasses freeze before other surfaces."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park only where it is legal and safe, and never block traffic, crosswalks, fire hydrants, or driveways. When you park, set the parking brake, and when parking on a hill, turn your wheels so the vehicle will roll away from traffic or into the curb if the brakes fail."
+        },
+        {
+          "type": "paragraph",
+          "text": "You may not stop, stand, or park within an intersection, on a crosswalk, on a sidewalk, or within 15 feet of a fire hydrant. Always check for traffic and bicyclists before opening your door into the roadway."
+        },
+        {
+          "type": "paragraph",
+          "text": "Everyone in the vehicle must follow occupant restraint rules. New York requires the driver and front-seat passengers and all passengers regardless of seat to be properly belted, and young children must use a child safety seat or booster appropriate for their age and size. Failing to buckle up can bring a fine of up to $50."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "To begin driving in New York you must first get a learner permit, which generally requires being at least 16 years old and passing a written knowledge test. The written test for a Class D, DJ, or E permit has 20 questions, and you must answer at least 14 correctly (70%) to pass, including a minimum number of the road sign questions."
+        },
+        {
+          "type": "paragraph",
+          "text": "While holding a learner permit you must always be accompanied by a supervising driver who is at least 21 and licensed for the type of vehicle. Before taking the road test for a junior license, you must complete at least 50 hours of supervised driving, including 15 hours after sunset."
+        },
+        {
+          "type": "paragraph",
+          "text": "A junior (Class DJ) license carries extra restrictions for drivers under 18. Outside New York City, junior license holders generally may not drive between 9 PM and 5 AM without a qualifying supervising driver, and may carry no more than one passenger under 21 who is not an immediate family member. Junior license holders may not drive in New York City at all."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "New York uses a point system to track unsafe driving. Points are added to your record for moving violations, and if you accumulate 11 or more points within 18 months, your driver license may be suspended or revoked. Serious violations such as a phone or texting conviction add 5 points each."
+        },
+        {
+          "type": "paragraph",
+          "text": "Penalties grow harsher for repeat and serious offenses. Driving while intoxicated, leaving the scene of a crash, and reckless driving can lead to heavy fines, license revocation, and even jail. Speeding fines and points increase with how far over the limit you were traveling."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obey law enforcement and stop when signaled. New York's Implied Consent Law means that by driving you have agreed to take a chemical test for alcohol or drugs if lawfully arrested, and refusing the test results in an automatic license suspension separate from any criminal penalty."
+        }
+      ]
+    }
+  ]
+}
