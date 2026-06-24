@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "al",
+  "name": "Alabama",
+  "abbr": "AL",
+  "agency": "Alabama Law Enforcement Agency (ALEA) Driver License Division",
+  "brand": {
+    "mark": "AL",
+    "appName": "Permit Prep",
+    "agencyPill": "Alabama Law Enforcement Agency (ALEA) Driver License Division"
+  },
+  "home": {
+    "eyebrow": "Alabama learner's permit",
+    "heading": "Pass your Alabama permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 30,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Alabama Driver License Manual",
+    "sourceUrl": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf"
+  },
+  "data": {
+    "manual": "al/manual.v1.json",
+    "questions": "al/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}

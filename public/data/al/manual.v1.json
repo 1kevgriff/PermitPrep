@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Alabama Driver License Manual",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals and signs guide and protect every driver. A steady red light means stop and stay stopped until the light turns green. A steady yellow light warns that the signal is about to turn red, so you should stop if you can do so safely rather than speed up. A flashing red light means the same as a stop sign: stop completely, then proceed when it is safe, while a flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sign shapes and colors carry meaning even before you read the words. An eight-sided red sign always means stop, a triangular red and white sign means yield, and yellow diamond signs warn of hazards or changing road conditions ahead. Orange signs mark construction and work zones, and white regulatory signs tell you the law, such as posted speed limits."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings work with signs and signals. A solid yellow line on your side of the centerline means do not pass, while a broken yellow line means passing is allowed when it is safe. White lines separate lanes of traffic moving in the same direction, and you must obey these markings the same way you obey signs."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who should go first, but the law never actually gives anyone the right-of-way; it only says who must yield it. At a four-way stop, the driver who arrives first goes first, and when two vehicles arrive at the same time, the driver on the left yields to the driver on the right. When turning left, you must yield to oncoming traffic that is close enough to be a hazard."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pedestrians have important protections in Alabama. You must yield to pedestrians in marked and unmarked crosswalks, and you must always stop for a person who is blind and using a white cane or guide dog. When entering a road from a driveway, alley, or private road, yield to all traffic and pedestrians already on the roadway."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alabama allows a right turn on a red light after coming to a complete stop, unless a posted sign prohibits it, and only after yielding to pedestrians and cross traffic. You may also turn left on red from a one-way street onto another one-way street after stopping and yielding. Always signal your intention to turn well before you reach the intersection."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed limits in Alabama set the maximum legal speed in ideal conditions, not a target you must reach. Unless otherwise posted, the maximum speed on interstate highways is 70 mph, the maximum on highways with four or more lanes is 65 mph, and the maximum on other rural highways is 55 mph. In residential and urban areas the limit is typically 25 to 30 mph, and you should always slow down further in poor weather, heavy traffic, or near schools."
+        },
+        {
+          "type": "paragraph",
+          "text": "Managing the space around your vehicle keeps you safe. Use a following distance of at least three to four seconds behind the vehicle ahead, and increase that gap in rain, fog, or at higher speeds. The faster you drive, the longer the distance your vehicle needs to stop, because both your reaction distance and braking distance grow with speed."
+        },
+        {
+          "type": "paragraph",
+          "text": "You must also obey minimum speed and basic-speed rules. Driving too slowly can be as dangerous as driving too fast because it blocks traffic and surprises other drivers. The basic speed law requires you to drive at a speed that is reasonable and safe for current conditions, even when that speed is below the posted limit."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Passing another vehicle requires good judgment and a clear view of the road ahead. Pass only where markings and signs permit it, and never pass on a hill, curve, at an intersection, or within 100 feet of a railroad crossing where you cannot see oncoming traffic. A broken yellow centerline on your side allows passing, while a solid yellow line on your side means you may not cross to pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "On multilane roads, keep right except to pass. The left lane is intended for passing and faster-moving traffic, and slower drivers should stay in the right lane. Signal before changing lanes, check your mirrors, and look over your shoulder to clear your blind spot before moving over."
+        },
+        {
+          "type": "paragraph",
+          "text": "You may not exceed the speed limit even while passing. When another vehicle passes you, help by maintaining your speed or easing off slightly so the pass can be completed quickly and safely. Return to your lane only after you can see the vehicle you passed in your rearview mirror."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roads are shared by motorcycles, bicycles, pedestrians, large trucks, and emergency vehicles. Motorcycles are smaller and harder to see, so check carefully before changing lanes or turning, and give them a full lane width. Large trucks and buses have big blind spots and need much longer distances to stop, so avoid cutting in front of them."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alabama's Move Over Act protects people working on the roadside. When you approach a stopped law enforcement, emergency, utility, or wrecker vehicle displaying flashing lights on a road with two or more lanes in your direction, you must move out of the lane closest to it. If you cannot move over safely, you must slow to at least 15 mph below the posted speed limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "When an emergency vehicle approaches with siren or flashing lights, pull over to the right edge of the road and stop until it passes. Never follow closely behind an emergency vehicle, and always yield to school buses; you must stop when a bus displays its flashing red lights and extended stop arm to load or unload children."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcohol and drugs slow your reactions, blur your vision, and impair your judgment. In Alabama it is illegal to drive with a blood alcohol concentration (BAC) of 0.08 percent or higher if you are 21 or older. Drivers under 21 are held to a strict zero-tolerance standard and may not drive with a BAC of 0.02 percent or higher."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is a leading cause of crashes. Under Alabama's hands-free law, all drivers are prohibited from holding a phone to talk, text, browse, or watch video while driving; you may use hands-free features or a single touch or swipe. The safest choice is to put the phone away entirely until you have parked."
+        },
+        {
+          "type": "paragraph",
+          "text": "By driving in Alabama you give implied consent to chemical testing for alcohol or drugs if you are lawfully arrested for impaired driving. Refusing the test results in an automatic license suspension, and an impaired-driving conviction brings fines, possible jail time, and points on your record."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, fog, and darkness change how you must drive. Alabama law requires you to turn on your headlights from sunset to sunrise and any time you cannot see clearly. In rain or fog, your headlights help you see and help others see you, so turn them on and slow down because wet roads greatly increase stopping distance."
+        },
+        {
+          "type": "paragraph",
+          "text": "When you turn on your wipers because of weather, it is good practice to turn on your low-beam headlights as well. Use low beams rather than high beams in fog or heavy rain, because high beams reflect off the moisture and reduce your visibility. The first rain after a dry spell makes roads especially slick as oil rises to the surface."
+        },
+        {
+          "type": "paragraph",
+          "text": "If your vehicle begins to skid, ease off the gas, avoid slamming the brakes, and steer gently in the direction you want the front of the car to go. If you hydroplane on standing water, ease off the accelerator and keep the steering wheel straight until your tires regain traction. Always reduce speed before you reach a curve or wet patch rather than braking in the middle of it."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Where you park matters for safety and legality. Never park within an intersection, on a crosswalk, on a sidewalk, or in front of a driveway. You may not park within 15 feet of a fire hydrant or within 20 feet of a crosswalk at an intersection, and you must never block a marked accessible (disabled) parking space unless you have a valid permit."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the vehicle will not roll into traffic if the brakes fail. Facing downhill, turn the wheels toward the curb; facing uphill with a curb, turn the wheels away from the curb. Always set your parking brake and leave the vehicle in park or in gear."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seat belts and child restraints are required in Alabama. Each front-seat occupant must wear a properly fastened safety belt whenever the vehicle is in motion, and children must be secured in an appropriate child safety seat or booster based on their age and size. Buckling up is the single most effective thing you can do to protect yourself in a crash."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alabama uses a Graduated Driver License (GDL) system that phases in driving privileges. You may apply for a Stage I learner's permit at age 15. While holding a learner's permit you may drive only when accompanied by a licensed driver who is at least 21 years old and seated in the front seat beside you."
+        },
+        {
+          "type": "paragraph",
+          "text": "At age 16 you may move to a Stage II restricted license after holding the learner's permit for at least six months. Under the restricted license, you may not drive between midnight and 6 a.m. unless accompanied by a parent or guardian or driving to or from work, school, church, or a medical emergency, and you may not carry more than one non-family passenger besides your supervising adult."
+        },
+        {
+          "type": "paragraph",
+          "text": "At age 17, after holding the Stage II license for at least six months with a clean record, you may earn a Stage III unrestricted license. You must always carry your license or permit while driving and present it to law enforcement on request, and you must keep your address current with ALEA."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alabama uses a point system to track traffic violations. Points are added to your driving record for offenses such as speeding, running a red light, or violating the hands-free law, and accumulating too many points within a set period can lead to suspension of your driving privileges. A first hands-free law violation carries a fine and one point on your record."
+        },
+        {
+          "type": "paragraph",
+          "text": "Serious offenses bring heavier penalties. Driving under the influence, reckless driving, and leaving the scene of a crash can result in large fines, license suspension or revocation, and jail time. Failure to stop for a school bus or to obey the Move Over Act also carries fines and points."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are stopped by law enforcement, pull over safely to the right, stay in your vehicle, and keep your hands visible. You must show your license, registration, and proof of insurance when asked. Driving without a valid license or without required insurance is itself a violation that can lead to fines and further penalties."
+        }
+      ]
+    }
+  ]
+}
