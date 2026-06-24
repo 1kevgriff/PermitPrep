@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "mo",
+  "name": "Missouri",
+  "abbr": "MO",
+  "agency": "Missouri Department of Revenue (DOR)",
+  "brand": {
+    "mark": "MO",
+    "appName": "Permit Prep",
+    "agencyPill": "Missouri Department of Revenue (DOR)"
+  },
+  "home": {
+    "eyebrow": "Missouri learner's permit",
+    "heading": "Pass your Missouri permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 25,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Missouri Driver Guide",
+    "sourceUrl": "https://dor.mo.gov/forms/Driver%20Guide.pdf"
+  },
+  "data": {
+    "manual": "mo/manual.v1.json",
+    "questions": "mo/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
