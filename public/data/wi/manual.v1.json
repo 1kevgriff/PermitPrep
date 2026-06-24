@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Wisconsin Motorists' Handbook",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals and signs control the flow of traffic and must be obeyed at all times. A steady red light means stop; you may turn right on red after coming to a complete stop unless a sign prohibits it. A steady yellow light warns that the signal is about to turn red, so you should stop if you can do so safely. A flashing red light means stop, then proceed when it is safe, while a flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sign shapes and colors carry meaning even before you read the words. An octagon always means stop, a triangle pointing down means yield, and a horizontal yellow diamond warns of hazards ahead. Regulatory signs are usually white with black or red lettering, warning signs are yellow, and construction or work-zone signs are orange."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and separate traffic. A solid yellow line on your side of the center means no passing, while a broken yellow line means passing is permitted when safe. White lines separate lanes of traffic moving in the same direction, and a solid white line discourages lane changes. Always watch for crosswalk lines and stop lines, and stop behind the stop line at intersections."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who should go first, but the law never truly gives you the right-of-way; it only states who must yield. At a four-way stop, the first vehicle to arrive goes first, and when two vehicles arrive at the same time, the driver on the left yields to the driver on the right. When turning left, you must yield to oncoming traffic and to pedestrians in the crosswalk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pedestrians have important protections under Wisconsin law. Drivers must yield to pedestrians within a marked or unmarked crosswalk, and you must stop for blind pedestrians using a white cane or guide dog. When emergency vehicles approach with lights and sirens, pull over to the right edge of the road and stop until they pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "Make turns from the correct lane and into the correct lane. For a right turn, stay close to the right curb; for a left turn from a two-way road, position your vehicle just right of the center line. Always signal your intention at least 100 feet before turning and check your mirrors and blind spots before moving."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wisconsin's default speed limit is 55 mph where no other limit is posted. Common limits include 15 mph in school zones when children are present, 25 mph in urban and residential districts, 55 mph on most rural highways, and 70 mph on freeways and interstates. You must always drive at a speed that is reasonable and prudent for current road, weather, and traffic conditions, even if it is below the posted limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Managing space around your vehicle is one of the best ways to avoid crashes. Use a following distance of at least three to four seconds behind the vehicle ahead, and increase it in rain, snow, fog, or heavy traffic. The faster you drive, the more distance your vehicle needs to stop, so leave extra room when speeds are high."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speeding reduces your ability to react and increases the force of a collision. Adjust your speed when approaching curves, hills, intersections, and work zones. Never drive so slowly that you block the normal flow of traffic, and keep right except when passing on multi-lane roads."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe to do so. You may not pass when a solid yellow line is on your side of the center, when approaching a hill or curve where you cannot see far enough ahead, within 100 feet of an intersection or railroad crossing, or when a school bus is loading or unloading children. Complete your pass and return to your lane only after you can see the vehicle you passed in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "Choose lanes carefully on multi-lane roads. Slower traffic should keep to the right, and the left lane is generally for passing. Signal before every lane change, check your mirrors, and look over your shoulder to clear your blind spot before moving over."
+        },
+        {
+          "type": "paragraph",
+          "text": "When meeting a stopped school bus with flashing red lights, you must stop whether you are behind it or approaching from the opposite direction on an undivided road. Remain stopped until the red lights stop flashing and the bus begins to move. On a divided highway, only vehicles traveling in the same direction as the bus must stop."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "You share the road with motorcycles, bicycles, pedestrians, large trucks, and farm equipment. Motorcycles are smaller and harder to see, so check your blind spots carefully and give them a full lane. When passing a bicyclist, Wisconsin law requires you to leave at least three feet of space between your vehicle and the bicycle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have large blind spots, need more room to turn, and take longer to stop. Avoid lingering beside them and never cut in front of a truck and brake suddenly. If you cannot see the truck driver's mirrors, the driver cannot see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wisconsin's Move Over Law requires drivers to give a safety zone to stopped emergency, roadside service, and disabled vehicles displaying warning lights. If there is more than one lane in your direction, move over into the farther lane; if you cannot move over safely, slow down and pass with caution. Watch also for slow-moving farm vehicles displaying an orange triangle emblem."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Wisconsin it is illegal for an adult driver to operate a vehicle with a blood alcohol concentration of 0.08 or higher. Drivers under age 21 are held to a zero-tolerance standard, meaning any measurable amount of alcohol is a violation. Alcohol slows reaction time, impairs judgment, and reduces coordination, and these effects begin well before the legal limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Texting while driving is illegal for all drivers in Wisconsin. Drivers who hold an instruction permit or a probationary license may not use a cellular or wireless phone at all while driving, except to report an emergency. Cell phone use is also prohibited for any driver in a marked construction or maintenance zone where workers are present."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction comes from anything that takes your eyes off the road, your hands off the wheel, or your mind off driving. By driving under the influence in Wisconsin, you have given implied consent to chemical testing, and refusing a test brings its own penalties. The safest choice is to never drive after drinking or using drugs and to put your phone away before you start driving."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, snow, fog, and ice all reduce traction and visibility, so slow down and increase your following distance in bad weather. Wisconsin law requires you to turn on your headlights whenever your windshield wipers are in use, and headlights are required from one-half hour after sunset to one-half hour before sunrise and whenever conditions limit visibility."
+        },
+        {
+          "type": "paragraph",
+          "text": "On slick roads, brake gently and steer smoothly to avoid skids. If your vehicle begins to skid, ease off the accelerator and steer in the direction you want the front of the car to go. Bridges and overpasses freeze before other road surfaces, so use extra caution on them in cold weather."
+        },
+        {
+          "type": "paragraph",
+          "text": "In fog, use low-beam headlights rather than high beams, because high beams reflect off the fog and make it harder to see. Reduce your speed and be ready to stop. If visibility becomes too poor to drive safely, pull completely off the road, turn on your hazard lights, and wait for conditions to improve."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park legally and safely by avoiding places that block traffic or hazards. Do not park within an intersection, on a crosswalk, on a sidewalk, within 15 feet of a fire hydrant, or in front of a driveway. When parking on a hill, turn your wheels so the vehicle will roll away from traffic if the brakes fail, and always set the parking brake."
+        },
+        {
+          "type": "paragraph",
+          "text": "When you park facing downhill, turn your front wheels toward the curb so the vehicle rolls into the curb if it moves. When facing uphill with a curb, turn the wheels away from the curb so the rear wheel rests against it. Without a curb, always turn the wheels toward the edge of the road."
+        },
+        {
+          "type": "paragraph",
+          "text": "Everyone in the vehicle must follow Wisconsin's occupant protection rules. All drivers and passengers must wear seat belts, and children must be secured in an appropriate child safety seat or booster seat based on their age, height, and weight. Before opening your door into traffic after parking, check for approaching vehicles and bicycles."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wisconsin uses a Graduated Driver Licensing system for new drivers. You may apply for an instruction permit at age 15 years and 6 months, generally after enrolling in driver education. While driving on an instruction permit, you must always be accompanied by a qualified licensed driver who is at least 21 years old and seated beside you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before moving to a probationary license, you must complete at least 30 hours of supervised driving practice, including at least 10 hours during hours of darkness, and your sponsor must certify this experience. You must also pass the knowledge test and a road test. The knowledge test has 50 questions, and you must answer at least 80 percent correctly to pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "Drivers holding a probationary license face additional restrictions during the first nine months. They generally may not drive between midnight and 5:00 a.m. except for travel between home, school, and work, and they may carry no more than one passenger under age 25 who is not an immediate family member. These restrictions help new drivers gain experience with lower risk."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wisconsin uses a demerit point system to track traffic violations. Points are added to your driving record when you are convicted of a moving violation, and accumulating 12 or more points within a 12-month period results in suspension of your driving privileges. New drivers are held to stricter standards under the probationary license rules."
+        },
+        {
+          "type": "paragraph",
+          "text": "By driving on Wisconsin roads you give implied consent to submit to chemical testing for alcohol or drugs if a law enforcement officer has probable cause. Refusing the test results in license revocation and other penalties, separate from any conviction for operating while intoxicated."
+        },
+        {
+          "type": "paragraph",
+          "text": "Penalties increase for repeat or serious offenses such as drunk driving, reckless driving, and leaving the scene of a crash. Violating restrictions tied to your permit or probationary license can delay your progress toward a full license. Obeying traffic laws, the Move Over Law, and seat belt requirements keeps both your record and the public safe."
+        }
+      ]
+    }
+  ]
+}
