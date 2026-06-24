@@ -3,6 +3,12 @@
   "default": "va",
   "states": [
     {
+      "id": "az",
+      "name": "Arizona",
+      "abbr": "AZ",
+      "config": "az/config.v1.json"
+    },
+    {
       "id": "va",
       "name": "Virginia",
       "abbr": "VA",
