@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "nm",
+  "name": "New Mexico",
+  "abbr": "NM",
+  "agency": "New Mexico Motor Vehicle Division (MVD)",
+  "brand": {
+    "mark": "NM",
+    "appName": "Permit Prep",
+    "agencyPill": "New Mexico Motor Vehicle Division (MVD)"
+  },
+  "home": {
+    "eyebrow": "New Mexico learner's permit",
+    "heading": "Pass your New Mexico permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 25,
+    "generalPassPct": 72
+  },
+  "manual": {
+    "source": "New Mexico Driver Manual",
+    "sourceUrl": "https://realfile.tax.newmexico.gov/English%20Drivers%20Manualver11.19.19.pdf"
+  },
+  "data": {
+    "manual": "nm/manual.v1.json",
+    "questions": "nm/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
