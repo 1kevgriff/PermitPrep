@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "ar",
+  "name": "Arkansas",
+  "abbr": "AR",
+  "agency": "Arkansas Department of Finance and Administration (DFA) Driver Services",
+  "brand": {
+    "mark": "AR",
+    "appName": "Permit Prep",
+    "agencyPill": "Arkansas Department of Finance and Administration (DFA) Driver Services"
+  },
+  "home": {
+    "eyebrow": "Arkansas learner's permit",
+    "heading": "Pass your Arkansas permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 25,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Arkansas Driver License Study Guide",
+    "sourceUrl": "https://dps.arkansas.gov/wp-content/uploads/Arkansas-DL-Manual-English.pdf"
+  },
+  "data": {
+    "manual": "ar/manual.v1.json",
+    "questions": "ar/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
