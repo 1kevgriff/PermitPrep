@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Nevada Driver Handbook (DMV 700)",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs, signals, and pavement markings tell you what to do before you reach a hazard or intersection. Sign shapes and colors carry meaning even when you cannot read the words: an octagon always means STOP, a downward triangle means YIELD, a pennant warns of a no-passing zone, and a diamond warns of conditions ahead. Red, yellow, and white regulatory signs tell you the law, while yellow and orange signs warn of hazards or construction."
+        },
+        {
+          "type": "paragraph",
+          "text": "A steady red light means stop and remain stopped; after a complete stop you may turn right on red unless a sign prohibits it, but only when the way is clear. A steady yellow light warns that the signal is about to turn red, so stop if you can do so safely. A flashing red light is treated like a stop sign, and a flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yellow center lines separate traffic moving in opposite directions, and white lines separate lanes moving in the same direction. A solid line means do not cross to pass; a broken line means passing is permitted when it is safe. Where you see two solid yellow lines, passing is prohibited in both directions."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules exist to prevent collisions, and the law tells you when to yield rather than when you have the right to go. At a four-way stop, the first vehicle to arrive goes first; when two vehicles arrive at the same time, the driver on the left yields to the driver on the right. You must always yield to pedestrians in a crosswalk and to emergency vehicles using lights or sirens."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning left, you must yield to oncoming traffic that is close enough to be a hazard. Vehicles already in a roundabout or traffic circle have the right-of-way over vehicles entering. Drivers entering a road from a driveway, alley, or private road must yield to traffic already on the roadway."
+        },
+        {
+          "type": "paragraph",
+          "text": "Signal your intention to turn at least 100 feet before the turn so other drivers can react. Move into the proper lane well before the intersection, and complete left turns into the lane nearest the center line and right turns close to the curb."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nevada uses a basic speed law: you must never drive faster than is reasonable and safe for current conditions, regardless of the posted limit. Unless otherwise posted, the speed limit in residential and business districts is 25 mph; many rural highways are posted at 55 to 70 mph, and some Interstate segments reach 80 mph. Always reduce speed in rain, fog, heavy traffic, or near schools and work zones."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maintain a safe following distance using the three-second rule: pick a fixed object the vehicle ahead passes, then count three seconds; if you reach it before you finish counting, you are too close. Increase your following distance to four seconds or more in rain, snow, fog, or when being tailgated."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed greatly affects stopping distance, which combines reaction distance and braking distance. Doubling your speed roughly quadruples your braking distance, so leaving extra space gives you time to perceive a hazard and stop safely."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe, and never when a solid yellow line is on your side, near a curve or hilltop, at an intersection, or within a marked no-passing zone. Before passing, check your mirrors and blind spots, signal, and make sure you have enough clear distance to return to your lane without cutting off the vehicle you passed."
+        },
+        {
+          "type": "paragraph",
+          "text": "On a multi-lane road, keep right except to pass. Slower traffic should stay in the right lane, and the left lane is intended for passing and faster-moving traffic. Choose your lane early and avoid weaving between lanes."
+        },
+        {
+          "type": "paragraph",
+          "text": "When another driver is passing you, do not speed up; maintain or slightly reduce your speed to let them complete the pass safely. Use your turn signal every time you change lanes, and check your blind spot by glancing over your shoulder."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "You share the road with pedestrians, bicyclists, motorcyclists, and large trucks, each of which needs extra care. When passing a bicyclist, Nevada law requires you to move into an adjacent lane if possible or otherwise leave at least three feet of space between your vehicle and the bicycle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks have wide blind spots, take longer to stop, and make wide right turns; never cut in front of a truck or linger beside it where the driver cannot see you. Motorcycles are entitled to a full lane, and because they are small and can stop quickly, you should allow extra following distance and look carefully before changing lanes or turning."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nevada's Move Over law requires you to slow down and, when safe, move over a lane for stopped emergency vehicles, tow trucks, and other vehicles displaying flashing lights on the side of the road. Always yield to pedestrians at crosswalks and watch for children, elderly people, and people with disabilities."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "It is illegal in Nevada to drive with a blood alcohol concentration (BAC) of 0.08 percent or higher if you are 21 or older. Drivers under 21 are subject to a zero-tolerance limit of 0.02 percent, and commercial drivers are limited to 0.04 percent. Alcohol and many drugs, including prescription and over-the-counter medications, slow reaction time and impair judgment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nevada bans the use of handheld cell phones while driving, including texting, reading, or holding a phone to your ear; only hands-free use is allowed. Penalties escalate from a $50 fine for a first offense to $100 and four demerit points for a second, and $250 plus points for later offenses."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is anything that takes your eyes off the road, your hands off the wheel, or your mind off driving. The safest choice is to put the phone away, set your route before driving, and never drive when impaired by alcohol, drugs, or fatigue."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "In rain, fog, snow, or any time you cannot see clearly at least 1,000 feet ahead, Nevada law requires you to turn on your headlights; you must also use them from 30 minutes after sunset until 30 minutes before sunrise. Whenever your windshield wipers are in use because of weather, turn your headlights on as well so other drivers can see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "In fog, use low-beam headlights rather than high beams, because high beams reflect off the fog and reduce visibility. Slow down, increase your following distance, and avoid sudden braking or steering on wet or icy roads."
+        },
+        {
+          "type": "paragraph",
+          "text": "If your vehicle begins to skid, ease off the accelerator and steer gently in the direction you want the front of the car to go without slamming the brakes. Bridges and overpasses freeze before other road surfaces, so approach them with extra caution in cold weather."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the vehicle will roll away from traffic. Facing downhill, turn your front wheels toward the curb; facing uphill with a curb, turn them away from the curb; and with no curb, always turn the wheels toward the edge of the road. Set the parking brake and leave the vehicle in park or in gear."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not park within an intersection, on a crosswalk, on a sidewalk, in front of a driveway, or where signs prohibit parking. You may not park within 15 feet of a fire hydrant or block a marked fire lane, and you must never park in a space reserved for people with disabilities unless you are properly permitted."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always check for traffic and cyclists before opening your door, and signal before pulling away from a parked position. Obey all curb-color markings: red means no stopping or parking, and blue marks accessible parking."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nevada uses a Graduated Driver Licensing (GDL) system for new drivers under 18. You may apply for an instruction permit at 15 1/2 years old after passing the written knowledge test, and you must hold the permit for at least six months before applying for a license. While holding a permit, you must always be supervised by a licensed driver at least 21 years old."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before getting a license, a teen must complete 50 hours of supervised driving, including 10 hours at night, along with a driver education course; if driver education is not available within 30 miles of home, 100 hours of supervised driving is required instead. Parents or guardians must certify these practice hours."
+        },
+        {
+          "type": "paragraph",
+          "text": "Once licensed, drivers under 18 face restrictions for the first six months: they may not drive between 10:00 p.m. and 5:00 a.m. except for specific reasons such as work, and they may not carry passengers under 18 unless those passengers are immediate family members. The written knowledge test has 25 questions, and you must answer at least 80 percent correctly to pass."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nevada uses a demerit point system: points are added to your driving record for traffic violations, and accumulating 12 or more points within 12 months results in a license suspension. Points stay on your record for one year from the date of the violation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving under the influence carries serious consequences, including fines, license revocation, mandatory education, and possible jail time, with harsher penalties for repeat offenses or high BAC levels. Refusing a chemical test triggers an automatic license revocation under the implied consent law."
+        },
+        {
+          "type": "paragraph",
+          "text": "All occupants are required to wear seat belts, and children under 6 years old who weigh less than 60 pounds must ride in an approved child restraint system. Driving without a valid license, on a suspended license, or without insurance can lead to fines, additional suspension, and impoundment of your vehicle."
+        }
+      ]
+    }
+  ]
+}
