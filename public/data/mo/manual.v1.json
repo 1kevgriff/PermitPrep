@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Missouri Driver Guide",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals and signs are color- and shape-coded so drivers can recognize them quickly. A steady red light means stop and remain stopped until the light turns green; a steady yellow light warns that the signal is about to turn red, so you should stop if you can do so safely. A flashing red light is treated like a stop sign, and a flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sign shapes carry meaning even before you read the words. An octagon always means stop, a triangle pointing down means yield, and a pennant shape warns of no passing. Regulatory signs are usually white with black or red lettering, warning signs are yellow or orange diamonds, and guide and information signs are green, blue, or brown."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and separate traffic. A solid yellow line on your side of the center means do not pass; broken yellow lines mean passing is allowed when it is safe. White lines separate lanes traveling in the same direction, and a solid white line discourages lane changes. Always obey the most restrictive marking you see."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who should yield, not who automatically has the right to go. At a four-way stop, the driver who arrives first proceeds first; when two vehicles arrive at the same time, the driver on the left yields to the driver on the right. Always yield to pedestrians in crosswalks and to emergency vehicles using lights or sirens."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning left, you must yield to oncoming traffic and to pedestrians crossing the road you are entering. At an uncontrolled intersection or when entering a roadway from a driveway or parking lot, yield to vehicles already on the through road. In Missouri you may turn right on a red light after coming to a complete stop, unless a sign prohibits it, and only when the way is clear."
+        },
+        {
+          "type": "paragraph",
+          "text": "Position your vehicle correctly before turning: get into the proper lane well ahead of the turn and signal at least 100 feet before turning. Roundabouts move counterclockwise, and entering traffic must yield to vehicles already circulating in the roundabout."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Drive at a speed that is safe for current conditions, never faster than posted limits. In Missouri, rural interstates are generally posted at 70 mph, urban interstates and freeways at 60 mph, two-lane state numbered highways at 60 mph, and lettered (supplemental) routes at 55 mph. In bad weather, heavy traffic, or poor visibility you must slow below the posted limit because the limit assumes ideal conditions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep a safe following distance using the three-second rule: pick a fixed point, and if you reach it less than three seconds after the vehicle ahead, you are following too closely. Increase your following distance in rain, fog, snow, or when being tailgated, and leave extra room behind large trucks and motorcycles."
+        },
+        {
+          "type": "paragraph",
+          "text": "Manage the space all around your vehicle, not just in front. Leave yourself an escape path, avoid driving in another vehicle's blind spot, and adjust your speed so you can stop safely within the distance you can see ahead."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only where it is legal and safe. Never pass when a solid yellow line is on your side, on hills or curves where you cannot see far enough ahead, at intersections or railroad crossings, or when a school bus is loading or unloading children with its red lights flashing. Complete your pass and return to your lane only after you can see the passed vehicle in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "On multilane roads, keep right except to pass. Slower traffic should stay in the right lane, and the left lane is used for passing and faster-moving traffic. Signal every lane change, check your mirrors, and look over your shoulder to clear your blind spot before moving over."
+        },
+        {
+          "type": "paragraph",
+          "text": "When another driver passes you, do not speed up. Maintain or reduce your speed to let them complete the pass safely. On a two-lane road, move slightly right to give a passing vehicle more room."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "You share the road with pedestrians, bicyclists, motorcyclists, large trucks, and farm equipment. Bicyclists and motorcyclists have the same rights and duties as other drivers, so give them a full lane and at least the space you would give a car. Motorcycles are small and can be hidden in blind spots, so always check carefully before changing lanes or turning."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have big blind spots, take longer to stop, and swing wide on turns. Do not cut in front of a truck or linger beside it; if you cannot see the driver's mirrors, the driver cannot see you. Give commercial vehicles extra room and never try to squeeze between a turning truck and the curb."
+        },
+        {
+          "type": "paragraph",
+          "text": "Missouri's Move Over Law requires you to slow down and, when possible, change lanes away from any stopped emergency vehicle, tow truck, or roadside vehicle displaying flashing red, blue, amber, or white lights. Always yield to emergency vehicles using sirens or lights by pulling to the right and stopping until they pass."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcohol and drugs slow your reactions, impair judgment, and reduce coordination. In Missouri, a driver age 21 or older is legally intoxicated at a blood alcohol concentration (BAC) of 0.08 percent or higher, and commercial drivers at 0.04 percent. Drivers under 21 are subject to a zero-tolerance law and can lose their license with a BAC of just 0.02 percent."
+        },
+        {
+          "type": "paragraph",
+          "text": "Many prescription and over-the-counter medications, as well as illegal drugs and marijuana, can impair driving just like alcohol. The only way to sober up is time; coffee, fresh air, and cold showers do not speed the process. If you plan to drink, arrange a sober driver or another safe way home."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is a leading cause of crashes. Under Missouri's Siddens Bening Hands-Free Law, drivers may not hold or physically use a cell phone or other electronic device while driving, and texting while driving is prohibited. Keep your eyes on the road, your hands on the wheel, and your full attention on driving."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, snow, ice, and fog reduce traction and visibility, so slow down and increase your following distance. Missouri law requires you to turn on your headlights when visibility is low and whenever weather conditions require the use of windshield wipers. Use low beams in fog, rain, or snow because high beams reflect off the moisture and make it harder to see."
+        },
+        {
+          "type": "paragraph",
+          "text": "The most dangerous time on a wet road is right after rain begins, when water mixes with oil on the pavement. Hydroplaning can occur at higher speeds; if it happens, ease off the gas and steer straight until your tires regain grip. Bridges and overpasses freeze before other road surfaces, so approach them with caution in cold weather."
+        },
+        {
+          "type": "paragraph",
+          "text": "If your vehicle begins to skid, take your foot off the gas, avoid slamming the brakes, and steer gently in the direction you want the front of the car to go. Carry an emergency kit in winter, keep your gas tank fuller in cold weather, and clear snow and ice from all windows and lights before driving."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park only where it is legal and safe. Do not park within an intersection or crosswalk, on a sidewalk, within 15 feet of a fire hydrant, in front of a driveway, or in a space reserved for people with disabilities unless you have a valid placard or plate. When parking on a hill, turn your wheels so the vehicle will roll away from traffic if it moves."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking uphill with a curb, turn your wheels away from the curb; when parking downhill, turn them toward the curb so the vehicle rolls into it. Always set the parking brake and shift to park (or into gear for a manual transmission). Before opening your door into traffic, check for approaching vehicles and bicyclists."
+        },
+        {
+          "type": "paragraph",
+          "text": "Everyone in the vehicle should be properly restrained. Missouri law requires drivers and front-seat passengers to wear seat belts, and children under 16 must be buckled. Children under age 4 or under 40 pounds must ride in a child safety seat, children ages 4 through 7 who weigh less than 80 pounds and are shorter than 4 feet 9 inches must use a booster seat, and older children must use a seat belt."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Missouri uses a Graduated Driver License (GDL) program for new drivers. You may apply for an instruction permit at age 15 after passing the vision, road sign, and written knowledge tests at a Missouri State Highway Patrol examination station. The written knowledge test has 25 questions, and you must answer at least 80 percent (20 questions) correctly to pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "With an instruction permit, you must always be accompanied in the front seat by a qualified driver who is at least 25 years old and has been licensed for at least three years. You must hold the permit for at least 182 days and complete a minimum of 40 hours of supervised driving practice, including at least 10 hours at night, before moving to the next step."
+        },
+        {
+          "type": "paragraph",
+          "text": "At age 16, after meeting permit requirements, you may obtain an intermediate license. Intermediate drivers may not drive between 1:00 a.m. and 5:00 a.m. except for work, school activities, or emergencies, and they face limits on the number of young passengers they may carry. A full license is generally available at age 18."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Missouri uses a point system to track traffic violations. Points are added to your driving record for convictions, and accumulating too many points can lead to suspension or revocation of your driving privilege. Accumulating 8 or more points in 18 months results in a suspension of your license."
+        },
+        {
+          "type": "paragraph",
+          "text": "By driving in Missouri, you give implied consent to chemical testing for alcohol or drugs if a law enforcement officer has probable cause. Refusing a breath, blood, or urine test results in an automatic license revocation for one year, separate from any criminal penalty for impaired driving."
+        },
+        {
+          "type": "paragraph",
+          "text": "Serious offenses carry heavy consequences. A first DWI conviction can mean fines, jail time, and license suspension, and penalties increase for repeat offenses. Driving without insurance, leaving the scene of an accident, or driving on a suspended license can all result in additional fines, points, and loss of driving privileges."
+        }
+      ]
+    }
+  ]
+}
