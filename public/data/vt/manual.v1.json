@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Vermont Driver's Manual",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals tell you when to stop, go, and prepare to stop. A steady red light means come to a complete stop and remain stopped until the light turns green. A steady yellow light is a warning that the signal is about to turn red, and you should stop if you can do so safely. A green light means you may proceed when the way is clear, but you must still yield to pedestrians and vehicles already in the intersection."
+        },
+        {
+          "type": "paragraph",
+          "text": "A flashing red light means the same as a stop sign: stop completely, then proceed when it is safe. A flashing yellow light means slow down and proceed with caution. A red arrow means you cannot make the movement shown until the arrow turns green."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings give you guidance and warnings. A solid yellow line on your side of the center means no passing. Broken white lines separate lanes of traffic moving in the same direction and may be crossed when it is safe to change lanes. White stop lines show where to stop for a sign or signal."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who goes first, but no driver ever truly has the right-of-way until other drivers give it to them. At a four-way stop, the vehicle that arrives first goes first; if two vehicles arrive at the same time, the driver on the left yields to the driver on the right. You must always yield to pedestrians in a crosswalk and to vehicles already in the intersection."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning left, you must yield to oncoming traffic that is close enough to be a hazard. When making a right turn on red, you must come to a complete stop first, yield to pedestrians and cross traffic, and turn only when it is safe and not prohibited by a sign."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always signal before turning or changing lanes so other road users know your intentions. Vermont drivers must yield to emergency vehicles using lights or sirens by pulling to the right edge of the road and stopping until they pass."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "You must always drive at a speed that is reasonable and prudent for conditions, never faster than is safe. In Vermont the statutory default maximum speed limit is 50 mph where no other limit is posted, the interstate highway maximum is 65 mph, and towns and villages may set lower limits on local streets. Posted limits are maximums for ideal conditions; you must slow down for rain, snow, fog, traffic, and curves."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep a safe following distance using the three-second rule: pick a fixed object the vehicle ahead passes, then count the seconds until you reach it. Increase your following distance to four or more seconds in poor weather, on slippery roads, or when being tailgated."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed affects both your stopping distance and the force of a crash. The faster you go, the longer it takes to stop and the more severe a collision becomes, so manage your speed and the space around your vehicle to give yourself time to react."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "On a road with two-way traffic, pass only where it is legal and safe. A solid yellow line on your side means passing is prohibited; a broken yellow line on your side means you may pass when the way is clear. Never pass when approaching a hill, curve, intersection, or railroad crossing where your view is limited."
+        },
+        {
+          "type": "paragraph",
+          "text": "Drive in the right lane on multi-lane highways except when passing, and return to the right lane after passing. Slower traffic should keep right. Signal before changing lanes, check your mirrors, and look over your shoulder to check your blind spots before moving over."
+        },
+        {
+          "type": "paragraph",
+          "text": "When passing, do not return to your lane until you can see the vehicle you passed in your rearview mirror. Do not exceed the speed limit to complete a pass, and be especially cautious passing large trucks, bicyclists, and farm equipment."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roads are shared with pedestrians, bicyclists, motorcyclists, large trucks, and farm equipment. When passing a bicyclist, give them plenty of room and pass only when it is safe. Watch for pedestrians at crosswalks and intersections, and always yield to people walking."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks have big blind spots and need much more room to stop and turn. Do not cut in front of a truck and do not linger alongside it. Vermont's Move Over Law requires you to slow down and, when safe, move over a lane for stopped emergency, police, fire, rescue, and towing vehicles displaying warning lights."
+        },
+        {
+          "type": "paragraph",
+          "text": "Motorcycles are smaller and harder to see, so check carefully before changing lanes or turning. In rural Vermont you may also meet slow-moving farm vehicles, horse-drawn vehicles, and animals on or near the road; be patient and pass only when it is legal and safe."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "It is illegal to drive in Vermont with a blood alcohol concentration (BAC) of 0.08 percent or higher if you are 21 or older. Vermont has a zero-tolerance law for drivers under 21: a BAC of 0.02 percent or more results in license suspension and penalties. Alcohol and drugs, including legal and prescription medications, can impair your judgment, vision, and reaction time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vermont law bans the use of any hand-held portable electronic device, including phones, while driving. Drivers under 18 may not use any portable electronic device, even hands-free. Texting while driving is prohibited for all drivers."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is anything that takes your eyes off the road, your hands off the wheel, or your mind off driving. Even a hands-free conversation can reduce your awareness, so set up navigation and music before you drive and pull over safely if you must use a device."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Vermont weather can change quickly, bringing rain, snow, ice, and fog. In Vermont you must turn on your headlights from 30 minutes after sunset to 30 minutes before sunrise, and any time you cannot clearly see persons or vehicles 500 feet ahead, such as in rain, snow, or fog. Use low beams in fog because high beams reflect back and reduce visibility."
+        },
+        {
+          "type": "paragraph",
+          "text": "Slow down and increase your following distance on wet, snowy, or icy roads. Bridges and overpasses freeze first. If you start to skid, ease off the gas and steer gently in the direction you want the front of the vehicle to go; do not slam on the brakes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hydroplaning can occur on wet roads at higher speeds when your tires ride on a film of water. To reduce the risk, slow down, keep your tires properly inflated, and avoid standing water. Make sure your windshield wipers and defroster work before bad weather arrives."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park only where it is legal and safe, and never block traffic, crosswalks, fire hydrants, or driveways. When parking on a hill, turn your wheels so the vehicle will not roll into traffic if the brakes fail: turn wheels toward the curb when facing downhill and away from the curb when facing uphill with a curb."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always set your parking brake and shift to park (or into gear with a manual transmission). Before opening your door into traffic, check for approaching vehicles and bicyclists. Do not park within a marked no-parking zone or where signs prohibit it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obey all posted parking restrictions, and remember that some Vermont towns have winter parking bans to allow snow removal. Use your hazard lights if you must stop where your vehicle could surprise other drivers."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Vermont uses a Graduated Driver License (GDL) program for new drivers. You may apply for a learner's permit at age 15 after passing a vision screening and the written knowledge test. With a learner's permit you may drive only when accompanied by a licensed driver age 25 or older, a parent or guardian, or a driver education instructor seated beside you."
+        },
+        {
+          "type": "paragraph",
+          "text": "You must hold your learner's permit for at least one year and complete a state-approved driver education course before moving to a Junior Driver's License. Before the junior license, you must complete at least 40 hours of supervised practice driving, including at least 10 hours at night."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Junior Driver's License has passenger restrictions: for the first three months you may not carry passengers other than your supervising adult or family; during the next three months you may also carry immediate family. After six months with a clean record, the passenger restrictions end."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Vermont requires every driver and passenger under 18 to wear a seat belt, and buckling up is the law and the safest choice for everyone in the vehicle. Children under 8 must be properly secured in a child restraint or booster seat appropriate for their size, and children under 13 should ride in the back seat whenever practical."
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving under the influence carries serious penalties, including license suspension, fines, and possible jail time, with stricter consequences for drivers under 21 under the zero-tolerance law. Refusing a breath or blood test results in an automatic license suspension under Vermont's implied consent law."
+        },
+        {
+          "type": "paragraph",
+          "text": "Points and suspensions can result from traffic violations such as speeding, using a hand-held device, or running red lights. Repeated or serious violations, and any DUI, can lead to license suspension or revocation, higher insurance costs, and required reinstatement steps."
+        }
+      ]
+    }
+  ]
+}
