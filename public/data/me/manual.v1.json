@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Maine Motorist Handbook and Study Guide",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs use color and shape to communicate meaning before you can read the words. Red means stop or prohibition, yellow warns of conditions ahead, and orange marks construction or maintenance zones. An eight-sided red sign always means stop, a downward-pointing triangle means yield, and a diamond shape warns of hazards ahead."
+        },
+        {
+          "type": "paragraph",
+          "text": "A steady red traffic light means stop and remain stopped. In Maine you may turn right on a steady red light after coming to a complete stop, yielding to pedestrians and cross traffic, unless a sign prohibits the turn. A steady yellow light warns that the signal is about to turn red, and a flashing red light is treated like a stop sign while a flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and separate traffic. A solid yellow line on your side of the center means do not pass, while a broken yellow line means passing is allowed when it is safe. White lines separate lanes of traffic moving in the same direction, and a solid white line discourages lane changes."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way is something you give, not something you take. At an intersection without signs or signals, yield to the vehicle that arrived first; if two vehicles arrive at the same time, the driver on the left yields to the driver on the right. When turning left, you must yield to oncoming traffic and to pedestrians crossing the road you are entering."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pedestrians in a crosswalk have the right of way, and you must always yield to a pedestrian who is legally crossing. You must also stop for a school bus with flashing red lights and an extended stop arm, whether the bus is ahead of you or approaching from the other direction on an undivided road."
+        },
+        {
+          "type": "paragraph",
+          "text": "Drivers entering a roadway from a private driveway, alley, or parking lot must yield to traffic already on the road. At a roundabout, yield to traffic already circulating and enter only when there is a safe gap."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed limits are maximums for ideal conditions, not targets. Unless otherwise posted, the speed limit in a Maine business or residential district is 25 mph, and the default limit on other public ways is 45 mph. You must always reduce speed for rain, snow, fog, curves, heavy traffic, or any condition that limits your ability to stop safely."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maintaining a safe following distance gives you time to react. A good rule is to keep at least a three- to four-second gap behind the vehicle ahead, and to increase that gap in poor weather, at higher speeds, or when being tailgated. The faster you drive, the longer the distance your vehicle needs to stop."
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving too slowly can be as dangerous as driving too fast. Keep up with the normal flow of traffic where it is safe and legal, and use the right lane on multilane roads unless you are passing or preparing to turn left."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe to do so. Never pass on a hill, curve, at an intersection, or anywhere your view of oncoming traffic is blocked, and never cross a solid yellow line on your side of the road to pass. When passing, signal, check your mirrors and blind spot, and return to your lane only when you can see the passed vehicle in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "Most passing is done on the left. You may pass on the right only in limited situations, such as when the vehicle ahead is turning left and there is room, but never by driving onto the shoulder. On a two-lane road, complete your pass and return to your lane well before any oncoming vehicle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Choose the correct lane early. Stay in your lane through a turn, signal lane changes in advance, and avoid weaving between lanes. On multilane highways, slower traffic should keep right so faster traffic can pass on the left."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roads are shared with motorcycles, bicycles, pedestrians, large trucks, and farm equipment. Motorcycles are smaller and harder to see, so check carefully before changing lanes or turning, and give them a full lane. When passing a bicyclist, slow down and give plenty of space, returning to your lane only when you are well clear."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have big blind spots and need much longer distances to stop and turn. Do not cut in front of a large truck, and never linger alongside one. If you cannot see the truck driver's mirrors, the driver cannot see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maine's Move Over law requires you to move over a lane when passing a stopped emergency vehicle, public service vehicle, or disabled vehicle with warning lights on. If moving over is unsafe or impossible, slow down to a careful and prudent speed as you pass."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Maine it is illegal to operate a vehicle with a blood alcohol concentration of 0.08 percent or higher if you are 21 or older. For drivers under 21, Maine has a zero-tolerance law: any measurable alcohol (a BAC of 0.00 is the limit) can result in license suspension. Alcohol and many drugs, including some prescription and over-the-counter medications, slow reaction time and impair judgment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maine's hands-free law prohibits holding or manipulating a handheld phone or electronic device while driving. Hands-free use such as voice commands or a mounted device is allowed for adults, but drivers under 18 and anyone holding a learner's permit or intermediate license may not use any phone or device while driving, even hands-free."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is anything that takes your eyes off the road, your hands off the wheel, or your mind off driving. The safest choice is to put the phone away, set your route before you start, and pull over safely if you must deal with something that cannot wait."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, snow, ice, and fog reduce traction and visibility. Slow down, increase your following distance, and use smooth, gentle steering, braking, and acceleration to avoid skidding. Maine law requires you to turn on your headlights when visibility is reduced and whenever your windshield wipers are in continuous use."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first rain after a dry spell can make roads especially slippery as oil rises to the surface. Bridges and overpasses freeze before the rest of the road, so approach them with extra caution in cold weather. If your vehicle begins to skid, ease off the gas and steer gently in the direction you want the front of the car to go."
+        },
+        {
+          "type": "paragraph",
+          "text": "In fog, use low-beam headlights rather than high beams, because high beams reflect off the fog and make seeing harder. If conditions become too dangerous to continue, pull completely off the road to a safe spot and turn on your hazard lights."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park only where it is legal and where you do not block traffic, driveways, crosswalks, fire hydrants, or intersections. When parking on a hill, turn your wheels so the vehicle will roll away from traffic if it moves: turn them toward the curb when facing downhill, and away from the curb when facing uphill with a curb present."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always set the parking brake and shift to park (or into gear with a manual transmission) before leaving your vehicle. Before opening your door into traffic, check your mirrors and over your shoulder for approaching vehicles and bicyclists."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obey all parking signs and curb markings, and never park in a space reserved for people with disabilities unless you have a valid permit. Use your turn signals and check carefully before pulling out of a parking space back into traffic."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Maine you may apply for a learner's permit at age 15, and applicants under 18 must complete an approved driver education course first. To get the permit you must pass a vision screening, a road sign test, and a knowledge test of traffic laws. The knowledge exam has 30 questions and you must score at least 80 percent to pass; the sign test also requires 80 percent."
+        },
+        {
+          "type": "paragraph",
+          "text": "A driver under 18 must hold the learner's permit for at least six months and complete 70 hours of supervised driving practice, including at least 10 hours of night driving, before taking the road test. While practicing, the permit holder must be supervised by a licensed driver who is at least 20 years old and has held a license for at least two years."
+        },
+        {
+          "type": "paragraph",
+          "text": "After passing the road test, a driver under 18 receives an intermediate license. For the first 270 days it carries restrictions: no driving between midnight and 5 a.m., and no passengers other than immediate family unless a qualified supervising driver is present. Violating these restrictions can extend them and add fines."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving is a privilege that can be suspended or revoked. By driving in Maine you give implied consent to chemical testing for alcohol or drugs if you are lawfully arrested for operating under the influence (OUI); refusing the test results in an automatic license suspension separate from any OUI penalty."
+        },
+        {
+          "type": "paragraph",
+          "text": "Violating the restrictions on a learner's permit or intermediate license can extend the restriction period by an additional 270 days and bring fines, typically in the range of $250 to $500. Repeated or serious violations can lead to suspension of the license."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always carry your license, registration, and proof of insurance, and present them when a law enforcement officer requests them. Seat belts are required for the driver and passengers, and children must be secured in an appropriate child safety seat or booster according to their age, weight, and height."
+        }
+      ]
+    }
+  ]
+}

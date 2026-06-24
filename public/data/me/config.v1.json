@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "me",
+  "name": "Maine",
+  "abbr": "ME",
+  "agency": "Maine Bureau of Motor Vehicles (BMV)",
+  "brand": {
+    "mark": "ME",
+    "appName": "Permit Prep",
+    "agencyPill": "Maine Bureau of Motor Vehicles (BMV)"
+  },
+  "home": {
+    "eyebrow": "Maine learner's permit",
+    "heading": "Pass your Maine permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 30,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Maine Motorist Handbook and Study Guide",
+    "sourceUrl": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/motoristhandbook.pdf"
+  },
+  "data": {
+    "manual": "me/manual.v1.json",
+    "questions": "me/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
