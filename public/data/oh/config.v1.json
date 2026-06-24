@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "oh",
+  "name": "Ohio",
+  "abbr": "OH",
+  "agency": "Ohio BMV",
+  "brand": {
+    "mark": "OH",
+    "appName": "Permit Prep",
+    "agencyPill": "Ohio BMV"
+  },
+  "home": {
+    "eyebrow": "Ohio learner's permit",
+    "heading": "Pass your Ohio permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 20,
+    "generalPassPct": 75
+  },
+  "manual": {
+    "source": "Digest of Ohio Motor Vehicle Laws",
+    "sourceUrl": "https://dam.assets.ohio.gov/image/upload/publicsafety.ohio.gov/hsy7607.pdf"
+  },
+  "data": {
+    "manual": "oh/manual.v1.json",
+    "questions": "oh/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
