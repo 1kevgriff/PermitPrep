@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Nebraska Class O Driver's Manual",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals tell you when to stop and go. A steady red light means stop and remain stopped until the light turns green. A steady yellow light is a warning that the light is about to turn red, so you should stop if you can do so safely. A flashing red light is treated like a stop sign, while a flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs use shape and color to communicate. Red eight-sided signs always mean stop, yellow triangular signs yield, and yellow diamond signs warn of hazards or changing road conditions ahead. Orange signs mark construction and work zones, while green signs give directions and distances."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide traffic. A solid yellow line means you may not pass, while a broken yellow line means passing is allowed when it is safe. Yellow lines separate traffic moving in opposite directions, and white lines separate lanes of traffic moving in the same direction."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who should go first, but the law really describes who must yield. At a four-way stop, the first vehicle to arrive proceeds first; when two vehicles arrive at the same time, the driver on the left yields to the driver on the right. Always yield to pedestrians in a crosswalk and to emergency vehicles using lights or sirens."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning left, you must yield to oncoming traffic and to pedestrians crossing the road you are entering. In Nebraska you may turn right on a red light after coming to a complete stop, unless a sign prohibits it, and only after yielding to pedestrians and cross traffic."
+        },
+        {
+          "type": "paragraph",
+          "text": "Drivers entering a road from a driveway, alley, or private road must yield to traffic already on the roadway. When merging onto a highway, adjust your speed to match traffic and yield to vehicles already in the lane."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nebraska sets default speed limits based on the type of road. Unless posted otherwise, the limit is 25 mph in residential districts, 20 mph in business districts, and up to 75 mph on rural interstate highways. You must always drive at a speed that is reasonable and prudent for current conditions, even when it is below the posted limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maintain a safe following distance using the three-second rule: pick a fixed object, and if you reach it less than three seconds after the vehicle ahead, you are following too closely. Increase your following distance in rain, snow, fog, or heavy traffic."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed greatly affects stopping distance, which combines reaction distance and braking distance. The faster you drive, the longer it takes to stop and the more severe a crash becomes, so always slow down before curves, intersections, and poor weather."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe. Never pass on a solid yellow line on your side of the road, near intersections, on hills, or on curves where you cannot see far enough ahead. Pass on the left, signal your intentions, and return to your lane only when you can see the passed vehicle in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep to the right except when passing. On multilane roads, slower traffic should stay in the right lanes and the left lane is generally used for passing. Always signal before changing lanes and check your mirrors and blind spots."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use lanes as marked and never drive in a center two-way left-turn lane except to turn. When a lane is ending, merge early and smoothly rather than waiting until the last moment."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roads are shared with motorcycles, bicycles, pedestrians, large trucks, and farm equipment. Motorcycles are smaller and harder to see, so check carefully before changing lanes or turning, and give riders a full lane. Large trucks have big blind spots and need more room to stop and turn."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nebraska's Move Over Law requires you to slow down and, when possible, change lanes away from stopped emergency, utility, and other vehicles displaying flashing or warning lights. As of 2025, this protection extends to any stopped vehicle, including disabled cars, pedestrians, cyclists, and agricultural equipment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always yield to pedestrians in crosswalks and watch for bicyclists, who have the same rights and responsibilities as drivers. Give cyclists a safe passing distance and be especially alert near schools, parks, and rural roads where slow-moving farm equipment may be present."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Nebraska it is illegal for a driver age 21 or older to operate a vehicle with a blood alcohol concentration (BAC) of 0.08 percent or higher. Drivers under age 21 are held to a zero-tolerance standard and may not drive with a BAC of 0.02 percent or more."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcohol and many drugs, including prescription and over-the-counter medications, slow reaction time and impair judgment. There is no way to sober up quickly; only time removes alcohol from the body, so the safest choice is to never drive after drinking."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distracted driving is a leading cause of crashes. Nebraska prohibits using a handheld device to read, type, or send a text or other written message while driving. Keep your attention on the road, put your phone away, and pull over safely if you must use a device."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, snow, ice, and fog reduce traction and visibility. Slow down, increase your following distance, and avoid sudden braking or steering. In Nebraska you must turn on your headlights from sunset to sunrise and whenever conditions make it hard to see persons or vehicles 500 feet ahead."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use your headlights whenever you use your windshield wipers in poor weather. Low-beam headlights, not high beams, work best in fog, rain, or snow because high beams reflect off the precipitation and reduce visibility."
+        },
+        {
+          "type": "paragraph",
+          "text": "If your vehicle begins to skid, ease off the gas, steer in the direction you want the front of the car to go, and avoid slamming the brakes. Bridges and overpasses freeze before other surfaces, so use extra caution there in cold weather."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the vehicle will roll away from traffic if facing downhill, and toward the curb when there is one. When parking uphill with a curb, turn the wheels away from the curb so the tires rest against it. Always set the parking brake and shift into park."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not park where you block traffic, crosswalks, fire hydrants, or driveways. Never stop or park within an intersection, on a crosswalk, or in spaces reserved for persons with disabilities unless you have a valid permit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obey all posted parking signs and curb colors. When leaving a parking space, signal, check your mirrors and blind spots, and yield to passing traffic and pedestrians before pulling out."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nebraska uses a Graduated Driver Licensing (GDL) system for young drivers. You may apply for a Learner's Permit (LPD) at age 15, which requires passing a written knowledge test and a vision screening. The permit holder must drive with a licensed adult at least 21 years old."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before getting a Provisional Operator's Permit (POP), a teen must hold a learner's permit and complete 50 hours of supervised driving, including at least 10 hours at night, certified by a parent or guardian. The POP can be issued at age 16."
+        },
+        {
+          "type": "paragraph",
+          "text": "A Provisional Operator's Permit carries restrictions. For the first six months, the holder may carry only one passenger under age 19 who is not an immediate family member, and the holder may not drive between midnight and 6 a.m. except when traveling to or from work or a school activity, or when accompanied by a licensed adult."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nebraska uses a point system to track traffic violations. Accumulating 12 or more points within a two-year period results in license revocation. Points are added for offenses such as speeding, reckless driving, and failing to yield."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nebraska has an implied consent law: by driving on Nebraska roads, you agree to submit to chemical testing for alcohol or drugs if lawfully arrested. Refusing the test results in an automatic license revocation, separate from any DUI penalty."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seat belt use is required for drivers and front-seat passengers, and all children age 6 through 17 must be belted in any seat. Children up to age 8 must be in a child passenger restraint system, and children up to age 2 must ride in a rear-facing restraint until they outgrow it."
+        }
+      ]
+    }
+  ]
+}
