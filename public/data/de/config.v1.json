@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "de",
+  "name": "Delaware",
+  "abbr": "DE",
+  "agency": "Delaware DMV",
+  "brand": {
+    "mark": "DE",
+    "appName": "Permit Prep",
+    "agencyPill": "Delaware DMV"
+  },
+  "home": {
+    "eyebrow": "Delaware learner's permit",
+    "heading": "Pass your Delaware permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 32,
+    "generalPassPct": 81
+  },
+  "manual": {
+    "source": "Delaware Driver Manual",
+    "sourceUrl": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf"
+  },
+  "data": {
+    "manual": "de/manual.v1.json",
+    "questions": "de/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
