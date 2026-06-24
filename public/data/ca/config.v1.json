@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "ca",
+  "name": "California",
+  "abbr": "CA",
+  "agency": "California DMV",
+  "brand": {
+    "mark": "CA",
+    "appName": "Permit Prep",
+    "agencyPill": "California DMV"
+  },
+  "home": {
+    "eyebrow": "California learner's permit",
+    "heading": "Pass your California permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 46,
+    "generalPassPct": 83
+  },
+  "manual": {
+    "source": "California Driver's Handbook",
+    "sourceUrl": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/"
+  },
+  "data": {
+    "manual": "ca/manual.v1.json",
+    "questions": "ca/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}

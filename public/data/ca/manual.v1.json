@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "California Driver's Handbook",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals and signs tell you what to do at intersections and along the road. A steady red light means stop and remain stopped until the light turns green. A steady yellow light warns that the light is about to turn red, so you should prepare to stop before the intersection. A flashing red light is treated like a stop sign: come to a complete stop, yield, and proceed only when it is safe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sign shapes and colors carry meaning. An eight-sided red sign always means stop, a downward triangle means yield, and a diamond-shaped yellow sign warns of hazards ahead. Regulatory signs in white and black, such as speed limit signs, tell you the law. Orange signs mark construction or maintenance work zones."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide traffic flow. A solid yellow line separates traffic moving in opposite directions, and you may not cross a double solid yellow line to pass. White lines separate lanes of traffic going the same direction. A broken line means passing or lane changes are allowed when it is safe to do so."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who goes first, but the law never gives anyone the right-of-way; it only states who must yield. At an intersection without signs or signals, yield to any vehicle that arrives first, and when two vehicles arrive at the same time, yield to the vehicle on your right. Always yield to pedestrians in marked or unmarked crosswalks."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning left, you must yield to oncoming traffic and to pedestrians until it is safe to complete the turn. At a four-way stop, the first vehicle to stop is the first to go. Emergency vehicles using sirens or flashing lights always have the right-of-way, so pull over to the right edge of the road and stop until they pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "California allows a right turn on a red light after coming to a complete stop, unless a sign prohibits it, provided you yield to pedestrians and cross traffic. A left turn on red is permitted only from a one-way street onto another one-way street, after stopping and yielding. Make turns from the correct lane and signal at least 100 feet before turning."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "California's Basic Speed Law says you may never drive faster than is safe for current conditions, regardless of the posted limit. In a residential or business district the speed limit is 25 mph unless otherwise posted, and it is 25 mph when passing a school zone while children are present. The maximum speed limit is 65 mph on most freeways and 70 mph where posted, while two-lane undivided highways are limited to 55 mph."
+        },
+        {
+          "type": "paragraph",
+          "text": "Following too closely is a common cause of crashes. Use the three-second rule: pick a fixed point, and if you reach it before counting three seconds after the vehicle ahead passes it, you are following too closely. Increase your following distance to four seconds or more in rain, fog, or other poor conditions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Managing space means leaving room on all sides of your vehicle. Slow down before curves and intersections, and keep a cushion of space so you have time to react. Speeding reduces your ability to stop and increases the force of a crash."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass other vehicles only when it is legal and safe. Never pass when a solid yellow line is on your side of the road, on a curve or hill where you cannot see oncoming traffic, or within 100 feet of an intersection or railroad crossing. Pass on the left, and return to your lane only when you can see the vehicle you passed in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep to the right except when passing. On multi-lane roads, slower traffic should use the right lanes, and the left lane is generally for passing. Signal every lane change, check your mirrors, and look over your shoulder to check your blind spot before moving over."
+        },
+        {
+          "type": "paragraph",
+          "text": "You may pass on the right only under limited conditions, such as when a vehicle ahead is turning left and there is room, or on a one-way street with two or more lanes. Never drive off the paved roadway to pass."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "You share the road with pedestrians, bicyclists, motorcyclists, and large trucks. Always yield to pedestrians in crosswalks and to blind pedestrians carrying a white cane or using a guide dog. When passing a bicyclist, California's Three Feet for Safety Act requires you to give at least three feet of clearance; if you cannot, slow down and pass only when safe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have big blind spots, take longer to stop, and make wide turns. Do not cut in front of a large vehicle, and never linger alongside one. If you cannot see the truck driver's mirrors, the driver cannot see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "You must stop for a school bus with flashing red lights and an extended stop arm, whether you are behind it or approaching from the opposite direction on an undivided road. Watch for motorcyclists, who are smaller and harder to see, especially at intersections and when changing lanes."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "It is illegal to drive in California with a blood alcohol concentration (BAC) of 0.08 percent or higher if you are 21 or older. Commercial drivers are limited to 0.04 percent. For drivers under 21, California has a zero-tolerance law: it is illegal to drive with a BAC of 0.01 percent or higher."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcohol and drugs, including prescription and over-the-counter medications and cannabis, slow your reactions and impair judgment. There is no quick way to sober up; only time can remove alcohol from your body. The safest choice is to never drive after drinking or using drugs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distracted driving is dangerous and illegal. Drivers may only use a phone hands-free, and you may not hold a phone for any purpose while driving. Drivers under 18 may not use any wireless device, including hands-free, except in a true emergency. Texting while driving is prohibited for all drivers."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, fog, snow, and darkness all reduce visibility and traction. California law requires you to turn on your headlights whenever you cannot see at least 1,000 feet ahead and whenever weather conditions require your windshield wipers, so the rule is simple: wipers on, lights on. Use low beams in fog, not high beams, because high beams reflect off the fog and reduce your vision."
+        },
+        {
+          "type": "paragraph",
+          "text": "Slow down in poor conditions and increase your following distance to four seconds or more. Roads are most slippery during the first few minutes of rain, when oil and water mix on the pavement. If your vehicle begins to hydroplane, ease off the accelerator and do not brake hard."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you start to skid, steer in the direction you want the front of the car to go and avoid slamming on the brakes. Reduce speed before entering curves and on wet or icy roads. In heavy fog, slow down, turn on low-beam headlights, and pull off the road if you cannot see safely."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Colored curbs tell you about parking. A red curb means no stopping, standing, or parking; a yellow curb is for loading only; a white curb is for quick passenger or mail pickup; a green curb means limited-time parking; and a blue curb is reserved for vehicles displaying a disabled parking placard or plate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Never park within 15 feet of a fire hydrant, in front of a driveway, on a crosswalk, or in a way that blocks traffic. When parking on a hill, turn your wheels so the vehicle will roll away from traffic; facing downhill, turn the wheels toward the curb. Always set the parking brake."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obey all signs and signals and keep to the right side of the road. Use turn signals to communicate your intentions, and never block intersections. Move-over law requires you to slow down and, when safe, move over a lane for stopped emergency vehicles, tow trucks, and Caltrans vehicles displaying flashing lights."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "To get an instruction permit in California, a teen must be at least 15 1/2 years old and have completed driver education. The written knowledge test for applicants under 18 has 46 questions, and you must answer at least 38 correctly to pass, which is a passing score of about 83 percent."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before getting a provisional license, a permit holder under 18 must hold the instruction permit for at least six months and complete 50 hours of supervised driving practice, including 10 hours at night, with a licensed adult 25 or older. Permit holders may drive only when accompanied by a licensed parent, guardian, or other adult 25 or older."
+        },
+        {
+          "type": "paragraph",
+          "text": "California's provisional license has restrictions for the first 12 months or until you turn 18, whichever comes first. During that time you may not drive between 11 p.m. and 5 a.m., and you may not transport passengers under 20 years old, unless a licensed parent, guardian, or adult 25 or older rides with you."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "When you drive in California you give implied consent to chemical testing if a peace officer lawfully arrests you for driving under the influence. Refusing the test results in an automatic license suspension and additional penalties. A first DUI conviction can mean fines, license suspension, DUI school, and possible jail time."
+        },
+        {
+          "type": "paragraph",
+          "text": "California uses a point system. Accumulating too many points in a set period leads to license suspension; for example, 4 points in 12 months, 6 points in 24 months, or 8 points in 36 months can result in a suspended license. Drivers under 18 face quicker license restrictions for violations and at-fault collisions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seat belts are required by law for the driver and all passengers. Children under 8 years old must be secured in a car seat or booster in the back seat, and children under 2 must ride in a rear-facing seat unless they exceed the height or weight limit. Failing to follow traffic laws can result in tickets, fines, points, and increased insurance costs."
+        }
+      ]
+    }
+  ]
+}
