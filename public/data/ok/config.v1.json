@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "ok",
+  "name": "Oklahoma",
+  "abbr": "OK",
+  "agency": "Service Oklahoma (Oklahoma Department of Public Safety)",
+  "brand": {
+    "mark": "OK",
+    "appName": "Permit Prep",
+    "agencyPill": "Service Oklahoma (Oklahoma Department of Public Safety)"
+  },
+  "home": {
+    "eyebrow": "Oklahoma learner's permit",
+    "heading": "Pass your Oklahoma permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 20,
+    "generalPassPct": 75
+  },
+  "manual": {
+    "source": "Oklahoma Driver's Manual",
+    "sourceUrl": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf"
+  },
+  "data": {
+    "manual": "ok/manual.v1.json",
+    "questions": "ok/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}

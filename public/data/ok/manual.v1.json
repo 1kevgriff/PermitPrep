@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Oklahoma Driver's Manual",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs are grouped by shape and color so you can recognize them quickly. Red and white signs give a command, such as STOP (eight-sided red) or YIELD (downward triangle). Yellow diamond-shaped signs warn of hazards ahead like curves, intersections, or pedestrian crossings, while orange signs warn of construction and maintenance zones."
+        },
+        {
+          "type": "paragraph",
+          "text": "A steady red light means stop completely behind the stop line or crosswalk and remain stopped until the light turns green. In Oklahoma you may turn right on red after a full stop unless a sign prohibits it, and you may turn left on red only from a one-way street onto another one-way street. A flashing red light means stop and proceed when safe, the same as a stop sign, while a flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings reinforce the rules of the road. A solid yellow line on your side of the centerline means passing is not allowed, while a broken yellow line means you may pass when it is safe. White lines separate lanes of traffic moving in the same direction, and a solid white line marks the edge of the roadway or discourages lane changes."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way is something you give, not something you take. At a four-way stop, the first vehicle to arrive proceeds first, and when two vehicles arrive at the same time, the driver on the left yields to the driver on the right. When making a left turn, you must yield to oncoming traffic and to pedestrians in the crosswalk."
+        },
+        {
+          "type": "paragraph",
+          "text": "At an uncontrolled intersection with no signs or signals, slow down and be ready to yield to any vehicle already in the intersection or arriving from your right. Always yield to emergency vehicles using lights or sirens by pulling to the right edge of the road and stopping until they pass. Pedestrians in a crosswalk and people who are blind using a guide animal or white cane always have the right-of-way."
+        },
+        {
+          "type": "paragraph",
+          "text": "Position yourself correctly before turning. For a right turn, stay close to the right curb; for a left turn from a two-way road, move into the lane just right of the centerline. Signal at least 100 feet before you turn and complete the turn into the proper lane so you do not cut across traffic."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Oklahoma's basic speed rule requires you to drive at a speed that is reasonable and safe for current conditions, regardless of the posted limit. Where no special limit is posted, the default limits are 25 mph in residential and urban districts and 55 mph on most rural state highways; rural interstates are typically posted at 65 or 75 mph."
+        },
+        {
+          "type": "paragraph",
+          "text": "Following too closely is a common cause of rear-end crashes. Use the three-second rule on dry roads: pick a fixed object, and when the vehicle ahead passes it, you should not reach that point for at least three seconds. Increase your following distance to four seconds or more in rain, fog, or heavy traffic, and when being tailgated."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed affects both your stopping distance and the force of a collision. Your total stopping distance includes perception time, reaction time, and braking distance, all of which grow longer as speed increases. Slow down in school zones, work zones, and any area where people may enter the roadway."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe. Never pass when a solid yellow line is on your side, when approaching a hill or curve where you cannot see far enough ahead, or within an intersection or railroad crossing. Signal your intention, check your mirrors and blind spot, and return to your lane only after you can see the passed vehicle in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "On multi-lane roads, keep right except to pass. The left lane is intended for passing and faster-moving traffic, and slower drivers should stay in the right-hand lanes. When another driver is passing you, do not speed up; maintain or slightly reduce your speed to let them complete the pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use turn signals for every lane change and turn, and check your blind spots by glancing over your shoulder rather than relying on mirrors alone. Plan lane changes early so you are in the correct lane before reaching an intersection or exit."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Motorcycles, bicycles, and pedestrians are harder to see and more vulnerable in a crash, so give them extra room and attention. Treat a motorcycle as a full vehicle entitled to its own lane, and allow a larger following distance because motorcycles can stop more quickly than cars."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have wide blind spots, called no-zones, on all four sides and need much longer distances to stop and to turn. Never cut in front of a large truck after passing, and avoid lingering alongside it. If you cannot see the truck driver's mirrors, the driver cannot see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oklahoma's Move Over law requires you to move into a non-adjacent lane when approaching any stopped vehicle displaying flashing lights, including emergency vehicles, tow trucks, and disabled cars using hazard lights. If you cannot move over safely, slow to a safe speed and pass with caution; violations carry steep fines."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "For drivers 21 and older, it is illegal to drive in Oklahoma with a blood alcohol concentration of 0.08 percent or higher. Oklahoma has a zero-tolerance law for drivers under 21, who can be charged with a maximum BAC of 0.02 percent, an amount that can result from a single drink. Alcohol slows reaction time, impairs judgment, and reduces coordination."
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving under the influence applies to illegal drugs, marijuana, and many prescription and over-the-counter medications that cause drowsiness. The only thing that sobers a person up is time; coffee, fresh air, and a cold shower do not lower BAC. Under Oklahoma's implied consent law, refusing a chemical test results in automatic license suspension."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is any activity that takes your eyes, hands, or mind off driving. Oklahoma law prohibits all drivers from manually composing, sending, or reading text messages while driving, and learner-permit and intermediate-license holders are banned from using any hand-held electronic device. The safest choice is to put the phone away before you start driving."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, fog, snow, and ice all reduce traction and visibility, so reduce your speed and increase your following distance. Oklahoma law requires you to turn on your headlights when visibility is poor and whenever your windshield wipers are in continuous use because of rain, sleet, or snow. Use low beams in fog, because high beams reflect off the moisture and worsen glare."
+        },
+        {
+          "type": "paragraph",
+          "text": "If your vehicle begins to skid, ease off the accelerator and steer gently in the direction you want the front of the car to go; do not slam on the brakes. Hydroplaning can occur on wet roads at higher speeds, so slow down when water pools on the pavement. Bridges and overpasses freeze before other road surfaces, so approach them with extra caution in cold weather."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prepare for reduced visibility at night and in storms by slowing down and keeping your windshield, mirrors, and lights clean. If a storm makes driving unsafe, pull completely off the roadway, stop in a safe place, and turn on your hazard lights until conditions improve."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the vehicle will roll away from traffic if the brakes fail. Facing downhill, turn the wheels toward the curb; facing uphill with a curb, turn them away from the curb; and without a curb, always turn the wheels toward the edge of the road. Always set the parking brake and leave the vehicle in park or in gear."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not park where you block traffic or create a hazard. It is illegal to park within an intersection, on a crosswalk or sidewalk, within 15 feet of a fire hydrant, in front of a driveway, or in a space reserved for persons with disabilities unless you have the proper permit. Never stop or park where signs prohibit it."
+        },
+        {
+          "type": "paragraph",
+          "text": "When you must stop alongside a road in an emergency, pull as far off the pavement as possible, turn on your hazard lights, and make yourself visible to other drivers. Use turnouts and shoulders only for genuine emergencies, not for routine stops."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Oklahoma uses a Graduated Driver License system with three stages: a learner permit, an intermediate license, and an unrestricted license. You may apply for a learner permit at age 15 and 6 months if you are enrolled in a driver education course, or at age 16 without driver education. The written knowledge test has 20 questions, and you must answer at least 15 correctly to pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "While holding a learner permit, you must always be accompanied by a licensed driver who is at least 21 years old, has held a license for at least two years, and sits in the front passenger seat. Permit and intermediate drivers may not drive between 10:00 p.m. and 5:00 a.m. except for limited reasons such as travel to school, work, or church."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before advancing, a teen driver must complete at least 50 hours of supervised driving practice, including at least 10 hours at night. Intermediate drivers are limited to one passenger who is not a household member unless a licensed adult 21 or older rides in the front seat. New drivers should always carry their license and proof of insurance."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic laws are enforced through fines, points, and license actions. Serious offenses such as DUI, reckless driving, and leaving the scene of a crash carry heavy penalties, and a DUI conviction can lead to license revocation, fines, and jail time. Oklahoma's implied consent law means that driving on a public road counts as agreeing to chemical testing for alcohol or drugs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oklahoma requires all front-seat occupants to wear seat belts, and children under age 8 who are shorter than 4 feet 9 inches must ride in an appropriate child safety seat or booster seat. Failing to buckle up or properly restrain a child can result in a citation, and seat belts dramatically reduce the risk of injury or death in a crash."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Move Over law imposes large fines, beginning at $1,000 for a first offense, for failing to move over or slow down for stopped emergency and disabled vehicles. Accumulating too many violations can lead to license suspension, and driving without a valid license or insurance carries additional penalties."
+        }
+      ]
+    }
+  ]
+}
