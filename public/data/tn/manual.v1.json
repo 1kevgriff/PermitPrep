@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Tennessee Comprehensive Driver License Manual",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic control devices include signs, signals, and pavement markings, and drivers must obey them at all times. A steady red light means stop and remain stopped until the light turns green. A steady yellow light warns that the signal is about to turn red, so you should stop if you can do so safely. A flashing red light means the same as a stop sign: stop completely, then proceed when it is safe."
+        },
+        {
+          "type": "paragraph",
+          "text": "In Tennessee you may turn right at a steady red light after coming to a complete stop, unless a sign prohibits it. Sign shapes and colors carry meaning: an eight-sided red sign always means stop, a downward-pointing triangle means yield, and a diamond-shaped yellow sign warns of hazards ahead. Orange signs mark construction and work zones."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yellow center lines separate traffic moving in opposite directions, while white lines separate traffic moving in the same direction. A solid yellow line on your side of the road means passing is not allowed. A broken line means passing or lane changes are permitted when it is safe to do so."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who should yield, not who has an absolute right to go first. At a four-way stop, the vehicle that arrives first goes first; when two vehicles arrive at the same time, the driver on the left yields to the driver on the right. Always yield to pedestrians in crosswalks and to vehicles already in an intersection."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning left, yield to oncoming traffic and to pedestrians crossing the road you are entering. Drivers entering a roadway from a driveway, alley, or private road must yield to traffic already on the road. Emergency vehicles using lights or sirens always have the right-of-way, and you must pull over to the right edge of the road and stop until they pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "Signal your intention to turn or change lanes well in advance so other drivers can react. Position your vehicle in the correct lane before turning, and complete your turn into the proper lane. Never assume another driver will yield to you, even when you have the right-of-way."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tennessee uses default speed limits that apply unless signs say otherwise: about 30 mph in urban or business districts, 45 to 55 mph on rural roads and state highways, and up to 70 mph on interstates and controlled-access highways. The basic speed rule requires you to drive at a speed that is reasonable and safe for current road, weather, and traffic conditions, which may be slower than the posted limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maintaining adequate following distance gives you time to react and stop. A common guideline is the three-second rule: pick a fixed point, and if you reach it before counting to three after the vehicle ahead passes it, you are following too closely. Increase your following distance in rain, fog, ice, or when being tailgated."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speeding reduces the time you have to react and increases stopping distance and crash severity. Slow down before entering curves, intersections, and work zones. When traffic merges, adjust your speed and spacing so vehicles can enter smoothly."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe, and never when a solid yellow line is on your side of the road. Before passing, check mirrors and blind spots, signal, and make sure there is enough clear distance ahead to return to your lane safely. Do not exceed the speed limit while passing."
+        },
+        {
+          "type": "paragraph",
+          "text": "On multi-lane highways, slower traffic should keep right and use the left lane for passing. Complete your pass and return to the right lane only when you can see the passed vehicle in your rear-view mirror. Do not pass at railroad crossings, intersections, or where signs or markings prohibit it."
+        },
+        {
+          "type": "paragraph",
+          "text": "When another vehicle passes you, maintain your speed or slow slightly to let it complete the pass. Stay centered in your lane, and always signal before changing lanes. Avoid weaving between lanes, which is dangerous and can be cited as reckless driving."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roads are shared with pedestrians, bicyclists, motorcyclists, and large trucks, each of which requires extra care. Bicyclists have the same rights and duties as drivers, so give them room and check for them before turning or opening a door. Motorcycles are small and easy to miss, so look twice at intersections and allow them a full lane."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have wide blind spots, take longer to stop, and need extra room to turn. Avoid lingering beside or directly behind a truck, and do not cut in front of one closely. If you cannot see the truck driver's mirrors, the driver cannot see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tennessee's Move Over Law requires drivers to move into a non-adjacent lane when approaching a stopped emergency vehicle, tow truck, or utility vehicle with flashing lights. If you cannot change lanes safely, slow down and pass with caution. Always stop for school buses with flashing red lights and an extended stop arm."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving under the influence of alcohol or drugs is illegal and deadly. In Tennessee it is illegal to drive with a blood alcohol concentration (BAC) of 0.08% or higher for adults and 0.04% or higher for commercial drivers. For drivers under 21, the zero-tolerance limit is just 0.02%, which can result from a single drink."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcohol slows reaction time, impairs judgment, and reduces coordination. There is no quick way to sober up: only time removes alcohol from your body. Many prescription and over-the-counter drugs can also impair driving, so read labels and avoid driving if a medication causes drowsiness."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tennessee's Hands Free Law prohibits holding or physically supporting a phone while driving. You may not text, write, or read messages behind the wheel, and teen and learner-permit drivers face stricter limits. Distraction of any kind, including eating or adjusting controls, takes your attention off the road and increases crash risk."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, fog, snow, and ice all reduce traction and visibility, so slow down and increase your following distance. In Tennessee you must turn on your headlights any time weather conditions require the use of windshield wipers. Use low beams in fog and rain, because high beams reflect off moisture and reduce your ability to see."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first rain after a dry spell makes roads especially slick as oil rises to the surface. If your vehicle begins to hydroplane, ease off the gas, keep the steering wheel steady, and do not brake hard. Bridges and overpasses freeze before other road surfaces, so approach them with extra caution in cold weather."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reduce speed at night and when visibility is limited, and never overdrive your headlights. If you must stop because of poor visibility, pull completely off the road and turn on your hazard lights. Keep your windshield, mirrors, and lights clean so you can see and be seen."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park only where it is legal and where you will not block traffic, driveways, crosswalks, or fire hydrants. When parking on a hill, turn your wheels so the vehicle will roll away from traffic or toward the curb if your brakes fail. Always set the parking brake and shift into park, or into gear for a manual transmission."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not park within an intersection, on a crosswalk, on a sidewalk, or in a space marked for people with disabilities unless you have a valid permit. Avoid stopping where signs prohibit it or where you would block the normal flow of traffic. Use your turn signal and check for traffic and cyclists before pulling away from a curb."
+        },
+        {
+          "type": "paragraph",
+          "text": "When you parallel park, signal, pull alongside the space, and back in slowly while watching your mirrors and surroundings. Leave enough room to enter and exit the space without striking other vehicles. Always look for pedestrians and bicyclists before opening your door into traffic."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tennessee uses a Graduated Driver License (GDL) program for new drivers. You may apply for a learner permit at age 15 after passing the vision, knowledge, and sign tests. A learner permit holder may drive only when accompanied by a licensed driver who is at least 21 years old seated in the front seat, and may not drive between 10 p.m. and 6 a.m."
+        },
+        {
+          "type": "paragraph",
+          "text": "You must hold a learner permit for at least 180 days before moving to the Intermediate Restricted License at age 16. Advancing requires passing the road skills test and certifying at least 50 hours of supervised driving practice, including 10 hours at night. The intermediate license limits driving between 11 p.m. and 6 a.m. and allows only one passenger."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tennessee's written knowledge test for first-time drivers has 30 questions, and you must answer at least 80% correctly to pass. Carry your permit or license whenever you drive, and keep your vehicle's registration and proof of insurance with you. Always sign your license and report any change of address to the Department of Safety."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tennessee enforces its traffic laws through fines, points on your driving record, and license suspension. Accumulating too many points within a period can lead to a suspension and required driver-improvement steps. Serious offenses such as DUI, reckless driving, and leaving the scene of a crash carry heavier penalties."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tennessee's implied consent law means that by driving you agree to chemical testing for alcohol or drugs if lawfully arrested. Refusing a test can result in license suspension separate from any DUI penalty. A first DUI conviction can bring jail time, fines, and loss of driving privileges."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tennessee has a primary seat belt law, so officers can stop and ticket you solely for not wearing a seat belt. Drivers are responsible for properly restraining children: those under age 1 or under 20 pounds in a rear-facing seat, and children ages 4 through 8 who are under 4 feet 9 inches tall in a booster seat. Always obey officers directing traffic, even when their signals differ from posted signs or signals."
+        }
+      ]
+    }
+  ]
+}

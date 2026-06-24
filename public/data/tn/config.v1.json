@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "tn",
+  "name": "Tennessee",
+  "abbr": "TN",
+  "agency": "Tennessee Department of Safety and Homeland Security",
+  "brand": {
+    "mark": "TN",
+    "appName": "Permit Prep",
+    "agencyPill": "Tennessee Department of Safety and Homeland Security"
+  },
+  "home": {
+    "eyebrow": "Tennessee learner's permit",
+    "heading": "Pass your Tennessee permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 30,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Tennessee Comprehensive Driver License Manual",
+    "sourceUrl": "https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf"
+  },
+  "data": {
+    "manual": "tn/manual.v1.json",
+    "questions": "tn/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
