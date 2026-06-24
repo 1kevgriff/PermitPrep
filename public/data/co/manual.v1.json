@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Colorado Driver Handbook (DR 2337)",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs use shape and color to communicate their meaning so you can react even before you read the words. A red octagon always means stop, a downward-pointing triangle means yield, yellow diamonds warn of hazards or changes ahead, and orange signs mark construction or maintenance work zones. White rectangular signs give regulatory rules such as speed limits that you are legally required to obey."
+        },
+        {
+          "type": "paragraph",
+          "text": "At a traffic signal, a steady red light means stop and remain stopped, a steady yellow light warns that the signal is about to turn red, and a steady green light means you may proceed if the way is clear. In Colorado you may turn right on a steady red after coming to a complete stop, unless a sign prohibits it, and you must yield to pedestrians and cross traffic before turning. A flashing red light is treated like a stop sign, while a flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and separate traffic. A solid yellow line on your side of the centerline means do not pass, while a broken yellow line means passing is allowed when it is safe. White lines separate lanes traveling in the same direction, and a solid white line discourages lane changes. Always treat a steady or broken line, crosswalk, and stop line as part of the traffic-control system."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way laws tell you who must yield, not who automatically has the right to go. At an intersection without signals, yield to any vehicle that arrives first; when two vehicles arrive at the same time, the driver on the left yields to the driver on the right. Always yield to pedestrians in a crosswalk and to emergency vehicles using lights or sirens."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning left, you must yield to oncoming traffic and to pedestrians crossing the road you are entering. At a four-way stop, take turns in the order vehicles arrive. Drivers entering a road from a driveway, alley, or private road must yield to traffic already on the roadway."
+        },
+        {
+          "type": "paragraph",
+          "text": "Position yourself correctly before turning: move into the lane nearest the curb for a right turn and into the leftmost lane in your direction for a left turn, signaling at least 100 feet ahead. Roundabouts flow counterclockwise, and vehicles already in the circle have the right-of-way over those entering."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Colorado speed limits are set for ideal conditions, and you must always drive at a speed that is reasonable and prudent for the situation. Unless otherwise posted, the limit is about 30 mph in residential areas, 55 mph on most open highways, 65 mph on urban interstates, and 75 mph on rural interstates. You must slow down in school zones, work zones, and whenever rain, snow, fog, or traffic reduce visibility or traction."
+        },
+        {
+          "type": "paragraph",
+          "text": "Following too closely is a leading cause of rear-end crashes. Use a following distance of at least three to four seconds behind the vehicle ahead, and increase that cushion in poor weather, at higher speeds, or when being tailgated. The extra space gives you time to see, decide, and brake safely."
+        },
+        {
+          "type": "paragraph",
+          "text": "Manage the space all around your vehicle, not just in front. Keep an escape path open, avoid driving in other drivers' blind spots, and adjust your speed so you can stop within the distance you can see ahead. Smooth, gradual changes in speed are safer and more predictable for everyone."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe. Never cross a solid yellow line on your side of the centerline, and do not pass on hills, curves, at intersections, or anywhere your view of oncoming traffic is blocked. Before passing, check your mirrors and blind spot, signal, and make sure you have enough clear distance to return to your lane safely."
+        },
+        {
+          "type": "paragraph",
+          "text": "On multi-lane roads, slower traffic should keep right and use the left lane mainly for passing. Signal every lane change and merge, and never weave through traffic. When passing a bicyclist, Colorado law requires you to leave at least three feet of space between your vehicle and the rider."
+        },
+        {
+          "type": "paragraph",
+          "text": "Plan lane changes early, especially near exits and interchanges. Move into the correct lane well before your turn or exit rather than making sudden, last-second movements. Always complete a pass and return to the right lane before reaching a no-passing zone or an oncoming vehicle."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "You share the road with pedestrians, bicyclists, motorcyclists, large trucks, and emergency responders, and many of them are harder to see and more vulnerable than you. Always yield to pedestrians in crosswalks and check carefully for bicycles and motorcycles before turning or changing lanes. Motorcycles are entitled to a full lane and can stop and maneuver quickly, so give them extra room."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have big blind spots, take longer to stop, and make wide turns. Do not cut in front of a truck or linger beside it, and never pass on the right side of a truck that is turning. If you cannot see the driver's mirrors, the driver probably cannot see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Colorado's Move Over law (C.R.S. 42-4-705) requires you to move over at least one lane for stopped emergency, tow, utility, and maintenance vehicles displaying flashing lights. If you cannot change lanes safely, slow down to a safe speed as you pass. Always pull to the right and stop for approaching emergency vehicles using lights or sirens."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Colorado, a driver age 21 or older can be charged with DUI at a blood alcohol concentration (BAC) of 0.08 percent or higher, and with the lesser offense of Driving While Ability Impaired (DWAI) at a BAC as low as 0.05 percent. Drivers under 21 are held to a zero-tolerance standard and can lose their license for a BAC of just 0.02 percent. Marijuana and other drugs, whether legal or not, can also impair you enough to be charged."
+        },
+        {
+          "type": "paragraph",
+          "text": "By driving in Colorado you give express consent to take a chemical test of your blood or breath if an officer has probable cause to suspect impairment. Refusing the test results in an automatic license revocation and can be used against you in court. No amount of coffee, fresh air, or time-saving trick removes alcohol faster than your body can process it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is also deadly. Texting while driving is illegal and a primary offense in Colorado, meaning an officer can stop you for it alone, and drivers under 18 may not use a cell phone at all while driving except in an emergency. Stay focused by putting your phone away, setting navigation before you leave, and keeping your eyes on the road."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Colorado weather can change quickly, especially in the mountains, so adjust your driving to match the conditions. Turn on your headlights from sunset to sunrise, whenever visibility is less than 1,000 feet, and any time you are using your windshield wipers in rain, snow, or fog. Slow down, increase your following distance, and make smooth, gentle inputs on the steering, brakes, and accelerator."
+        },
+        {
+          "type": "paragraph",
+          "text": "On wet, icy, or snow-packed roads, braking and steering take longer to work. If your vehicle begins to skid, ease off the accelerator and steer gently in the direction you want the front of the car to go without slamming the brakes. Bridges and shaded areas freeze first, so be especially cautious there."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prepare before bad weather arrives by keeping your tires, brakes, lights, and wipers in good condition. In mountain areas, Colorado may activate chain or traction laws that require adequate tires or chains. If conditions become too dangerous, the safest choice is to slow down further or wait until the weather improves."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park legally and considerately so you do not block traffic or create a hazard. Do not park within an intersection, on a crosswalk, on a sidewalk, in front of a driveway, or within 15 feet of a fire hydrant. Never stop in spaces reserved for people with disabilities unless you have the proper placard or plate."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the vehicle will roll away from traffic if it moves. Facing downhill, turn the wheels toward the curb; facing uphill with a curb, turn them away from the curb so the tire rests against it. Always set the parking brake and shift into park, or into gear for a manual transmission."
+        },
+        {
+          "type": "paragraph",
+          "text": "Everyone in the vehicle must be properly restrained. Colorado law requires the driver and front-seat passengers to wear seat belts, and children must ride in an appropriate car seat or booster based on their age and size, with the youngest children rear-facing. Buckling up is the single most effective way to reduce injury in a crash."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Colorado uses a Graduated Driver Licensing (GDL) program to help new drivers gain experience gradually. A teen may apply for a learner's permit at age 15 after completing a 30-hour driver education course, at 15\u00bd after a 4-hour driver awareness program, or at 16 without coursework. A parent or legal guardian must sign an affidavit of liability for an applicant under 18."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before getting a license, a permit holder under 18 must hold the permit for at least 12 months and complete at least 50 hours of supervised driving, including 10 hours at night, logged with a licensed adult supervisor. Practice driving must always be done with a qualified adult in the front passenger seat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Once licensed, a new teen driver faces restrictions for the first year. They may not drive between midnight and 5 a.m. except under limited circumstances, and they may carry no passengers under 21 during the first six months and only one such passenger during the second six months, with exceptions for siblings and emergencies."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Colorado uses a point system to track unsafe driving. Accumulating too many points within a set period can lead to suspension of your license, and the thresholds are lower for minors than for adults. Serious violations such as DUI, reckless driving, or leaving the scene of a crash carry heavy points along with fines and possible jail."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are stopped by law enforcement, pull over safely to the right, stay in your vehicle, and keep your hands visible. Be ready to show your driver's license, vehicle registration, and proof of insurance, which Colorado requires you to carry whenever you drive."
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving is a privilege that can be suspended or revoked for offenses such as DUI, refusing a chemical test, driving without insurance, or repeated traffic violations. Following the rules of the road, staying sober and focused, and respecting other road users are the best ways to keep your license and stay safe."
+        }
+      ]
+    }
+  ]
+}
