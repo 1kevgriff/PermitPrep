@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "ak",
+  "name": "Alaska",
+  "abbr": "AK",
+  "agency": "Alaska DMV",
+  "brand": {
+    "mark": "AK",
+    "appName": "Permit Prep",
+    "agencyPill": "Alaska DMV"
+  },
+  "home": {
+    "eyebrow": "Alaska learner's permit",
+    "heading": "Pass your Alaska permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 20,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Alaska Driver Manual",
+    "sourceUrl": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf"
+  },
+  "data": {
+    "manual": "ak/manual.v1.json",
+    "questions": "ak/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}

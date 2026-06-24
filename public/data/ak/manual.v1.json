@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Alaska Driver Manual",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals and signs tell you what to do at intersections and along the road. A steady red light means stop and remain stopped until the light turns green; a steady yellow light warns that the signal is about to turn red, so you should stop if you can do so safely. A flashing red light is treated like a stop sign, while a flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sign shapes and colors carry meaning even before you read the words. An eight-sided red sign always means stop, a downward-pointing triangle means yield, yellow diamond signs warn of hazards or changing conditions ahead, and orange signs mark construction and work zones. Regulatory signs such as speed limits are usually white with black lettering."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide traffic flow. A solid yellow line on your side of the center means do not pass, while a broken yellow line means passing is allowed when it is safe. White lines separate lanes of traffic moving in the same direction. In Alaska you may turn right on a red light after coming to a complete stop, unless a posted sign prohibits the turn."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules prevent collisions by establishing who proceeds first. At a four-way stop, the driver who arrives first goes first; when two vehicles arrive at the same time, the driver on the left yields to the driver on the right. When turning left, you must yield to oncoming traffic and to pedestrians crossing the road you are entering."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always yield to pedestrians in marked and unmarked crosswalks, and to emergency vehicles using lights or sirens by pulling to the right edge of the road and stopping. When entering a roadway from a driveway, alley, or private road, you must yield to traffic already on the roadway."
+        },
+        {
+          "type": "paragraph",
+          "text": "Make turns from the correct lane and signal at least 100 feet before turning. A right turn should be made from as close to the right curb as practical, and a left turn should begin from the lane nearest the center line. Yield to bicyclists and never cut across a bike lane when turning."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Drive at a speed that is safe for conditions, never faster than the posted limit. Unless otherwise posted, Alaska's default speed limits are 15 mph in alleys, 20 mph in business districts, 25 mph in residential districts, and 55 mph on other open roads; the highest posted limit in the state is generally 65 mph. You must reduce speed for weather, traffic, curves, and reduced visibility."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep a safe following distance so you have time to react. A common guideline is the three-second rule: pick a fixed point, and if you reach it before counting three seconds after the vehicle ahead passes it, you are following too closely. Increase your following distance on wet, icy, or gravel roads, which are common in Alaska."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed reduces your ability to steer and stop, and it increases the force of any crash. Manage the space around your vehicle on all sides, leaving yourself an escape path, and slow down well before you need to stop rather than braking hard at the last moment."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe. Do not pass when a solid yellow line is on your side of the road, on hills or curves where you cannot see far enough ahead, at intersections, or when a sign prohibits passing. Pass on the left, return to your lane only when you can see the vehicle you passed in your rearview mirror, and never exceed the speed limit to complete a pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "Many Alaska roads are two-lane highways with limited opportunities to pass. If you are driving slowly and five or more vehicles are backed up behind you, the law requires you to pull over where it is safe and let them pass. Use slow-vehicle turnouts where they are provided."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep right except to pass, and stay in your lane. Use your turn signal before changing lanes and check your mirrors and blind spots. On multilane roads, choose a lane and avoid weaving between lanes of traffic."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "You share the road with pedestrians, bicyclists, motorcyclists, large trucks, and, in Alaska, with wildlife such as moose. Give bicyclists room when passing and treat them as legitimate road users. Watch for motorcycles, which are smaller and harder to see, and always check your blind spots before changing lanes or turning."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks need more room to stop and make wide turns. Avoid lingering in a truck's blind spots, and never cut in front of a truck and brake suddenly. When a truck is turning, do not try to squeeze between the truck and the curb."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wildlife collisions are a serious hazard in Alaska, especially with moose at dawn, dusk, and in winter darkness. Scan the road edges, slow down in posted wildlife areas, and be ready to brake if an animal enters the roadway. When meeting a school bus with flashing red lights, stop and remain stopped until the lights stop flashing."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "It is illegal to drive in Alaska with a blood alcohol concentration (BAC) of 0.08 percent or higher. For commercial drivers the limit is 0.04 percent, and Alaska has a zero-tolerance policy for drivers under 21, who can be charged for driving with any measurable amount of alcohol. Alcohol slows reaction time, impairs judgment, and reduces coordination."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distracted driving is dangerous and illegal. Texting while driving is prohibited for all drivers in Alaska and is a primary offense, meaning an officer can stop and cite you for it alone. Keep your attention on the road and avoid using a handheld device, eating, or other distractions while driving."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prescription and over-the-counter drugs, as well as illegal drugs, can also impair your ability to drive safely. The only way to avoid impaired driving is to not drive after using alcohol or impairing substances; plan ahead for a sober ride."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaska drivers face snow, ice, rain, fog, and long periods of darkness. Slow down, increase your following distance, and brake gently on slippery roads. If your vehicle begins to skid, ease off the gas and steer in the direction you want the front of the car to go; do not slam on the brakes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Turn on your headlights when visibility is reduced and wherever signs require headlights on at all times. Headlights help you see and help others see you in fog, snow, and twilight. Use low beams in fog and falling snow, because high beams reflect back and reduce your visibility."
+        },
+        {
+          "type": "paragraph",
+          "text": "Be prepared for winter and remote travel. Carry an emergency kit, keep your fuel tank full, and clear all snow and ice from your windows and lights before driving. Black ice often forms on bridges and shaded areas, so approach them with extra caution."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park only where it is legal and safe. Do not park in front of a fire hydrant, in a crosswalk, on a sidewalk, in an intersection, or where signs prohibit parking. When parking on a hill, turn your wheels so the vehicle will roll away from traffic or into the curb, and set the parking brake."
+        },
+        {
+          "type": "paragraph",
+          "text": "Everyone in the vehicle must wear a seat belt in Alaska, and failure to buckle up is a primary offense for which you can be stopped and ticketed. Children under 8 years old who are under 65 pounds and shorter than 4 feet 9 inches must be secured in an appropriate car seat or booster seat, with younger and smaller children in rear-facing or forward-facing child restraints."
+        },
+        {
+          "type": "paragraph",
+          "text": "Follow lane markings, signal your intentions, and obey one-way and no-turn signs. When parking parallel, leave enough space and signal before pulling to the curb so following drivers know your intentions."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaska uses a Graduated Driver License (GDL) program for new drivers. You may apply for an instruction permit at age 14 after passing the knowledge test, and you must be accompanied by a licensed driver who is at least 21 years old whenever you drive. The knowledge test has 20 questions and you must answer at least 80 percent correctly to pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before advancing to a provisional license, you must hold your instruction permit for at least 6 months with no traffic convictions and complete at least 40 hours of supervised driving practice, including 10 hours in challenging conditions such as darkness, inclement weather, or highway driving."
+        },
+        {
+          "type": "paragraph",
+          "text": "A provisional license carries restrictions for new drivers. Provisional drivers may not drive between 1 a.m. and 5 a.m. except to or from work, and may not carry passengers under age 21 unless they are siblings or a parent or guardian is in the vehicle. These restrictions are lifted after you gain more experience and turn 18 or qualify for a full license."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic violations add points to your driving record and can lead to fines, license suspension, and higher insurance costs. Driving under the influence carries severe penalties in Alaska, including license revocation, fines, possible jail time, and mandatory alcohol assessment, even for a first offense."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are stopped by law enforcement, pull over safely to the right, stay in your vehicle, and keep your hands visible. You must show your license, registration, and proof of insurance on request. Driving without a valid license or required insurance is a violation that can result in penalties."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaska enforces move-over and slow-driver laws, seat belt laws, and distracted driving laws as primary offenses, meaning you can be stopped for them alone. Slow down and move over for stopped emergency and maintenance vehicles, and obey all officer directions, which override signs and signals."
+        }
+      ]
+    }
+  ]
+}
