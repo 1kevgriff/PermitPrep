@@ -3,6 +3,12 @@
   "default": "va",
   "states": [
     {
+      "id": "nm",
+      "name": "New Mexico",
+      "abbr": "NM",
+      "config": "nm/config.v1.json"
+    },
+    {
       "id": "va",
       "name": "Virginia",
       "abbr": "VA",

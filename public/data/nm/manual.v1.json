@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "New Mexico Driver Manual",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs use standard shapes and colors so you can recognize them quickly. Red signals stopping or prohibition (stop, yield, do-not-enter and wrong-way signs), yellow warns of hazards ahead, orange marks construction and work zones, green gives guidance and permitted movements, and blue marks driver services such as rest areas. An eight-sided red sign always means a full stop, while a downward-pointing triangle means yield."
+        },
+        {
+          "type": "paragraph",
+          "text": "A steady red light means stop and remain stopped until the light turns green. A steady yellow light warns that the signal is about to turn red, so you should stop if you can do so safely. A flashing red light is treated like a stop sign, and a flashing yellow light means slow down and proceed with caution. A green arrow gives you a protected turn in the direction of the arrow."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and separate traffic. A solid yellow line on your side of the center means do not pass, while a broken yellow line means passing is allowed when it is safe. White lines separate lanes of traffic moving in the same direction, and a solid white line discourages lane changes. Always obey markings together with signs and signals."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules are about yielding, not taking. At a four-way stop, the first vehicle to arrive goes first, and when two vehicles arrive at the same time the driver on the left yields to the driver on the right. When turning left, you must yield to oncoming traffic and to pedestrians crossing the road you are entering."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always yield to pedestrians in marked and unmarked crosswalks, and to emergency vehicles using lights or sirens by pulling to the right and stopping. At an uncontrolled intersection, slow down and be ready to yield. Vehicles already in a roundabout or traffic circle have the right-of-way over vehicles entering."
+        },
+        {
+          "type": "paragraph",
+          "text": "In New Mexico you may turn right on a red light after coming to a complete stop, unless a sign prohibits it, and only after yielding to pedestrians and cross traffic. Signal every turn and lane change in advance, and never assume another driver will yield to you even when you have the right-of-way."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed limits set the maximum legal speed in ideal conditions, but the Basic Speed Law requires you to drive at a speed that is reasonable and prudent for current conditions. Unless otherwise posted in New Mexico, the limit is 30 mph in business and residential districts, about 55 mph on rural highways, and up to 75 mph on interstate highways."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep a safe following distance so you have time to react and stop. The three-second rule is a simple way to measure this: pick a fixed point, and if you reach it before counting three seconds after the vehicle ahead passes it, you are following too closely. Increase your following distance in rain, snow, fog, or when being tailgated."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed affects both your stopping distance and the force of a crash. Slow down before entering curves and intersections, and remember that posted limits assume good weather, light traffic, and a dry road. Driving too slowly can be as dangerous as speeding because it disrupts the normal flow of traffic."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe. Do not pass when a solid yellow line is on your side of the center, on hills or curves where you cannot see far enough ahead, at intersections or railroad crossings, or when a school bus is loading or unloading children. Always signal, check your mirrors, and check your blind spot before moving over."
+        },
+        {
+          "type": "paragraph",
+          "text": "On multilane roads, keep to the right except when passing, so that faster traffic can use the left lane. Complete your pass promptly and return to your original lane only when you can see the vehicle you passed in your rearview mirror. Never exceed the speed limit to complete a pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use your lanes deliberately. Stay within a single lane, signal early before changing lanes, and never weave between lanes. When a roadway has a center left-turn lane, use it only for turning, not for passing or traveling."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "You share the road with pedestrians, bicyclists, motorcyclists, large trucks, and emergency vehicles. Give bicyclists a safe passing distance and treat them as vehicles with the right to use the road. Watch for motorcycles, which are smaller and harder to see, and allow them a full lane width."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have big blind spots and need more room and time to stop and turn. Do not cut in front of a truck after passing it, and never linger alongside one. Be patient and predictable around large vehicles, and avoid the areas directly behind and beside them where the driver cannot see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "New Mexico's Move Over law requires drivers approaching a stopped emergency or service vehicle with flashing lights to change lanes away from it when possible, and to slow to a safe, careful speed if changing lanes is not possible. Always yield to pedestrians, especially near schools, crosswalks, and bus stops."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcohol and drugs impair judgment, reaction time, and coordination, and they are leading causes of crashes. In New Mexico it is illegal for a driver 21 or older to drive with a blood alcohol concentration (BAC) of 0.08 percent or higher. The only sure way to lower your BAC is time; coffee, food, and fresh air do not speed up the process."
+        },
+        {
+          "type": "paragraph",
+          "text": "New Mexico has a zero-tolerance law for drivers under 21: a BAC of 0.02 percent or higher can lead to license revocation. By holding a license, you give implied consent to chemical testing, and refusing a test brings its own penalties. Many prescription and over-the-counter medicines can also impair driving."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is dangerous even when you are sober. New Mexico law prohibits reading, viewing, or manually typing a text message on a handheld device while driving. Put your phone away, set your route before you start, and keep your eyes on the road and your hands on the wheel."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, snow, fog, dust, and darkness all reduce traction and visibility, so slow down and increase your following distance. New Mexico is prone to sudden dust storms and heavy monsoon rain; if blinding dust or rain makes driving unsafe, pull completely off the roadway, stop, turn off your lights, and take your foot off the brake so others do not follow you off the road."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use your headlights when visibility is poor and from dusk to dawn. A good rule is to turn your headlights on whenever you turn your windshield wipers on, which keeps you visible to others. In fog, use low beams rather than high beams, because high beams reflect off the fog and reduce visibility."
+        },
+        {
+          "type": "paragraph",
+          "text": "If your vehicle begins to skid, ease off the gas, steer gently in the direction you want the front of the car to go, and do not slam the brakes. Watch for black ice on bridges and overpasses, which freeze before other surfaces, and never use cruise control on wet or icy roads."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park legally and safely. Do not park in front of a fire hydrant, in a crosswalk, on a sidewalk, within an intersection, or where signs or curb colors prohibit it. When parking on a hill, turn your wheels so the vehicle will roll away from traffic if the brakes fail: toward the curb when facing downhill, and away from the curb when facing uphill."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always set your parking brake and shift to park (or into gear for a manual transmission) before leaving your vehicle. Disabled-parking spaces are reserved for vehicles displaying a valid placard or plate, and parking there without one is a violation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before opening your door into traffic, check for approaching cars and bicyclists. Signal before pulling away from a curb, and yield to traffic already on the road. Keep right except to pass, and follow lane markings and posted signs at all times."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "New Mexico uses a graduated driver licensing (GDL) system for new teen drivers. You may apply for an instructional (learner's) permit at age 15. With the permit, you must always drive accompanied by a licensed driver who is at least 21 years old and has held a license for at least three years, seated beside you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before moving to the next stage, permit holders must complete at least 50 hours of supervised driving practice, including at least 10 hours at night, and must hold the permit for the required period. The written knowledge test covers road signs and rules of the road and is taken in person at an MVD office."
+        },
+        {
+          "type": "paragraph",
+          "text": "When you advance to a provisional license, restrictions still apply: you may not drive between midnight and 5 a.m. unless supervised by a licensed adult 21 or older, and you may not carry more than one passenger under age 21 who is not an immediate family member. Always carry your license and present it when asked by law enforcement."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic laws are enforced to keep everyone safe, and violations carry consequences. By driving in New Mexico you accept implied consent, meaning you agree to submit to chemical testing for alcohol or drugs if lawfully requested; refusing a test results in license revocation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seat belt use is required for everyone in the vehicle, in every seat, and New Mexico enforces this as a primary law, meaning an officer can stop and ticket you for a belt violation alone. Children up to age 7, and any child under 60 pounds, must ride in an appropriate child safety seat, and children ages 7 through 12 must use a booster seat until the adult belt fits properly."
+        },
+        {
+          "type": "paragraph",
+          "text": "Serious or repeated offenses such as driving while intoxicated, reckless driving, or driving on a suspended license can lead to fines, license suspension or revocation, and even jail. If you are involved in a crash, you must stop, give aid, exchange information, and report the crash when required by law."
+        }
+      ]
+    }
+  ]
+}
