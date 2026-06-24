@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Georgia Driver's Manual",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs are grouped by shape and color so you can recognize them at a glance. A red octagon always means stop, a downward triangle means yield, a yellow diamond warns of a hazard ahead, and a regulatory white rectangle tells you a law such as a speed limit. Orange signs mark construction or maintenance zones, and a pennant-shaped sign on the left of the road means no passing."
+        },
+        {
+          "type": "paragraph",
+          "text": "A traffic signal moves from green to yellow to red. A steady yellow light means the signal is about to turn red and you should stop if you can do so safely. A flashing red light means stop, then proceed when it is safe, while a flashing yellow light means slow down and proceed with caution. A green arrow gives you a protected turn in the direction of the arrow."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and separate traffic. A solid yellow line on your side of the center means do not pass, while a broken yellow line means passing is allowed when it is safe. White lines separate traffic moving in the same direction, and a solid white line discourages lane changes. Always obey markings together with signs and signals."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way is something you give, not something you take. At a four-way stop, the first vehicle to arrive goes first; when two vehicles arrive at the same time, the driver on the left yields to the driver on the right. You must always yield to pedestrians in a crosswalk and to vehicles already in an intersection or roundabout."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning left, you must yield to oncoming traffic that is close enough to be a hazard. In Georgia you may turn right on a red light after coming to a complete stop, unless a sign prohibits it, and only after yielding to pedestrians and cross traffic. Signal your intention at least 100 feet before turning so other drivers know your plans."
+        },
+        {
+          "type": "paragraph",
+          "text": "Emergency vehicles using lights or sirens always have the right-of-way. Pull over to the right edge of the road and stop until they pass. At intersections controlled by a stopped school bus with flashing red lights and an extended stop arm, you must stop and remain stopped until the lights stop flashing."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Georgia sets default speed limits that apply unless signs say otherwise: 30 mph in any urban or residential district, 70 mph on rural interstate highways, 65 mph on urban interstates and multi-lane divided highways, and 55 mph on most other roads. You must also obey the basic speed rule, which requires you to drive no faster than is reasonable and safe for current conditions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Following too closely is a common cause of rear-end crashes. Use the three-second rule by picking a fixed point and counting the seconds between when the vehicle ahead passes it and when you reach it. Increase your following distance in rain, fog, heavy traffic, or when being tailgated, and always leave yourself an escape path."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed affects both your stopping distance and the force of a crash. Total stopping distance includes your reaction time plus your braking distance, and it grows quickly as speed increases. Slow down before curves and intersections rather than braking in the middle of them, and never drive so slowly that you block the normal flow of traffic."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "On multi-lane roads, keep right except to pass. Pass only on the left unless the vehicle ahead is turning left, and never pass when a solid yellow line is on your side, when approaching a hill or curve, within 100 feet of an intersection or railroad crossing, or where a sign prohibits it. Make sure you have enough clear distance to return safely before completing a pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before changing lanes, check your mirrors, signal, and glance over your shoulder to check your blind spot. Complete your pass promptly and signal before returning to your lane, leaving enough room so you can see the vehicle you passed in your mirror before you move back in front of it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lanes have specific purposes. The left lane on a highway is generally for passing, and slower traffic should keep right. High-occupancy vehicle (HOV) lanes, turn-only lanes, and bicycle lanes are marked by signs and pavement markings, and you must use them as indicated and not drift across lane lines."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "You share the road with pedestrians, bicyclists, motorcyclists, and large trucks, all of whom are more vulnerable or harder to see than passenger cars. Georgia law requires drivers to give bicyclists a safe distance of at least three feet when passing. Watch carefully for motorcycles, which can be hidden in blind spots and are easy to misjudge in distance and speed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have big blind spots, take longer to stop, and make wide right turns. Never cut in front of a large truck and do not linger alongside it. If you cannot see the truck driver's mirrors, the driver cannot see you. Give commercial vehicles extra room and pass them quickly and decisively."
+        },
+        {
+          "type": "paragraph",
+          "text": "Georgia's Move Over Law requires you to move over one lane when an emergency, law enforcement, utility, or recovery vehicle is stopped on the shoulder with flashing lights. If traffic makes moving over unsafe, you must slow below the posted speed limit and be ready to stop. Violating the law can bring a fine of up to $500."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving under the influence is illegal and dangerous. In Georgia, it is illegal to drive with a blood alcohol concentration (BAC) of 0.08 percent or higher if you are 21 or older. Commercial drivers are limited to 0.04 percent, and drivers under 21 face a zero-tolerance limit of just 0.02 percent. Alcohol slows reaction time, impairs judgment, and reduces coordination."
+        },
+        {
+          "type": "paragraph",
+          "text": "There is no quick way to sober up. Only time can remove alcohol from your body; coffee, fresh air, and a cold shower do not work. Many prescription and over-the-counter drugs, as well as illegal drugs, can impair driving just as much as alcohol, and combining them multiplies the effect."
+        },
+        {
+          "type": "paragraph",
+          "text": "Georgia's Hands-Free Law makes it illegal to hold or support a phone with any part of your body while driving. You may not write, send, or read text-based messages or watch video while driving. A first conviction carries a $50 fine and one point on your license. The safest choice is to put the phone away and keep your full attention on the road."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Georgia law requires headlights from 30 minutes after sunset until 30 minutes before sunrise, whenever it is raining, and any time you cannot see clearly for at least 500 feet ahead. A simple rule to remember is that whenever your windshield wipers are on because of rain, your headlights must be on too."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, fog, and wet roads reduce traction and visibility. Slow down, increase your following distance, and use low-beam headlights in fog because high beams reflect back and reduce visibility. If your vehicle begins to hydroplane, ease off the gas, keep the steering wheel steady, and do not brake hard."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are caught in a skid, steer gently in the direction you want the front of the car to go and avoid slamming the brakes. In heavy rain or fog so thick you cannot see, pull completely off the road to a safe place, turn on your hazard lights, and wait for conditions to improve."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the car will roll away from traffic or into the curb if the brakes fail. Facing downhill, turn the wheels toward the curb; facing uphill with a curb, turn them away from the curb; and with no curb, always turn the wheels toward the edge of the road. Always set the parking brake and leave the vehicle in park or in gear."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not park where you block traffic or create a hazard. It is illegal to park within an intersection, on a crosswalk, on a sidewalk, within 15 feet of a fire hydrant, in front of a driveway, or in a space reserved for people with disabilities unless you are authorized. Never stop or park on the traveled part of a highway when you can pull off the road."
+        },
+        {
+          "type": "paragraph",
+          "text": "Everyone in the vehicle benefits from buckling up. Georgia requires the driver and front-seat passengers to wear seat belts, and children under age 8 must be secured in a car seat or booster appropriate for their height and weight, riding in the back seat unless they are over 4 feet 9 inches tall. Seat belts and proper restraints are your best protection in a crash."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Georgia uses a graduated licensing system under the Teenage and Adult Driver Responsibility Act (TADRA). You can apply for a Class CP instructional (learner's) permit at age 15. To get the permit you must pass a vision test and a knowledge exam, and while you hold it you must always be accompanied by a licensed driver who is at least 21 years old seated beside you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Joshua's Law requires 16- and 17-year-olds to complete an approved driver education course plus 40 hours of supervised driving practice, including 6 hours at night, before getting a Class D license. The knowledge exam has a 20-question road rules section and a 20-question road signs section, and you must answer at least 15 of 20 correctly (75 percent) on each part."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Class D intermediate license carries restrictions. You may not drive between 12:00 midnight and 5:00 a.m. For the first 6 months only immediate family members may ride with you; for the next 6 months you may also carry one passenger under 21 who is not family; and after one year you may carry up to three passengers under 21 who are not family members."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Georgia uses a points system to track traffic violations. Points are added to your driving record when you are convicted of moving violations, and accumulating 15 points within a 24-month period results in suspension of your license. Drivers under 18 can have their license suspended for accumulating just 4 or more points within any 12-month period."
+        },
+        {
+          "type": "paragraph",
+          "text": "Serious offenses carry heavy consequences. A DUI conviction can mean license suspension, fines, and jail time, and refusing a chemical test under Georgia's implied consent law triggers an automatic license suspension. Reckless driving, racing, and fleeing from police are also treated as major violations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Carry your license, proof of insurance, and registration whenever you drive, and present them when an officer asks. If you are stopped by police, pull over safely to the right, stay in your vehicle, keep your hands visible, and follow the officer's instructions. Cooperating calmly keeps everyone safe."
+        }
+      ]
+    }
+  ]
+}
