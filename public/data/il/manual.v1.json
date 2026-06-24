@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Illinois Rules of the Road",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs are grouped by color and shape so you can recognize them quickly. Red means stop or prohibition, yellow warns of conditions ahead, green guides movement, and orange marks construction or maintenance zones. A red octagon always means stop, a downward-pointing triangle means yield, and a diamond is a warning sign."
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals control the right of way at intersections. A steady red light means stop and remain stopped, a steady yellow means the light is about to turn red and you should stop if you can do so safely, and a steady green means you may proceed if the way is clear. A flashing red is treated like a stop sign, while a flashing yellow means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings reinforce the rules. A solid yellow line on your side of the road means do not pass, while a broken yellow line means passing is allowed when it is safe. White lines separate traffic moving in the same direction, and a solid white line discourages lane changes. In Illinois you must turn on your headlights whenever weather requires your windshield wipers."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who goes first, but the law never gives you the right of way; it only states who must yield. At a four-way stop, the first vehicle to arrive proceeds first, and when two vehicles arrive at the same time, the driver on the left yields to the driver on the right. Always yield to pedestrians in a crosswalk and to vehicles already in an intersection."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning left, you must yield to oncoming traffic and to pedestrians. In Illinois you may turn right on a red light after coming to a complete stop, unless a sign prohibits it, and you must yield to cross traffic and pedestrians before proceeding. A left turn on red is permitted only from a one-way street onto another one-way street where allowed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Emergency vehicles using lights or sirens always have the right of way; pull to the right edge of the road and stop until they pass. You must also yield to school buses and obey crossing guards near schools."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Illinois sets default speed limits that apply unless posted otherwise. The limit is 30 mph in urban districts, 55 mph on most rural two-lane highways, 65 mph on rural interstates, and up to 70 mph on many interstate highways and tollways outside urban areas. Always reduce speed in school zones, work zones, and bad weather."
+        },
+        {
+          "type": "paragraph",
+          "text": "The basic speed law requires you to drive at a speed that is reasonable and safe for current conditions, which may be slower than the posted limit in rain, snow, fog, or heavy traffic. Speed limits are maximums for ideal conditions, not targets."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maintain a safe following distance using the three-second rule: pick a fixed point, and if you reach it before counting to three after the vehicle ahead passes it, you are too close. Increase your following distance to four seconds or more in poor weather, at night, or when being tailgated."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe. Never pass when a solid yellow line is on your side, when approaching a hill or curve where you cannot see far enough ahead, within 100 feet of an intersection or railroad crossing, or when a school bus is loading or unloading children. Signal, check your mirrors and blind spot, and return to your lane only when you can see the passed vehicle in your mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep to the right except when passing. On multilane roads, slower traffic should stay in the right lanes, and the left lane is intended for passing. Use your turn signal before every lane change and merge smoothly with the flow of traffic."
+        },
+        {
+          "type": "paragraph",
+          "text": "When meeting an oncoming vehicle that crosses into your lane, slow down, move to the right, and be prepared to leave the roadway if necessary rather than swerving into other traffic."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "You share the road with pedestrians, bicyclists, motorcyclists, large trucks, and farm equipment. When passing a bicyclist, Illinois law requires you to leave at least 3 feet of space. Watch for motorcycles, which are smaller and harder to see, especially at intersections and when changing lanes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have big blind spots and need more room to stop and turn. Avoid lingering beside a truck, never cut in front of one closely, and remember that if you cannot see the driver's mirrors, the driver cannot see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Illinois Scott's Law, the Move Over Law, requires you to slow down and, when possible, change lanes to give room to any emergency vehicle, tow truck, or maintenance vehicle stopped with its lights flashing. Always stop for a school bus with its red lights flashing and stop arm extended when on a two-way road."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "For drivers age 21 and older, it is illegal to drive with a blood alcohol concentration (BAC) of 0.08 percent or higher. Alcohol slows reaction time, impairs judgment, and reduces coordination, and there is no way to sober up quickly; only time removes alcohol from your body."
+        },
+        {
+          "type": "paragraph",
+          "text": "Illinois has a Zero Tolerance Law for drivers under age 21. Any trace of alcohol, a BAC above 0.00 percent, will result in suspension of driving privileges, with a first offense bringing a 3-month suspension. Illegal drugs and many prescription and over-the-counter medications can also impair driving."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distracted driving is dangerous and illegal. Illinois requires hands-free operation, so using a handheld cell phone to talk, text, browse, or use apps while driving is prohibited, even while stopped at a red light. Keep your eyes on the road, your hands on the wheel, and your mind on driving."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, snow, fog, and ice reduce traction and visibility. Slow down, increase your following distance, and turn on your low-beam headlights. Illinois law requires headlights to be on whenever weather conditions require the use of your windshield wipers."
+        },
+        {
+          "type": "paragraph",
+          "text": "If your vehicle begins to skid, ease off the gas, avoid braking hard, and steer gently in the direction you want the front of the car to go. The first rain after a dry spell is especially slippery because oil rises to the road surface. Hydroplaning can occur at higher speeds on wet roads, so reduce speed to keep your tires in contact with the pavement."
+        },
+        {
+          "type": "paragraph",
+          "text": "In fog, use low beams rather than high beams, because high beams reflect off the fog and reduce visibility. At night, dim your high beams within 500 feet of an oncoming vehicle and within 200 feet of a vehicle you are following, and reduce speed so you can stop within the distance your headlights illuminate."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park legally and away from traffic. Do not park within 15 feet of a fire hydrant, in a crosswalk, on a sidewalk, within an intersection, or in a space reserved for persons with disabilities unless you have a valid placard or plate. Never park where a sign prohibits it or where you would block traffic."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the vehicle will roll away from traffic if the brakes fail. Facing downhill, turn your front wheels toward the curb; facing uphill with a curb, turn them away from the curb; and with no curb, always turn the wheels toward the edge of the road. Set the parking brake and leave the vehicle in park or in gear."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always signal before pulling away from a curb and yield to passing traffic. Seat belts are required for the driver and all passengers age 8 and older, and children under age 8 must be secured in an appropriate child restraint system."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Illinois uses a Graduated Driver Licensing (GDL) program for new drivers. A teen may apply for an instruction permit at age 15 when enrolled in an approved driver education course, and must hold the permit for at least 9 months before getting a license."
+        },
+        {
+          "type": "paragraph",
+          "text": "During the permit phase, the new driver must complete at least 50 hours of supervised practice driving, including 10 hours at night. A supervising driver who is at least 21 years old and holds a valid license must be in the front passenger seat at all times while the permit holder drives."
+        },
+        {
+          "type": "paragraph",
+          "text": "The written knowledge exam covers road signs and Illinois traffic laws. To pass you must score at least 80 percent. Once licensed, drivers under 18 face passenger limits and a nighttime driving curfew during the initial licensing period."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Illinois law assigns points to moving violations and tracks them on your driving record. Accumulating too many violations can lead to suspension or revocation of your driving privileges, and the consequences are stricter for drivers under 21."
+        },
+        {
+          "type": "paragraph",
+          "text": "When you sign for an Illinois license you agree to implied consent: if a police officer lawfully arrests you for DUI, refusing to take a chemical test results in an automatic statutory summary suspension of your driving privileges. A DUI conviction brings fines, possible jail time, and loss of your license."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nighttime curfew violations, exceeding passenger limits, and other GDL rule violations can delay a young driver's progress and extend restrictions. Violating Scott's Law or the hands-free law carries fines, and serious or repeat offenses bring steeper penalties."
+        }
+      ]
+    }
+  ]
+}
