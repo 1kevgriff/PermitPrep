@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Official Florida Class E Driver License Handbook",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals and signs control the flow of traffic and tell you what to do. A steady red light means stop completely behind the stop line or crosswalk and remain stopped until the light turns green. A steady yellow light warns that the signal is about to turn red, so you should stop if you can do so safely. A flashing red light means the same thing as a stop sign: stop, yield, and proceed only when it is safe. A flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sign shapes and colors carry meaning even before you read the words. An eight-sided red sign always means stop, a downward-pointing triangle means yield, yellow signs are general warnings, orange signs mark construction or maintenance zones, and red and white regulatory signs tell you what you must or must not do. Knowing these shapes helps you react quickly even when a sign is dirty or partly hidden."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and separate traffic. A solid yellow line marks the center of a two-way road, and you may not cross a double solid yellow line to pass. A broken (dashed) line may be crossed when it is safe. White lines separate lanes of traffic moving in the same direction. Always obey the painted stop line and stay behind crosswalks when stopped at intersections."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who should go first, but the law never actually gives anyone the right-of-way; it only states who must yield. At a four-way stop, the first vehicle to arrive goes first, and when two arrive at the same time, the driver on the left yields to the driver on the right. When turning left, you must yield to oncoming traffic and to pedestrians in the crosswalk."
+        },
+        {
+          "type": "paragraph",
+          "text": "In Florida you may turn right on a red light after coming to a complete stop, unless a sign prohibits it, and only after yielding to pedestrians and cross traffic. You may also turn left on red from a one-way street onto another one-way street after stopping. Always signal your intention at least 100 feet before turning so other drivers know what you plan to do."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pedestrians, bicyclists, and emergency vehicles get special priority. You must yield to pedestrians in any crosswalk, marked or unmarked, and you must come to a full stop and yield to a blind pedestrian using a white cane or guide dog. When an emergency vehicle approaches with lights and siren, pull over to the right edge of the road and stop until it passes."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Florida sets default speed limits when no sign is posted: 30 mph in business or residential districts, 55 mph on most rural roads outside cities, and 70 mph on interstate highways. You must always drive at a speed that is reasonable for current conditions, which may be far below the posted limit in rain, fog, or heavy traffic. Driving too slowly and blocking the normal flow of traffic is also against the law."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keeping a safe following distance gives you time to react. A common rule is to stay at least three to four seconds behind the vehicle ahead, and to add more distance in bad weather, at night, or when following large trucks and motorcycles. Tailgating is a leading cause of rear-end crashes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Manage your space on all sides, not just the front. Leave room to escape if a hazard appears, avoid driving in another vehicle's blind spot, and adjust your speed so you are not boxed in. Slowing down early and smoothly is safer than braking hard at the last moment."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass other vehicles only when it is legal and safe. You may pass on the left when the center line is broken and the oncoming lane is clear. Never cross a solid yellow line on your side of the road to pass, and never pass when approaching a hill, curve, intersection, railroad crossing, or bridge where your view is blocked."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep right except to pass. On multi-lane roads, slower traffic should stay in the right lanes and the left lane is generally used for passing. Signal before changing lanes, check your mirrors, and look over your shoulder to check the blind spot before moving over."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some passing maneuvers are always illegal or dangerous. You may not pass a stopped school bus that is loading or unloading children when its red lights are flashing, and on a two-way road you must stop in both directions unless separated by a raised barrier or unpaved median. Return to your lane only after you can see the vehicle you passed in your rear-view mirror."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roads are shared with motorcycles, bicycles, pedestrians, large trucks, and emergency workers. Motorcycles are smaller and harder to see, so look carefully before turning or changing lanes and give riders a full lane of space. Always check twice for motorcycles at intersections, where many crashes happen."
+        },
+        {
+          "type": "paragraph",
+          "text": "Florida's Move Over Law protects roadside workers and stranded motorists. When an emergency, law enforcement, utility, sanitation, or disabled vehicle is stopped on the roadside with lights flashing, you must move over one lane if you can do so safely. If you cannot move over, you must slow to 20 mph below the posted speed limit, or to 5 mph if the posted limit is 20 mph or less."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks need extra room to stop and turn, and they have large blind spots on all four sides. Do not cut in front of a truck and then brake, and never linger beside one. Give bicyclists at least three feet of clearance when passing, and watch for pedestrians at crosswalks and in school zones."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Florida it is illegal to drive with a blood alcohol concentration (BAC) of 0.08 percent or higher if you are 21 or older. Drivers under 21 are held to a zero-tolerance standard: a BAC of 0.02 percent or higher results in an automatic six-month license suspension. There is no safe amount of alcohol to drink before driving, and impairment begins with the first drink."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcohol and many drugs slow your reaction time, blur your vision, and reduce your judgment. This includes some prescription and over-the-counter medicines, so read warning labels before driving. Driving under the influence (DUI) carries heavy fines, possible jail time, and license revocation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction is just as dangerous as impairment. Texting while driving is a primary offense in Florida, meaning an officer can stop and ticket you for it alone. Put your phone away, set your route before you start, and keep your full attention on the road; taking your eyes off the road for even a few seconds at highway speed means traveling the length of a football field nearly blind."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, fog, and darkness make driving harder by reducing how far and how well you can see. In Florida, the law requires you to turn on your headlights whenever you use your windshield wipers in continuous rain, fog, or smoke, and from sunset to sunrise. Headlights help you see and, just as importantly, help others see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wet roads reduce traction and increase stopping distance, so slow down and increase your following distance. Roads are most slippery during the first few minutes of rain, when water mixes with oil on the pavement. If your car begins to hydroplane, ease off the gas and steer straight rather than braking hard."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reduce your speed and use low-beam headlights in fog, since high beams reflect off the fog and worsen visibility. At night, dim your high beams when you are within 500 feet of an oncoming vehicle or 300 feet behind another vehicle, and never overdrive your headlights by going so fast that you cannot stop within the distance you can see ahead."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park only where it is legal and safe. You may not park within an intersection, on a crosswalk, on a sidewalk, within 15 feet of a fire hydrant, or in a space reserved for people with disabilities unless you have a valid permit. When you leave your vehicle, set the parking brake, turn off the engine, and remove the key."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the car will not roll into traffic. Facing downhill, turn the front wheels toward the curb; facing uphill with a curb, turn them away from the curb so the tire rests against it. Always use your parking brake on any incline."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seat belts save lives and are required by law. In Florida, all drivers and front-seat passengers must wear a seat belt, and every passenger under 18 must be buckled no matter where they sit. Children age 3 and under must ride in a separate child safety seat, and children ages 4 and 5 must use a separate seat or booster seat."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "You may apply for a Florida learner's license at age 15 after passing the Class E Knowledge Exam, which covers traffic laws and road signs. The exam has 50 questions, and you must answer at least 80 percent correctly to pass. First-time teen drivers must also complete a Traffic Law and Substance Abuse Education (TLSAE) course before getting a permit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Florida uses a Graduated Driver License (GDL) system to ease new drivers onto the road. You must hold the learner's license for at least 12 months, or until your 18th birthday, before getting a full license, and you must log 50 hours of supervised driving, including 10 hours at night. A licensed driver who is at least 21 years old must ride in the front passenger seat whenever you drive."
+        },
+        {
+          "type": "paragraph",
+          "text": "Permit holders face driving-hour limits that loosen with experience. For the first three months you may drive only during daylight hours, and after that you may drive until 10 p.m. Once licensed at 16, you may not drive between 11 p.m. and 6 a.m., and at 17 the restricted hours are 1 a.m. to 5 a.m., unless driving to or from work or accompanied by a licensed driver 21 or older."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Florida uses a point system to track unsafe driving. Points are added to your record for moving violations, and accumulating too many points in a set period leads to a license suspension. New and young drivers can lose their driving privilege quickly, so safe habits matter from the very first day behind the wheel."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some offenses carry automatic and severe penalties. A driver under 21 caught with a BAC of 0.02 percent or higher loses their license for six months, and a DUI conviction at any age brings fines, possible jail, and license revocation. Refusing a lawful breath, blood, or urine test also results in an automatic license suspension under the implied-consent law."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always stop for law enforcement and carry the required documents. If you are pulled over, pull to the right, stop, and stay in your vehicle with your hands visible. You must show your driver license, vehicle registration, and proof of insurance when asked, and driving without a valid license or required insurance is itself a violation."
+        }
+      ]
+    }
+  ]
+}
