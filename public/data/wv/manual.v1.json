@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "West Virginia Driver's Licensing Handbook",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs are grouped by shape and color so you can recognize them quickly. Red signs such as STOP and YIELD, and the white regulatory signs, tell you what you must or must not do. Yellow signs warn of conditions ahead such as curves, intersections, or pedestrian crossings, while orange signs mark construction and maintenance zones. A red octagon always means stop, and a downward-pointing triangle always means yield."
+        },
+        {
+          "type": "paragraph",
+          "text": "A steady red light means stop and remain stopped until the light turns green. A steady yellow light warns that the light is about to turn red, so you should stop if you can do so safely. A green light means you may proceed if the intersection is clear, and a flashing red light is treated like a stop sign. In West Virginia you may turn right on a steady red light after coming to a complete stop and yielding to pedestrians and cross traffic, unless a posted sign prohibits it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and warn drivers. A solid yellow line on your side of the center means do not pass, while a broken yellow line means passing is allowed when it is safe. White lines separate lanes of traffic moving in the same direction, and a solid white line discourages lane changes. Always obey markings together with signs and signals."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell drivers who should go first, but the law never actually grants the right-of-way; it only says who must yield it. At a four-way stop, the first vehicle to arrive goes first, and when two vehicles arrive at the same time the driver on the left yields to the driver on the right. When turning left, you must yield to oncoming traffic that is close enough to be a hazard."
+        },
+        {
+          "type": "paragraph",
+          "text": "Drivers must always yield to pedestrians in marked or unmarked crosswalks and to anyone using a white cane or guide dog. When entering a road from a driveway, alley, or private road, you must stop and yield to traffic and pedestrians already on the roadway. You must also yield to emergency vehicles using sirens or flashing lights by pulling to the right edge of the road and stopping until they pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "Make turns from the proper lane: begin a right turn from as close to the right curb as possible, and begin a left turn from the lane nearest the center line. Signal your intention at least 100 feet before turning, and check mirrors and blind spots before changing direction. At roundabouts, yield to traffic already circulating and enter only when there is a safe gap."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "West Virginia uses the Basic Speed Law: you must never drive faster than is reasonable and safe for current conditions, even when you are at or below the posted limit. Unless otherwise posted, the speed limit is 25 mph in business and residential districts, 55 mph on open country highways, and 70 mph on rural interstate highways. Reduce your speed in rain, fog, snow, heavy traffic, or near schools and work zones."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maintain a safe following distance using the three-second rule: pick a fixed object the vehicle ahead passes, then count the seconds until you reach it. In rain, snow, fog, or at higher speeds you should increase this to four seconds or more. Tailgating is a leading cause of rear-end crashes and leaves you no room to stop safely."
+        },
+        {
+          "type": "paragraph",
+          "text": "Manage the space all around your vehicle, not just in front. Keep a cushion on the sides and check that traffic behind you is keeping a safe distance. Brake early and gradually so drivers behind have time to react, and never stop abruptly unless it is an emergency."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only where it is legal and safe. Never pass when a solid yellow line is on your side, when approaching a hill or curve where you cannot see far enough ahead, or within 100 feet of an intersection or railroad crossing. Before passing, signal, check your mirrors and blind spot, and make sure there is enough clear distance to return to your lane safely."
+        },
+        {
+          "type": "paragraph",
+          "text": "On a multilane road, keep right except when passing, and use the left lane mainly for passing slower traffic. Move completely into a lane before turning and signal every lane change. Watch for vehicles that may move into your blind spot, and never weave between lanes."
+        },
+        {
+          "type": "paragraph",
+          "text": "When another driver is passing you, do not speed up. Maintain or slightly reduce your speed and stay in your lane to let them complete the pass. If a road has a single broken white line between same-direction lanes, you may change lanes when it is safe to do so."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "You share the road with motorcycles, bicycles, pedestrians, large trucks, and farm equipment. Motorcycles are smaller and harder to see, so check carefully before changing lanes or turning, and give them a full lane width. When passing a bicyclist, leave at least three feet of space and pass only when it is safe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have large blind spots and need more room to stop and turn. Avoid lingering beside a truck, and never cut in front of one and then slow down, because trucks cannot stop quickly. If you cannot see the truck driver's mirrors, the driver cannot see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "West Virginia's Move Over law requires you to protect stopped emergency, utility, and other vehicles displaying warning lights. On a divided highway, move into a farther lane if you can, or slow to 25 mph if you cannot change lanes; on an undivided road, slow to 15 mph. Always slow down and watch for workers, responders, and stopped motorists."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "In West Virginia it is illegal to drive with a blood alcohol concentration (BAC) of 0.08 percent or higher if you are 21 or older. Drivers under 21 are held to a zero-tolerance limit of 0.02 percent, and commercial drivers may not exceed 0.04 percent. Alcohol slows reaction time, impairs judgment, and reduces coordination, and no amount is safe before driving."
+        },
+        {
+          "type": "paragraph",
+          "text": "By driving in West Virginia you give implied consent to chemical testing for alcohol or drugs. Refusing a test results in an automatic license suspension separate from any DUI charge. Illegal drugs, and many prescription and over-the-counter medicines, can also impair you enough to make driving unlawful and dangerous."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distracted driving is also against the law. West Virginia bans texting and the use of a handheld cell phone while driving, and these are primary offenses, meaning an officer can stop you for them alone. Fines start at $100 for a first offense, rise to $200 for a second, and reach $300 plus points for a third. Keep your eyes on the road, your hands on the wheel, and your mind on driving."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, snow, fog, and ice all reduce traction and visibility, so slow down and increase your following distance. West Virginia law requires you to turn on your headlights whenever weather conditions reduce visibility and whenever your windshield wipers are in use. Headlights must also be on from sunset to sunrise."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roads are most slippery at the start of a rain when water mixes with oil on the surface. If your tires lose grip and you begin to hydroplane, ease off the gas, keep the steering wheel steady, and do not brake hard. Bridges and overpasses freeze before other roads, so approach them with extra caution in cold weather."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you skid, steer gently in the direction you want the front of the car to go and avoid sudden braking or steering. In fog, use low-beam headlights rather than high beams, because high beams reflect off the fog and reduce visibility. Slow down enough that you can stop within the distance you can clearly see."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park only where it is legal and safe. Do not park within 15 feet of a fire hydrant, in a crosswalk or intersection, on a sidewalk, in front of a driveway, or where signs prohibit parking. Never park on the traveled portion of a highway when it is possible to pull off the road."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the vehicle will roll away from traffic if it moves. Facing downhill, turn the front wheels toward the curb; facing uphill with a curb, turn them away from the curb; with no curb, always turn the wheels toward the edge of the road. Set the parking brake and leave the vehicle in park or, with a manual transmission, in gear."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always use your seat belt, and make sure every passenger is properly restrained. West Virginia requires children under 8 years old who are shorter than 4 feet 9 inches to ride in an approved child safety seat or booster seat. Buckling up is the single most effective way to protect yourself in a crash."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "West Virginia uses a Graduated Driver License (GDL) program with three stages. You may apply for a Level 1 instruction permit at age 15 after passing the vision and knowledge tests. While holding the permit you must be supervised at all times by a licensed driver age 21 or older who sits in the front passenger seat."
+        },
+        {
+          "type": "paragraph",
+          "text": "You must hold the Level 1 permit for at least 180 days without certain violations and complete 50 hours of supervised driving, including at least 10 hours at night, before advancing. At age 16 you may take the road skills test for a Level 2 intermediate license."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Level 2 intermediate license carries restrictions: for the first six months you may not carry passengers under 20 who are not family members (with limited exceptions), and you may not drive between 10:00 p.m. and 5:00 a.m. except for specific reasons such as work, school, or emergencies. At age 17, after meeting all requirements, you may receive a full Level 3 license."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "West Virginia uses a point system to track unsafe driving. Points are added to your record for moving violations, and accumulating too many points can lead to suspension of your driving privileges. Serious offenses such as DUI, reckless driving, and leaving the scene of a crash carry the heaviest penalties."
+        },
+        {
+          "type": "paragraph",
+          "text": "A DUI conviction can result in license suspension, fines, mandatory alcohol education, and possible jail time, with harsher penalties for higher BAC levels and repeat offenses. Refusing a chemical test triggers an automatic license suspension on its own. For drivers under 21, even a BAC of 0.02 percent leads to suspension."
+        },
+        {
+          "type": "paragraph",
+          "text": "Other enforcement rules carry real consequences: violating the Move Over law is a misdemeanor that can bring fines and jail time, and handheld phone and texting violations are primary offenses with escalating fines. Always carry your license, registration, and proof of insurance, and present them when a law enforcement officer requests them."
+        }
+      ]
+    }
+  ]
+}
