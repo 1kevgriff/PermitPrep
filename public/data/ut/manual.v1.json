@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Utah Driver Handbook",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signals and signs tell you when to stop, when to go, and what to expect ahead. A steady red light means stop completely behind the marked line; a steady yellow light is a warning that the light is about to turn red, so prepare to stop if you can do so safely. A flashing red light is treated like a stop sign, and a flashing yellow light means slow down and proceed with caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sign shape and color carry meaning even before you read the words. Red is used for stop, yield, and prohibitions; yellow and diamond-shaped signs warn of hazards or changing road conditions; orange signs mark construction and work zones; and green signs give directions and distances. A red octagon always means stop, and an upside-down triangle always means yield."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings guide and separate traffic. A solid yellow line on your side means do not pass, while a broken yellow line means passing is allowed when it is safe. White lines separate traffic moving in the same direction, and a solid white line marks the edge of the road or discourages lane changes. Always obey the most restrictive marking that applies to you."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules exist to prevent collisions, and the law mostly tells you when you must yield rather than when you have the right to go. At a four-way stop, the first vehicle to arrive goes first; when two arrive at the same time, the driver on the left yields to the driver on the right. You must always yield to pedestrians in a crosswalk and to emergency vehicles using lights or sirens."
+        },
+        {
+          "type": "paragraph",
+          "text": "When turning left, you must yield to oncoming traffic and to pedestrians crossing the road you are entering. In Utah you may turn right on a red light after coming to a complete stop, unless a sign prohibits it, but you must first yield to pedestrians and cross traffic. Vehicles already in a roundabout or intersection have the right-of-way over vehicles entering."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always signal your intentions early so other drivers can react. Move into the proper lane well before your turn, complete your turn into the matching lane, and never assume another driver will yield to you even when you have the right-of-way."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Utah uses default speed limits when no sign is posted: 25 mph in urban or residential districts, higher speeds on rural highways, and up to 75 or 80 mph on some interstate highways where clearly posted. Regardless of the posted limit, the basic speed law requires you to drive at a speed that is reasonable and safe for current traffic, weather, and road conditions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Following too closely is a common cause of rear-end crashes. A useful guideline is the three-second following distance: pick a fixed point ahead, and if you reach it before counting to three, you are too close. Increase your following distance to four or more seconds in rain, snow, fog, or when being tailgated."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed affects both your stopping distance and the force of a crash. Higher speeds dramatically lengthen the distance needed to stop and reduce your time to react, so slow down before curves, intersections, and areas with limited visibility rather than braking hard inside them."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe. Do not pass when a solid yellow line is on your side, when approaching a hill or curve where you cannot see far enough ahead, at intersections or railroad crossings, or when a school bus is stopped with its red lights flashing. Complete your pass and return to your lane only when you can see the vehicle you passed in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "On multi-lane roads, slower traffic should keep right and use the left lane for passing. Move completely into the next lane to pass, signal your intentions, and check your mirrors and blind spots before changing lanes. Never pass on the shoulder."
+        },
+        {
+          "type": "paragraph",
+          "text": "When a vehicle wants to pass you, maintain your speed or slow slightly and stay to the right so the pass can be completed safely. Sharing lane space cooperatively keeps traffic flowing and reduces the risk of side-swipe and head-on collisions."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roads are shared with pedestrians, bicyclists, motorcyclists, and large trucks, all of whom are more vulnerable or behave differently than passenger cars. When passing a bicyclist, Utah law requires you to leave at least three feet of space. Watch for motorcycles, which are smaller and harder to see, and always check your blind spots before changing lanes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks have wide blind spots, take longer to stop, and make wide right turns. Do not cut in front of a truck and brake suddenly, and never linger alongside one. If you cannot see the truck driver's mirrors, the driver cannot see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Utah's Move Over law requires you to slow down and, when possible, move over a lane for stopped emergency vehicles, tow trucks, and maintenance vehicles displaying flashing lights. You must also stop for a school bus with flashing red lights and an extended stop arm when traveling on an undivided road."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "Utah has the strictest blood alcohol limit in the nation: a driver age 21 or older is legally impaired at a blood alcohol concentration (BAC) of 0.05 percent or higher. Commercial drivers are limited to 0.04 percent. Even amounts below the legal limit can impair your judgment, reaction time, and coordination."
+        },
+        {
+          "type": "paragraph",
+          "text": "Drivers under age 21 are held to a zero-tolerance, 'not-a-drop' standard: any measurable amount of alcohol in their system while driving is a violation, and a first offense can result in a six-month license suspension. Driving under the influence of drugs, including prescription and over-the-counter medications that cause drowsiness, is also illegal."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distracted driving is dangerous and illegal in Utah. The state prohibits using a handheld wireless device to write, send, or read text, dial numbers, browse the internet, or record video while driving, and this is a primary offense for which an officer can stop you. Keep your attention on the road, and pull over safely if you must use a phone."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rain, snow, fog, and darkness reduce traction and visibility, so slow down and increase your following distance. In Utah you must turn on your headlights from a half hour after sunset to a half hour before sunrise, and any time you cannot see at least 1,000 feet ahead. Utah law also requires headlights to be on whenever your windshield wipers are in continuous use."
+        },
+        {
+          "type": "paragraph",
+          "text": "On wet or icy roads, brake gently and avoid sudden steering or acceleration to prevent skidding. If you start to skid, ease off the gas and steer in the direction you want the front of the vehicle to go. Bridges and overpasses freeze before other road surfaces, so approach them with extra caution in cold weather."
+        },
+        {
+          "type": "paragraph",
+          "text": "In fog or heavy snow, use low-beam headlights rather than high beams, which reflect off the moisture and reduce visibility further. If conditions become too dangerous to continue, pull completely off the road to a safe location and turn on your hazard lights."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park only where it is legal and safe. Do not park within an intersection, on a crosswalk, on a sidewalk, in front of a driveway, within 15 feet of a fire hydrant, or in a space reserved for people with disabilities unless you display a valid permit. Always set your parking brake and shift to park, or into gear if you have a manual transmission."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking on a hill, turn your wheels so the vehicle will roll away from traffic if it moves. Facing downhill, turn your wheels toward the curb; facing uphill with a curb, turn them away from the curb so the rear of a tire rests against it. Without a curb, always turn the wheels toward the edge of the road."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seat belts save lives, and in Utah everyone in the vehicle must be properly restrained. Children younger than 8 years old must ride in an approved child safety seat or booster seat unless they are at least 57 inches tall, and younger children should ride in the back seat away from active airbags."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "You may apply for a Utah learner permit at age 15. Before testing for a license, teen drivers must complete a state-approved driver education course and log at least 40 hours of supervised driving practice, including at least 10 hours at night. While holding a learner permit, you must be supervised by a licensed driver who is at least 21 years old seated beside you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Teens under 18 must hold the learner permit for at least six months before applying for a driver license. The written knowledge test for a Utah license has 50 questions, and you must answer at least 80 percent correctly to pass, in addition to a separate test on road signs."
+        },
+        {
+          "type": "paragraph",
+          "text": "After getting a license, new drivers under 18 face additional restrictions for the first six months. They may not drive between midnight and 5:00 a.m. unless supervised or for specific reasons, and they may not carry passengers other than immediate family members during that period."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Utah uses a point and suspension system to penalize unsafe driving. Accumulating too many points or committing serious offenses can lead to license suspension. A DUI conviction carries fines, possible jail time, license suspension, and required alcohol education, and refusing a chemical test under Utah's implied consent law results in an automatic license suspension."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some violations are primary offenses, meaning an officer can stop and cite you for them alone. Texting while driving, seat belt violations, and exceeding the speed limit are all enforceable on their own, and fines often increase in school zones and construction work zones."
+        },
+        {
+          "type": "paragraph",
+          "text": "Driving without a valid license, driving on a suspended license, or driving without insurance carries serious penalties including fines and possible vehicle impoundment. Maintaining a clean record, carrying required insurance, and obeying traffic laws keep you and others safe and protect your driving privileges."
+        }
+      ]
+    }
+  ]
+}

@@ -3,6 +3,12 @@
   "default": "va",
   "states": [
     {
+      "id": "ut",
+      "name": "Utah",
+      "abbr": "UT",
+      "config": "ut/config.v1.json"
+    },
+    {
       "id": "va",
       "name": "Virginia",
       "abbr": "VA",

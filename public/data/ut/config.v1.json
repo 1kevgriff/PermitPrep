@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "ut",
+  "name": "Utah",
+  "abbr": "UT",
+  "agency": "Utah Driver License Division (DLD)",
+  "brand": {
+    "mark": "UT",
+    "appName": "Permit Prep",
+    "agencyPill": "Utah Driver License Division (DLD)"
+  },
+  "home": {
+    "eyebrow": "Utah learner's permit",
+    "heading": "Pass your Utah permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 50,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Utah Driver Handbook",
+    "sourceUrl": "https://dld.utah.gov/wp-content/uploads/Driver-Handbook-REV-3.2026.pdf"
+  },
+  "data": {
+    "manual": "ut/manual.v1.json",
+    "questions": "ut/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}
