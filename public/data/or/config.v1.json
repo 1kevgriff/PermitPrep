@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "or",
+  "name": "Oregon",
+  "abbr": "OR",
+  "agency": "Oregon DMV",
+  "brand": {
+    "mark": "OR",
+    "appName": "Permit Prep",
+    "agencyPill": "Oregon DMV"
+  },
+  "home": {
+    "eyebrow": "Oregon learner's permit",
+    "heading": "Pass your Oregon permit test"
+  },
+  "exam": {
+    "signCount": 10,
+    "generalCount": 35,
+    "generalPassPct": 80
+  },
+  "manual": {
+    "source": "Oregon Driver Manual: 2024-2025",
+    "sourceUrl": "https://www.oregon.gov/ODOT/Forms/DMV/37.pdf"
+  },
+  "data": {
+    "manual": "or/manual.v1.json",
+    "questions": "or/questions.v1.json",
+    "signs": "signs.v1.json"
+  }
+}

@@ -1,0 +1,2921 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "sign-green-light-or-arrow",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "green-light-or-arrow",
+      "image": "images/signs/sign-8-3.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Go if the way is clear",
+        "Move out of this lane safely",
+        "Stop for pedestrians when the beacon is flashing or solid red",
+        "You may turn in the arrow's direction"
+      ],
+      "answerIndex": 0,
+      "explanation": "At a green light, you may go if the way is clear. At a green arrow, you may go in the direction of the arrow if the way is clear. If you are turning without a green arrow, you must yield the right-of-way to vehicles coming from the other direction and pedestrians in the intersection. Be sure to check for less visible vehicles such as motorcycles, bicycles, and mopeds. If a traffic light changes from red to green while a pedestrian is in the street, allow the pedestrian to cross the street before turning.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-red-x",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "red-x",
+      "image": "images/signs/sign-8-5.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "An intersection is ahead",
+        "Watch for deer crossing the road",
+        "Never drive in this lane",
+        "Traffic signals are ahead \u2014 be ready to stop"
+      ],
+      "answerIndex": 2,
+      "explanation": "Never drive in a lane marked with a red X signal.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-yellow-x-or-yellow-diagonal-downward-arrow",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "yellow-x-or-yellow-diagonal-downward-arrow",
+      "image": "images/signs/sign-8-12.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Go if the way is clear",
+        "You may turn in the arrow's direction",
+        "Stop for pedestrians when the beacon is flashing or solid red",
+        "Move out of this lane safely"
+      ],
+      "answerIndex": 3,
+      "explanation": "These signals mean that you should move out of the lane as soon as safely possible.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-green-arrow",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "green-arrow",
+      "image": "images/signs/sign-8-7.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "You may turn in the arrow's direction",
+        "You may drive in this lane",
+        "Stop for pedestrians when the beacon is flashing or solid red",
+        "Go if the way is clear"
+      ],
+      "answerIndex": 1,
+      "explanation": "You are permitted to drive in a lane marked with a green arrow signal.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-left-turn-arrow",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "left-turn-arrow",
+      "image": "images/signs/sign-8-10.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "You may drive in this lane",
+        "You may turn in the arrow's direction",
+        "Move out of this lane safely",
+        "Go if the way is clear"
+      ],
+      "answerIndex": 1,
+      "explanation": "You are permitted to enter in a lane marked with a one-way or two-way arrow only to turn in the direction of the arrow.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-pedestrian-hybrid-beacons-phbs",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "pedestrian-hybrid-beacons-phbs",
+      "image": "images/signs/sign-8-13.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "You may turn in the arrow's direction",
+        "Move out of this lane safely",
+        "You may drive in this lane",
+        "Stop for pedestrians when the beacon is flashing or solid red"
+      ],
+      "answerIndex": 3,
+      "explanation": "PHBs appear over intersections without stoplights and alert drivers when pedestrians are at a crosswalk. One yellow light at the bottom flashes when a pedestrian activates the PHB. Next, the yellow light turns solid to alert drivers to prepare to stop. Then, the top two red lights on the PHB turn solid while a walk signal appears at the crosswalk, and drivers must stop. Lastly, while the walk signal counts down for the pedestrians, the PHB's two red lights alternate flashing, telling the driver that if the crosswalk is now clear, they may proceed with caution.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-octagon-stop",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "octagon-stop",
+      "image": "images/signs/sign-8-9.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Come to a complete stop",
+        "School zone or school crossing ahead",
+        "Warns of conditions or hazards ahead",
+        "Gives the law or directional information"
+      ],
+      "answerIndex": 0,
+      "explanation": "This eight-sided shape always means stop. You must come to a complete stop at the sign, stop line, pedestrian crosswalk or curb. Wait for any vehicle or pedestrian to clear the way. At some intersections you'll find a sign beneath the stop sign that reads \"All Way\" or \"4 Way.\" At these intersections all vehicles on all roads leading into the intersection must stop. If you get to the intersection at the same time as other vehicles, the driver on the left must yield to the driver on the right.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-triangle-yield",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "triangle-yield",
+      "image": "images/signs/sign-8-2.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Warns of conditions or hazards ahead",
+        "Yield \u2014 slow down and give the right-of-way",
+        "Come to a complete stop",
+        "Gives the law or directional information"
+      ],
+      "answerIndex": 1,
+      "explanation": "You must slow down as you come to the intersection. Be prepared to stop. Let any vehicles, pedestrians or bicyclists safely pass before you",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-rectangle-regulatory-or-guide",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "rectangle-regulatory-or-guide",
+      "image": "images/signs/sign-9-5.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Warns of conditions or hazards ahead",
+        "Gives the law or directional information",
+        "School zone or school crossing ahead",
+        "Yield \u2014 slow down and give the right-of-way"
+      ],
+      "answerIndex": 1,
+      "explanation": "Vertical signs generally give instructions or tell you the law. Horizontal signs may give directions or information.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-diamond-warning",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "diamond-warning",
+      "image": "images/signs/sign-9-3.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Come to a complete stop",
+        "Warns of conditions or hazards ahead",
+        "School zone or school crossing ahead",
+        "Yield \u2014 slow down and give the right-of-way"
+      ],
+      "answerIndex": 1,
+      "explanation": "These signs warn you of special conditions or hazards ahead. Slow down and drive with caution. Be ready to stop.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-pentagon-school-zone-school-crossing",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "pentagon-school-zone-school-crossing",
+      "image": "images/signs/sign-9-2.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Yield \u2014 slow down and give the right-of-way",
+        "Warns of conditions or hazards ahead",
+        "School zone or school crossing ahead",
+        "Come to a complete stop"
+      ],
+      "answerIndex": 2,
+      "explanation": "This five-sided shape marks school zones and warns you about school crossings. Two signs may be used together to show the actual location of the crosswalk.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-speed-limit",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "speed-limit",
+      "image": "images/signs/sign-9-6.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "U-turns are not allowed",
+        "No passing \u2014 start of a no-passing zone",
+        "Maximum legal speed in good conditions",
+        "Tells which turns are required or allowed from a lane"
+      ],
+      "answerIndex": 2,
+      "explanation": "These signs tell you the maximum legal speed that you may drive on the road where the sign is posted when weather conditions are good. Some roads have electronic speed limit signs that change based on weather or traffic conditions. During rain, snow and ice, you may receive a ticket for driving too fast for the conditions even if you are driving at or less than the posted speed limit.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-do-not-enter-wrong-way",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "do-not-enter-wrong-way",
+      "image": "images/signs/sign-9-10.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Keep right of the island, median, or barrier",
+        "Traffic flows only in the direction of the arrow",
+        "U-turns are not allowed",
+        "Do not drive in this direction"
+      ],
+      "answerIndex": 3,
+      "explanation": "These signs mean you cannot drive in that direction. If you drive past these signs you are going in the wrong direction and could get into a head-on crash with vehicles headed your way. Immediately slow down, pull over, and cautiously turn around.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-one-way",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "one-way",
+      "image": "images/signs/sign-9-14.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Right turns are not allowed",
+        "Traffic flows only in the direction of the arrow",
+        "No passing \u2014 start of a no-passing zone",
+        "Parking reserved for disabled permit holders"
+      ],
+      "answerIndex": 1,
+      "explanation": "Traffic flows only in the direction of the arrow.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-no-left-turn",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "no-left-turn",
+      "image": "images/signs/sign-9-8.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Left turns are not allowed",
+        "Parking reserved for disabled permit holders",
+        "Right turns are not allowed",
+        "Turning left on green must yield to oncoming traffic"
+      ],
+      "answerIndex": 0,
+      "explanation": "Left turns are against the law. In Virginia, U-turns are considered as two left turns and are illegal if this sign is posted.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-no-right-turn",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "no-right-turn",
+      "image": "images/signs/sign-9-11.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Right turns are not allowed",
+        "Keep right of the island, median, or barrier",
+        "Turning left on green must yield to oncoming traffic",
+        "Traffic flows only in the direction of the arrow"
+      ],
+      "answerIndex": 0,
+      "explanation": "Right turns are illegal. Do not make a right turn when you see this sign.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-no-u-turn",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "no-u-turn",
+      "image": "images/signs/sign-9-12.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Keep right of the island, median, or barrier",
+        "Left turns are not allowed",
+        "U-turns are not allowed",
+        "Parking reserved for disabled permit holders"
+      ],
+      "answerIndex": 2,
+      "explanation": "U-turns are illegal. Do not make a U-turn when you see this sign.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-no-turn-on-red",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "no-turn-on-red",
+      "image": "images/signs/sign-9-13.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Lane reserved for buses and carpools (HOV)",
+        "Maximum legal speed in good conditions",
+        "Traffic flows only in the direction of the arrow",
+        "Do not turn while the light is red"
+      ],
+      "answerIndex": 3,
+      "explanation": "You may not turn on the red light. Wait for the signal to turn green.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-do-not-pass",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "do-not-pass",
+      "image": "images/signs/sign-9-15.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "No passing \u2014 start of a no-passing zone",
+        "Do not drive in this direction",
+        "Right turns are not allowed",
+        "Parking reserved for disabled permit holders"
+      ],
+      "answerIndex": 0,
+      "explanation": "This sign marks the beginning of a no passing zone. You may not pass cars ahead of you in your lane, even if the way is clear.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-left-turn-yield-on-green",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "left-turn-yield-on-green",
+      "image": "images/signs/sign-9-16.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Parking reserved for disabled permit holders",
+        "Lane reserved for buses and carpools (HOV)",
+        "Turning left on green must yield to oncoming traffic",
+        "Do not drive in this direction"
+      ],
+      "answerIndex": 2,
+      "explanation": "This sign is used with a traffic signal. It tells you that the traffic turning left at a green light does not have the right-of-way and must yield to traffic coming from the other direction. Stop and look for oncoming traffic, then proceed with caution.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-keep-right",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "keep-right",
+      "image": "images/signs/sign-9-17.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "U-turns are not allowed",
+        "Keep right of the island, median, or barrier",
+        "Right turns are not allowed",
+        "Do not drive in this direction"
+      ],
+      "answerIndex": 1,
+      "explanation": "A traffic island, median or barrier is ahead. Keep to the side indicated by the arrow.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-lane-use-control",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "lane-use-control",
+      "image": "images/signs/sign-9-18.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Tells which turns are required or allowed from a lane",
+        "Do not turn while the light is red",
+        "Parking reserved for disabled permit holders",
+        "U-turns are not allowed"
+      ],
+      "answerIndex": 0,
+      "explanation": "These signs are used where turns are required or where special turning movements are permitted for specific lanes. Traffic in the lane must turn in the direction of the arrow.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-high-occupancy-vehicle",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "high-occupancy-vehicle",
+      "image": "images/signs/sign-9-20.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Do not turn while the light is red",
+        "Do not drive in this direction",
+        "Lane reserved for buses and carpools (HOV)",
+        "Traffic flows only in the direction of the arrow"
+      ],
+      "answerIndex": 2,
+      "explanation": "These signs indicate lanes reserved for buses and vehicles with a driver and one or more passengers as specified on the sign.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-disabled-parking",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "disabled-parking",
+      "image": "images/signs/sign-9-21.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Parking reserved for disabled permit holders",
+        "Traffic flows only in the direction of the arrow",
+        "Tells which turns are required or allowed from a lane",
+        "Do not turn while the light is red"
+      ],
+      "answerIndex": 0,
+      "explanation": "Parking spaces marked with these signs are reserved for people with disabled parking permits.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-advisory-speed",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "advisory-speed",
+      "image": "images/signs/sign-10-1.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "A roundabout (circular intersection) is ahead",
+        "A joint creates a bump across the lane \u2014 slow down",
+        "Recommended safe speed for the road or exit ahead",
+        "Watch for tractors and slow farm equipment"
+      ],
+      "answerIndex": 2,
+      "explanation": "This sign indicates the maximum safe speed for a highway exit.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-stop-ahead-yield-ahead",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "stop-ahead-yield-ahead",
+      "image": "images/signs/sign-10-19.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "A stop or yield sign is ahead",
+        "Watch for bicycles crossing or sharing the road",
+        "Start of a no-passing zone",
+        "The road ahead is divided by a median"
+      ],
+      "answerIndex": 0,
+      "explanation": "A stop sign or yield sign is ahead. Slow down and be ready to stop.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-signal-ahead",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "signal-ahead",
+      "image": "images/signs/sign-10-2.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Your road ends ahead at a T intersection",
+        "Traffic signals are ahead \u2014 be ready to stop",
+        "Railroad crossing with gates \u2014 never drive around a lowered gate",
+        "Watch for bicycles crossing or sharing the road"
+      ],
+      "answerIndex": 1,
+      "explanation": "Traffic signals are ahead. Slow down and be ready to stop.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-no-passing-zone",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "no-passing-zone",
+      "image": "images/signs/sign-10-3.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Start of a no-passing zone",
+        "The road splits ahead \u2014 bear right or left",
+        "Your road ends ahead at a T intersection",
+        "Watch for tractors and slow farm equipment"
+      ],
+      "answerIndex": 0,
+      "explanation": "This sign marks the beginning of a no passing zone. You may not pass cars ahead of you in your lane, even if the way is clear.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-merge",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "merge",
+      "image": "images/signs/sign-10-4.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Never drive in this lane",
+        "Two lanes are merging into one",
+        "Watch for bicycles crossing or sharing the road",
+        "A roundabout (circular intersection) is ahead"
+      ],
+      "answerIndex": 1,
+      "explanation": "Two lanes of traffic moving in the same direction are about to become one. Drivers in both lanes are responsible for merging safely.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-lane-reduction",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "lane-reduction",
+      "image": "images/signs/sign-10-5.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Traffic signals are ahead \u2014 be ready to stop",
+        "The right lane ends ahead; merge left",
+        "Low overpass ahead \u2014 do not enter if too tall",
+        "Watch for horse-drawn buggies on the road"
+      ],
+      "answerIndex": 1,
+      "explanation": "The right lane ends soon. Drivers in the right lane must merge left when space opens up. Drivers in the left lane should allow other vehicles to merge smoothly.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-divided-highway-begins",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "divided-highway-begins",
+      "image": "images/signs/sign-10-6.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "A right curve with a side road joining ahead",
+        "An intersection is ahead",
+        "A stop or yield sign is ahead",
+        "The road ahead is divided by a median"
+      ],
+      "answerIndex": 3,
+      "explanation": "The highway ahead is split into two separate roadways by a median or divider and each roadway is one-way. Keep right.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-divided-highway-ends",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "divided-highway-ends",
+      "image": "images/signs/sign-10-7.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "The divided highway ends; expect two-way traffic",
+        "The right lane ends ahead; merge left",
+        "Two lanes are merging into one",
+        "Watch for pedestrians crossing"
+      ],
+      "answerIndex": 0,
+      "explanation": "The highway ahead no longer has a median or divider. Traffic goes in both directions. Keep right.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-slippery-when-wet",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "slippery-when-wet",
+      "image": "images/signs/sign-10-8.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Never drive in this lane",
+        "The road ahead is divided by a median",
+        "Railroad crossing \u2014 yield to trains",
+        "Road is slippery when wet \u2014 slow down"
+      ],
+      "answerIndex": 3,
+      "explanation": "When pavement is wet, reduce your speed. Do not brake hard or change direction suddenly. Increase the distance between your car and the one ahead of you.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-low-clearance-sign",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "low-clearance-sign",
+      "image": "images/signs/sign-10-9.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Steep downgrade ahead \u2014 check your brakes",
+        "Low-ground railroad crossing \u2014 long vehicles may get stuck",
+        "Low overpass ahead \u2014 do not enter if too tall",
+        "Two lanes are merging into one"
+      ],
+      "answerIndex": 2,
+      "explanation": "The overpass ahead has a low clearance. Do not proceed if your vehicle is taller than the height shown on the sign.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-hill",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "hill",
+      "image": "images/signs/sign-10-10.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Low overpass ahead \u2014 do not enter if too tall",
+        "Steep downgrade ahead \u2014 check your brakes",
+        "Watch for tractors and slow farm equipment",
+        "A stop or yield sign is ahead"
+      ],
+      "answerIndex": 1,
+      "explanation": "A steep grade is ahead. Check your brakes.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-deer-crossing",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "deer-crossing",
+      "image": "images/signs/sign-10-11.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Low overpass ahead \u2014 do not enter if too tall",
+        "Watch for deer crossing the road",
+        "A railroad crossing is ahead",
+        "Your road ends ahead at a T intersection"
+      ],
+      "answerIndex": 1,
+      "explanation": "Deer cross the roadway in this area. Slow down, be alert and be ready to stop.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-horse-drawn-buggies",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "horse-drawn-buggies",
+      "image": "images/signs/sign-10-21.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Railroad crossing \u2014 yield to trains",
+        "Watch for horse-drawn buggies on the road",
+        "Right curve ahead \u2014 slow to the posted safe speed",
+        "The road ahead is divided by a median"
+      ],
+      "answerIndex": 1,
+      "explanation": "Regularly travel in this area. Slow down and don't use the horn. State law requires motorists to pass with at least three feet of clearance when the way is clear.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-tractors-and-farm-equipment",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "tractors-and-farm-equipment",
+      "image": "images/signs/sign-10-22.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "An intersection is ahead",
+        "Steep downgrade ahead \u2014 check your brakes",
+        "A joint creates a bump across the lane \u2014 slow down",
+        "Watch for tractors and slow farm equipment"
+      ],
+      "answerIndex": 3,
+      "explanation": "Regularly travel in this area. Be ready to slow down or stop. Only pass when the way is clear.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-pedestrian-crossing",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "pedestrian-crossing",
+      "image": "images/signs/sign-10-12.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Watch for pedestrians crossing",
+        "A right curve with a side road joining ahead",
+        "Watch for children \u2014 school zone or crossing",
+        "A stop or yield sign is ahead"
+      ],
+      "answerIndex": 0,
+      "explanation": "Watch for people who are walking, riding bicycles or other devices entering a crosswalk or crossing your path. Slow down and be prepared to stop. A second sign with an arrow may show the actual location of the crosswalk.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-bicycle-crossing-bike-path",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "bicycle-crossing-bike-path",
+      "image": "images/signs/sign-10-18.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "A series of curves ahead",
+        "Watch for tractors and slow farm equipment",
+        "Watch for bicycles crossing or sharing the road",
+        "Sharp right turn ahead \u2014 slow down"
+      ],
+      "answerIndex": 2,
+      "explanation": "Bicycles regularly cross or ride beside traffic in this area. Drive with caution. A second sign with an arrow may show the actual location of the bike crossing.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-school-zone-school-crossing",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "school-zone-school-crossing",
+      "image": "images/signs/sign-10-16.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "The divided highway ends; expect two-way traffic",
+        "Watch for children \u2014 school zone or crossing",
+        "Railroad crossing with flashing lights \u2014 stop when flashing",
+        "Never drive in this lane"
+      ],
+      "answerIndex": 1,
+      "explanation": "Watch out for children crossing the street or playing. Be ready to slow down or stop at school zones and surrounding areas. Obey the speed limit and signals from crossing guards. A second sign with an arrow may show the actual location of the sidewalk.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-open-joints",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "open-joints",
+      "image": "images/signs/sign-11-3.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Open joints on a bridge or ramp ahead \u2014 slow down",
+        "An intersection is ahead",
+        "Watch for tractors and slow farm equipment",
+        "Watch for children \u2014 school zone or crossing"
+      ],
+      "answerIndex": 0,
+      "explanation": "Slow down. Open joints on bridges or ramps could cause a motorcyclist to lose control of the motorcycle.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-expansion-joints",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "expansion-joints",
+      "image": "images/signs/sign-11-4.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "A joint creates a bump across the lane \u2014 slow down",
+        "A roundabout (circular intersection) is ahead",
+        "Traffic signals are ahead \u2014 be ready to stop",
+        "A railroad crossing is ahead"
+      ],
+      "answerIndex": 0,
+      "explanation": "This sign is used when a joint across lanes creates a bump or is wide enough to cause loss of traction in wet weather.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-intersections",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "intersections",
+      "image": "images/signs/sign-11-5.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Watch for tractors and slow farm equipment",
+        "An intersection is ahead",
+        "Sharp right turn ahead \u2014 slow down",
+        "Railroad crossing \u2014 yield to trains"
+      ],
+      "answerIndex": 1,
+      "explanation": "An intersection is ahead. Be alert for vehicles entering the road on which you are traveling.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-y-intersection",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "y-intersection",
+      "image": "images/signs/sign-11-7.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "A joint creates a bump across the lane \u2014 slow down",
+        "The road splits ahead \u2014 bear right or left",
+        "Watch for bicycles crossing or sharing the road",
+        "Open joints on a bridge or ramp ahead \u2014 slow down"
+      ],
+      "answerIndex": 1,
+      "explanation": "You must bear either right or left ahead.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-t-intersection",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "t-intersection",
+      "image": "images/signs/sign-11-8.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Recommended safe speed for the road or exit ahead",
+        "Watch for horse-drawn buggies on the road",
+        "Railroad crossing \u2014 yield to trains",
+        "Your road ends ahead at a T intersection"
+      ],
+      "answerIndex": 3,
+      "explanation": "The roadway you are traveling on ends ahead at a stop sign. You must turn right or left after yielding to oncoming traffic and pedestrians.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-roundabout",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "roundabout",
+      "image": "images/signs/sign-11-17.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "A roundabout (circular intersection) is ahead",
+        "Sharp right then left turns ahead",
+        "Never drive in this lane",
+        "Road is slippery when wet \u2014 slow down"
+      ],
+      "answerIndex": 0,
+      "explanation": "These signs indicate a circular intersection with an island in the center is ahead. Also called traffic circles, these intersections may have one or more lanes. Entering traffic must yield the right-of-way to traffic already in the circle and travel in a counter clockwise direction.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-right-curve-side-road",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "right-curve-side-road",
+      "image": "images/signs/sign-11-9.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "An intersection is ahead",
+        "A right curve with a side road joining ahead",
+        "Road is slippery when wet \u2014 slow down",
+        "Recommended safe speed for the road or exit ahead"
+      ],
+      "answerIndex": 1,
+      "explanation": "The road ahead curves right and a side road joins from the left within the curve. Be alert for vehicles entering the roadway you are traveling on.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-sharp-right-turn",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "sharp-right-turn",
+      "image": "images/signs/sign-11-10.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "An intersection is ahead",
+        "Recommended safe speed for the road or exit ahead",
+        "The road ahead is divided by a median",
+        "Sharp right turn ahead \u2014 slow down"
+      ],
+      "answerIndex": 3,
+      "explanation": "Slow down and be prepared for a sharp right turn in the road ahead.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-sharp-right-and-left-turns",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "sharp-right-and-left-turns",
+      "image": "images/signs/sign-11-11.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Watch for pedestrians crossing",
+        "Never drive in this lane",
+        "The road ahead is divided by a median",
+        "Sharp right then left turns ahead"
+      ],
+      "answerIndex": 3,
+      "explanation": "Slow down and be prepared for the road ahead to turn sharply right, then left.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-right-and-left-curves",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "right-and-left-curves",
+      "image": "images/signs/sign-11-12.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Watch for children \u2014 school zone or crossing",
+        "Watch for horse-drawn buggies on the road",
+        "Recommended safe speed for the road or exit ahead",
+        "The road curves right, then left"
+      ],
+      "answerIndex": 3,
+      "explanation": "The road ahead curves right, then left. Slow down.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-right-curve-with-safe-speed-indicator",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "right-curve-with-safe-speed-indicator",
+      "image": "images/signs/sign-11-13.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Railroad crossing with gates \u2014 never drive around a lowered gate",
+        "Right curve ahead \u2014 slow to the posted safe speed",
+        "Low overpass ahead \u2014 do not enter if too tall",
+        "Watch for bicycles crossing or sharing the road"
+      ],
+      "answerIndex": 1,
+      "explanation": "The road ahead curves right. Slow down to the safe speed indicated.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-winding-road",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "winding-road",
+      "image": "images/signs/sign-11-14.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Railroad crossing \u2014 yield to trains",
+        "A series of curves ahead",
+        "Your road ends ahead at a T intersection",
+        "Road is slippery when wet \u2014 slow down"
+      ],
+      "answerIndex": 1,
+      "explanation": "The road ahead winds with a series of turns or curves. On all curves, slow down for better control.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-low-ground-railroad-crossing",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "low-ground-railroad-crossing",
+      "image": "images/signs/sign-11-2.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Sharp right turn ahead \u2014 slow down",
+        "A railroad crossing is ahead",
+        "Low-ground railroad crossing \u2014 long vehicles may get stuck",
+        "Sharp right then left turns ahead"
+      ],
+      "answerIndex": 2,
+      "explanation": "A steep slope where the railroad tracks cross the road may cause the bottom of low vehicles to get caught or drag on the tracks.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-railroad-crossing",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "railroad-crossing",
+      "image": "images/signs/sign-11-15.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "The divided highway ends; expect two-way traffic",
+        "Railroad crossing with flashing lights \u2014 stop when flashing",
+        "A joint creates a bump across the lane \u2014 slow down",
+        "A railroad crossing is ahead"
+      ],
+      "answerIndex": 3,
+      "explanation": "Advance warning signs are placed before a railroad crossing. These signs warn you to look, listen, slow down and be prepared to stop for trains or any vehicles using the rails.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-railroad-crossbuck",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "railroad-crossbuck",
+      "image": "images/signs/sign-11-16.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "The road curves right, then left",
+        "Watch for deer crossing the road",
+        "Railroad crossing \u2014 yield to trains",
+        "Watch for tractors and slow farm equipment"
+      ],
+      "answerIndex": 2,
+      "explanation": "This sign is a warning of a railroad crossing. Look, listen, slow down and be prepared to stop for trains or any vehicles using the rails. Trains may be approaching from either direction. If there is more than one track, trains may be approaching from either direction on either track.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-railroad-crossbuck-and-flashing-lights",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "railroad-crossbuck-and-flashing-lights",
+      "image": "images/signs/sign-11-18.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Railroad crossing \u2014 yield to trains",
+        "Railroad crossing with flashing lights \u2014 stop when flashing",
+        "The road splits ahead \u2014 bear right or left",
+        "Sharp right then left turns ahead"
+      ],
+      "answerIndex": 1,
+      "explanation": "Flashing lights may be used with crossbuck signs. Always stop when the light begins to flash and be alert for approaching trains. Do not proceed until all trains or any other vehicles using the rails have passed, the tracks are clear, and the lights are no longer flashing. Be especially alert at multi- track crossings because a second train could be approaching from the opposite direction.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-crossbuck-flashing-lights-and-gate",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "crossbuck-flashing-lights-and-gate",
+      "image": "images/signs/sign-11-1.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Never drive in this lane",
+        "Railroad crossing with gates \u2014 never drive around a lowered gate",
+        "Sharp right then left turns ahead",
+        "A railroad crossing is ahead"
+      ],
+      "answerIndex": 1,
+      "explanation": "Gates are used with flashing light signals at some crossings. Stop when the lights begin to flash and before the gate lowers. Remain stopped until the gates are raised and the lights stop flashing. Do not attempt to drive around the lowered gate.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-rough-road-bump-or-uneven-lanes",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "rough-road-bump-or-uneven-lanes",
+      "image": "images/signs/sign-12-1.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "A flagger is directing traffic \u2014 obey their signals",
+        "Speed is automatically photo-enforced here",
+        "Rough road, bump, or uneven lanes ahead",
+        "Flashing arrow board \u2014 move out of the closed lane"
+      ],
+      "answerIndex": 2,
+      "explanation": "These signs are used when certain road conditions, such as loose gravel or road construction, affect the roadway surface and create potentially difficult conditions for motorists, especially motorcyclists.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-road-construction-ahead-detour",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "road-construction-ahead-detour",
+      "image": "images/signs/sign-12-8.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "A flagger is directing traffic \u2014 obey their signals",
+        "Road construction or detour ahead",
+        "Flashing arrow board \u2014 move out of the closed lane",
+        "Speed is automatically photo-enforced here"
+      ],
+      "answerIndex": 1,
+      "explanation": "These signs indicate a change in the traffic pattern or route ahead. Slow down. Unusual or potentially dangerous conditions are ahead.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-flashing-arrow-boards",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "flashing-arrow-boards",
+      "image": "images/signs/sign-12-3.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Flashing arrow board \u2014 move out of the closed lane",
+        "Rough road, bump, or uneven lanes ahead",
+        "Barricades, cones, and barriers guide traffic in work zones",
+        "A flagger is directing traffic \u2014 obey their signals"
+      ],
+      "answerIndex": 0,
+      "explanation": "Large flashing arrow boards or flashing message signs in work zones direct drivers to proceed into different traffic lanes and inform them that part of the road ahead is closed.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-flaggers",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "flaggers",
+      "image": "images/signs/sign-12-4.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "A flagger is directing traffic \u2014 obey their signals",
+        "Road construction or detour ahead",
+        "Flashing arrow board \u2014 move out of the closed lane",
+        "Barricades, cones, and barriers guide traffic in work zones"
+      ],
+      "answerIndex": 0,
+      "explanation": "Flaggers are highway workers who normally wear orange or yellow vests, or yellow-green shirts or jackets. They use STOP/SLOW paddles or red flags to stop or direct traffic through the work zone, and to let other workers or construction vehicles cross the road.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-photo-speed-enforcement",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "photo-speed-enforcement",
+      "image": "images/signs/sign-12-10.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Flashing arrow board \u2014 move out of the closed lane",
+        "Rough road, bump, or uneven lanes ahead",
+        "Speed is automatically photo-enforced here",
+        "A flagger is directing traffic \u2014 obey their signals"
+      ],
+      "answerIndex": 2,
+      "explanation": "This sign indicates that automated photo enforcement is in place for speeding in a work zone. Always obey the posted speed limit in a work zone.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "sign-traffic-control-devices",
+      "type": "sign",
+      "topic": "signs",
+      "signId": "traffic-control-devices",
+      "image": "images/signs/sign-12-7.png",
+      "prompt": "What does this sign mean?",
+      "choices": [
+        "Road construction or detour ahead",
+        "Barricades, cones, and barriers guide traffic in work zones",
+        "Flashing arrow board \u2014 move out of the closed lane",
+        "A flagger is directing traffic \u2014 obey their signals"
+      ],
+      "answerIndex": 1,
+      "explanation": "Barricades, vertical signs, concrete barriers, drums and cones are the most common devices used to guide drivers safely through work zones. When driving near the devices, keep your vehicle in the middle of the lane and obey the posted speed limit. As you leave the work zone, stay in your lane and maintain your speed. Don't change lanes until you are completely clear of the work zone.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "gen-or-traffic-signals-and-control-001",
+      "type": "general",
+      "topic": "traffic-signals-and-control",
+      "prompt": "What does a steady red traffic light mean?",
+      "choices": [
+        "Stop and remain stopped until the light turns green",
+        "Slow down and proceed with caution",
+        "Stop only if other traffic is present",
+        "Speed up to clear the intersection"
+      ],
+      "answerIndex": 0,
+      "explanation": "A steady red light means you must come to a full stop and wait until the light turns green and the way is clear.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "gen-or-traffic-signals-and-control-002",
+      "type": "general",
+      "topic": "traffic-signals-and-control",
+      "prompt": "A flashing red traffic signal means you should:",
+      "choices": [
+        "Stop, then proceed when it is safe",
+        "Continue without stopping",
+        "Stop and wait for a green light",
+        "Yield only to pedestrians"
+      ],
+      "answerIndex": 0,
+      "explanation": "A flashing red light works like a stop sign: stop completely, then go when it is safe.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "gen-or-traffic-signals-and-control-003",
+      "type": "general",
+      "topic": "traffic-signals-and-control",
+      "prompt": "What does a steady yellow traffic light mean?",
+      "choices": [
+        "The light is about to turn red, so stop if you can do so safely",
+        "Speed up to beat the red light",
+        "The light is about to turn green",
+        "Stop and remain stopped"
+      ],
+      "answerIndex": 0,
+      "explanation": "A yellow light warns that red is coming, so you should stop if it is safe rather than rushing through.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "gen-or-traffic-signals-and-control-004",
+      "type": "general",
+      "topic": "traffic-signals-and-control",
+      "prompt": "What shape and color is a stop sign?",
+      "choices": [
+        "A red octagon",
+        "A yellow diamond",
+        "A white rectangle",
+        "An orange triangle"
+      ],
+      "answerIndex": 0,
+      "explanation": "A stop sign is always a red octagon, a shape used for no other sign so it is recognizable from any angle.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "gen-or-traffic-signals-and-control-005",
+      "type": "general",
+      "topic": "traffic-signals-and-control",
+      "prompt": "A flashing yellow traffic light means:",
+      "choices": [
+        "Slow down and proceed with caution",
+        "Stop completely before proceeding",
+        "Stop and wait for a green light",
+        "The signal is broken and should be ignored"
+      ],
+      "answerIndex": 0,
+      "explanation": "A flashing yellow light tells you to slow down and cross or proceed carefully.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "gen-or-traffic-signals-and-control-006",
+      "type": "general",
+      "topic": "traffic-signals-and-control",
+      "prompt": "What does a green arrow signal mean?",
+      "choices": [
+        "You may proceed in the direction of the arrow with the right-of-way",
+        "You must stop before turning",
+        "You may only turn if the arrow flashes",
+        "Oncoming traffic also has a green light"
+      ],
+      "answerIndex": 0,
+      "explanation": "A green arrow gives you a protected movement in the arrow's direction while conflicting traffic is stopped.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "gen-or-traffic-signals-and-control-007",
+      "type": "general",
+      "topic": "traffic-signals-and-control",
+      "prompt": "What does a yellow diamond-shaped sign generally indicate?",
+      "choices": [
+        "A warning about conditions ahead",
+        "A regulatory speed limit",
+        "The end of a highway",
+        "A pedestrian-only zone"
+      ],
+      "answerIndex": 0,
+      "explanation": "Yellow diamond signs are warning signs that alert you to hazards or changes in the road ahead.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "gen-or-traffic-signals-and-control-008",
+      "type": "general",
+      "topic": "traffic-signals-and-control",
+      "prompt": "A solid yellow line on your side of the road means:",
+      "choices": [
+        "You may not cross it to pass",
+        "You may pass when the road is clear",
+        "The road ahead ends",
+        "Two-way traffic merges"
+      ],
+      "answerIndex": 0,
+      "explanation": "A solid yellow line on your side prohibits passing across it because of limited sight distance or other hazards.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "gen-or-traffic-signals-and-control-009",
+      "type": "general",
+      "topic": "traffic-signals-and-control",
+      "prompt": "What color are construction and work zone signs in Oregon?",
+      "choices": [
+        "Orange",
+        "Blue",
+        "Green",
+        "Brown"
+      ],
+      "answerIndex": 0,
+      "explanation": "Orange signs mark construction and work zones, where you should slow down and watch for workers.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "gen-or-traffic-signals-and-control-010",
+      "type": "general",
+      "topic": "traffic-signals-and-control",
+      "prompt": "When a traffic signal is completely dark due to a power outage, you should treat the intersection as:",
+      "choices": [
+        "A four-way stop",
+        "A green light",
+        "A yield with no need to stop",
+        "Closed to all traffic"
+      ],
+      "answerIndex": 0,
+      "explanation": "A dark or non-functioning signal should be treated as an all-way stop, with normal right-of-way rules applying.",
+      "manualRef": {
+        "sectionSlug": "signs-signals-and-markings"
+      }
+    },
+    {
+      "id": "gen-or-right-of-way-001",
+      "type": "general",
+      "topic": "right-of-way",
+      "prompt": "At a four-way stop where two vehicles arrive at the same time, who goes first?",
+      "choices": [
+        "The driver on the right",
+        "The driver on the left",
+        "The faster vehicle",
+        "The larger vehicle"
+      ],
+      "answerIndex": 0,
+      "explanation": "When two vehicles reach a four-way stop together, the driver on the left yields to the driver on the right.",
+      "manualRef": {
+        "sectionSlug": "right-of-way-and-turning"
+      }
+    },
+    {
+      "id": "gen-or-right-of-way-002",
+      "type": "general",
+      "topic": "right-of-way",
+      "prompt": "When you are turning left at an intersection, you must yield to:",
+      "choices": [
+        "Oncoming traffic and pedestrians in the crosswalk",
+        "Only vehicles behind you",
+        "No one, because you have a green light",
+        "Only large trucks"
+      ],
+      "answerIndex": 0,
+      "explanation": "A left turn requires you to yield to oncoming vehicles and to pedestrians crossing your path.",
+      "manualRef": {
+        "sectionSlug": "right-of-way-and-turning"
+      }
+    },
+    {
+      "id": "gen-or-right-of-way-003",
+      "type": "general",
+      "topic": "right-of-way",
+      "prompt": "In Oregon, when may you turn right on a red light?",
+      "choices": [
+        "After a complete stop and yielding, unless a sign prohibits it",
+        "Never",
+        "Only between dawn and dusk",
+        "Without stopping if no one is around"
+      ],
+      "answerIndex": 0,
+      "explanation": "You may turn right on red after stopping completely and yielding to pedestrians and cross traffic, unless a sign forbids it.",
+      "manualRef": {
+        "sectionSlug": "right-of-way-and-turning"
+      }
+    },
+    {
+      "id": "gen-or-right-of-way-004",
+      "type": "general",
+      "topic": "right-of-way",
+      "prompt": "When an emergency vehicle approaches with lights and siren, you should:",
+      "choices": [
+        "Pull to the right and stop until it passes",
+        "Speed up to get out of the way",
+        "Stop immediately in your lane",
+        "Continue at the same speed"
+      ],
+      "answerIndex": 0,
+      "explanation": "You must yield to emergency vehicles by pulling to the right edge of the road and stopping until they pass.",
+      "manualRef": {
+        "sectionSlug": "right-of-way-and-turning"
+      }
+    },
+    {
+      "id": "gen-or-right-of-way-005",
+      "type": "general",
+      "topic": "right-of-way",
+      "prompt": "Who has the right-of-way at a marked or unmarked crosswalk?",
+      "choices": [
+        "Pedestrians",
+        "Drivers turning right",
+        "The vehicle going straight",
+        "Whoever arrives first"
+      ],
+      "answerIndex": 0,
+      "explanation": "Drivers must yield to pedestrians in both marked and unmarked crosswalks.",
+      "manualRef": {
+        "sectionSlug": "right-of-way-and-turning"
+      }
+    },
+    {
+      "id": "gen-or-right-of-way-006",
+      "type": "general",
+      "topic": "right-of-way",
+      "prompt": "When entering a road from a driveway or parking lot, you must:",
+      "choices": [
+        "Yield to traffic already on the road and to pedestrians on the sidewalk",
+        "Proceed because you have the right-of-way",
+        "Honk and merge",
+        "Stop only if a sign requires it"
+      ],
+      "answerIndex": 0,
+      "explanation": "Traffic on the roadway and pedestrians on the sidewalk have the right-of-way over vehicles entering from a driveway.",
+      "manualRef": {
+        "sectionSlug": "right-of-way-and-turning"
+      }
+    },
+    {
+      "id": "gen-or-right-of-way-007",
+      "type": "general",
+      "topic": "right-of-way",
+      "prompt": "You must stop for a pedestrian who is crossing with a white cane or guide dog because:",
+      "choices": [
+        "They may be blind and always have the right-of-way",
+        "It is only a courtesy",
+        "They are required to wait for you",
+        "Only if they are in a marked crosswalk"
+      ],
+      "answerIndex": 0,
+      "explanation": "A white cane or guide dog signals a blind pedestrian, who always has the right-of-way.",
+      "manualRef": {
+        "sectionSlug": "right-of-way-and-turning"
+      }
+    },
+    {
+      "id": "gen-or-right-of-way-008",
+      "type": "general",
+      "topic": "right-of-way",
+      "prompt": "At an uncontrolled intersection with no signs or signals, you should:",
+      "choices": [
+        "Yield to the vehicle that arrived first or to the one on your right",
+        "Always go first",
+        "Speed through quickly",
+        "Stop and wait for all other traffic"
+      ],
+      "answerIndex": 0,
+      "explanation": "Without signs or signals, yield to whoever arrived first, and to the driver on your right if you arrive together.",
+      "manualRef": {
+        "sectionSlug": "right-of-way-and-turning"
+      }
+    },
+    {
+      "id": "gen-or-right-of-way-009",
+      "type": "general",
+      "topic": "right-of-way",
+      "prompt": "Before making any turn, you should signal:",
+      "choices": [
+        "Well in advance so others know your intention",
+        "Only as you begin the turn",
+        "Only if other cars are nearby",
+        "After you complete the turn"
+      ],
+      "answerIndex": 0,
+      "explanation": "Signaling early gives other drivers and pedestrians time to react to your turn.",
+      "manualRef": {
+        "sectionSlug": "right-of-way-and-turning"
+      }
+    },
+    {
+      "id": "gen-or-right-of-way-010",
+      "type": "general",
+      "topic": "right-of-way",
+      "prompt": "When two vehicles approach a roundabout, you should:",
+      "choices": [
+        "Yield to traffic already in the roundabout",
+        "Enter quickly before the other car",
+        "Stop in the roundabout to let others in",
+        "Always yield to vehicles entering from your right"
+      ],
+      "answerIndex": 0,
+      "explanation": "Traffic already circulating in a roundabout has the right-of-way over vehicles entering.",
+      "manualRef": {
+        "sectionSlug": "right-of-way-and-turning"
+      }
+    },
+    {
+      "id": "gen-or-speed-and-spacing-001",
+      "type": "general",
+      "topic": "speed-and-spacing",
+      "prompt": "Unless otherwise posted, the speed limit in an Oregon residential district is:",
+      "choices": [
+        "25 mph",
+        "20 mph",
+        "35 mph",
+        "45 mph"
+      ],
+      "answerIndex": 0,
+      "explanation": "Oregon's statutory speed limit in residential districts is 25 mph unless a different limit is posted.",
+      "manualRef": {
+        "sectionSlug": "speed-and-space-management"
+      }
+    },
+    {
+      "id": "gen-or-speed-and-spacing-002",
+      "type": "general",
+      "topic": "speed-and-spacing",
+      "prompt": "Unless otherwise posted, the speed limit in an Oregon business district is:",
+      "choices": [
+        "20 mph",
+        "25 mph",
+        "30 mph",
+        "15 mph"
+      ],
+      "answerIndex": 0,
+      "explanation": "The statutory speed in a business district is 20 mph unless otherwise posted.",
+      "manualRef": {
+        "sectionSlug": "speed-and-space-management"
+      }
+    },
+    {
+      "id": "gen-or-speed-and-spacing-003",
+      "type": "general",
+      "topic": "speed-and-spacing",
+      "prompt": "Oregon's Basic Speed Rule requires you to:",
+      "choices": [
+        "Drive at a speed that is reasonable and safe for current conditions",
+        "Always drive exactly the posted speed limit",
+        "Never drive below the posted limit",
+        "Match the speed of surrounding traffic"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Basic Speed Rule means you must adjust your speed for weather, traffic, and road conditions, even below the posted limit.",
+      "manualRef": {
+        "sectionSlug": "speed-and-space-management"
+      }
+    },
+    {
+      "id": "gen-or-speed-and-spacing-004",
+      "type": "general",
+      "topic": "speed-and-spacing",
+      "prompt": "The recommended minimum following distance under good conditions is:",
+      "choices": [
+        "At least three seconds",
+        "One car length",
+        "One second",
+        "Ten feet"
+      ],
+      "answerIndex": 0,
+      "explanation": "The three-second rule gives you enough space and time to react and stop safely in good conditions.",
+      "manualRef": {
+        "sectionSlug": "speed-and-space-management"
+      }
+    },
+    {
+      "id": "gen-or-speed-and-spacing-005",
+      "type": "general",
+      "topic": "speed-and-spacing",
+      "prompt": "In rain, snow, or fog, you should adjust your following distance by:",
+      "choices": [
+        "Increasing it to four seconds or more",
+        "Keeping it the same",
+        "Reducing it to stay close",
+        "Following the car's tail lights closely"
+      ],
+      "answerIndex": 0,
+      "explanation": "Poor conditions lengthen stopping distance, so you need more space ahead, four seconds or more.",
+      "manualRef": {
+        "sectionSlug": "speed-and-space-management"
+      }
+    },
+    {
+      "id": "gen-or-speed-and-spacing-006",
+      "type": "general",
+      "topic": "speed-and-spacing",
+      "prompt": "As your speed increases, your braking distance:",
+      "choices": [
+        "Increases much faster than your speed",
+        "Stays the same",
+        "Decreases",
+        "Increases by exactly the same amount as speed"
+      ],
+      "answerIndex": 0,
+      "explanation": "Braking distance grows rapidly with speed, so a small speed increase greatly lengthens the distance needed to stop.",
+      "manualRef": {
+        "sectionSlug": "speed-and-space-management"
+      }
+    },
+    {
+      "id": "gen-or-speed-and-spacing-007",
+      "type": "general",
+      "topic": "speed-and-spacing",
+      "prompt": "The statutory speed limit in most Oregon school zones when children are present is:",
+      "choices": [
+        "20 mph",
+        "25 mph",
+        "30 mph",
+        "15 mph"
+      ],
+      "answerIndex": 0,
+      "explanation": "School zones generally have a 20 mph limit to protect children near schools.",
+      "manualRef": {
+        "sectionSlug": "speed-and-space-management"
+      }
+    },
+    {
+      "id": "gen-or-speed-and-spacing-008",
+      "type": "general",
+      "topic": "speed-and-spacing",
+      "prompt": "When another driver is tailgating you, the safest response is to:",
+      "choices": [
+        "Increase your following distance from the vehicle ahead",
+        "Brake suddenly to warn them",
+        "Speed up to match them",
+        "Move into their blind spot"
+      ],
+      "answerIndex": 0,
+      "explanation": "Leaving more room ahead gives you a cushion to brake gently so the tailgater has time to react.",
+      "manualRef": {
+        "sectionSlug": "speed-and-space-management"
+      }
+    },
+    {
+      "id": "gen-or-speed-and-spacing-009",
+      "type": "general",
+      "topic": "speed-and-spacing",
+      "prompt": "Your total stopping distance is made up of:",
+      "choices": [
+        "Perception and reaction distance plus braking distance",
+        "Only braking distance",
+        "Only reaction time",
+        "The length of the vehicle plus braking distance"
+      ],
+      "answerIndex": 0,
+      "explanation": "Stopping distance includes the distance traveled while you perceive and react, plus the distance to brake to a stop.",
+      "manualRef": {
+        "sectionSlug": "speed-and-space-management"
+      }
+    },
+    {
+      "id": "gen-or-speed-and-spacing-010",
+      "type": "general",
+      "topic": "speed-and-spacing",
+      "prompt": "Driving much slower than surrounding traffic can be dangerous because it:",
+      "choices": [
+        "Forces others to brake and pass, increasing crash risk",
+        "Always saves fuel safely",
+        "Is never a violation",
+        "Improves overall traffic flow"
+      ],
+      "answerIndex": 0,
+      "explanation": "Driving too slowly disrupts traffic flow and causes others to make risky passing maneuvers.",
+      "manualRef": {
+        "sectionSlug": "speed-and-space-management"
+      }
+    },
+    {
+      "id": "gen-or-passing-and-lane-use-001",
+      "type": "general",
+      "topic": "passing-and-lane-use",
+      "prompt": "You should generally pass other vehicles on the:",
+      "choices": [
+        "Left",
+        "Right",
+        "Shoulder",
+        "Either side equally"
+      ],
+      "answerIndex": 0,
+      "explanation": "Passing is normally done on the left, with passing on the right allowed only in specific situations.",
+      "manualRef": {
+        "sectionSlug": "passing-and-lane-use"
+      }
+    },
+    {
+      "id": "gen-or-passing-and-lane-use-002",
+      "type": "general",
+      "topic": "passing-and-lane-use",
+      "prompt": "It is illegal to pass another vehicle when:",
+      "choices": [
+        "Approaching a hill or curve where you cannot see far enough ahead",
+        "The road is straight and clear",
+        "A broken yellow line is on your side",
+        "Traffic ahead is moving slowly"
+      ],
+      "answerIndex": 0,
+      "explanation": "You may not pass when your view is blocked by a hill or curve, because oncoming traffic could appear suddenly.",
+      "manualRef": {
+        "sectionSlug": "passing-and-lane-use"
+      }
+    },
+    {
+      "id": "gen-or-passing-and-lane-use-003",
+      "type": "general",
+      "topic": "passing-and-lane-use",
+      "prompt": "On a multilane highway, slower traffic should:",
+      "choices": [
+        "Keep to the right",
+        "Stay in the left lane",
+        "Drive in the center lane only",
+        "Change lanes frequently"
+      ],
+      "answerIndex": 0,
+      "explanation": "Slower drivers keep right so faster traffic can pass safely on the left.",
+      "manualRef": {
+        "sectionSlug": "passing-and-lane-use"
+      }
+    },
+    {
+      "id": "gen-or-passing-and-lane-use-004",
+      "type": "general",
+      "topic": "passing-and-lane-use",
+      "prompt": "Before changing lanes you should:",
+      "choices": [
+        "Signal, check mirrors, and look over your shoulder for blind spots",
+        "Only check your rearview mirror",
+        "Honk and move over",
+        "Rely on your side mirror alone"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mirrors do not show everything, so a shoulder check clears the blind spot before you change lanes.",
+      "manualRef": {
+        "sectionSlug": "passing-and-lane-use"
+      }
+    },
+    {
+      "id": "gen-or-passing-and-lane-use-005",
+      "type": "general",
+      "topic": "passing-and-lane-use",
+      "prompt": "After you pass a vehicle, you should return to your lane when:",
+      "choices": [
+        "You can see the passed vehicle in your rearview mirror",
+        "Immediately after pulling alongside it",
+        "The vehicle behind flashes its lights",
+        "You reach the next intersection"
+      ],
+      "answerIndex": 0,
+      "explanation": "Seeing the passed vehicle in your mirror means you have enough room to return safely without cutting it off.",
+      "manualRef": {
+        "sectionSlug": "passing-and-lane-use"
+      }
+    },
+    {
+      "id": "gen-or-passing-and-lane-use-006",
+      "type": "general",
+      "topic": "passing-and-lane-use",
+      "prompt": "When another vehicle is passing you, you should:",
+      "choices": [
+        "Maintain your speed or slow slightly to let it pass",
+        "Speed up to prevent the pass",
+        "Move toward the centerline",
+        "Brake hard"
+      ],
+      "answerIndex": 0,
+      "explanation": "Speeding up while being passed is dangerous; hold or reduce your speed so the pass can be completed safely.",
+      "manualRef": {
+        "sectionSlug": "passing-and-lane-use"
+      }
+    },
+    {
+      "id": "gen-or-passing-and-lane-use-007",
+      "type": "general",
+      "topic": "passing-and-lane-use",
+      "prompt": "You may not pass within how far of a railroad crossing or intersection?",
+      "choices": [
+        "You may not pass at intersections or railroad crossings",
+        "Within 10 feet only",
+        "Passing is always allowed there",
+        "Only at night"
+      ],
+      "answerIndex": 0,
+      "explanation": "Passing is prohibited at intersections and railroad crossings because of the high risk of conflict.",
+      "manualRef": {
+        "sectionSlug": "passing-and-lane-use"
+      }
+    },
+    {
+      "id": "gen-or-passing-and-lane-use-008",
+      "type": "general",
+      "topic": "passing-and-lane-use",
+      "prompt": "A single broken white line between lanes means:",
+      "choices": [
+        "You may change lanes when it is safe",
+        "Lane changes are prohibited",
+        "Traffic flows in opposite directions",
+        "The lane is closed"
+      ],
+      "answerIndex": 0,
+      "explanation": "A broken white line separates same-direction lanes and may be crossed when safe to change lanes.",
+      "manualRef": {
+        "sectionSlug": "passing-and-lane-use"
+      }
+    },
+    {
+      "id": "gen-or-passing-and-lane-use-009",
+      "type": "general",
+      "topic": "passing-and-lane-use",
+      "prompt": "When choosing a lane on a road with a center left-turn lane, you should use that lane only to:",
+      "choices": [
+        "Prepare for or make a left turn",
+        "Pass slower traffic",
+        "Drive straight through",
+        "Park temporarily"
+      ],
+      "answerIndex": 0,
+      "explanation": "A center two-way left-turn lane is for turning left only, not for through travel or passing.",
+      "manualRef": {
+        "sectionSlug": "passing-and-lane-use"
+      }
+    },
+    {
+      "id": "gen-or-passing-and-lane-use-010",
+      "type": "general",
+      "topic": "passing-and-lane-use",
+      "prompt": "Weaving in and out of traffic to gain a few car lengths is unsafe because it:",
+      "choices": [
+        "Increases your blind-spot exposure and crash risk",
+        "Always saves significant time",
+        "Is encouraged in heavy traffic",
+        "Improves traffic flow for everyone"
+      ],
+      "answerIndex": 0,
+      "explanation": "Frequent lane changes raise the chance of a collision while saving very little time.",
+      "manualRef": {
+        "sectionSlug": "passing-and-lane-use"
+      }
+    },
+    {
+      "id": "gen-or-sharing-the-road-001",
+      "type": "general",
+      "topic": "sharing-the-road",
+      "prompt": "Under Oregon's Move Over law, when you approach a stopped vehicle with flashing lights you must:",
+      "choices": [
+        "Change lanes away from it, or slow to at least 5 mph below the posted speed",
+        "Maintain your speed",
+        "Stop in your lane",
+        "Speed up to pass quickly"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Move Over law requires moving over a lane or, if you cannot, slowing at least 5 mph below the posted limit.",
+      "manualRef": {
+        "sectionSlug": "sharing-the-road"
+      }
+    },
+    {
+      "id": "gen-or-sharing-the-road-002",
+      "type": "general",
+      "topic": "sharing-the-road",
+      "prompt": "When you must stop for a school bus with flashing red lights and an extended stop arm:",
+      "choices": [
+        "Stop until the lights stop flashing and the arm folds back",
+        "Pass slowly on the left",
+        "Honk and continue",
+        "Stop only if children are visible"
+      ],
+      "answerIndex": 0,
+      "explanation": "You must remain stopped for a school bus with flashing red lights until it is safe to proceed and the arm retracts.",
+      "manualRef": {
+        "sectionSlug": "sharing-the-road"
+      }
+    },
+    {
+      "id": "gen-or-sharing-the-road-003",
+      "type": "general",
+      "topic": "sharing-the-road",
+      "prompt": "When sharing the road with a bicyclist, you should:",
+      "choices": [
+        "Give them room and treat them as a legal road user",
+        "Force them onto the shoulder",
+        "Pass closely to save space",
+        "Honk to make them move"
+      ],
+      "answerIndex": 0,
+      "explanation": "Bicyclists have the same rights and duties as drivers and need room to ride safely.",
+      "manualRef": {
+        "sectionSlug": "sharing-the-road"
+      }
+    },
+    {
+      "id": "gen-or-sharing-the-road-004",
+      "type": "general",
+      "topic": "sharing-the-road",
+      "prompt": "Large trucks have big blind spots, so you should avoid:",
+      "choices": [
+        "Lingering alongside them where the driver cannot see you",
+        "Passing them at all",
+        "Driving in front of them ever",
+        "Using your signals near them"
+      ],
+      "answerIndex": 0,
+      "explanation": "If you cannot see the truck driver's mirrors, the driver cannot see you, so do not linger in those blind spots.",
+      "manualRef": {
+        "sectionSlug": "sharing-the-road"
+      }
+    },
+    {
+      "id": "gen-or-sharing-the-road-005",
+      "type": "general",
+      "topic": "sharing-the-road",
+      "prompt": "Why are motorcycles easy to miss in traffic?",
+      "choices": [
+        "They are small and can be hidden in blind spots",
+        "They are always speeding",
+        "They have no lights",
+        "They never use the full lane"
+      ],
+      "answerIndex": 0,
+      "explanation": "Motorcycles' small size makes them easy to overlook, so look twice before turning or changing lanes.",
+      "manualRef": {
+        "sectionSlug": "sharing-the-road"
+      }
+    },
+    {
+      "id": "gen-or-sharing-the-road-006",
+      "type": "general",
+      "topic": "sharing-the-road",
+      "prompt": "Large trucks making a right turn may:",
+      "choices": [
+        "Swing wide and need extra room, so do not squeeze beside them",
+        "Always turn from the far left lane",
+        "Turn faster than cars",
+        "Complete the turn without slowing"
+      ],
+      "answerIndex": 0,
+      "explanation": "Trucks often swing wide to make turns, so never try to pass on the side they are turning toward.",
+      "manualRef": {
+        "sectionSlug": "sharing-the-road"
+      }
+    },
+    {
+      "id": "gen-or-sharing-the-road-007",
+      "type": "general",
+      "topic": "sharing-the-road",
+      "prompt": "When you open your car door after parking on a street, you should:",
+      "choices": [
+        "Check for approaching bicyclists and traffic first",
+        "Open it quickly to save time",
+        "Rely on your mirror only",
+        "Assume the lane is clear"
+      ],
+      "answerIndex": 0,
+      "explanation": "Checking before opening your door prevents 'dooring' a passing cyclist or being hit by traffic.",
+      "manualRef": {
+        "sectionSlug": "sharing-the-road"
+      }
+    },
+    {
+      "id": "gen-or-sharing-the-road-008",
+      "type": "general",
+      "topic": "sharing-the-road",
+      "prompt": "In neighborhoods, near schools, and at bus stops you should:",
+      "choices": [
+        "Slow down and watch for children who may enter the street",
+        "Maintain highway speeds",
+        "Use your horn constantly",
+        "Assume children will stay on the sidewalk"
+      ],
+      "answerIndex": 0,
+      "explanation": "Children can be unpredictable, so reduce speed and stay alert around schools, parks, and bus stops.",
+      "manualRef": {
+        "sectionSlug": "sharing-the-road"
+      }
+    },
+    {
+      "id": "gen-or-sharing-the-road-009",
+      "type": "general",
+      "topic": "sharing-the-road",
+      "prompt": "A bicyclist may legally use a full travel lane when:",
+      "choices": [
+        "The lane is too narrow to share safely",
+        "Never, under any circumstance",
+        "Only on bike paths",
+        "Only at night"
+      ],
+      "answerIndex": 0,
+      "explanation": "Cyclists may take the full lane when it is too narrow to share, and drivers must give them room.",
+      "manualRef": {
+        "sectionSlug": "sharing-the-road"
+      }
+    },
+    {
+      "id": "gen-or-sharing-the-road-010",
+      "type": "general",
+      "topic": "sharing-the-road",
+      "prompt": "On a divided highway, when must you stop for a school bus stopped on the opposite side?",
+      "choices": [
+        "You do not have to stop if a median or barrier divides the road",
+        "Always, in both directions",
+        "Only at night",
+        "Only if students are crossing"
+      ],
+      "answerIndex": 0,
+      "explanation": "On a divided highway, traffic on the other side of a physical barrier is not required to stop for the bus.",
+      "manualRef": {
+        "sectionSlug": "sharing-the-road"
+      }
+    },
+    {
+      "id": "gen-or-alcohol-drugs-and-distraction-001",
+      "type": "general",
+      "topic": "alcohol-drugs-and-distraction",
+      "prompt": "In Oregon, the legal BAC limit for drivers 21 and older is:",
+      "choices": [
+        "0.08 percent",
+        "0.05 percent",
+        "0.10 percent",
+        "0.02 percent"
+      ],
+      "answerIndex": 0,
+      "explanation": "Drivers 21 and older are legally impaired at a blood alcohol concentration of 0.08 percent or higher.",
+      "manualRef": {
+        "sectionSlug": "impaired-and-distracted-driving"
+      }
+    },
+    {
+      "id": "gen-or-alcohol-drugs-and-distraction-002",
+      "type": "general",
+      "topic": "alcohol-drugs-and-distraction",
+      "prompt": "For drivers under 21 in Oregon, the legal blood alcohol limit is:",
+      "choices": [
+        "Any measurable amount is illegal (zero tolerance)",
+        "0.08 percent",
+        "0.05 percent",
+        "0.02 percent"
+      ],
+      "answerIndex": 0,
+      "explanation": "Oregon has a zero-tolerance law, so any amount of alcohol is illegal for drivers under 21.",
+      "manualRef": {
+        "sectionSlug": "impaired-and-distracted-driving"
+      }
+    },
+    {
+      "id": "gen-or-alcohol-drugs-and-distraction-003",
+      "type": "general",
+      "topic": "alcohol-drugs-and-distraction",
+      "prompt": "Oregon drivers age 18 and older may use a mobile phone while driving only:",
+      "choices": [
+        "With a hands-free accessory",
+        "By holding it briefly",
+        "When stopped at a red light",
+        "While texting at low speed"
+      ],
+      "answerIndex": 0,
+      "explanation": "Drivers 18 and older may only use a mobile device with hands-free technology while driving.",
+      "manualRef": {
+        "sectionSlug": "impaired-and-distracted-driving"
+      }
+    },
+    {
+      "id": "gen-or-alcohol-drugs-and-distraction-004",
+      "type": "general",
+      "topic": "alcohol-drugs-and-distraction",
+      "prompt": "Drivers under 18 in Oregon may use a cell phone while driving:",
+      "choices": [
+        "Not at all, even hands-free",
+        "Only with a hands-free device",
+        "While stopped in traffic",
+        "For navigation only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Drivers under 18 are prohibited from using any mobile device while driving, even hands-free.",
+      "manualRef": {
+        "sectionSlug": "impaired-and-distracted-driving"
+      }
+    },
+    {
+      "id": "gen-or-alcohol-drugs-and-distraction-005",
+      "type": "general",
+      "topic": "alcohol-drugs-and-distraction",
+      "prompt": "Under Oregon's Implied Consent law, refusing a breath or blood test after a DUII arrest results in:",
+      "choices": [
+        "An automatic license suspension",
+        "A warning only",
+        "No consequences",
+        "A reduced fine"
+      ],
+      "answerIndex": 0,
+      "explanation": "By driving in Oregon you consent to testing, so refusal leads to an automatic suspension separate from criminal charges.",
+      "manualRef": {
+        "sectionSlug": "impaired-and-distracted-driving"
+      }
+    },
+    {
+      "id": "gen-or-alcohol-drugs-and-distraction-006",
+      "type": "general",
+      "topic": "alcohol-drugs-and-distraction",
+      "prompt": "The best way to avoid driving impaired is to:",
+      "choices": [
+        "Plan a sober ride before you drink",
+        "Drink coffee before driving",
+        "Wait 15 minutes after drinking",
+        "Roll down the windows"
+      ],
+      "answerIndex": 0,
+      "explanation": "Only time removes alcohol from your body, so arrange a sober driver, rideshare, or alternative in advance.",
+      "manualRef": {
+        "sectionSlug": "impaired-and-distracted-driving"
+      }
+    },
+    {
+      "id": "gen-or-alcohol-drugs-and-distraction-007",
+      "type": "general",
+      "topic": "alcohol-drugs-and-distraction",
+      "prompt": "Which of the following can impair your ability to drive?",
+      "choices": [
+        "Alcohol, marijuana, and some prescription or over-the-counter medicines",
+        "Only alcohol",
+        "Only illegal drugs",
+        "Only marijuana"
+      ],
+      "answerIndex": 0,
+      "explanation": "Many substances, including legal medicines, can impair judgment, vision, and reaction time.",
+      "manualRef": {
+        "sectionSlug": "impaired-and-distracted-driving"
+      }
+    },
+    {
+      "id": "gen-or-alcohol-drugs-and-distraction-008",
+      "type": "general",
+      "topic": "alcohol-drugs-and-distraction",
+      "prompt": "Distracted driving includes:",
+      "choices": [
+        "Texting, eating, or anything that takes your attention from driving",
+        "Only using a cell phone",
+        "Only eating",
+        "Only talking to passengers"
+      ],
+      "answerIndex": 0,
+      "explanation": "Any activity that diverts your eyes, hands, or mind from driving is a distraction and increases crash risk.",
+      "manualRef": {
+        "sectionSlug": "impaired-and-distracted-driving"
+      }
+    },
+    {
+      "id": "gen-or-alcohol-drugs-and-distraction-009",
+      "type": "general",
+      "topic": "alcohol-drugs-and-distraction",
+      "prompt": "Alcohol affects your driving by:",
+      "choices": [
+        "Slowing reaction time and impairing judgment",
+        "Improving your focus",
+        "Sharpening your vision",
+        "Having no effect in small amounts"
+      ],
+      "answerIndex": 0,
+      "explanation": "Even small amounts of alcohol slow reaction time and impair the judgment needed to drive safely.",
+      "manualRef": {
+        "sectionSlug": "impaired-and-distracted-driving"
+      }
+    },
+    {
+      "id": "gen-or-alcohol-drugs-and-distraction-010",
+      "type": "general",
+      "topic": "alcohol-drugs-and-distraction",
+      "prompt": "The safest way to handle your phone while driving is to:",
+      "choices": [
+        "Set up navigation before you start and put the phone away",
+        "Hold it low so police cannot see",
+        "Use it only on the highway",
+        "Glance at it at stoplights"
+      ],
+      "answerIndex": 0,
+      "explanation": "Setting everything before you drive and putting the phone away keeps your attention on the road.",
+      "manualRef": {
+        "sectionSlug": "impaired-and-distracted-driving"
+      }
+    },
+    {
+      "id": "gen-or-adverse-conditions-001",
+      "type": "general",
+      "topic": "adverse-conditions",
+      "prompt": "Oregon law requires you to turn on your headlights:",
+      "choices": [
+        "From sunset to sunrise and whenever you cannot see clearly 1,000 feet ahead",
+        "Only on the highway",
+        "Only when it is fully dark",
+        "Only in the city"
+      ],
+      "answerIndex": 0,
+      "explanation": "Headlights are required between sunset and sunrise and any time visibility drops below 1,000 feet.",
+      "manualRef": {
+        "sectionSlug": "adverse-conditions"
+      }
+    },
+    {
+      "id": "gen-or-adverse-conditions-002",
+      "type": "general",
+      "topic": "adverse-conditions",
+      "prompt": "A good rule of thumb in Oregon is to turn on your headlights whenever:",
+      "choices": [
+        "Your windshield wipers are running",
+        "You are on a one-way street",
+        "You are parked",
+        "The radio is on"
+      ],
+      "answerIndex": 0,
+      "explanation": "Turning on headlights with your wipers makes you visible to others in rain, snow, or mist.",
+      "manualRef": {
+        "sectionSlug": "adverse-conditions"
+      }
+    },
+    {
+      "id": "gen-or-adverse-conditions-003",
+      "type": "general",
+      "topic": "adverse-conditions",
+      "prompt": "In dense fog, you should use:",
+      "choices": [
+        "Low-beam headlights",
+        "High-beam headlights",
+        "No headlights",
+        "Hazard lights while driving"
+      ],
+      "answerIndex": 0,
+      "explanation": "High beams reflect off fog and reduce visibility, so low beams are safer in fog.",
+      "manualRef": {
+        "sectionSlug": "adverse-conditions"
+      }
+    },
+    {
+      "id": "gen-or-adverse-conditions-004",
+      "type": "general",
+      "topic": "adverse-conditions",
+      "prompt": "If your vehicle begins to skid, you should:",
+      "choices": [
+        "Ease off the gas and steer in the direction you want to go",
+        "Slam on the brakes",
+        "Steer the opposite way",
+        "Accelerate hard"
+      ],
+      "answerIndex": 0,
+      "explanation": "Easing off the accelerator and steering gently toward your intended path helps regain control.",
+      "manualRef": {
+        "sectionSlug": "adverse-conditions"
+      }
+    },
+    {
+      "id": "gen-or-adverse-conditions-005",
+      "type": "general",
+      "topic": "adverse-conditions",
+      "prompt": "Which part of the road typically freezes first in cold weather?",
+      "choices": [
+        "Bridges and overpasses",
+        "Hills",
+        "Tunnels",
+        "Parking lots"
+      ],
+      "answerIndex": 0,
+      "explanation": "Bridges and overpasses lose heat from both sides and freeze before other road surfaces.",
+      "manualRef": {
+        "sectionSlug": "adverse-conditions"
+      }
+    },
+    {
+      "id": "gen-or-adverse-conditions-006",
+      "type": "general",
+      "topic": "adverse-conditions",
+      "prompt": "If your tires begin to hydroplane on water, you should:",
+      "choices": [
+        "Ease off the accelerator and hold the wheel steady",
+        "Brake hard immediately",
+        "Turn the wheel sharply",
+        "Accelerate to push through the water"
+      ],
+      "answerIndex": 0,
+      "explanation": "Letting off the gas and keeping the wheel straight lets the tires regain contact with the road.",
+      "manualRef": {
+        "sectionSlug": "adverse-conditions"
+      }
+    },
+    {
+      "id": "gen-or-adverse-conditions-007",
+      "type": "general",
+      "topic": "adverse-conditions",
+      "prompt": "When driving in heavy rain, you should:",
+      "choices": [
+        "Slow down and increase your following distance",
+        "Maintain your normal speed",
+        "Use high beams",
+        "Follow other cars closely to see better"
+      ],
+      "answerIndex": 0,
+      "explanation": "Rain reduces traction and visibility, so reduce speed and leave extra space ahead.",
+      "manualRef": {
+        "sectionSlug": "adverse-conditions"
+      }
+    },
+    {
+      "id": "gen-or-adverse-conditions-008",
+      "type": "general",
+      "topic": "adverse-conditions",
+      "prompt": "If conditions become too dangerous to keep driving, you should:",
+      "choices": [
+        "Pull completely off the road and turn on your hazard lights",
+        "Stop in your lane",
+        "Drive faster to get through",
+        "Turn off all your lights"
+      ],
+      "answerIndex": 0,
+      "explanation": "Getting fully off the road with hazards on keeps you out of traffic until conditions improve.",
+      "manualRef": {
+        "sectionSlug": "adverse-conditions"
+      }
+    },
+    {
+      "id": "gen-or-adverse-conditions-009",
+      "type": "general",
+      "topic": "adverse-conditions",
+      "prompt": "At night you should drive at a speed that lets you stop within:",
+      "choices": [
+        "The distance lit by your headlights",
+        "Twice your headlight range",
+        "One block",
+        "The length of the road ahead you assume is clear"
+      ],
+      "answerIndex": 0,
+      "explanation": "Do not overdrive your headlights; you must be able to stop within the distance you can see.",
+      "manualRef": {
+        "sectionSlug": "adverse-conditions"
+      }
+    },
+    {
+      "id": "gen-or-adverse-conditions-010",
+      "type": "general",
+      "topic": "adverse-conditions",
+      "prompt": "Properly inflated tires and good wiper blades are especially important in Oregon because:",
+      "choices": [
+        "The climate is often wet, reducing traction and visibility",
+        "They make the car faster",
+        "They are required only in summer",
+        "They improve fuel economy on dry roads"
+      ],
+      "answerIndex": 0,
+      "explanation": "Oregon's frequent rain makes good tires and wipers essential for traction and clear vision.",
+      "manualRef": {
+        "sectionSlug": "adverse-conditions"
+      }
+    },
+    {
+      "id": "gen-or-parking-and-roadway-001",
+      "type": "general",
+      "topic": "parking-and-roadway",
+      "prompt": "When parking facing downhill, you should turn your front wheels:",
+      "choices": [
+        "Toward the curb",
+        "Away from the curb",
+        "Straight ahead",
+        "Toward the center of the road"
+      ],
+      "answerIndex": 0,
+      "explanation": "Turning the wheels toward the curb when facing downhill stops the car from rolling into traffic if the brakes fail.",
+      "manualRef": {
+        "sectionSlug": "parking-and-rules-of-the-road"
+      }
+    },
+    {
+      "id": "gen-or-parking-and-roadway-002",
+      "type": "general",
+      "topic": "parking-and-roadway",
+      "prompt": "When parking uphill next to a curb, you should turn your front wheels:",
+      "choices": [
+        "Away from the curb so the tire rests against it",
+        "Toward the curb",
+        "Straight ahead",
+        "Either direction"
+      ],
+      "answerIndex": 0,
+      "explanation": "Facing uphill, turning wheels away lets the tire roll back against the curb and stop the vehicle.",
+      "manualRef": {
+        "sectionSlug": "parking-and-rules-of-the-road"
+      }
+    },
+    {
+      "id": "gen-or-parking-and-roadway-003",
+      "type": "general",
+      "topic": "parking-and-roadway",
+      "prompt": "Where is it illegal to park or stop?",
+      "choices": [
+        "In front of a fire hydrant or blocking a crosswalk",
+        "In a marked parking space",
+        "In a driveway you own",
+        "In a metered space"
+      ],
+      "answerIndex": 0,
+      "explanation": "Parking that blocks hydrants, crosswalks, driveways, or ramps is prohibited because it endangers others.",
+      "manualRef": {
+        "sectionSlug": "parking-and-rules-of-the-road"
+      }
+    },
+    {
+      "id": "gen-or-parking-and-roadway-004",
+      "type": "general",
+      "topic": "parking-and-roadway",
+      "prompt": "In Oregon, a child must ride in a child safety seat until they reach:",
+      "choices": [
+        "40 pounds",
+        "20 pounds",
+        "60 pounds",
+        "30 pounds"
+      ],
+      "answerIndex": 0,
+      "explanation": "Children must be in a child safety seat until they weigh 40 pounds or reach the seat's upper weight limit.",
+      "manualRef": {
+        "sectionSlug": "parking-and-rules-of-the-road"
+      }
+    },
+    {
+      "id": "gen-or-parking-and-roadway-005",
+      "type": "general",
+      "topic": "parking-and-roadway",
+      "prompt": "In Oregon, infants must ride in a rear-facing seat until they are at least:",
+      "choices": [
+        "2 years old",
+        "1 year old",
+        "6 months old",
+        "4 years old"
+      ],
+      "answerIndex": 0,
+      "explanation": "Oregon requires infants to ride rear-facing until at least age two for the best crash protection.",
+      "manualRef": {
+        "sectionSlug": "parking-and-rules-of-the-road"
+      }
+    },
+    {
+      "id": "gen-or-parking-and-roadway-006",
+      "type": "general",
+      "topic": "parking-and-roadway",
+      "prompt": "In Oregon, a child must use a booster seat until they are:",
+      "choices": [
+        "4 feet 9 inches tall or age eight and the belt fits correctly",
+        "5 years old",
+        "60 pounds",
+        "10 years old"
+      ],
+      "answerIndex": 0,
+      "explanation": "A booster is required until the child is 4'9\" tall or age eight and the adult belt fits properly.",
+      "manualRef": {
+        "sectionSlug": "parking-and-rules-of-the-road"
+      }
+    },
+    {
+      "id": "gen-or-parking-and-roadway-007",
+      "type": "general",
+      "topic": "parking-and-roadway",
+      "prompt": "Oregon's seat belt law requires safety belts to be worn:",
+      "choices": [
+        "In every available seating position",
+        "Only by the driver",
+        "Only in the front seat",
+        "Only on highways"
+      ],
+      "answerIndex": 0,
+      "explanation": "Oregon requires every driver and passenger to be properly restrained in all seating positions.",
+      "manualRef": {
+        "sectionSlug": "parking-and-rules-of-the-road"
+      }
+    },
+    {
+      "id": "gen-or-parking-and-roadway-008",
+      "type": "general",
+      "topic": "parking-and-roadway",
+      "prompt": "When you park on any hill, you should always:",
+      "choices": [
+        "Set the parking brake and turn your wheels appropriately",
+        "Leave the car in neutral with no brake",
+        "Leave the wheels straight",
+        "Leave the engine running"
+      ],
+      "answerIndex": 0,
+      "explanation": "Setting the parking brake and turning the wheels keeps the vehicle from rolling away on a slope.",
+      "manualRef": {
+        "sectionSlug": "parking-and-rules-of-the-road"
+      }
+    },
+    {
+      "id": "gen-or-parking-and-roadway-009",
+      "type": "general",
+      "topic": "parking-and-roadway",
+      "prompt": "You may park in a space reserved for people with disabilities only if:",
+      "choices": [
+        "You have a valid disabled parking permit or plate",
+        "You will be quick",
+        "No other spaces are open",
+        "You turn on your hazard lights"
+      ],
+      "answerIndex": 0,
+      "explanation": "Accessible spaces are reserved for vehicles displaying a valid disabled permit or plate.",
+      "manualRef": {
+        "sectionSlug": "parking-and-rules-of-the-road"
+      }
+    },
+    {
+      "id": "gen-or-parking-and-roadway-010",
+      "type": "general",
+      "topic": "parking-and-roadway",
+      "prompt": "When parking parallel on a level street with no curb, you should turn your wheels:",
+      "choices": [
+        "Toward the edge of the road",
+        "Toward the center of the road",
+        "Straight ahead",
+        "It does not matter"
+      ],
+      "answerIndex": 0,
+      "explanation": "With no curb, turning the wheels toward the road's edge keeps the car from rolling into traffic.",
+      "manualRef": {
+        "sectionSlug": "parking-and-rules-of-the-road"
+      }
+    },
+    {
+      "id": "gen-or-licensing-and-permits-001",
+      "type": "general",
+      "topic": "licensing-and-permits",
+      "prompt": "What is the minimum age to apply for an Oregon instruction permit?",
+      "choices": [
+        "15 years old",
+        "14 years old",
+        "16 years old",
+        "18 years old"
+      ],
+      "answerIndex": 0,
+      "explanation": "You must be at least 15 to apply for an Oregon instruction permit.",
+      "manualRef": {
+        "sectionSlug": "licensing-and-permits"
+      }
+    },
+    {
+      "id": "gen-or-licensing-and-permits-002",
+      "type": "general",
+      "topic": "licensing-and-permits",
+      "prompt": "The Oregon knowledge test has how many questions?",
+      "choices": [
+        "35",
+        "25",
+        "50",
+        "40"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Oregon Class C knowledge test consists of 35 multiple-choice questions.",
+      "manualRef": {
+        "sectionSlug": "licensing-and-permits"
+      }
+    },
+    {
+      "id": "gen-or-licensing-and-permits-003",
+      "type": "general",
+      "topic": "licensing-and-permits",
+      "prompt": "To pass the Oregon knowledge test, you must answer at least how many questions correctly?",
+      "choices": [
+        "28",
+        "25",
+        "30",
+        "20"
+      ],
+      "answerIndex": 0,
+      "explanation": "You need at least 28 of 35 correct, which is about 80 percent, to pass.",
+      "manualRef": {
+        "sectionSlug": "licensing-and-permits"
+      }
+    },
+    {
+      "id": "gen-or-licensing-and-permits-004",
+      "type": "general",
+      "topic": "licensing-and-permits",
+      "prompt": "While driving on an Oregon instruction permit, you must be accompanied by:",
+      "choices": [
+        "A licensed driver 21 or older seated next to you",
+        "Any passenger over 18",
+        "A licensed driver in the back seat",
+        "No one, if you have passed the test"
+      ],
+      "answerIndex": 0,
+      "explanation": "Permit holders must always have a licensed driver age 21 or older in the front passenger seat.",
+      "manualRef": {
+        "sectionSlug": "licensing-and-permits"
+      }
+    },
+    {
+      "id": "gen-or-licensing-and-permits-005",
+      "type": "general",
+      "topic": "licensing-and-permits",
+      "prompt": "Under 18 applicants in Oregon must complete supervised driving of:",
+      "choices": [
+        "50 hours with an approved driver education course, or 100 hours without",
+        "10 hours",
+        "25 hours regardless of course",
+        "200 hours"
+      ],
+      "answerIndex": 0,
+      "explanation": "Teens need 50 supervised hours plus an approved course, or 100 supervised hours without the course.",
+      "manualRef": {
+        "sectionSlug": "licensing-and-permits"
+      }
+    },
+    {
+      "id": "gen-or-licensing-and-permits-006",
+      "type": "general",
+      "topic": "licensing-and-permits",
+      "prompt": "Before applying for a provisional license, an under-18 driver must hold the permit for at least:",
+      "choices": [
+        "6 months",
+        "3 months",
+        "1 month",
+        "1 year"
+      ],
+      "answerIndex": 0,
+      "explanation": "Oregon requires holding the instruction permit for at least six months before getting a provisional license.",
+      "manualRef": {
+        "sectionSlug": "licensing-and-permits"
+      }
+    },
+    {
+      "id": "gen-or-licensing-and-permits-007",
+      "type": "general",
+      "topic": "licensing-and-permits",
+      "prompt": "During the first six months with an Oregon provisional license, you may not carry:",
+      "choices": [
+        "Passengers under 20 who are not immediate family",
+        "Any passengers at all",
+        "Passengers over 20",
+        "More than five passengers"
+      ],
+      "answerIndex": 0,
+      "explanation": "For the first six months, you may not carry passengers under age 20 unless they are immediate family.",
+      "manualRef": {
+        "sectionSlug": "licensing-and-permits"
+      }
+    },
+    {
+      "id": "gen-or-licensing-and-permits-008",
+      "type": "general",
+      "topic": "licensing-and-permits",
+      "prompt": "Oregon provisional drivers generally may not drive between:",
+      "choices": [
+        "Midnight and 5 a.m.",
+        "10 p.m. and 6 a.m.",
+        "9 p.m. and 4 a.m.",
+        "Midnight and 7 a.m."
+      ],
+      "answerIndex": 0,
+      "explanation": "Provisional drivers are restricted from driving between midnight and 5 a.m., with limited exceptions.",
+      "manualRef": {
+        "sectionSlug": "licensing-and-permits"
+      }
+    },
+    {
+      "id": "gen-or-licensing-and-permits-009",
+      "type": "general",
+      "topic": "licensing-and-permits",
+      "prompt": "Provisional license passenger and night restrictions last for:",
+      "choices": [
+        "One year or until age 18, whichever comes first",
+        "Six months",
+        "Two years",
+        "Until age 21"
+      ],
+      "answerIndex": 0,
+      "explanation": "The restrictions end after one year or when the driver turns 18, whichever comes first.",
+      "manualRef": {
+        "sectionSlug": "licensing-and-permits"
+      }
+    },
+    {
+      "id": "gen-or-licensing-and-permits-010",
+      "type": "general",
+      "topic": "licensing-and-permits",
+      "prompt": "For supervised practice hours to count, the supervising driver must have been licensed for at least:",
+      "choices": [
+        "3 years",
+        "1 year",
+        "5 years",
+        "6 months"
+      ],
+      "answerIndex": 0,
+      "explanation": "The supervising driver must have held a license for at least three years for the practice hours to count.",
+      "manualRef": {
+        "sectionSlug": "licensing-and-permits"
+      }
+    },
+    {
+      "id": "gen-or-penalties-and-enforcement-001",
+      "type": "general",
+      "topic": "penalties-and-enforcement",
+      "prompt": "If you are stopped by police, you should:",
+      "choices": [
+        "Pull over safely to the right, stay in the vehicle, and keep your hands visible",
+        "Get out and approach the officer",
+        "Continue to a well-lit area miles away",
+        "Reach into the glovebox immediately"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pulling over promptly and keeping your hands visible keeps the stop safe for you and the officer.",
+      "manualRef": {
+        "sectionSlug": "penalties-and-enforcement"
+      }
+    },
+    {
+      "id": "gen-or-penalties-and-enforcement-002",
+      "type": "general",
+      "topic": "penalties-and-enforcement",
+      "prompt": "Oregon law requires every driver to carry:",
+      "choices": [
+        "Liability insurance",
+        "Only collision insurance",
+        "No insurance if the car is paid off",
+        "Insurance only for new cars"
+      ],
+      "answerIndex": 0,
+      "explanation": "All Oregon drivers must carry liability insurance, and driving without it can bring fines and suspension.",
+      "manualRef": {
+        "sectionSlug": "penalties-and-enforcement"
+      }
+    },
+    {
+      "id": "gen-or-penalties-and-enforcement-003",
+      "type": "general",
+      "topic": "penalties-and-enforcement",
+      "prompt": "If you are in a crash that causes injury or significant property damage, you must:",
+      "choices": [
+        "Stop, exchange information, render aid, and report as required",
+        "Leave if no police are present",
+        "Drive away if the other driver agrees",
+        "Only stop if your car is damaged"
+      ],
+      "answerIndex": 0,
+      "explanation": "You must stop, share information, help the injured, and report the crash; leaving the scene is a serious crime.",
+      "manualRef": {
+        "sectionSlug": "penalties-and-enforcement"
+      }
+    },
+    {
+      "id": "gen-or-penalties-and-enforcement-004",
+      "type": "general",
+      "topic": "penalties-and-enforcement",
+      "prompt": "When an officer asks, you must be able to show your:",
+      "choices": [
+        "License, registration, and proof of insurance",
+        "License only",
+        "Birth certificate",
+        "Vehicle title"
+      ],
+      "answerIndex": 0,
+      "explanation": "Drivers must carry and present a license, vehicle registration, and proof of insurance on request.",
+      "manualRef": {
+        "sectionSlug": "penalties-and-enforcement"
+      }
+    },
+    {
+      "id": "gen-or-penalties-and-enforcement-005",
+      "type": "general",
+      "topic": "penalties-and-enforcement",
+      "prompt": "Violating provisional license restrictions can result in:",
+      "choices": [
+        "Extending the restriction period and delaying full licensing",
+        "No penalty",
+        "An immediate full license",
+        "A warning only, never a penalty"
+      ],
+      "answerIndex": 0,
+      "explanation": "Breaking provisional restrictions can lengthen the restriction period and delay getting a full license.",
+      "manualRef": {
+        "sectionSlug": "penalties-and-enforcement"
+      }
+    },
+    {
+      "id": "gen-or-penalties-and-enforcement-006",
+      "type": "general",
+      "topic": "penalties-and-enforcement",
+      "prompt": "A DUII conviction in Oregon can result in:",
+      "choices": [
+        "Fines, license suspension, and possible jail",
+        "Only a small fine",
+        "No license impact",
+        "A warning for first offenders"
+      ],
+      "answerIndex": 0,
+      "explanation": "DUII penalties include fines, license suspension, and potential jail, and they are harsher for drivers under 21.",
+      "manualRef": {
+        "sectionSlug": "penalties-and-enforcement"
+      }
+    },
+    {
+      "id": "gen-or-penalties-and-enforcement-007",
+      "type": "general",
+      "topic": "penalties-and-enforcement",
+      "prompt": "Refusing a breath test after a lawful DUII arrest leads to:",
+      "choices": [
+        "An automatic license suspension under the Implied Consent law",
+        "No consequence",
+        "A reduced fine only",
+        "A short driving ban of one day"
+      ],
+      "answerIndex": 0,
+      "explanation": "Implied Consent means refusal results in an automatic suspension, separate from any criminal penalty.",
+      "manualRef": {
+        "sectionSlug": "penalties-and-enforcement"
+      }
+    },
+    {
+      "id": "gen-or-penalties-and-enforcement-008",
+      "type": "general",
+      "topic": "penalties-and-enforcement",
+      "prompt": "Serious or repeated traffic violations in Oregon can lead to:",
+      "choices": [
+        "Suspension of your driving privileges",
+        "Automatic dismissal",
+        "A free defensive driving course only",
+        "No record being kept"
+      ],
+      "answerIndex": 0,
+      "explanation": "Accumulating serious or repeated violations can result in suspension of your license.",
+      "manualRef": {
+        "sectionSlug": "penalties-and-enforcement"
+      }
+    },
+    {
+      "id": "gen-or-penalties-and-enforcement-009",
+      "type": "general",
+      "topic": "penalties-and-enforcement",
+      "prompt": "Driving while your license is suspended in Oregon is:",
+      "choices": [
+        "A serious offense with additional penalties",
+        "Allowed for short trips",
+        "Permitted for work only",
+        "A minor parking violation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Driving on a suspended license is a serious violation that adds further penalties.",
+      "manualRef": {
+        "sectionSlug": "penalties-and-enforcement"
+      }
+    },
+    {
+      "id": "gen-or-penalties-and-enforcement-010",
+      "type": "general",
+      "topic": "penalties-and-enforcement",
+      "prompt": "Leaving the scene of a crash that caused injury is:",
+      "choices": [
+        "A serious crime",
+        "Allowed if you call later",
+        "A minor traffic ticket",
+        "Permitted if the other driver is at fault"
+      ],
+      "answerIndex": 0,
+      "explanation": "Leaving the scene of an injury crash (hit and run) is a serious criminal offense in Oregon.",
+      "manualRef": {
+        "sectionSlug": "penalties-and-enforcement"
+      }
+    }
+  ]
+}
