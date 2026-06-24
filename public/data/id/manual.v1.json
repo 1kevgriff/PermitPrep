@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "source": "Idaho Driver's Handbook (July 2025)",
+  "sections": [
+    {
+      "id": "section-1",
+      "slug": "signs-signals-and-markings",
+      "number": 1,
+      "title": "Signals, Signs & Pavement Markings",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Signals, Signs & Pavement Markings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic signs are grouped by shape and color so you can recognize them quickly. Red and white signs give orders such as STOP and YIELD, yellow signs warn of hazards ahead, orange signs mark work zones, and green signs give directions and distances. An eight-sided red sign always means stop, while a downward-pointing triangle means yield."
+        },
+        {
+          "type": "paragraph",
+          "text": "A steady red light means come to a full stop and remain stopped until the light turns green. In Idaho you may turn right on a steady red light after coming to a complete stop and yielding to pedestrians and cross traffic, unless a sign prohibits it. A steady yellow light warns that the signal is about to turn red, and a flashing red light is treated like a stop sign."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pavement markings reinforce the rules of the road. A solid yellow line on your side means do not pass; a broken yellow line means passing is allowed when it is safe. White lines separate lanes of traffic moving in the same direction, and a solid white line discourages lane changes."
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "slug": "right-of-way-and-turning",
+      "number": 2,
+      "title": "Right-of-Way & Turning",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Right-of-Way & Turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Right-of-way rules tell you who goes first, but the law never actually gives you the right-of-way; it only states who must yield. At an intersection without signs or signals, yield to the vehicle that arrives first, and when two vehicles arrive at the same time, yield to the driver on your right."
+        },
+        {
+          "type": "paragraph",
+          "text": "Always yield to pedestrians in a crosswalk and to vehicles already in an intersection or roundabout. When turning left, yield to oncoming traffic that is close enough to be a hazard. Emergency vehicles using lights or sirens always have the right-of-way, so pull to the right edge of the road and stop until they pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "Signal your intent at least 100 feet before turning, and complete turns from the proper lane: right turns from as close to the right curb as practical, and left turns from the lane nearest the center line. Idaho also allows bicyclists to treat a stop sign as a yield sign, so watch for cyclists slowing rather than fully stopping."
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "slug": "speed-and-space-management",
+      "number": 3,
+      "title": "Speed & Space Management",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Speed & Space Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Idaho's basic speed rule requires you to drive no faster than is reasonable and prudent for current conditions, regardless of the posted limit. Where no special limit is posted, the default limits are 35 mph in residential, business, and urban districts, 65 mph on state highways, and 75 mph on interstate highways (which may be raised to 80 mph on certain stretches)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speed limits are set for ideal conditions. In rain, snow, fog, or heavy traffic you must slow down even if that means driving below the posted limit. Following too closely is a common cause of crashes, so use a following distance of at least three to four seconds and add more time in poor weather or at higher speeds."
+        },
+        {
+          "type": "paragraph",
+          "text": "Manage the space around your vehicle by scanning ahead, keeping a cushion on all sides, and adjusting for stopping distance. Stopping distance grows with speed, so leave extra room when roads are wet, icy, or steep."
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "slug": "passing-and-lane-use",
+      "number": 4,
+      "title": "Passing & Lane Use",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Passing & Lane Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pass only when it is legal and safe. Never pass when a solid yellow line is on your side, when approaching a hill or curve where you cannot see far enough ahead, within 100 feet of an intersection or railroad crossing, or where signs prohibit passing. Complete the pass and return to your lane only when you can see the vehicle you passed in your rearview mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep right except when passing on multilane roads, and use the left lane for passing. Slower traffic should move right to let faster traffic by. Signal every lane change, check your mirrors, and look over your shoulder to clear the blind spot before moving over."
+        },
+        {
+          "type": "paragraph",
+          "text": "When another driver is passing you, maintain your speed or slow slightly to let them complete the maneuver. On two-lane roads, never increase your speed while being passed."
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "slug": "sharing-the-road",
+      "number": 5,
+      "title": "Sharing the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sharing the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roads are shared with motorcycles, bicycles, pedestrians, large trucks, and farm equipment. Give motorcycles a full lane and extra following distance because they can stop quickly and are easy to lose in blind spots. When passing a bicyclist, slow down and leave a safe distance."
+        },
+        {
+          "type": "paragraph",
+          "text": "Large trucks and buses have big blind spots and need much more room to stop and turn. Do not cut in front of a truck after passing, and never linger alongside one. If you cannot see the truck driver's mirrors, the driver cannot see you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Idaho's Move Over law requires you to slow below the posted speed limit and, when possible, move into a lane not next to a stopped emergency vehicle, tow truck, or highway response vehicle that is displaying flashing lights. On rural roads, watch for slow-moving farm vehicles and livestock."
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "slug": "impaired-and-distracted-driving",
+      "number": 6,
+      "title": "Impaired & Distracted Driving",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Impaired & Distracted Driving"
+        },
+        {
+          "type": "paragraph",
+          "text": "It is illegal in Idaho to drive with a blood alcohol concentration (BAC) of 0.08 percent or higher if you are 21 or older. Idaho has a zero-tolerance law for drivers under 21, who can be charged with a BAC of just 0.02 percent. Alcohol and many drugs, including prescription and over-the-counter medicines, slow reaction time and impair judgment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Idaho's hands-free law makes it illegal to hold or manually use a cell phone or other electronic device while driving. You may use voice-activated or single-touch features, but texting, scrolling, and holding a phone are prohibited. Drivers under 18 face additional restrictions on device use."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distraction comes in many forms: eating, adjusting controls, and looking at passengers all take attention off the road. The safest choice is to put the phone away, plan your route before driving, and never drive when impaired or drowsy."
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "slug": "adverse-conditions",
+      "number": 7,
+      "title": "Driving in Adverse Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Driving in Adverse Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Idaho weather can change quickly, bringing rain, snow, ice, and fog. Idaho law requires headlights to be on from sunset to sunrise and any time visibility is less than 500 feet, so turn on your low beams in rain, snow, or fog. Use low beams, not high beams, in fog because high beams reflect back and reduce visibility."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reduce speed and increase following distance on wet or icy roads, where stopping distances can double or more. Bridges and overpasses freeze first, so approach them with caution in cold weather. If you skid, ease off the gas and steer gently in the direction you want the front of the car to go."
+        },
+        {
+          "type": "paragraph",
+          "text": "If your vehicle starts to hydroplane on standing water, do not brake hard; ease off the accelerator and keep the steering wheel steady until the tires regain traction. Carry chains or proper winter tires when traveling Idaho's mountain passes in winter."
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "slug": "parking-and-rules-of-the-road",
+      "number": 8,
+      "title": "Parking & Rules of the Road",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parking & Rules of the Road"
+        },
+        {
+          "type": "paragraph",
+          "text": "Park only where it is legal and safe. Do not park within 15 feet of a fire hydrant, in a crosswalk, on a sidewalk, within an intersection, or in spaces reserved for people with disabilities unless properly permitted. Always set your parking brake and, on a hill, turn your wheels so the vehicle will not roll into traffic."
+        },
+        {
+          "type": "paragraph",
+          "text": "When parking facing downhill, turn your front wheels toward the curb; when facing uphill with a curb, turn the wheels away from the curb so the tires rest against it. Where there is no curb, turn the wheels toward the edge of the road in either direction."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obey lane markings, never drive on the shoulder to pass, and yield to traffic when leaving a parked position. Use your signals when pulling away from the curb and check for approaching traffic and cyclists."
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "slug": "licensing-and-permits",
+      "number": 9,
+      "title": "Licensing & Permits",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Licensing & Permits"
+        },
+        {
+          "type": "paragraph",
+          "text": "Idaho uses a Graduated Driver Licensing (GDL) program for new drivers under 17. A teen who is at least 14 1/2 years old may apply for a supervised instruction permit after passing the vision and written knowledge tests. The written knowledge test has 40 questions, and you must answer at least 34 correctly to pass (85 percent)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Permit holders must complete an approved driver training course and a supervised practice period that includes at least 50 hours of driving, with at least 10 of those hours at night. A licensed driver at least 21 years old must sit beside the permit holder, and the permit must be held for a required period before the skills test."
+        },
+        {
+          "type": "paragraph",
+          "text": "After receiving a license, drivers under 17 face restrictions: for the first six months they may not carry more than one passenger under 17 who is not an immediate family member, and new drivers are limited from late-night driving except for school, work, or with a supervising adult. These restrictions help new drivers build experience safely."
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "slug": "penalties-and-enforcement",
+      "number": 10,
+      "title": "Penalties & Enforcement",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Penalties & Enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Idaho law requires every driver and front-seat passenger to wear a seat belt, and all children six years of age and younger must be properly secured in an appropriate child safety restraint. Seat belts are the single most effective way to prevent injury or death in a crash."
+        },
+        {
+          "type": "paragraph",
+          "text": "Traffic violations add points or convictions to your driving record and can lead to fines, license suspension, and higher insurance costs. A DUI conviction carries license suspension, fines, and possible jail time, and refusing a chemical test brings its own penalties under Idaho's implied consent law."
+        },
+        {
+          "type": "paragraph",
+          "text": "By driving in Idaho you agree to obey traffic laws and submit to testing for alcohol or drugs when lawfully requested. Repeat or serious offenses, including driving without insurance or fleeing an officer, carry escalating penalties."
+        }
+      ]
+    }
+  ]
+}
